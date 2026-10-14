@@ -12,8 +12,7 @@
     "ios": "expo run:ios",
     "web": "expo start --web",
     "typecheck": "tsc --noEmit",
-    "lint": "expo lint",
-    "androidbundle": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/"
+    "lint": "expo lint"
   },
   "dependencies": {
     "@expo-google-fonts/inter": "~0.2.3",
