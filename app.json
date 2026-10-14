@@ -1,0 +1,205 @@
+{
+  "expo": {
+    "name": "LawNeeds",
+    "owner": "lawneeds",
+    "slug": "lawneeds",
+    "version": "2.0.9",
+    "orientation": "portrait",
+    "icon": "./assets/images/appIcon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": ["com.steve.LawNeeds", "com.steve.lawneeds"],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#023226"
+      },
+      "manifest": {
+        "application": {
+          "metaData": [
+            {
+              "android:name": "firebase_crashlytics_collection_enabled",
+              "android:value": "false"
+            }
+          ]
+        }
+      },
+      "package": "com.steve.LawNeeds",
+      "usesCleartextTraffic": true,
+      "edgeToEdgeEnabled": true,
+      "fileProviderPaths": {
+        "external-path": "external_files",
+        "cache-path": "cache",
+        "files-path": "files",
+        "external-cache-path": "external_cache"
+      },
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "com.steve.lawneeds",
+              "host": "oauth2redirect",
+              "pathPrefix": "/google"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ],
+      "versionCode": 100,
+      "config": {
+        "googleMaps": {
+          "apiKey": "REPLACE_WITH_GOOGLE_API_KEY"
+        },
+        "googleMobileAdsAppId": "ca-app-pub-3940256099942544~3347511713"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "com.android.vending.BILLING",
+        "POST_NOTIFICATIONS"
+      ],
+      "googleServicesFile": "./setup/google-services.json"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.steve.LawNeeds",
+      "buildNumber": "155",
+      "usesAppleSignIn": true,
+      "config": {
+        "googleMapsApiKey": "REPLACE_WITH_GOOGLE_API_KEY",
+        "googleMobileAdsAppId": "ca-app-pub-3940256099942544~1458002511"
+      },
+      "infoPlist": {
+        "firebase_performance_collection_enabled": true,
+        "FirebaseAutomaticScreenReportingEnabled": false,
+        "NSDocumentPickerUsageDescription": "Allow access to pick documents",
+        "NSCameraUsageDescription": "LawNeeds uses the camera when you choose to take a photo for your profile, identity verification, or a legal matter attachment. For example, you can photograph a document and attach it to a chat or consultation.",
+        "NSPhotoLibraryUsageDescription": "LawNeeds uses your photo library so you can select images to upload as profile photos, support screenshots, or legal matter attachments. For example, you can choose a photo of a document and send it in a chat.",
+        "NSUserTrackingUsageDescription": "LawNeeds uses tracking permission to measure ad campaign performance and app install attribution. For example, this helps us understand which campaign led to an install.",
+        "GADDelayAppMeasurementInit": true,
+        "CFBundleAllowMixedLocalizations": true,
+        "CFBundleLocalizations": [
+          "en",
+          "bn",
+          "pl",
+          "am",
+          "ar",
+          "de",
+          "es",
+          "fr",
+          "hi",
+          "pa",
+          "ps",
+          "ro",
+          "so",
+          "ur",
+          "ru",
+          "ta",
+          "pt",
+          "tr",
+          "zh",
+          "uk",
+          "gu",
+          "it",
+          "fa",
+          "fa-AF",
+          "ti",
+          "sq",
+          "lt",
+          "bg",
+          "sr",
+          "sw"
+        ],
+        "UIBackgroundModes": ["remote-notification"],
+        "NSSpeechRecognitionUsageDescription": "Allow $(PRODUCT_NAME) to use speech recognition.",
+        "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to use the microphone.",
+        "NSLocalNetworkUsageDescription": "LawNeeds connects to your computer on the local network when you use a development API URL.",
+        "NSLocationWhenInUseUsageDescription": "LawNeeds uses your location when you choose to find nearby legal services or improve address suggestions during signup and profile setup.",
+        "NSAppTransportSecurity": {
+          "NSAllowsLocalNetworking": true,
+          "NSAllowsArbitraryLoads": true
+        }
+      },
+      "appleTeamId": "H6PKZR7C7B",
+      "googleServicesFile": "./setup/GoogleService-Info.plist"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-speech-recognition",
+      "expo-apple-authentication",
+      "expo-notifications",
+      "expo-localization",
+      "./plugins/fileProviderPlugin",
+      "./plugins/crashlyticsMeta",
+      "./plugins/withNdkAbiFilters",
+      "expo-font",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "iosAppId": "ca-app-pub-3940256099942544~1458002511",
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713"
+        }
+      ],
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": "",
+          "enableGooglePay": true
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash.png",
+          "imageWidth": 128,
+          "resizeMode": "contain",
+          "backgroundColor": "#FFF7ED",
+          "android": {
+            "image": "./assets/images/splash-android-icon.png",
+            "imageWidth": 128,
+            "resizeMode": "contain",
+            "backgroundColor": "#FFF7ED"
+          }
+        }
+      ],
+      "./plugins/withFirebaseMessaging",
+      "./plugins/withMlkitManifestFix",
+      "./plugins/withPersonaMavenRepo",
+      "./plugins/withExcludeAtlassianCommonmark",
+      "expo-web-browser",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "useLegacyPackaging": true,
+            "packagingOptions": {
+              "pickFirst": ["org/commonmark/internal/util/entities.properties"]
+            }
+          }
+        }
+      ],
+      "@react-native-firebase/app",
+      "@react-native-firebase/messaging",
+      "@react-native-firebase/crashlytics",
+      "@react-native-firebase/perf",
+      "react-native-appsflyer",
+      "expo-tracking-transparency",
+      "@stripe/stripe-react-native"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "eb0e5a58-74cb-4c23-af57-173db204515d"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "iosAppId": "ca-app-pub-3940256099942544~1458002511",
+    "androidAppId": "ca-app-pub-3940256099942544~3347511713"
+  }
+}

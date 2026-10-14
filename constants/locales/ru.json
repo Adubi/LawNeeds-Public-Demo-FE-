@@ -1,0 +1,1456 @@
+{
+  "submit": "Отправить",
+  "cancel": "Отмена",
+  "done": "Готово",
+  "ok": "Ок",
+  "next": "Далее",
+  "save": "Сохранить",
+  "privacy_policy": "Политика конфиденциальности",
+  "terms_n_conditions": "Условия и положения",
+  "per": {
+    "camera_roll": "Требуется разрешение на доступ к галерее! Пожалуйста, включите его в настройках устройства.",
+    "microphone_access": "Требуется доступ к микрофону.",
+    "permission_denied": "Доступ запрещен",
+    "notification_permission_not_granted": "Разрешение на уведомления не предоставлено"
+  },
+  "policy_text": {
+    "i_agree": "Я согласен",
+    "i_dont_agree": "Я не согласен",
+    "label_1": "1. Информация, которую мы собираем: мы можем собирать личные данные (имя, email, телефон, адрес), технические данные (IP, тип браузера, ОС), данные использования и маркетинговые предпочтения.",
+    "label_2": "2. Как мы собираем вашу информацию: через прямое взаимодействие, автоматические технологии и третьих лиц.",
+    "label_3": "3. Использование информации: для предоставления и поддержки сервиса, управления вашей учетной записью, соблюдения юридических обязательств и улучшения нашего сервиса.",
+    "label_4": "4. Разглашение информации: поставщикам услуг, юридическим и государственным органам, а также в случае передачи бизнеса.",
+    "label_5": "5. Безопасность и хранение данных: мы внедряем меры безопасности и храним ваши данные только столько, сколько необходимо.",
+    "label_6": "6. Ваши юридические права: у вас есть права на доступ, исправление, удаление, ограничение, передачу и отзыв согласия на использование данных.",
+    "label_7": "7. Особая категория: я прямо соглашаюсь на обработку любых данных особой категории, которые я предоставляю, включая информацию о моей этнической принадлежности и другие чувствительные персональные данные, с целью ответа на мой запрос. Я могу отозвать свое согласие в любое время, отправив письмо на info@lawneeds.co.uk.",
+    "policy_details": "Эта политика конфиденциальности объясняет, как мы собираем, используем, раскрываем и защищаем вашу информацию при использовании нашего мобильного приложения. Используя наш сервис, вы соглашаетесь с условиями этой политики конфиденциальности.",
+    "review_message": "Пожалуйста, ознакомьтесь с нашей",
+    "privacy_policy": "Политикой конфиденциальности"
+  },
+  "tab": {
+    "account": "Аккаунт",
+    "chat": "Чат",
+    "home": "Главная",
+    "settings": "Опции",
+    "inbox": "Входящие",
+    "search": "Поиск"
+  },
+  "profile": {
+    "firm_name": "Название фирмы",
+    "practice_areas_label": "Области практики",
+    "services": "Услуги",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "about": "О себе",
+    "skills": "Навыки",
+    "organisation_name": "Название организации",
+    "areas_of_legal_focus": "Правовые специализации",
+    "professional_employer": "Работодатель",
+    "area_of_legal_expertise": "Область юридической экспертизы",
+    "max_of_four": "Максимум четыре",
+    "max_of_two": "Максимум два",
+    "characters": "символов",
+    "please_select": "Пожалуйста, выберите",
+    "account_security": "Безопасность аккаунта",
+    "details": "Подробности",
+    "edit_details": "Редактировать данные",
+    "no_name": "Без имени",
+    "profile_updated_success": "Профиль успешно обновлен",
+    "company_name": "Название компании",
+    "enter_your_company_name": "Введите название вашей компании",
+    "achievements": "Достижения",
+    "enter_your_achievements": "Введите ваши достижения",
+    "timeline": "Хронология",
+    "start_date": "Дата начала",
+    "end_date": "Дата окончания",
+    "add_another_section": "Добавить еще один раздел",
+    "add_section": "Добавить раздел"
+  },
+  "success": {
+    "success": "Успех",
+    "success_sent_code": "Код подтверждения успешно отправлен."
+  },
+  "error": {
+    "title": "Ошибка",
+    "error_msg": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
+    "session_expired": "Сессия истекла",
+    "login_again": "Пожалуйста, войдите снова, чтобы продолжить.",
+    "token_missing": "Отсутствует токен аутентификации.",
+    "error_process_audio": "Произошла ошибка при обработке аудио.",
+    "error_process_file": "Произошла ошибка при загрузке файла.",
+    "try_again": "Извините, произошла ошибка. Пожалуйста, попробуйте еще раз.",
+    "no_use_session": "Сессия пользователя не найдена. Пожалуйста, войдите снова.",
+    "invalid_response_token_not_found": "Неверный ответ: токен не найден",
+    "fill_all_fields": "Пожалуйста, заполните все поля",
+    "network_error": "Сетевая ошибка. Проверьте подключение к интернету.",
+    "session_expired_login": "Ваша сессия истекла. Пожалуйста, войдите снова.",
+    "no_permission": "У вас нет разрешения на выполнение этого действия.",
+    "resource_not_found": "Запрошенный ресурс не найден.",
+    "invalid_data": "Переданы недопустимые данные. Проверьте и попробуйте снова.",
+    "server_error": "Ошибка сервера. Попробуйте позже.",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте снова.",
+    "case_not_found": "Дело не найдено",
+    "failed_to_process_request": "Не удалось обработать запрос на услугу"
+  },
+  "change_email": {
+    "send_instruction": "Отправить инструкцию",
+    "go_back": "Назад",
+    "create_new_pass": "Создать новый пароль",
+    "current_email": "Текущий адрес электронной почты",
+    "enter_current_email": "Введите текущий адрес электронной почты и новый, на который вы хотите его изменить.",
+    "new_email": "Новый адрес электронной почты",
+    "check_your_mail": "Проверьте свою почту",
+    "check_mail_for_verify_account": "Мы отправили код подтверждения на вашу почту. Введите его ниже, чтобы подтвердить учетную запись.",
+    "check_mail_for_reset_pass": "Мы отправили код подтверждения на вашу почту. Введите его ниже, чтобы сбросить пароль.",
+    "enter_verification_code": "Введите код подтверждения",
+    "go_back_login": "Вернуться ко входу",
+    "not_recd_mail": "Не получили письмо? Проверьте спам или",
+    "try_other_email": "Попробуйте другой адрес",
+    "resend_code": "Отправить код повторно",
+    "verify_mail": "Подтвердите вашу почту",
+    "click_link_to_verify_mail": "Нажмите на ссылку, чтобы подтвердить новый адрес",
+    "skip_confirm_later": "Пропустить, подтвержу позже",
+    "email_updated": "Адрес электронной почты обновлен"
+  },
+  "landing": {
+    "welcome_to": "Добро пожаловать в",
+    "immigration": "Поддержка по иммиграции стала проще",
+    "create_account": "Создать учетную запись",
+    "log_in": "Войти",
+    "or": "или",
+    "create_pro": "Создать профессиональную учетную запись",
+    "select_pro": "Выбрать профессиональную учетную запись",
+    "lawyer": "Адвокат",
+    "law_firm": "Юридическая фирма",
+    "hr_legal": "Кадры/Юриспруденция (МСП)",
+    "a2j_partners": "Партнеры A2J",
+    "screen_not_exist": "Такой экран не существует.",
+    "go_to_home_screen": "Перейти на главный экран!"
+  },
+  "login": {
+    "password": "Пароль",
+    "login": "Войти",
+    "remember_me": "Запомнить меня",
+    "forgot_password": "Забыли пароль?",
+    "need_account": "Нужна учетная запись?",
+    "signup": "Зарегистрироваться"
+  },
+  "reset_password": "Сбросить пароль",
+  "create_new_password": "Создать новый пароль",
+  "create_account": {
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "date_of_birth": "Дата рождения",
+    "country": "Страна",
+    "select_country": "Выберите страну",
+    "next": "Далее",
+    "create_account": "Создать учетную запись",
+    "date_of_incorporate": "Дата регистрации",
+    "create_pro_account": "Создать профессиональную учетную запись",
+    "hr_legal_account": "Счет для МСП",
+    "lawyer_account": "Учетная запись адвоката",
+    "law_firm_account": "Учетная запись юридической фирмы",
+    "a2j_partners_account": "Учетная запись партнера A2J",
+    "firm_name": "Название фирмы",
+    "organisation_name": "Название организации",
+    "date_of_establishment": "Дата основания",
+    "areasOfLegalFocus": "Области юридической специализации",
+    "selectAreasOfLegalFocus": "Выберите области юридической специализации",
+    "contactPerson": "Контактное лицо",
+    "registrationCharityNumber": "Регистрационный/благотворительный номер",
+    "searchAddress": "Поиск адреса",
+    "town": "Город",
+    "postcode": "Почтовый индекс",
+    "address": "Адрес",
+    "please_select": "Пожалуйста, выберите:",
+    "legalAidOrganisation": "Организация юридической помощи",
+    "lawCentre": "Юридический центр",
+    "proBonoClinic": "Pro-Bono клиника",
+    "profile_photo": "Фотография профиля",
+    "profile_photo_required": "Фотография профиля требуется для профессиональной учетной записи",
+    "upload": "Загрузить",
+    "please_agree_text": "Пожалуйста, согласитесь с нашими условиями",
+    "signup_agreement_text": "Регистрируясь, вы соглашаетесь с нашими",
+    "terms_of_service": "Условиями использования",
+    "and_text": "и",
+    "agree_proceed_button": "Согласен и продолжить",
+    "select_practice_area": "Выберите область практики",
+    "already_have_account": "Уже есть учетная запись?",
+    "account_creat_success": "Учетная запись успешно создана!",
+    "access_detail_msg_legal_assistance": "Теперь вы можете получить персонализированную юридическую помощь и управлять своими потребностями без труда.",
+    "select_practice_areas": "Выберите области практики",
+    "contact_person_partner": "Контактное лицо/Управляющий партнер",
+    "company_regi_number": "Регистрационный номер компании",
+    "enter_sra_number": "Введите номер SRA",
+    "enter_bar_number": "Введите номер BAR",
+    "enter_iaa_number": "Введите номер IAA",
+    "verify_document": "Проверьте документ, удостоверяющий личность",
+    "reverify_document": "Повторно проверьте документ"
+  },
+  "validation": {
+    "missing_info": "Отсутствует информация",
+    "enter_your_name": "Пожалуйста, введите ваше имя",
+    "enter_your_email": "Пожалуйста, введите ваш email",
+    "enter_your_phone": "Пожалуйста, введите ваш номер телефона",
+    "enter_feedback": "Пожалуйста, оставьте комментарий",
+    "valid_first_name": "Имя должно содержать минимум 2 символа.",
+    "valid_last_name": "Фамилия должна содержать минимум 2 символа.",
+    "select_dob": "Пожалуйста, выберите дату рождения.",
+    "select_country": "Пожалуйста, выберите страну.",
+    "enter_city": "Поле города не может быть пустым.",
+    "enter_postcode": "Поле почтового индекса не может быть пустым.",
+    "enter_address": "Поле адреса не может быть пустым.",
+    "valid_user_name": "Имя пользователя должно содержать минимум 3 символа.",
+    "valid_email": "Пожалуйста, введите корректный email адрес.",
+    "valid_password": "Пароль должен содержать минимум 8 символов и хотя бы одну цифру.",
+    "valid_organisation": "Название организации должно содержать не менее 2 символов.",
+    "valid_town": "Поле «Город» не может быть пустым.",
+    "enter_date_of_incorporate": "Пожалуйста, выберите дату регистрации.",
+    "enter_confirm_password": "Пожалуйста, введите пароль подтверждения",
+    "valid_confirm_password": "Пароль подтверждения должен содержать не менее 8 символов и хотя бы одну цифру.",
+    "password_not_match": "Пароли не совпадают.",
+    "enter_first_name": "Пожалуйста, введите имя",
+    "enter_last_name": "Пожалуйста, введите фамилию",
+    "document_expired": "Срок действия вашего документа истек. Пожалуйста, загрузите действительный документ.",
+    "document_invalid": "Проверка документа не удалась. Пожалуйста, попробуйте еще раз."
+  },
+  "account": {
+    "practice_areas": "Области практики",
+    "services": "Услуги",
+    "details": "Детали",
+    "licence": "Лицензия",
+    "org_type": "Тип организации",
+    "go_back_home": "Вернуться на главную"
+  },
+  "chat": {
+    "get_started": "Начать",
+    "new_chat": "Новый чат",
+    "previous_chat": "Предыдущий чат",
+    "title": "Чат",
+    "waiting": "Ожидание...",
+    "help": "Помощь",
+    "end_chat": "Завершить чат",
+    "chat_place_holder": "Написать в LawNeeds",
+    "uploading_file": "{{count}} вложения загружаются: {{names}}",
+    "files_uploaded_success": "{{count}} вложения успешно загружены.",
+    "uploading_voice_note": "Голосовая заметка загружается...",
+    "voice_note_uploaded_success": "Голосовая заметка успешно загружена",
+    "open_pdf": "Открыть PDF",
+    "sample_questions_title": "Примерные вопросы",
+    "you_selected": "Вы выбрали: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Здравствуйте "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "я "
+      },
+      {
+        "type": "token",
+        "content": "ассистент "
+      },
+      {
+        "type": "token",
+        "content": "поддержки "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Я "
+      },
+      {
+        "type": "token",
+        "content": "предоставляю "
+      },
+      {
+        "type": "token",
+        "content": "только "
+      },
+      {
+        "type": "token",
+        "content": "информацию"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "а "
+      },
+      {
+        "type": "token",
+        "content": "не "
+      },
+      {
+        "type": "token",
+        "content": "профессиональную "
+      },
+      {
+        "type": "token",
+        "content": "консультацию"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Как "
+      },
+      {
+        "type": "token",
+        "content": "я "
+      },
+      {
+        "type": "token",
+        "content": "могу "
+      },
+      {
+        "type": "token",
+        "content": "вам "
+      },
+      {
+        "type": "token",
+        "content": "помочь "
+      },
+      {
+        "type": "token",
+        "content": "сегодня"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Не удалось загрузить беседу. Пожалуйста, попробуйте снова.",
+    "voice_note_ready": "Голосовая заметка готова",
+    "tap_to_record": "Нажмите 🔴, чтобы начать запись",
+    "preview_files": "Просмотр файлов",
+    "file_selected": "Файл выбран",
+    "files_selected": "Файлы выбраны",
+    "upload_files": "Загрузить",
+    "tap_to_preview": "Нажмите, чтобы просмотреть",
+    "add": "Добавить",
+    "today": "Сегодня",
+    "last_week": "На прошлой неделе",
+    "last_month": "В прошлом месяце"
+  },
+  "setting": {
+    "select_language": "Выбрать язык",
+    "settings": "Настройки",
+    "app_language": "Язык приложения",
+    "choose_language": "Выбрать язык",
+    "notifications": "Уведомления",
+    "submit_feedback": "Помощь",
+    "about": "О нас",
+    "our_philosophy": "Наша философия",
+    "account_management": "Управление аккаунтом",
+    "logout": "Выйти"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Наше видение",
+    "our_vision_desc": "В LawNeeds мы считаем, что надежная юридическая помощь, особенно в вопросах иммиграции, должна быть доступна каждому в любое время и в любом месте. Со смартфонами в центре повседневной жизни мы помогаем людям ориентироваться в жизни в Великобритании с помощью простой и надежной юридической помощи.",
+    "our_services_header": "Наши услуги",
+    "our_services_desc": "Наше мобильное приложение, предлагающее исключительно регулируемые юридические фирмы, лицензированных адвокатов и иммиграционных консультантов, предоставляет специализированные юридические услуги с особым акцентом на иммиграционное право. Мы поддерживаем частных лиц, семьи, студентов и профессионалов в их жизни в Великобритании. По мере нашего роста пользователи также получат доступ к экспертизе в области трудового права, семейного права и дорожных правонарушений - все это с таким же простым и удобным опытом в несколько нажатий.",
+    "innovation_header": "Инновации на высшем уровне",
+    "innovation_desc": "В LawNeeds инновации лежат в основе всего, что мы делаем. Мы используем возможности искусственного интеллекта, чтобы предоставлять мгновенные, круглосуточные юридические консультации, созданные ИИ, а также персонализированные иммиграционные рекомендации на основе местоположения и ситуации каждого пользователя.",
+    "community_header": "Сообщество и рост",
+    "community_desc": "LawNeeds - это больше чем приложение - это сообщество. Мы даем возможность мигрантам и оснащаем юридических профессионалов инструментами для роста их практики через нашу инновационную платформу и функции.",
+    "commitment_header": "Приверженность совершенству",
+    "commitment_desc": "LawNeeds сочетает технологии ИИ с человеческим юридическим надзором. Наша платформа обучена на собственной базе данных британского права, проверена штатными юристами, вместе с нашей системой верификации и постоянно обновляется с учетом изменений в регулировании и проверенных источников права, обеспечивая надежное, соответствующее законодательству руководство на каждом этапе.",
+    "join_us_header": "Присоединяйтесь к нам",
+    "join_us_desc": "По мере нашего роста мы приглашаем вас присоединиться к нашему пути, независимо от того, ищете ли вы юридическую помощь или расширяете свою юридическую практику. В LawNeeds ваш успех - наша миссия."
+  },
+  "support": {
+    "support_desc": "Помогите нам улучшить LawNeeds, поделившись своими мыслями, проблемами или предложениями ниже",
+    "feedback_success": "Отзыв успешно отправлен",
+    "name": "Имя",
+    "comment": "Комментарий",
+    "address": "Юридический адрес: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Иммиграционное право"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Трудовое право"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Дорожные правонарушения"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Семейное право"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Юридические исследования"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Юридическое письмо"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Анализ дел"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Составление договоров"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Переговоры"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Консультирование клиентов"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Судебное представительство"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Медиация"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Арбитраж"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Дью дилидженс"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Проверка соответствия"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Оценка рисков"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Юридическая стратегия"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Перекрестный допрос"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Написание меморандумов"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Показания под присягой"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Раскрытие доказательств"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Переговоры по урегулированию"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Регуляторный анализ"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Международное право"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Интеллектуальная собственность"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Слияния и поглощения"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Корпоративное управление"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Трудовые отношения"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Иммиграционные процедуры"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Иммиграционное право"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Семейное право"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Трудовое право"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Уголовное право"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Корпоративное право"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Право собственности"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Возмещение ущерба"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Интеллектуальная собственность"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Налоговое право"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Договорное право"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Судебные разбирательства"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Медиация"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Арбитраж"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Юридическая консультация"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Проверка документов"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Юридические исследования"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Соответствие"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Слияния и поглощения"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Банковское дело и финансы"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Страховое право"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Экологическое право"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Права человека"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Международное право"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Административное право"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Конституционное право"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Одиночная консультация"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Постоянная поддержка"
+    },
+    {
+      "key": "casework",
+      "label": "Работа по делу"
+    },
+    {
+      "key": "not_sure",
+      "label": "Пока не уверен"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Обычный (5–7 дней)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Приоритетный (2–3 дня)"
+    },
+    {
+      "key": "urgent",
+      "label": "Срочно (в тот же или на следующий день)"
+    }
+  ],
+  "search": {
+    "professionals": "Профессионалы",
+    "city": "Город",
+    "distance": "Расстояние",
+    "top_rated": "Наивысший рейтинг",
+    "more": "ещё",
+    "request": "Запрос",
+    "request_service": "Запросить услугу",
+    "service": "Услуга",
+    "select_service": "Выберите услугу",
+    "urgency": "Срочность",
+    "select": "Выбрать",
+    "additional_notes": "Дополнительные примечания",
+    "service_request_success": "Ваш запрос на услугу был успешно отправлен",
+    "issue_type": "Тип проблемы",
+    "budget": "Бюджет",
+    "select_consultation": "Выберите консультацию",
+    "consultation": "Консультация",
+    "time_n_rate": "Время и ставка"
+  },
+  "reset_password_info": "Введите адрес электронной почты, связанный с вашей учётной записью, и мы отправим вам письмо с инструкциями для установки нового пароля",
+  "tap_to_upload_image": "Нажмите, чтобы загрузить изображение",
+  "record": "Запись",
+  "media": "Медиа",
+  "attach": "Прикрепить",
+  "sort_by": "Сортировать по",
+  "apply": "Применить",
+  "select_date": "Выбрать дату",
+  "day": "День",
+  "month": "Месяц",
+  "year": "Год",
+  "present": "Настоящее",
+  "sector": "Сектор",
+  "hr": "HR",
+  "legal": "Юридический",
+  "both": "Оба",
+  "identity_card": "Удостоверение личности",
+  "passport": "Паспорт",
+  "drivers_license": "Водительское удостоверение",
+  "law_centre": "Правовой центр",
+  "legal_aid_organisation": "Организация юридической помощи",
+  "beta": "Бета",
+  "logged_in": "Вошли в систему",
+  "select_reason": "Выберите причину",
+  "select_area_of_legal_expertise": "Выберите область юридической экспертизы",
+  "confirm_password": "Подтвердите пароль",
+  "enter_new_password_below": "Введите новый пароль ниже",
+  "select_a_country": "Выберите страну",
+  "open_email_app": "Открыть почтовое приложение",
+  "request_details": "Детали запроса",
+  "accept": "Принять",
+  "reject": "Отклонить",
+  "request_reject_message": "Запрос на обслуживание успешно отклонён",
+  "document_view": "Просмотр документа",
+  "loading_document": "Загрузка документа",
+  "service_issue_type": "Выберите тип проблемы обслуживания",
+  "select_consultation_type": "Выберите тип консультации",
+  "urgency_level": "Выберите уровень срочности",
+  "budget_input": "Введите бюджет",
+  "attachments": "Вложения",
+  "user_label": "Вы",
+  "timestamp": "Прямо сейчас",
+  "voice_note": "Голосовое сообщение",
+  "comment_placeholder": "Напишите комментарий...",
+  "messages": "Сообщения",
+  "edit": "Редактировать",
+  "copy": "Копировать",
+  "select_consultation_time": "Выберите время консультации",
+  "request_cancel_success": "Запрос на услугу успешно отменён",
+  "accept_request_message": "Вы уверены, что хотите принять этот запрос?",
+  "reject_request_message": "Вы уверены, что хотите отклонить этот запрос?",
+  "delete_request_message": "Вы действительно хотите удалить этот запрос?",
+  "withdraw_request_message": "Вы действительно хотите отозвать этот запрос?",
+  "yes": "Да",
+  "no": "Нет",
+  "accepted": "Принято",
+  "cancelled": "Отменено",
+  "pending": "В ожидании",
+  "consultation_time": "Время консультации",
+  "consultation_type": "Тип консультации",
+  "recommended_professionals": "Рекомендованные специалисты:",
+  "continue": "Продолжить",
+  "image": "Изображение",
+  "delete_account": "Удалить аккаунт",
+  "delete": "Удалить",
+  "delete_confirmation_message": "Вы уверены, что хотите удалить свой аккаунт? Это действие нельзя отменить.",
+  "delete_account_error_message": "Произошла ошибка при удалении аккаунта.",
+  "place_holder_additional_notes": "Введите дополнительные детали по вашему юридическому делу...",
+  "upload_options": "Варианты загрузки:",
+  "select_option": "Пожалуйста, выберите вариант:",
+  "skip": "Пропустить",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Иммиграционное право"
+    },
+    {
+      "key": "employment",
+      "label": "Трудовое право"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Дорожно-транспортные правонарушения"
+    },
+    {
+      "key": "family",
+      "label": "Семейное право"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Срочно"
+    },
+    {
+      "key": "within_week",
+      "label": "В течение недели"
+    },
+    {
+      "key": "within_month",
+      "label": "В течение месяца"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Не срочно"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Выберите тип проблемы"
+    },
+    {
+      "key": "urgency",
+      "name": "Выберите срочность"
+    },
+    {
+      "key": "consultation",
+      "name": "Выберите консультацию"
+    },
+    {
+      "key": "select_time",
+      "name": "Выберите время и тариф"
+    },
+    {
+      "key": "select-budget",
+      "name": "Выберите бюджет"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 минут (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 минут (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 минут (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 минут (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 час (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 дня (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 дней (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Более £700"
+    }
+  ],
+  "sample_questions": [
+    "Запросить юридического специалиста",
+    "Подхожу ли я для визы Skilled Worker?",
+    "Как продлить студенческую визу?",
+    "Каковы правила для постоянного проживания?",
+    "Как подать заявление на убежище в Великобритании?",
+    "Сколько времени занимает решение по визе?"
+  ],
+  "rate_of_hour": "Почасовая ставка",
+  "search_country": "Поиск страны",
+  "review_error": "Отзыв не может быть пустым.",
+  "rating_validation": "Пожалуйста, выберите оценку от 1 до 5 звезд.",
+  "create_account_with": "Создать аккаунт с",
+  "login_with": "Войти через",
+  "create_account_email_password": "Email/Пароль",
+  "sign_in_with_apple": "Войти через Apple",
+  "sign_in_with_google": "Войти через Google",
+  "no_cases_available": "Нет доступных дел",
+  "no_active_cases_available": "Нет активных дел",
+  "no_pending_cases_available": "Нет ожидающих дел",
+  "back": "Назад",
+  "submit_review": "Отправить отзыв",
+  "delete_review": "Удалить отзыв",
+  "member_since": "Участник с",
+  "work_experience": "Опыт работы",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Экспертиза",
+  "professional_details": "Профессиональные детали",
+  "review_professional": "Оценить специалиста",
+  "no_reviews": "Пока нет отзывов. Будьте первым!",
+  "reviews": "Отзывы",
+  "thanks_feedback": "Спасибо за ваш отзыв!",
+  "accept_case_notification_header": "Юрист принял ваш запрос! 🎉",
+  "accept_case_notification_message_part": " принял ваше дело и готов помочь вам.",
+  "reject_case_notification_header": "Обновление направления",
+  "reject_case_notification_message_part": " в данный момент не может принять ваше дело.",
+  "delete_case_notification_header": "Запрос удален",
+  "withdraw_case_notification_header": "Запрос отозван",
+  "delete_case_notification_message_part": " удалил свой запрос.",
+  "withdraw_case_notification_message_part": " отозвал свой запрос.",
+  "manuscript": "Рукопись",
+  "share_dialog_title": "Поделиться или скачать рукопись",
+  "certifications": "Сертификаты",
+  "queries_left": "Оставшиеся запросы ИИ",
+  "voice_notes_limit": "Голос",
+  "uploads_limit": "Загрузки",
+  "docgen_limit": "Генерация документов",
+  "current_plan": "Текущий план",
+  "faqs": "Часто задаваемые вопросы",
+  "wallet": "Кошелек",
+  "subscription": {
+    "plans_pricing_title": "Планы и цены",
+    "plans_pricing_subtitle": "Откройте больше минут и премиум-функции",
+    "syncing_account": "Синхронизация аккаунта...",
+    "processing_purchase": "Обработка покупки...",
+    "plan_unavailable_title": "План недоступен",
+    "plan_unavailable_message": "Мы не смогли найти этот план в магазине.",
+    "purchase_error_title": "Ошибка покупки",
+    "purchase_error_message": "Произошла непредвиденная ошибка.",
+    "upgrade_plans": "Обновить планы",
+    "plan_unlimited": "Безлимитный",
+    "plan_premium": "Премиум",
+    "plan_standard": "Стандарт",
+    "plan_free_label": "Всегда бесплатно",
+    "billing_annually": "Ежегодно",
+    "feature_voice_notes": "Голосовые заметки",
+    "feature_uploads": "Загрузки",
+    "feature_shared_pool": "Общий пул для Голоса, Загрузок и Документов",
+    "feature_free_consultation": "мин бесплатной консультации",
+    "feature_priority_support": "Приоритетная поддержка человека включена",
+    "feature_ai_queries": "Текстовые запросы AI",
+    "feature_limited": "Ограничено",
+    "feature_standard_limits": "Применяются стандартные ограничения",
+    "feature_query_reset": "Лимит запросов сбрасывается в 12am",
+    "feature_rollover": "Перенос разрешен",
+    "feature_images_max": "Макс. изображений",
+    "feature_document_max": "Макс. документов",
+    "feature_mb": "МБ",
+    "feature_pages": "страниц",
+    "label_default_plan": "План по умолчанию",
+    "cta_subscribe_now": "Подписаться сейчас",
+    "wallet_loading": "Загрузка кошелька...",
+    "wallet_title": "Кошелек",
+    "wallet_balance": "Доступный баланс",
+    "unit_minute": "Минута",
+    "wallet_top_up": "Пополнить",
+    "wallet_transactions": "Последние транзакции",
+    "transaction_plan_purchase": "Покупка плана",
+    "transaction_legal_query": "Юридический запрос",
+    "transaction_document_process": "Обработка документа",
+    "reference_label": "Ссылка:",
+    "plan_free": "Бесплатно",
+    "unit_min": "мин"
+  },
+  "user_name": "Имя пользователя",
+  "email": "Эл. почта",
+  "phone_number": "Номер телефона",
+  "urgent": "Срочно",
+  "contact_support": "Связаться с поддержкой",
+  "minutes": "Минуты",
+  "freemium": {
+    "modal": {
+      "title": "Достигнут лимит запросов",
+      "timer_label": "Попробуйте снова через",
+      "timer_format": "{{minutes}} мин {{seconds}} сек",
+      "upgrade_cta": "Обновить план",
+      "loading_text": "Разблокировка ваших запросов…",
+      "watch_ad_cta": "📺 Смотреть рекламу (+{{count}} запросов)",
+      "limit_note": "Лимит freemium: {{count}} запросов / {{hours}} часов",
+      "description": "Вы использовали все {{count}} бесплатные запросы за последние {{hours}} часов.",
+      "buy_pass": "{{price}} безлимитные запросы сегодня"
+    },
+    "banner": {
+      "plan_label": "ПЛАН {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} запросов осталось",
+      "daily_pass_active": "✨ Дневной пропуск активен",
+      "upgrade_cta": "Обновить",
+      "usage_labels": {
+        "voice_notes": "Голосовые заметки",
+        "uploads": "Загрузки",
+        "docs": "Документы"
+      },
+      "daily_pass": {
+        "title": "🚀 Откройте безлимит сегодня",
+        "description": "Получите безлимитные AI-запросы до полуночи с дневным пропуском за {{price}}.",
+        "cta": "Получить дневной пропуск – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Лимит достигнут",
+      "upgrade_cta": "Обновите план, чтобы продолжить",
+      "wait_info": "Или подождите и попробуйте снова через: {{time}}",
+      "body_message": "Вы достигли бесплатного лимита. Обновите план или подождите, чтобы продолжить."
+    }
+  },
+  "plan_card": {
+    "plan_label": "План",
+    "billing": {
+      "per_period": "за {{period}}",
+      "always_free": "Всегда бесплатно",
+      "discount_badge": "{{discount}}% СКИДКА В ПЕРВЫЙ МЕСЯЦ",
+      "per_mins": "{{minutes}} мин"
+    },
+    "toggle": {
+      "annual": "Ежегодно",
+      "monthly": "Ежемесячно",
+      "weekly": "Еженедельно",
+      "daily": "Ежедневно"
+    },
+    "features": {
+      "voice_notes": "Голосовые заметки",
+      "uploads": "Загрузки",
+      "docs": "Генерация документов AI",
+      "minutes": "Минуты",
+      "ai_queries": "Текстовые запросы AI",
+      "rollover": "Перенос разрешен",
+      "shared_pool": "• Общий пул для Голоса, Загрузок и Документов",
+      "free_consultation": "• {{minutes}} мин бесплатной консультации включено",
+      "priority_support": "• Приоритетная поддержка человека включена",
+      "file_caps_title": "Ограничения размера файлов и страниц",
+      "image_max": "Макс. изображений",
+      "doc_max": "Макс. документов"
+    },
+    "limits": {
+      "unlimited": "Безлимитный",
+      "limited": "Ограничено",
+      "none": "Нет",
+      "yes": "Да"
+    },
+    "notes": {
+      "standard_limits": "Применяются стандартные ограничения",
+      "reset_time": "Лимит запросов сбрасывается в 12am"
+    },
+    "cta": {
+      "default_plan": "План по умолчанию",
+      "current_plan": "Текущий план",
+      "subscribe": "Подписаться сейчас"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Достигнут месячный лимит",
+      "title_paid": "У вас закончились минуты",
+      "description_freemium": "Вы использовали все 6 бесплатных месячных кредитов для голосовых заметок, загрузки файлов и генерации документов.",
+      "description_paid": "У вас недостаточно минут для выполнения этого действия. Пополните или обновите план.",
+      "upgrade_premium": "Обновить до Премиум",
+      "topup_cta": "Пополнить минуты",
+      "view_usage": "Посмотреть использование кредитов"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Пополнить минуты",
+      "subtitle": "Купите дополнительные минуты, чтобы продолжить.",
+      "alerts": {
+        "low_minutes": "Вы использовали {{percentage}}% ваших минут. Пополните сейчас!",
+        "limit_reached": "Достигнут месячный лимит пополнения ({{used}}/{{limit}})",
+        "limit_popup_title": "Достигнут лимит пополнения",
+        "limit_popup_message": "Вы превысили месячный лимит пополнения."
+      },
+      "slider": {
+        "label": "Минуты для покупки",
+        "minutes_value": "{{minutes}} минут",
+        "min": "{{min}} мин",
+        "max": "{{max}} мин"
+      }
+    }
+  },
+  "show_less": "Показать меньше",
+  "show_more": "Показать больше",
+  "updating_balance": "Обновление баланса...",
+  "usage_limits": "Лимиты использования",
+  "voice_notes": "Голосовые заметки",
+  "uploads": "Загрузки",
+  "usage_history": "История использования",
+  "manage_plan": "Управлять планом",
+  "cancel_subscription": "Отменить подписку",
+  "explore_premium_plans": "Посмотреть премиум планы",
+  "used": "Использовано",
+  "total": "Всего",
+  "unlimited": "Безлимит",
+  "manage_subscription_title": "Управление подпиской",
+  "manage_subscription_desc": "Вы будете перенаправлены в магазин.",
+  "stay_with_us": "Останьтесь с нами",
+  "open_store_error": "Не удалось открыть ссылку.",
+  "subscription_fetch_error": "Ошибка загрузки подписки.",
+  "unit_min": "мин",
+  "no_transaction_yet": "Транзакций пока нет!",
+  "feedback_hint_message": "Поделитесь подробностями о своем опыте",
+  "withdraw": "Отозвать",
+  "issue_summary": "Краткое описание проблемы",
+  "disclaimer": "Отказ от ответственности",
+  "disclaimer_message": "LawNeeds AI Support Assistant предоставляет рекомендации только в информационных целях.",
+  "disclaimer_button": "Я подтверждаю",
+  "filter": {
+    "title": "Фильтр",
+    "sortBy": "Сортировать по",
+    "commonServices": "Популярные услуги",
+    "practiceAreas": "Области практики",
+    "professionalTypes": "Типы специалистов",
+    "sortOptions": {
+      "alphabetical": "По алфавиту",
+      "relevance": "Актуальность",
+      "experience": "Опыт"
+    }
+  },
+  "common": {
+    "upgrade_now": "Обновить сейчас",
+    "close": "Закрыть",
+    "maybe_later": "Возможно позже",
+    "not_now": "Не сейчас",
+    "pay": "Оплатить {{currency}}{{amount}}",
+    "total_cost": "Общая стоимость:",
+    "usage_limit_reached": "Достигнут лимит использования",
+    "apply": "Применить",
+    "cancel": "Отмена",
+    "error": "Ошибка",
+    "success": "Успех",
+    "processing": "Обработка...",
+    "something_wrong": "Что-то пошло не так",
+    "no_data_available": "Нет данных"
+  },
+  "daily_pass_success": "План успешно приобретён!",
+  "daily_pass_not_found": "Дневной пропуск не найден.",
+  "purchase_failed": "Покупка не удалась",
+  "expires": "Истекает: {{expiryDate}}",
+  "active": "Активно",
+  "pricing": {
+    "confirm_price": "Индивидуальная цена",
+    "propose_price": "Предложить цену",
+    "enter_amount": "Введите сумму",
+    "invalid_amount": "Введите корректную сумму",
+    "amount_range": "Сумма должна быть в пределах ₹{{min}} - ₹{{max}}",
+    "range": "Мин: ₹{{min}} | Макс: ₹{{max}}",
+    "price_confirmed": "Цена подтверждена",
+    "price_proposed": "Цена предложена",
+    "confirm_price_btn": "Подтвердить",
+    "submit_price_btn": "Отправить",
+    "load_failed": "Не удалось загрузить цены",
+    "title": "Цены",
+    "not_proposed_message": "Цена еще не установлена. Чтобы продолжить, установите цену."
+  },
+  "payment": {
+    "header_title": "Оплата",
+    "total_amount": "Общая сумма",
+    "platform_fee": "Комиссия платформы",
+    "lawyer_receives": "Юрист получает",
+    "pay_button": "Оплатить £ {{amount}}",
+    "preparing_payment": "Подготовка безопасного платежа...",
+    "alerts": {
+      "error_title": "Ошибка",
+      "init_failed": "Не удалось инициализировать платеж",
+      "unable_to_load": "Не удалось загрузить платеж",
+      "payment_failed_title": "Ошибка оплаты",
+      "generic_error": "Что-то пошло не так",
+      "success_title": "Успех",
+      "success_message": "Платеж успешно завершен!"
+    },
+    "notification_title": "Платеж получен",
+    "notification_message": "{{name}} завершил(а) оплату. Вы можете начать консультацию."
+  },
+  "consultation": {
+    "ended_title": "Консультация завершена",
+    "ended_message": "Время вышло",
+    "pending": "В ожидании",
+    "active": "В процессе",
+    "completed": "Завершено"
+  },
+  "file": {
+    "uploading_image": "Загрузка изображения...",
+    "uploading_video": "Загрузка видео...",
+    "uploading_file": "Загрузка файла...",
+    "upload_failed": "Ошибка загрузки",
+    "upload_failed_message": "Не удалось отправить файл.",
+    "open_pdf": "Открыть PDF",
+    "open_doc": "Открыть DOC",
+    "open_file": "Открыть файл"
+  },
+  "notification": {
+    "lawyer_message": "Сообщение от юриста",
+    "new_message": "Новое сообщение"
+  },
+  "live": "В эфире",
+  "stripe_connected": "Stripe подключен",
+  "connect_with_stripe": "Подключить Stripe",
+  "payments": "Платежи",
+  "beta_instructions": "Инструкции бета-версии",
+  "status": {
+    "title": "Статус",
+    "paid": "Оплачено",
+    "unpaid": "Не оплачено"
+  },
+  "stripe_not_onboarded_title": "Настройка оплаты не завершена",
+  "stripe_not_onboarded_message": "Чтобы принимать запросы на консультацию, завершите настройку Stripe на вкладке Настройки.",
+  "case_folder": "Папка дела",
+  "case_helped": "Помогли с делами",
+  "satisfied": "Доволен",
+  "rejected": "Отклонено",
+  "withdrawn": "Отозвано",
+  "deleted": "Удалено",
+  "consultation_history": "История консультаций",
+  "pay": "Оплатить",
+  "start_consultation": "Начать консультацию",
+  "waiting_for_session": "Ожидание сессии",
+  "waiting_for_payment": "Ожидание оплаты",
+  "activity": "Активность",
+  "one_minute_warning_title": "⏰ Осталась 1 минута",
+  "one_minute_warning_body": "Ваша консультационная сессия завершится через 1 минуту.",
+  "default_notification_title": "Уведомление",
+  "no_notifications": "Пока уведомлений нет",
+  "i_agree": "Я согласен",
+  "terms_and_conditions": "Условия и положения",
+  "terms_condition_1": "1. Используя это приложение, вы соглашаетесь с этими условиями и вам должно быть не менее 18 лет.",
+  "terms_condition_4": "4. Вы несете ответственность за предоставление точной и правдивой информации.",
+  "terms_condition_5": "5. Ваша информация конфиденциальна, но вы должны хранить данные своей учетной записи в секрете.",
+  "terms_condition_3": "3. Помощник по поддержке искусственного интеллекта LawNeeds предоставляет информативные юридические рекомендации. Это не является юридической консультацией.",
+  "terms_condition_2": "2. LawNeeds предоставляет юридическую помощь, но не заменяет профессиональное юридическое представительство.",
+  "i_dont_agree": "Я не согласен",
+  "welcome_to_lawneeds": "Добро пожаловать в LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Виза квалифицированного работника",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Студенческая виза",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Гостевая виза",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Виза по происхождению",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Виза супруга / партнера",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Иждивенцы PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Воссоединение семьи",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (10-летний маршрут)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Натурализация",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Схема поселения ЕС",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), заявления по правам человека",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Заявления на убежище (полная поддержка)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Полное ведение дела (от начала до конца)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Экспресс",
+  "basic": "Базовый",
+  "verified": "Документ проверен",
+  "verification_failed": "Проверка не удалась",
+  "verification_cancelled": "Проверка отменена",
+  "delete_review_confirm": "Вы уверены, что хотите удалить этот отзыв?",
+  "casework_service": "Услуга сопровождения дела",
+  "casework_price_range": "Диапазон стоимости сопровождения дела",
+  "tour_previous_chat_title": "Предыдущий чат",
+  "tour_previous_chat_desc": "Просмотрите здесь ваши предыдущие беседы.",
+  "tour_new_chat_title": "Новый чат",
+  "tour_new_chat_desc": "Нажмите здесь, чтобы начать новый юридический запрос.",
+  "tour_notifications_title": "Уведомления",
+  "tour_notifications_desc": "Проверяйте здесь важные обновления и уведомления.",
+  "tour_inbox_title": "Входящие",
+  "tour_inbox_desc": "Управляйте здесь сообщениями и ответами по делам.",
+  "tour_language_title": "Язык",
+  "tour_language_desc": "Выберите здесь предпочитаемый язык приложения.",
+  "tour_chat_history_title": "История чатов",
+  "tour_chat_history_desc": "Просматривайте и продолжайте предыдущие беседы.",
+  "tour_current_plan_title": "Текущий план",
+  "tour_current_plan_desc": "Просматривайте здесь сведения о текущей подписке.",
+  "tour_usage_history_title": "История использования",
+  "tour_usage_history_desc": "Отслеживайте, сколько минут и функций вы использовали.",
+  "tour_request_legal_help_title": "Запросить юридическую помощь",
+  "tour_request_legal_help_desc": "Начните новый запрос, чтобы связаться со специалистами.",
+  "tour_wallet_title": "Кошелек",
+  "tour_wallet_desc": "Просматривайте баланс кошелька и транзакции.",
+  "tour_top_up_title": "Пополнить",
+  "tour_top_up_desc": "Добавьте средства, чтобы получить больше минут для функций ИИ, загрузок и консультаций.",
+  "tour_search_desc": "Введите имя, чтобы найти конкретного специалиста.",
+  "tour_explore_subscribe_plans": "Нажмите здесь, чтобы просмотреть и улучшить свой план.",
+  "tour_explore_upgrade_plans": "Обновите план, чтобы открыть премиум-функции.",
+  "tour_lawyer_stripe_connected": "Ваш аккаунт Stripe подключен и готов принимать платежи.",
+  "tour_lawyer_stripe_not_connected": "Подключите Stripe, чтобы начать принимать платежи от клиентов.",
+  "profile_completion": {
+    "title": "Заполните свой профиль",
+    "description": "Пожалуйста, проверьте свои данные перед продолжением.",
+    "first_name": "Имя *",
+    "last_name": "Фамилия *",
+    "saving": "Сохранение...",
+    "save_continue": "Сохранить и продолжить",
+    "update_profile_failed": "Не удалось обновить профиль"
+  },
+  "auth": {
+    "session_expired": "Срок вашей сессии входа истек. Попробуйте снова.",
+    "login_failed": "Не удалось выполнить вход. Попробуйте снова.",
+    "google_login_failed": "Вход через Google не удался. Попробуйте снова.",
+    "apple_login_failed": "Вход через Apple не удался. Попробуйте снова.",
+    "authorization_failed": "Не удалось подключиться к службе аутентификации. Попробуйте позже.",
+    "invalid_redirect": "Что-то пошло не так при входе. Попробуйте снова.",
+    "cancelled_login": "Вход был отменен.",
+    "invalid_response": "Не удалось завершить вход. Попробуйте снова."
+  },
+  "tour_service_request_title": "Запрос",
+  "tour_service_request_desc": "Отправьте запрос на услугу напрямую юридическому специалисту. Заполните форму, при необходимости добавьте заметки или документы, и специалист будет уведомлен, когда будет доступен.",
+  "tour_request_form_title": "Форма запроса",
+  "tour_request_form_desc": "Укажите информацию о вашем юридическом вопросе, требованиях к консультации и срочности. Вы также можете загрузить документы или добавить голосовые заметки, чтобы помочь специалисту понять вашу ситуацию.",
+  "no_data": "Нет данных",
+  "duplicate_file_attached": "\"{{filename}}\" уже прикреплен.",
+  "duplicate_file_attached_as": "\"{{filename}}\" уже прикреплен как \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Нажимая",
+  "consultation_consent_middle": ", вы подтверждаете, что если консультация будет предоставлена в течение 14 дней, ваше законное право на отмену больше не будет действовать. Вы по-прежнему можете отменить или перенести консультацию в соответствии с нашей",
+  "cancellation_policy": "Политика отмены",
+  "home_actions": {
+    "ask_ai": "Спросить LawNeeds AI",
+    "ask_ai_description": "Получите рекомендации от чат-бота LawNeeds AI.",
+    "find_professional": "Найти специалиста",
+    "find_professional_description": "Найдите юридического специалиста, который может помочь.",
+    "book_consultation": "Записаться на консультацию",
+    "book_consultation_description": "Начните процесс направления, чтобы организовать консультацию."
+  }
+}

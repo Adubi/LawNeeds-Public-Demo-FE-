@@ -1,0 +1,1448 @@
+{
+  "submit": "Trimite",
+  "cancel": "Anulează",
+  "done": "Gata",
+  "ok": "OK",
+  "next": "Următorul",
+  "save": "Salvează",
+  "privacy_policy": "Politica de confidențialitate",
+  "terms_n_conditions": "Termeni și condiții",
+  "per": {
+    "camera_roll": "Este necesar accesul la galeria foto! Vă rugăm activați-l din setările dispozitivului.",
+    "microphone_access": "Este necesar accesul la microfon.",
+    "permission_denied": "Permisiune refuzată",
+    "notification_permission_not_granted": "Nu a fost acordată permisiunea pentru notificări"
+  },
+  "policy_text": {
+    "i_agree": "Sunt de acord",
+    "i_dont_agree": "Nu sunt de acord",
+    "label_1": "1. Informațiile pe care le colectăm: Putem colecta Informații de identificare personală (Nume, E-mail, Telefon, Adresă), Date tehnice (IP, Tip browser, OS), Date de utilizare și Preferințe de marketing.",
+    "label_2": "2. Cum colectăm informațiile: Prin interacțiuni directe, tehnologii automate și terți.",
+    "label_3": "3. Utilizarea informațiilor: Pentru a furniza și menține serviciul nostru, a vă gestiona contul, a respecta obligațiile legale și a îmbunătăți ofertele noastre.",
+    "label_4": "4. Dezvăluirea informațiilor: Către furnizorii de servicii, autoritățile legale și guvernamentale și în contextul transferurilor de afaceri.",
+    "label_5": "5. Securitatea și păstrarea datelor: Implementăm măsuri de securitate și păstrăm datele doar cât este necesar.",
+    "label_6": "6. Drepturile dumneavoastră legale: Aveți dreptul de a accesa, corecta, șterge, restricționa, transfera și retrage consimțământul privind utilizarea datelor.",
+    "label_7": "7. Categorie specială: îmi dau în mod explicit consimțământul pentru prelucrarea oricăror date din categorie specială pe care le furnizez, inclusiv informații referitoare la originea mea etnică și alte date personale sensibile, în scopul de a răspunde solicitării mele. Îmi pot retrage consimțământul în orice moment trimițând un e-mail la info@lawneeds.co.uk.",
+    "policy_details": "Această Politică de Confidențialitate explică cum colectăm, utilizăm, dezvăluim și protejăm informațiile dumneavoastră atunci când vizitați aplicația noastră mobilă. Prin utilizarea serviciului nostru, sunteți de acord cu termenii acestei Politici de Confidențialitate.",
+    "review_message": "Vă rugăm să consultați",
+    "privacy_policy": "Politica noastră de confidențialitate"
+  },
+  "tab": {
+    "account": "Cont",
+    "chat": "Discuție",
+    "home": "Acasă",
+    "settings": "Setări",
+    "inbox": "Mesaje primite",
+    "search": "Căutare"
+  },
+  "profile": {
+    "firm_name": "Numele firmei",
+    "practice_areas_label": "Domenii de practică",
+    "services": "Servicii",
+    "first_name": "Prenume",
+    "last_name": "Nume",
+    "about": "Despre",
+    "skills": "Aptitudini",
+    "organisation_name": "Numele organizației",
+    "areas_of_legal_focus": "Domenii juridice de interes",
+    "professional_employer": "Angajator profesional",
+    "area_of_legal_expertise": "Domeniu de expertiză juridică",
+    "max_of_four": "Maxim patru",
+    "max_of_two": "Maxim doi",
+    "characters": "caractere",
+    "please_select": "Vă rugăm selectați",
+    "account_security": "Securitatea contului",
+    "details": "Detalii",
+    "edit_details": "Editați detaliile",
+    "no_name": "Nume inexistent",
+    "profile_updated_success": "Profil actualizat cu succes",
+    "company_name": "Numele companiei",
+    "enter_your_company_name": "Introduceți numele companiei",
+    "achievements": "Realizări",
+    "enter_your_achievements": "Introduceți realizările dvs.",
+    "timeline": "Cronologie",
+    "start_date": "Data de început",
+    "end_date": "Data de sfârșit",
+    "add_another_section": "Adaugă o altă secțiune",
+    "add_section": "Adaugă secțiune"
+  },
+  "success": {
+    "success": "Succes",
+    "success_sent_code": "Codul de verificare a fost trimis cu succes."
+  },
+  "error": {
+    "title": "Eroare",
+    "error_msg": "Ceva nu a funcționat corect. Vă rugăm să încercați din nou.",
+    "session_expired": "Sesiunea a expirat",
+    "login_again": "Vă rugăm să vă autentificați din nou pentru a continua.",
+    "token_missing": "Tokenul de autentificare lipsește.",
+    "error_process_audio": "A apărut o eroare la procesarea audio.",
+    "error_process_file": "A apărut o eroare la încărcarea fișierului.",
+    "try_again": "Ne pare rău, a apărut o eroare. Vă rugăm să încercați din nou.",
+    "no_use_session": "Nu a fost găsită o sesiune de utilizator. Vă rugăm să vă autentificați din nou.",
+    "invalid_response_token_not_found": "Răspuns invalid: Tokenul nu a fost găsit",
+    "fill_all_fields": "Vă rugăm să completați toate câmpurile",
+    "network_error": "Eroare de rețea. Verificați conexiunea la internet.",
+    "session_expired_login": "Sesiunea dvs. a expirat. Vă rugăm să vă conectați din nou.",
+    "no_permission": "Nu aveți permisiunea de a efectua această acțiune.",
+    "resource_not_found": "Resursa solicitată nu a fost găsită.",
+    "invalid_data": "Au fost furnizate date invalide. Verificați și încercați din nou.",
+    "server_error": "Eroare de server. Vă rugăm să încercați mai târziu.",
+    "something_went_wrong": "Ceva nu a mers bine. Vă rugăm să încercați din nou.",
+    "case_not_found": "Cazul nu a fost găsit",
+    "failed_to_process_request": "Nu s-a putut procesa solicitarea de serviciu"
+  },
+  "change_email": {
+    "send_instruction": "Trimite instrucțiuni",
+    "go_back": "Înapoi",
+    "create_new_pass": "Creează o parolă nouă",
+    "current_email": "Email actual",
+    "enter_current_email": "Introduceți emailul actual și noul email dorit.",
+    "new_email": "Email nou",
+    "check_your_mail": "Verifică-ți emailul",
+    "check_mail_for_verify_account": "Am trimis un cod de verificare pe email. Introduceți-l mai jos pentru a vă verifica contul.",
+    "check_mail_for_reset_pass": "Am trimis un cod de verificare pe email. Introduceți-l mai jos pentru a vă reseta parola.",
+    "enter_verification_code": "Introduceți codul de verificare",
+    "go_back_login": "Înapoi la autentificare",
+    "not_recd_mail": "Nu ați primit emailul? Verificați folderul Spam sau",
+    "try_other_email": "Încercați un alt email",
+    "resend_code": "Retrimite codul",
+    "verify_mail": "Verificați emailul",
+    "click_link_to_verify_mail": "Faceți clic pe link pentru a verifica noul email",
+    "skip_confirm_later": "Sari peste, voi confirma mai târziu",
+    "email_updated": "Email actualizat"
+  },
+  "landing": {
+    "welcome_to": "Bine ați venit la",
+    "immigration": "Sprijin pentru imigrare simplificat",
+    "create_account": "Creează cont",
+    "log_in": "Autentificare",
+    "or": "sau",
+    "create_pro": "Creează cont Pro",
+    "select_pro": "Selectează cont Pro",
+    "lawyer": "Avocat",
+    "law_firm": "Cabinet de avocatură",
+    "hr_legal": "IMM-uri",
+    "a2j_partners": "Parteneri A2J",
+    "screen_not_exist": "Această pagină nu există.",
+    "go_to_home_screen": "Mergi la pagina principală!"
+  },
+  "login": {
+    "password": "Parolă",
+    "login": "Autentificare",
+    "remember_me": "Ține-mă minte",
+    "forgot_password": "Ai uitat parola",
+    "need_account": "Ai nevoie de un cont?",
+    "signup": "Înregistrare"
+  },
+  "reset_password": "Resetează parola",
+  "create_new_password": "Creează o parolă nouă",
+  "create_account": {
+    "first_name": "Prenume",
+    "last_name": "Nume",
+    "date_of_birth": "Data nașterii",
+    "country": "Țară",
+    "select_country": "Selectează țara",
+    "next": "Următorul",
+    "create_account": "Creează cont",
+    "date_of_incorporate": "Data înființării",
+    "create_pro_account": "Creează cont Pro",
+    "hr_legal_account": "Cont IMM",
+    "lawyer_account": "Cont Avocat",
+    "law_firm_account": "Cont Cabinet Avocatură",
+    "a2j_partners_account": "Cont Parteneri A2J",
+    "firm_name": "Numele firmei",
+    "organisation_name": "Numele organizației",
+    "date_of_establishment": "Data înființării",
+    "areasOfLegalFocus": "Domenii juridice de interes",
+    "selectAreasOfLegalFocus": "Selectează domeniile juridice",
+    "contactPerson": "Persoană de contact",
+    "registrationCharityNumber": "Număr de înregistrare/charity",
+    "searchAddress": "Caută adresă",
+    "town": "Oraș",
+    "postcode": "Cod poștal",
+    "address": "Adresă",
+    "please_select": "Vă rugăm să selectați:",
+    "legalAidOrganisation": "Organizație de ajutor juridic",
+    "lawCentre": "Centru juridic",
+    "proBonoClinic": "Clinică Pro-Bono",
+    "profile_photo": "Fotografie de profil",
+    "profile_photo_required": "O fotografie de profil este necesară pentru contul Pro",
+    "upload": "Încarcă",
+    "please_agree_text": "Vă rugăm să fiți de acord cu termenii noștri",
+    "signup_agreement_text": "Prin înregistrare, sunteți de acord cu",
+    "terms_of_service": "Termenii serviciului",
+    "and_text": "și",
+    "agree_proceed_button": "Sunt de acord și continuă",
+    "select_practice_area": "Selectează domeniul de practică",
+    "already_have_account": "Aveți deja un cont?",
+    "account_creat_success": "Cont creat cu succes!",
+    "access_detail_msg_legal_assistance": "Acum aveți acces la asistență juridică personalizată și gestionarea nevoilor dvs.",
+    "select_practice_areas": "Selectează domeniile de practică",
+    "contact_person_partner": "Persoană de contact/Partener manager",
+    "company_regi_number": "Număr de înregistrare companie",
+    "enter_sra_number": "Introduceți numărul SRA",
+    "enter_bar_number": "Introduceți numărul BAR",
+    "enter_iaa_number": "Introduceți numărul IAA",
+    "verify_document": "Verificați actul de identitate",
+    "reverify_document": "Verificați din nou documentul"
+  },
+  "validation": {
+    "missing_info": "Informații lipsă",
+    "enter_your_name": "Vă rugăm să introduceți numele dvs.",
+    "enter_your_email": "Vă rugăm să introduceți adresa de email",
+    "enter_your_phone": "Vă rugăm să introduceți numărul de telefon",
+    "enter_feedback": "Vă rugăm să adăugați un comentariu",
+    "valid_first_name": "Prenumele trebuie să aibă cel puțin 2 caractere.",
+    "valid_last_name": "Numele trebuie să aibă cel puțin 2 caractere.",
+    "select_dob": "Vă rugăm să selectați o dată de naștere.",
+    "select_country": "Vă rugăm să selectați o țară.",
+    "enter_city": "Câmpul oraș nu poate fi gol.",
+    "enter_postcode": "Câmpul cod poștal nu poate fi gol.",
+    "enter_address": "Câmpul adresă nu poate fi gol.",
+    "valid_user_name": "Numele de utilizator trebuie să aibă cel puțin 3 caractere.",
+    "valid_email": "Vă rugăm să introduceți o adresă de email validă.",
+    "valid_password": "Parola trebuie să aibă cel puțin 8 caractere și să conțină cel puțin un număr.",
+    "valid_organisation": "Numele organizației trebuie să aibă cel puțin 2 caractere.",
+    "valid_town": "Câmpul orașului nu poate fi gol.",
+    "enter_date_of_incorporate": "Vă rugăm să selectați o dată de înființare.",
+    "enter_confirm_password": "Vă rugăm să introduceți parola de confirmare",
+    "valid_confirm_password": "Parola de confirmare trebuie să aibă cel puțin 8 caractere și să conțină cel puțin un număr.",
+    "password_not_match": "Parolele nu se potrivesc.",
+    "enter_first_name": "Vă rugăm să introduceți prenumele",
+    "enter_last_name": "Vă rugăm să introduceți numele de familie",
+    "document_expired": "Documentul dvs. a expirat. Vă rugăm să încărcați un document valabil.",
+    "document_invalid": "Verificarea documentului a eșuat. Vă rugăm să încercați din nou."
+  },
+  "account": {
+    "practice_areas": "Domenii de practică",
+    "services": "Servicii",
+    "details": "Detalii",
+    "licence": "Licență",
+    "org_type": "Tip organizație",
+    "go_back_home": "Înapoi la pagina principală"
+  },
+  "chat": {
+    "get_started": "Începe",
+    "new_chat": "Chat nou",
+    "previous_chat": "Chat anterior",
+    "title": "Discuție",
+    "waiting": "Se așteaptă...",
+    "help": "Ajutor",
+    "end_chat": "Încheie chatul",
+    "chat_place_holder": "Trimite un mesaj către LawNeeds",
+    "uploading_file": "{{count}} atașamente se încarcă: {{names}}",
+    "files_uploaded_success": "{{count}} atașamente încărcate cu succes.",
+    "uploading_voice_note": "Nota vocală se încarcă...",
+    "voice_note_uploaded_success": "Nota vocală a fost încărcată cu succes",
+    "open_pdf": "Deschide PDF",
+    "sample_questions_title": "Întrebări de exemplu",
+    "you_selected": "Ați selectat: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Salut "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "sunt "
+      },
+      {
+        "type": "token",
+        "content": "asistentul "
+      },
+      {
+        "type": "token",
+        "content": "de "
+      },
+      {
+        "type": "token",
+        "content": "suport "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Ofer "
+      },
+      {
+        "type": "token",
+        "content": "doar "
+      },
+      {
+        "type": "token",
+        "content": "informații"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "nu "
+      },
+      {
+        "type": "token",
+        "content": "consiliere "
+      },
+      {
+        "type": "token",
+        "content": "profesională"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Cum "
+      },
+      {
+        "type": "token",
+        "content": "vă "
+      },
+      {
+        "type": "token",
+        "content": "pot "
+      },
+      {
+        "type": "token",
+        "content": "ajuta "
+      },
+      {
+        "type": "token",
+        "content": "astăzi"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Conversația nu a putut fi încărcată. Vă rugăm să încercați din nou.",
+    "voice_note_ready": "Notiță vocală gata",
+    "tap_to_record": "Atingeți 🔴 pentru a începe înregistrarea",
+    "preview_files": "Previzualizare fișiere",
+    "file_selected": "Fișier selectat",
+    "files_selected": "Fișiere selectate",
+    "upload_files": "Încărcare",
+    "tap_to_preview": "Atingeți pentru previzualizare",
+    "add": "Adaugă",
+    "today": "Azi",
+    "last_week": "Săptămâna trecută",
+    "last_month": "Luna trecută"
+  },
+  "setting": {
+    "select_language": "Selectează limba",
+    "settings": "Setări",
+    "app_language": "Limba aplicației",
+    "choose_language": "Alege limba",
+    "notifications": "Notificări",
+    "submit_feedback": "Ajutor",
+    "about": "Despre",
+    "our_philosophy": "Filozofia noastră",
+    "account_management": "Gestionare cont",
+    "logout": "Deconectare"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Viziunea noastră",
+    "our_vision_desc": "La LawNeeds, credem că ajutorul juridic de încredere, în special suportul pentru imigrație, trebuie să fie accesibil pentru toată lumea, oricând și oriunde. Cu smartphone-urile în centrul vieții de zi cu zi, suntem aici pentru a ajuta persoanele să navigheze în viața din Marea Britanie prin asistență juridică ușoară și de încredere.",
+    "our_services_header": "Serviciile noastre",
+    "our_services_desc": "Aplicația noastră mobilă, care include exclusiv firme de avocatură reglementate, avocați licențiați și consilieri în imigrație, oferă servicii juridice specializate cu accent pe Dreptul Imigrației. Susținem persoane, familii, studenți și profesioniști în a se adapta în Marea Britanie. Pe măsură ce creștem, utilizatorii vor avea acces și la expertiză în Dreptul muncii, Dreptul familiei și Infracțiuni rutiere, toate oferite printr-o experiență simplă și fără bătăi de cap, la doar câteva atingeri distanță.",
+    "innovation_header": "Inovație la cel mai înalt nivel",
+    "innovation_desc": "La LawNeeds, inovația stă la baza a tot ceea ce facem. Folosim puterea inteligenței artificiale pentru a oferi îndrumare juridică imediată, disponibilă non-stop, generată de AI, precum și recomandări personalizate privind imigrația, bazate pe locația și situația fiecărui utilizator.",
+    "community_header": "Comunitate și dezvoltare",
+    "community_desc": "LawNeeds este mai mult decât o aplicație — este o comunitate. Împuternicim migranții și echipăm profesioniștii juridici pentru a-și dezvolta practica prin intermediul platformei și funcționalităților noastre inovatoare.",
+    "commitment_header": "Angajament pentru excelență",
+    "commitment_desc": "LawNeeds combină tehnologia AI cu supravegherea juridică umană. Platforma noastră este antrenată pe un set de date juridice din Marea Britanie, revizuit de avocați interni, împreună cu un sistem de verificare, și este actualizată constant conform modificărilor legislative și surselor de drept verificate, oferind îndrumare de încredere și conformă la fiecare pas.",
+    "join_us_header": "Alătură-te nouă",
+    "join_us_desc": "Pe măsură ce continuăm să creștem, te invităm să ni te alături, fie că cauți ajutor juridic, fie că îți extinzi practica juridică. La LawNeeds, succesul tău este misiunea noastră."
+  },
+  "support": {
+    "support_desc": "Ajută-ne să îmbunătățim LawNeeds împărtășind gândurile, problemele sau sugestiile tale mai jos",
+    "feedback_success": "Feedback trimis cu succes",
+    "name": "Nume",
+    "comment": "Comentariu",
+    "address": "Sediu înregistrat: 71–75 Shelton Street, Covent Garden, Londra, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Dreptul imigrației"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Dreptul muncii"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Infracțiuni rutiere"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Dreptul familiei"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Cercetare juridică"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Redactare juridică"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Analiză de caz"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Redactare contracte"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Negociere"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Consiliere clienți"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Reprezentare în instanță"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Medieri"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Arbitraj"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Diligență juridică"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Revizuire conformitate"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Evaluare riscuri"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Strategie juridică"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Contrainterogatoriu"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Redactare memorii"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Depoziție"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Descoperire de probe"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Negociere pentru înțelegere"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Analiză legislativă"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Drept internațional"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Proprietate intelectuală"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Fuziuni și achiziții"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Guvernanță corporativă"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Relații de muncă"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Proceduri de imigrare"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Dreptul imigrației"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Dreptul familiei"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Dreptul muncii"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Drept penal"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Drept corporativ"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Dreptul proprietății"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Prejudiciu personal"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Proprietate intelectuală"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Drept fiscal"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Drept contractual"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Litigii"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Medieri"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Arbitraj"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Consultanță juridică"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Revizuire documente"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Cercetare juridică"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Conformitate"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Fuziuni și achiziții"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Bănci și finanțe"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Dreptul asigurărilor"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Dreptul mediului"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Drepturile omului"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Drept internațional"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Drept administrativ"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Drept constituțional"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Consultație unică"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Sprijin continuu"
+    },
+    {
+      "key": "casework",
+      "label": "Lucru pe caz"
+    },
+    {
+      "key": "not_sure",
+      "label": "Nu sunt sigur încă"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Rutinar (5-7 zile)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Prioritar (2-3 zile)"
+    },
+    {
+      "key": "urgent",
+      "label": "Urgent (în aceeași zi sau ziua următoare)"
+    }
+  ],
+  "search": {
+    "professionals": "Profesioniști",
+    "city": "Oraș",
+    "distance": "Distanță",
+    "top_rated": "Cel mai apreciat",
+    "more": "mai mult",
+    "request": "Solicitare",
+    "request_service": "Solicită serviciu",
+    "service": "Serviciu",
+    "select_service": "Selectează serviciu",
+    "urgency": "Urgență",
+    "select": "Selectează",
+    "additional_notes": "Note suplimentare",
+    "service_request_success": "Solicitarea ta de serviciu a fost trimisă cu succes",
+    "issue_type": "Tipul problemei",
+    "budget": "Buget",
+    "select_consultation": "Selectează consultația",
+    "consultation": "Consultație",
+    "time_n_rate": "Timp și tarif"
+  },
+  "reset_password_info": "Introduceți e‑mailul asociat contului dvs. și vă vom trimite un e‑mail cu instrucțiuni pentru resetarea parolei",
+  "tap_to_upload_image": "Atingeți pentru a încărca o imagine",
+  "record": "Înregistrează",
+  "media": "Media",
+  "attach": "Atașează",
+  "sort_by": "Sortează după",
+  "apply": "Aplică",
+  "select_date": "Selectează data",
+  "day": "Zi",
+  "month": "Lună",
+  "year": "An",
+  "present": "Prezent",
+  "sector": "Sector",
+  "hr": "Resurse umane",
+  "legal": "Juridic",
+  "both": "Ambele",
+  "identity_card": "Carte de identitate",
+  "passport": "Pașaport",
+  "drivers_license": "Permis de conducere",
+  "law_centre": "Centru juridic",
+  "legal_aid_organisation": "Organizație de asistență juridică",
+  "beta": "Beta",
+  "logged_in": "Autentificat",
+  "select_reason": "Selectați motivul",
+  "select_area_of_legal_expertise": "Selectați domeniul de expertiză juridică",
+  "confirm_password": "Confirmați parola",
+  "enter_new_password_below": "Introduceți parola nouă mai jos",
+  "select_a_country": "Selectați o țară",
+  "open_email_app": "Deschideți aplicația de e‑mail",
+  "request_details": "Detalii cerere",
+  "accept": "Acceptă",
+  "reject": "Respinge",
+  "request_reject_message": "Cererea de serviciu a fost respinsă cu succes",
+  "document_view": "Vizualizare document",
+  "loading_document": "Se încarcă documentul",
+  "service_issue_type": "Selectați tipul problemei de serviciu",
+  "select_consultation_type": "Selectați tipul de consultație",
+  "urgency_level": "Selectați nivelul de urgență",
+  "budget_input": "Introduceți bugetul",
+  "attachments": "Atașamente",
+  "user_label": "Tu",
+  "timestamp": "Chiar acum",
+  "voice_note": "Mesaj vocal",
+  "comment_placeholder": "Scrie un comentariu...",
+  "messages": "Mesaje",
+  "edit": "Editează",
+  "copy": "Copiază",
+  "select_consultation_time": "Selectați timpul consultației",
+  "request_cancel_success": "Cererea de serviciu a fost anulată cu succes",
+  "accept_request_message": "Sigur doriți să acceptați această cerere?",
+  "reject_request_message": "Sigur doriți să respingeți această cerere?",
+  "delete_request_message": "Sigur doriți să ștergeți această solicitare?",
+  "withdraw_request_message": "Sigur doriți să retrageți această solicitare?",
+  "yes": "Da",
+  "no": "Nu",
+  "accepted": "Acceptat",
+  "cancelled": "Anulat",
+  "pending": "În așteptare",
+  "consultation_time": "Timpul consultației",
+  "consultation_type": "Tipul consultației",
+  "recommended_professionals": "Profesioniști recomandați:",
+  "continue": "Continuă",
+  "image": "Imagine",
+  "delete_account": "Șterge contul",
+  "delete": "Șterge",
+  "delete_confirmation_message": "Sigur doriți să vă ștergeți contul? Această acțiune nu poate fi anulată.",
+  "delete_account_error_message": "A apărut o eroare la ștergerea contului.",
+  "place_holder_additional_notes": "Introduceți detalii suplimentare despre cazul dvs. legal...",
+  "upload_options": "Opțiuni de încărcare:",
+  "select_option": "Vă rugăm să selectați o opțiune:",
+  "skip": "Sari peste",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Dreptul imigrației"
+    },
+    {
+      "key": "employment",
+      "label": "Dreptul muncii"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Infracțiuni rutiere"
+    },
+    {
+      "key": "family",
+      "label": "Dreptul familiei"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Urgent"
+    },
+    {
+      "key": "within_week",
+      "label": "În decurs de o săptămână"
+    },
+    {
+      "key": "within_month",
+      "label": "În decurs de o lună"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Nu este urgent"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Selectați tipul problemei"
+    },
+    {
+      "key": "urgency",
+      "name": "Selectați urgența"
+    },
+    {
+      "key": "consultation",
+      "name": "Selectați consultația"
+    },
+    {
+      "key": "select_time",
+      "name": "Selectați timpul și tariful"
+    },
+    {
+      "key": "select-budget",
+      "name": "Selectați bugetul"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 minute (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 minute (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 minute (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 minute (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 oră (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 zile (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 zile (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Peste £700"
+    }
+  ],
+  "sample_questions": [
+    "Solicitați un profesionist juridic",
+    "Sunt eligibil pentru o viză Skilled Worker?",
+    "Cum îmi pot prelungi viza de student?",
+    "Care sunt regulile pentru rezidența permanentă?",
+    "Cum pot solicita azil în Regatul Unit?",
+    "Cât durează o decizie de viză?"
+  ],
+  "rate_of_hour": "Tarif pe oră",
+  "search_country": "Căutați țara",
+  "review_error": "Recenzia nu poate fi goală.",
+  "rating_validation": "Vă rugăm să selectați un rating între 1 și 5 stele.",
+  "create_account_with": "Creați cont cu",
+  "login_with": "Autentificare cu",
+  "create_account_email_password": "Email/Parolă",
+  "sign_in_with_apple": "Autentificare cu Apple",
+  "sign_in_with_google": "Autentificare cu Google",
+  "no_cases_available": "Nu sunt cazuri disponibile",
+  "no_active_cases_available": "Nu sunt cazuri active disponibile",
+  "no_pending_cases_available": "Nu sunt cazuri în așteptare",
+  "back": "Înapoi",
+  "submit_review": "Trimite recenzia",
+  "delete_review": "Șterge recenzia",
+  "member_since": "Membru din",
+  "work_experience": "Experiență profesională",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Expertiză",
+  "professional_details": "Detalii profesionale",
+  "review_professional": "Evaluează profesionistul",
+  "no_reviews": "Nu există recenzii încă. Fii primul!",
+  "reviews": "Recenzii",
+  "thanks_feedback": "Vă mulțumim pentru feedback!",
+  "accept_case_notification_header": "Avocatul a acceptat cererea dvs.! 🎉",
+  "accept_case_notification_message_part": " a acceptat cazul dvs. și este gata să vă ajute.",
+  "reject_case_notification_header": "Actualizare referință",
+  "reject_case_notification_message_part": " nu poate prelua cazul dvs. în acest moment.",
+  "delete_case_notification_header": "Cererea a fost ștearsă",
+  "withdraw_case_notification_header": "Cererea a fost retrasă",
+  "delete_case_notification_message_part": " și-a șters cererea.",
+  "withdraw_case_notification_message_part": " și-a retras cererea.",
+  "manuscript": "Manuscris",
+  "share_dialog_title": "Distribuie sau descarcă manuscrisul",
+  "certifications": "Certificări",
+  "queries_left": "Întrebări AI rămase",
+  "voice_notes_limit": "Voce",
+  "uploads_limit": "Încărcări",
+  "docgen_limit": "Generare documente",
+  "current_plan": "Plan curent",
+  "faqs": "Întrebări frecvente",
+  "wallet": "Portofel",
+  "subscription": {
+    "plans_pricing_title": "Planuri și prețuri",
+    "plans_pricing_subtitle": "Deblochează mai multe minute și funcții premium",
+    "syncing_account": "Se sincronizează contul...",
+    "processing_purchase": "Se procesează achiziția...",
+    "plan_unavailable_title": "Plan indisponibil",
+    "plan_unavailable_message": "Nu am putut găsi acest plan în magazin.",
+    "purchase_error_title": "Eroare la achiziție",
+    "purchase_error_message": "A apărut o eroare neașteptată.",
+    "upgrade_plans": "Actualizează planurile",
+    "plan_unlimited": "Nelimitat",
+    "plan_premium": "Premium",
+    "plan_standard": "Standard",
+    "plan_free_label": "Întotdeauna gratuit",
+    "billing_annually": "Anual",
+    "feature_voice_notes": "Note vocale",
+    "feature_uploads": "Încărcări",
+    "feature_shared_pool": "Pool comun pentru Voce, Încărcări și Documente",
+    "feature_free_consultation": "min consultanță gratuită",
+    "feature_priority_support": "Suport uman prioritar inclus",
+    "feature_ai_queries": "Interogări text AI",
+    "feature_limited": "Limitat",
+    "feature_standard_limits": "Se aplică limitele standard",
+    "feature_query_reset": "Limita de interogări se resetează la 12am",
+    "feature_rollover": "Report permis",
+    "feature_images_max": "Imagini max",
+    "feature_document_max": "Documente max",
+    "feature_mb": "MB",
+    "feature_pages": "pagini",
+    "label_default_plan": "Plan implicit",
+    "cta_subscribe_now": "Abonează-te acum",
+    "wallet_loading": "Se încarcă portofelul...",
+    "wallet_title": "Portofel",
+    "wallet_balance": "Sold disponibil",
+    "unit_minute": "Minut",
+    "wallet_top_up": "Reîncarcă",
+    "wallet_transactions": "Tranzacții recente",
+    "transaction_plan_purchase": "Achiziție plan",
+    "transaction_legal_query": "Întrebare juridică",
+    "transaction_document_process": "Procesare document",
+    "reference_label": "Referință",
+    "plan_free": "Gratuit",
+    "unit_min": "min"
+  },
+  "user_name": "Nume utilizator",
+  "email": "Email",
+  "phone_number": "Număr de telefon",
+  "urgent": "Urgent",
+  "contact_support": "Contactează suportul",
+  "minutes": "Minute",
+  "freemium": {
+    "modal": {
+      "title": "Limită de interogări atinsă",
+      "timer_label": "Încearcă din nou în",
+      "timer_format": "{{minutes}} min {{seconds}} s",
+      "upgrade_cta": "Actualizează planul",
+      "loading_text": "Se deblochează interogările…",
+      "watch_ad_cta": "📺 Urmărește reclamă (+{{count}} interogări)",
+      "limit_note": "Limită freemium: {{count}} interogări / {{hours}} ore",
+      "description": "Ai folosit toate cele {{count}} interogări gratuite în ultimele {{hours}} ore.",
+      "buy_pass": "{{price}} interogări nelimitate astăzi"
+    },
+    "banner": {
+      "plan_label": "PLAN {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} interogări rămase",
+      "daily_pass_active": "✨ Abonament zilnic activ",
+      "upgrade_cta": "Actualizează",
+      "usage_labels": {
+        "voice_notes": "Note vocale",
+        "uploads": "Încărcări",
+        "docs": "Documente"
+      },
+      "daily_pass": {
+        "title": "🚀 Deblochează nelimitat azi",
+        "description": "Obține interogări AI nelimitate până la miezul nopții cu un abonament zilnic de {{price}}.",
+        "cta": "Obține abonament zilnic – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Limită atinsă",
+      "upgrade_cta": "Actualizați planul pentru a continua",
+      "wait_info": "Sau așteptați și încercați din nou în: {{time}}",
+      "body_message": "Ați atins limita gratuită. Actualizați planul sau așteptați pentru a continua."
+    }
+  },
+  "plan_card": {
+    "plan_label": "Plan",
+    "billing": {
+      "per_period": "pe {{period}}",
+      "always_free": "Întotdeauna gratuit",
+      "discount_badge": "{{discount}}% REDUCERE ÎN PRIMA LUNĂ",
+      "per_mins": "{{minutes}} min"
+    },
+    "toggle": {
+      "annual": "Anual",
+      "monthly": "Lunar",
+      "weekly": "Săptămânal",
+      "daily": "Zilnic"
+    },
+    "features": {
+      "voice_notes": "Note vocale",
+      "uploads": "Încărcări",
+      "docs": "Generare documente AI",
+      "minutes": "Minute",
+      "ai_queries": "Interogări text AI",
+      "rollover": "Report permis",
+      "shared_pool": "• Pool comun pentru Voce, Încărcări și Documente",
+      "free_consultation": "• {{minutes}} min consultanță gratuită inclusă",
+      "priority_support": "• Suport uman prioritar inclus",
+      "file_caps_title": "Limite dimensiune fișier și pagini",
+      "image_max": "Imagini max",
+      "doc_max": "Documente max"
+    },
+    "limits": {
+      "unlimited": "Nelimitat",
+      "limited": "Limitat",
+      "none": "Niciunul",
+      "yes": "Da"
+    },
+    "notes": {
+      "standard_limits": "Se aplică limitele standard",
+      "reset_time": "Limita de interogări se resetează la 12am"
+    },
+    "cta": {
+      "default_plan": "Plan implicit",
+      "current_plan": "Plan curent",
+      "subscribe": "Abonează-te acum"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Limită lunară atinsă",
+      "title_paid": "Ai rămas fără minute",
+      "description_freemium": "Ai folosit toate cele 6 credite lunare gratuite pentru Note vocale, Încărcări de fișiere și Generare de documente.",
+      "description_paid": "Nu ai suficiente minute pentru a finaliza această acțiune. Reîncarcă sau actualizează pentru mai multe.",
+      "upgrade_premium": "Actualizează la Premium",
+      "topup_cta": "Reîncarcă minute",
+      "view_usage": "Vezi detalii utilizare credit"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Reîncarcă minute",
+      "subtitle": "Cumpără minute suplimentare pentru a continua.",
+      "alerts": {
+        "low_minutes": "Ai folosit {{percentage}}% din minutele tale. Reîncarcă acum!",
+        "limit_reached": "Limită lunară de reîncărcare atinsă ({{used}}/{{limit}})",
+        "limit_popup_title": "Limită de reîncărcare atinsă",
+        "limit_popup_message": "Ai depășit limita lunară de reîncărcare."
+      },
+      "slider": {
+        "label": "Minute de cumpărat",
+        "minutes_value": "{{minutes}} minute",
+        "min": "Min",
+        "max": "Max"
+      }
+    }
+  },
+  "show_less": "Arată mai puțin",
+  "show_more": "Arată mai mult",
+  "updating_balance": "بیلانس تازه کېږي...",
+  "usage_limits": "د کارولو محدودیتونه",
+  "voice_notes": "غږیز یادښتونه",
+  "uploads": "اپلوډونه",
+  "usage_history": "د کارولو تاریخ",
+  "manage_plan": "پلان مدیریت کړئ",
+  "cancel_subscription": "اشتراک لغوه کړئ",
+  "explore_premium_plans": "پریمیم پلانونه وګورئ",
+  "used": "کارول شوي",
+  "total": "ټول",
+  "unlimited": "نامحدود",
+  "manage_subscription_title": "د اشتراک مدیریت",
+  "manage_subscription_desc": "تاسو به د خپلو تنظیماتو د مدیریت لپاره سټور ته واستول شئ. موږ بخښنه غواړو چې تاسو ځئ!",
+  "stay_with_us": "زموږ سره پاتې شئ",
+  "open_store_error": "د سټور لینک پرانیستل نشو.",
+  "subscription_fetch_error": "د اشتراک معلومات ترلاسه کول ناکام شول.",
+  "unit_min": "دقیقه",
+  "no_transaction_yet": "Nu există încă tranzacții!",
+  "feedback_hint_message": "Împărtășește detalii despre propria ta experiență",
+  "withdraw": "Retrage",
+  "issue_summary": "Rezumatul problemei",
+  "disclaimer": "Declinare de responsabilitate",
+  "disclaimer_message": "Asistentul LawNeeds AI oferă îndrumare doar în scop informativ.",
+  "disclaimer_button": "Confirm",
+  "filter": {
+    "title": "Filtru",
+    "sortBy": "Sortează după",
+    "commonServices": "Servicii comune",
+    "practiceAreas": "Domenii de practică",
+    "professionalTypes": "Tipuri de profesioniști",
+    "sortOptions": {
+      "alphabetical": "Alfabetic",
+      "relevance": "Relevanță",
+      "experience": "Experiență"
+    }
+  },
+  "common": {
+    "upgrade_now": "Actualizează acum",
+    "close": "Închide",
+    "maybe_later": "Poate mai târziu",
+    "not_now": "Nu acum",
+    "pay": "Plătește {{currency}}{{amount}}",
+    "total_cost": "Cost total:",
+    "usage_limit_reached": "Limită de utilizare atinsă",
+    "apply": "Aplică",
+    "cancel": "Anulează",
+    "error": "Eroare",
+    "success": "Succes",
+    "processing": "Se procesează...",
+    "something_wrong": "Ceva nu a mers bine",
+    "no_data_available": "Nu există date disponibile"
+  },
+  "daily_pass_success": "Plan achiziționat cu succes!",
+  "daily_pass_not_found": "Abonamentul zilnic nu a fost găsit.",
+  "purchase_failed": "Achiziția a eșuat",
+  "expires": "Expiră: {{expiryDate}}",
+  "active": "Activ",
+  "pricing": {
+    "confirm_price": "Preț personalizat",
+    "propose_price": "Propune preț",
+    "enter_amount": "Introduceți suma",
+    "invalid_amount": "Introduceți o sumă validă",
+    "amount_range": "Suma trebuie să fie între ₹{{min}} - ₹{{max}}",
+    "range": "Interval",
+    "price_confirmed": "Preț confirmat",
+    "price_proposed": "Preț propus",
+    "confirm_price_btn": "Confirmă",
+    "submit_price_btn": "Trimite",
+    "load_failed": "Încărcarea prețurilor a eșuat",
+    "title": "Tarife",
+    "not_proposed_message": "Prețul nu este încă stabilit. Vă rugăm să stabiliți prețul pentru a continua."
+  },
+  "payment": {
+    "header_title": "Plată",
+    "total_amount": "Suma totală",
+    "platform_fee": "Taxa platformei",
+    "lawyer_receives": "Avocatul primește",
+    "pay_button": "Plătește £ {{amount}}",
+    "preparing_payment": "Se pregătește plata securizată...",
+    "alerts": {
+      "error_title": "Eroare",
+      "init_failed": "Inițializarea plății a eșuat",
+      "unable_to_load": "Plata nu a putut fi încărcată",
+      "payment_failed_title": "Plata a eșuat",
+      "generic_error": "Ceva nu a mers bine",
+      "success_title": "Succes",
+      "success_message": "Plata a fost finalizată cu succes!"
+    },
+    "notification_title": "Plată primită",
+    "notification_message": "{{name}} a finalizat plata. Puteți începe consultația."
+  },
+  "consultation": {
+    "ended_title": "Consultația s-a încheiat",
+    "ended_message": "Timpul a expirat",
+    "pending": "În așteptare",
+    "active": "În desfășurare",
+    "completed": "Finalizat"
+  },
+  "file": {
+    "uploading_image": "Se încarcă imaginea...",
+    "uploading_video": "Se încarcă videoclipul...",
+    "uploading_file": "Se încarcă fișierul...",
+    "upload_failed": "Încărcarea a eșuat",
+    "upload_failed_message": "Fișierul nu a putut fi trimis.",
+    "open_pdf": "Deschide PDF",
+    "open_doc": "Deschide DOC",
+    "open_file": "Deschide fișierul"
+  },
+  "notification": {
+    "lawyer_message": "Mesaj de la avocat",
+    "new_message": "Mesaj nou"
+  },
+  "live": "În direct",
+  "stripe_connected": "Stripe conectat",
+  "connect_with_stripe": "Conectează-te cu Stripe",
+  "payments": "Plăți",
+  "beta_instructions": "Instrucțiuni beta",
+  "status": {
+    "title": "Stare",
+    "paid": "Plătit",
+    "unpaid": "Neplătit"
+  },
+  "stripe_not_onboarded_title": "Configurarea plății este incompletă",
+  "stripe_not_onboarded_message": "Pentru a accepta cereri de consultanță, finalizați configurarea plății Stripe din fila Setări.",
+  "case_folder": "Dosar caz",
+  "case_helped": "Cazuri ajutate",
+  "satisfied": "Mulțumit",
+  "rejected": "Respins",
+  "withdrawn": "Retras",
+  "deleted": "Șters",
+  "consultation_history": "Istoricul consultațiilor",
+  "pay": "Plătește",
+  "start_consultation": "Începe consultația",
+  "waiting_for_session": "În așteptarea sesiunii",
+  "waiting_for_payment": "În așteptarea plății",
+  "activity": "Activitate",
+  "one_minute_warning_title": "⏰ A mai rămas 1 minut",
+  "one_minute_warning_body": "Sesiunea ta de consultație se va încheia în 1 minut.",
+  "default_notification_title": "Notificare",
+  "no_notifications": "Încă nu există notificări",
+  "terms_and_conditions": "Termeni și condiții",
+  "terms_condition_1": "1. Folosind această aplicație, sunteți de acord cu acești termeni și trebuie să aveți cel puțin 18 ani.",
+  "terms_condition_2": "2. LawNeeds oferă asistență juridică, dar nu înlocuiește reprezentarea juridică profesională.",
+  "terms_condition_3": "3. Asistentul de asistență LawNeeds AI oferă îndrumări juridice informative. Aceasta nu constituie consiliere juridică.",
+  "i_agree": "Sunt de acord",
+  "i_dont_agree": "nu sunt de acord",
+  "terms_condition_5": "5. Informațiile dvs. sunt private, dar trebuie să păstrați secrete acreditările contului.",
+  "terms_condition_4": "4. Sunteți responsabil pentru furnizarea de informații corecte și veridice.",
+  "welcome_to_lawneeds": "Bun venit la LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Viză pentru lucrător calificat",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Viză de student",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Viză de vizită",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Viză de ascendență",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Viză de soț / partener",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Persoane aflate în întreținere PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Reîntregirea familiei",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (rută de 10 ani)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Naturalizare",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Schema de stabilire a UE",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), cereri privind drepturile omului",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Cereri de azil (suport complet)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Gestionare completă a cazului (de la început la sfârșit)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Expres",
+  "basic": "De bază",
+  "verified": "Document verificat",
+  "verification_failed": "Verificare eșuată",
+  "verification_cancelled": "Verificare anulată",
+  "delete_review_confirm": "Sigur doriți să ștergeți această recenzie?",
+  "casework_service": "Serviciu de gestionare a cazului",
+  "casework_price_range": "Interval de preț pentru gestionarea cazului",
+  "tour_previous_chat_title": "Chat anterior",
+  "tour_previous_chat_desc": "Vedeți aici conversațiile anterioare.",
+  "tour_new_chat_title": "Chat nou",
+  "tour_new_chat_desc": "Atingeți aici pentru a începe o nouă solicitare juridică.",
+  "tour_notifications_title": "Notificări",
+  "tour_notifications_desc": "Verificați aici actualizările și alertele importante.",
+  "tour_inbox_title": "Mesaje primite",
+  "tour_inbox_desc": "Gestionați aici mesajele și răspunsurile la cazuri.",
+  "tour_language_title": "Limbă",
+  "tour_language_desc": "Alegeți aici limba preferată a aplicației.",
+  "tour_chat_history_title": "Istoric chat",
+  "tour_chat_history_desc": "Revizuiți și continuați conversațiile anterioare.",
+  "tour_current_plan_title": "Plan curent",
+  "tour_current_plan_desc": "Vedeți aici detaliile abonamentului curent.",
+  "tour_usage_history_title": "Istoric utilizare",
+  "tour_usage_history_desc": "Urmăriți câte minute și funcții ați folosit.",
+  "tour_request_legal_help_title": "Solicitați ajutor juridic",
+  "tour_request_legal_help_desc": "Porniți o nouă solicitare pentru a lua legătura cu profesioniști.",
+  "tour_wallet_title": "Portofel",
+  "tour_wallet_desc": "Vedeți soldul portofelului și tranzacțiile.",
+  "tour_top_up_title": "Reîncărcare",
+  "tour_top_up_desc": "Adăugați fonduri pentru a primi mai multe minute pentru funcții AI, încărcări și consultații.",
+  "tour_search_desc": "Tastați un nume pentru a căuta un anumit profesionist.",
+  "tour_explore_subscribe_plans": "Atingeți aici pentru a explora și actualiza planul.",
+  "tour_explore_upgrade_plans": "Actualizați planul pentru a debloca funcții premium.",
+  "tour_lawyer_stripe_connected": "Contul dvs. Stripe este conectat și pregătit să primească plăți.",
+  "tour_lawyer_stripe_not_connected": "Conectați Stripe pentru a începe să acceptați plăți de la clienți.",
+  "profile_completion": {
+    "title": "Completați-vă profilul",
+    "description": "Vă rugăm să verificați detaliile înainte de a continua.",
+    "first_name": "Prenume *",
+    "last_name": "Nume de familie *",
+    "saving": "Se salvează...",
+    "save_continue": "Salvează și continuă",
+    "update_profile_failed": "Nu s-a putut actualiza profilul"
+  },
+  "auth": {
+    "session_expired": "Sesiunea dvs. de autentificare a expirat. Încercați din nou.",
+    "login_failed": "Nu v-am putut conecta. Încercați din nou.",
+    "google_login_failed": "Autentificarea cu Google nu a reușit. Încercați din nou.",
+    "apple_login_failed": "Autentificarea cu Apple nu a reușit. Încercați din nou.",
+    "authorization_failed": "Nu s-a putut conecta la serviciul de autentificare. Încercați din nou mai târziu.",
+    "invalid_redirect": "Ceva nu a mers bine la autentificare. Încercați din nou.",
+    "cancelled_login": "Autentificarea a fost anulată.",
+    "invalid_response": "Nu am putut finaliza autentificarea. Încercați din nou."
+  },
+  "tour_service_request_title": "Solicitare",
+  "tour_service_request_desc": "Trimiteți o solicitare de servicii direct unui profesionist juridic. Completați formularul, adăugați note sau documente dacă este necesar, iar profesionistul va fi notificat când va fi disponibil.",
+  "tour_request_form_title": "Formular de solicitare",
+  "tour_request_form_desc": "Oferiți informații despre problema dvs. juridică, cerințele consultării și urgență. Puteți încărca și documente sau adăuga note vocale pentru a ajuta profesionistul să înțeleagă situația dvs.",
+  "no_data": "Fără date",
+  "duplicate_file_attached": "\"{{filename}}\" a fost deja atașat.",
+  "duplicate_file_attached_as": "\"{{filename}}\" a fost deja atașat ca \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Dând clic pe",
+  "consultation_consent_middle": ", recunoașteți că, dacă consultația dvs. este oferită în termen de 14 zile, dreptul legal de anulare nu se va mai aplica. Puteți în continuare anula sau reprograma consultația conform",
+  "cancellation_policy": "Politica de anulare",
+  "home_actions": {
+    "ask_ai": "Întreabă LawNeeds AI",
+    "ask_ai_description": "Primește îndrumare de la chatbotul AI LawNeeds.",
+    "find_professional": "Găsește un profesionist",
+    "find_professional_description": "Caută un profesionist juridic care te poate ajuta.",
+    "book_consultation": "Programează o consultație",
+    "book_consultation_description": "Începe procesul de recomandare pentru a programa o consultație."
+  }
+}

@@ -1,0 +1,1444 @@
+{
+  "submit": "አስገባ",
+  "cancel": "ሰርዝ",
+  "done": "ተጠናቀቀ",
+  "ok": "እሺ",
+  "next": "ቀጣይ",
+  "save": "አስቀምጥ",
+  "privacy_policy": "የግልነት ፓሊሲ",
+  "terms_n_conditions": "ውሎችና ውክልናዎች",
+  "per": {
+    "camera_roll": "የካሜራ ሮል መዳረሻ ፈቃድ ያስፈልጋል! እባክዎ በመሣሪያዎ ቅንብሮች ውስጥ ያስችሉት።",
+    "microphone_access": "የማይክሮፎን መዳረሻ ያስፈልጋል።",
+    "permission_denied": "ፍቃድ ተከልክሏል",
+    "notification_permission_not_granted": "የማሳወቂያ ፍቃድ አልተሰጠም"
+  },
+  "policy_text": {
+    "i_agree": "ተስማምቻለሁ",
+    "i_dont_agree": "አልተስማምትሁም",
+    "label_1": "1. የምንሰብስባቸው መረጃዎች፡ የግል መለያ መረጃዎች (ስም፣ ኢሜል፣ ስልክ፣ አድራሻ), መዋቅሮች መረጃ (IP፣ ብራውዘር አይነት፣ ኦፕ.ሲ), የጥቅም መረጃ፣ እና የገበያ ቅድሚያዎች።",
+    "label_2": "2. መረጃዎትን እንዴት እንደምንሰብስብ፡ በቀጥታ ውጤቶች፣ በምስክር ቴክኖሎጂዎች፣ እና በሶስተኛ ወገኖች ሳይታወስ።",
+    "label_3": "3. መረጃዎችን እንዴት እንጠቀም፡ አገልግሎታችንን ለማቆያና ለማስተካከል፣ ለሂሳብዎ ለማስተዳደር፣ ለሕጋዊ ተግባራዊነት፣ እና ለአገልግሎታችን ለመቀየር።",
+    "label_4": "4. መረጃዎችን ማስተዋወቅ፡ ለአገልግሎት ተቋማት፣ ሕጋዊና መንግስታዊ ባለስልጣናት፣ እና በንግድ ስርዓቶች ላይ።",
+    "label_5": "5. የመረጃ ደህንነት እና ማስቆጠር፡ ደህንነታዊ መነሻዎችን እንፈጥራለን እና መረጃዎን የሚያስፈልጋቸው ጊዜ ብቻ እንጠብቃለን።",
+    "label_6": "6. ሕጋዊ መብቶችዎ፡ መረጃዎን ለመድረስ፣ ለማስተካከል፣ ለማጥፋት፣ ለማገዝ፣ ለማስተላለፊያ፣ እና ለስምንት ስርዓት ፈቃድ በማስተካከል መብቶት አላችሁ።",
+    "label_7": "7. ልዩ ምድብ፡ ለጥያቄዬ ምላሽ ለመስጠት ዓላማ የምሰጠውን ማንኛውንም ልዩ ምድብ መረጃ፣ የዘር ማንነቴን የሚመለከት መረጃ እና ሌሎች ስሱ የግል መረጃዎችን ጨምሮ፣ እንዲታወቅ በግልጽ እስማማለሁ። ፈቃዴን በማንኛውም ጊዜ info@lawneeds.co.uk በኢሜይል በመላክ ማስወገድ እችላለሁ።",
+    "policy_details": "ይህ የግልነት ፖሊሲ በሞባይል መተግበሪያችን በሚጎበኙበት ጊዜ መረጃዎትን እንዴት እንሰብስብ፣ አጠቃቀምና ጥበቃ እንደምንደርግ ይወስዳል። አገልግሎታችንን በመጠቀም የዚህን ፖሊሲ ውሎች ተቀብያለሁ።",
+    "review_message": "እባክዎ የእኛን ይገምግሙ",
+    "privacy_policy": "የግላዊነት ፖሊሲ"
+  },
+  "tab": {
+    "account": "መግቢያ",
+    "chat": "ውይይት",
+    "home": "መነሻ",
+    "settings": "ቅንብሮች",
+    "inbox": "ኢንቦኽስ",
+    "search": "ፍለጋ"
+  },
+  "profile": {
+    "firm_name": "የተቋም ስም",
+    "practice_areas_label": "የስራ ዘርፎች",
+    "services": "አገልግሎቶች",
+    "first_name": "መጀመሪያ ስም",
+    "last_name": "የመጨረሻ ስም",
+    "about": "ስለ",
+    "skills": "ክህሎቶች",
+    "organisation_name": "የድርጅት ስም",
+    "areas_of_legal_focus": "የህግ የተለያዩ ስራዎች",
+    "professional_employer": "ባለሞያ ሰጪ",
+    "area_of_legal_expertise": "የህግ ባለሞያነት ዘርፍ",
+    "max_of_four": "ከአራት መጠን",
+    "max_of_two": "ከሁለት መጠን",
+    "characters": "ቁምፊዎች",
+    "please_select": "እባክዎን ይምረጡ",
+    "account_security": "የመለያ ደህንነት",
+    "details": "ዝርዝሮች",
+    "edit_details": "ዝርዝሮችን አርትዕ",
+    "no_name": "ስም የለም",
+    "profile_updated_success": "መለያ በተሳካ ሁኔታ ተደራሽ ሆኗል",
+    "company_name": "የኩባንያ ስም",
+    "enter_your_company_name": "የኩባንያዎን ስም አስገባ",
+    "achievements": "ስኬቶች",
+    "enter_your_achievements": "የስኬትዎን ያስገቡ",
+    "timeline": "የጊዜ መርቀት",
+    "start_date": "የጀመራበት ቀን",
+    "end_date": "የመጨረሻ ቀን",
+    "add_another_section": "ሌላ ክፍል ጨምር",
+    "add_section": "ክፍል ጨምር"
+  },
+  "success": {
+    "success": "ተሳክቷል",
+    "success_sent_code": "የማረጋገጫ ኮድ በተሳካ ሁኔታ ተልኳል።"
+  },
+  "error": {
+    "title": "ስህተት",
+    "error_msg": "የሆነ ችግር ተከስቷል። እባክዎ እንደገና �ስሉ።",
+    "session_expired": "የክፍለ ጊዜ ጊዜው አልቋል",
+    "login_again": "እባክዎ ለመቀጠል እንደገና ይግቡ።",
+    "token_missing": "የማረጋገጫ ቶከን የጠፋ ነው።",
+    "error_process_audio": "ድምፅን በማስተካከል �ቅቶ ስህተት ተከስቷል።",
+    "error_process_file": "ፋይል በመስቀል ላይ ስህተት ተፈጥሯል።",
+    "try_again": "ይቅርታ፣ ስህተት ተከስቷል። እባክዎ እንደገና ይሞክሩ።",
+    "no_use_session": "የተጠቃሚ ክፍለ ጊዜ አልተገኘም። እባክዎ እንደገና ይግቡ።",
+    "invalid_response_token_not_found": "ልክ ያልሆነ ምላሽ፡ ቶክን አልተገኘም",
+    "fill_all_fields": "እባክዎ ሁሉንም መስኮቶች ያስገቡ",
+    "network_error": "የአውታረ መረብ ስህተት። እባክዎ የኢንተርኔት ግንኙነትዎን ይመልከቱ።",
+    "session_expired_login": "ክፍለ-ጊዜዎ ጊዜው አለፈ። እባክዎ እንደገና ይግቡ።",
+    "no_permission": "ይህን እርምጃ ለማከናወን ፍቃድ የለዎትም።",
+    "resource_not_found": "የተጠየቀው ምንጭ አልተገኘም።",
+    "invalid_data": "ልክ ያልሆነ ውሂብ ተሰጥቷል። እባክዎ ይመርምሩ እና ደግመው ይሞክሩ።",
+    "server_error": "የሰርቨር ስህተት። እባክዎ በኋላ ደግመው ይሞክሩ።",
+    "something_went_wrong": "አንድ ነገር ተሳስቷል። እባክዎ ደግመው ይሞክሩ።",
+    "case_not_found": "ጉዳይ አልተገኘም",
+    "failed_to_process_request": "የአገልግሎት ጥያቄውን ማስኬድ አልተቻለም"
+  },
+  "change_email": {
+    "send_instruction": "መመሪያ ላክ",
+    "go_back": "ተመለስ",
+    "create_new_pass": "አዲስ የይለፍ ቃል ይፍጠሩ",
+    "current_email": "አሁን ያለው ኢሜይል",
+    "enter_current_email": "አሁን ያለውን ኢሜይል እና ወደሚቀይሩት አዲስ ኢሜይል �ይስጡ።",
+    "new_email": "አዲስ ኢሜይል",
+    "check_your_mail": "ኢሜይልዎን ይፈትሹ",
+    "check_mail_for_verify_account": "የማረጋገጫ ኮድ ወደ ኢሜይልዎ ልከናል። መለያዎን �ለግጠው ለማረጋገጥ ከዚህ በታች ያስገቡት።",
+    "check_mail_for_reset_pass": "የማረጋገጫ ኮድ ወደ ኢሜይልዎ ልከናል። የይለፍ ቃልዎን ለማስተካከል ከዚህ በታች ያስገቡት።",
+    "enter_verification_code": "የማረጋገጫ ኮድ ያስገቡ",
+    "go_back_login": "ወደ መግቢያ ተመለስ",
+    "not_recd_mail": "ኢሜይል አልደረሰዎትም? አውራ ገቢ መልዕክት ይፈትሹ ወይም",
+    "try_other_email": "ሌላ ኢሜይል ይሞክሩ",
+    "resend_code": "ኮድ እንደገና ላክ",
+    "verify_mail": "ኢሜይልዎን ያረጋግጡ",
+    "click_link_to_verify_mail": "አዲሱን ኢሜይል ለማረጋገጥ አገናኙን ይጫኑ",
+    "skip_confirm_later": "ዝለል፣ በኋላ አረጋግጣለሁ",
+    "email_updated": "ኢሜይል ተዘምኗል"
+  },
+  "landing": {
+    "welcome_to": "እንኳን ወደ",
+    "immigration": "የስደት ድጋፍ ቀላል የተደረገ",
+    "create_account": "መለያ ይፍጠሩ",
+    "log_in": "ግባ",
+    "or": "ወይም",
+    "create_pro": "የፕሮ መለያ ይፍጠሩ",
+    "select_pro": "የፕሮ መለያ ይምረጡ",
+    "lawyer": "ጠበቃ",
+    "law_firm": "የሕግ ቢሮ",
+    "hr_legal": "HR/ሕግ (SME)",
+    "a2j_partners": "A2J አጋሮች",
+    "screen_not_exist": "ይህ ማያ ገጽ የለም።",
+    "go_to_home_screen": "ወደ መነሻ ማያ ገጽ ይሂዱ!"
+  },
+  "login": {
+    "password": "የይለፍ ቃል",
+    "login": "ግባ",
+    "remember_me": "አስታውሰኝ",
+    "forgot_password": "የይለፍ ቃል ረሳኽው?",
+    "need_account": "መለያ ያስፈልግዎታል?",
+    "signup": "ይመዝገቡ"
+  },
+  "reset_password": "የይለፍ ቃል ዳግም ያቀናብሩ",
+  "create_new_password": "አዲስ የይለፍ ቃል ይፍጠሩ",
+  "create_account": {
+    "first_name": "ስም",
+    "last_name": "የአባት ስም",
+    "date_of_birth": "የትውልድ ቀን",
+    "country": "አገር",
+    "select_country": "አገር ይምረጡ",
+    "next": "ቀጣይ",
+    "create_account": "መለያ ይፍጠሩ",
+    "date_of_incorporate": "የተቋቋመበት ቀን",
+    "create_pro_account": "የፕሮ መለያ ይፍጠሩ",
+    "hr_legal_account": "HR/ሕግ መለያ",
+    "lawyer_account": "የጠበቃ መለያ",
+    "law_firm_account": "የሕግ ቢሮ መለያ",
+    "a2j_partners_account": "A2J አጋሮች መለያ",
+    "firm_name": "የኩባንያ �ስም",
+    "organisation_name": "የድርጅት ስም",
+    "date_of_establishment": "የተቋቋመበት ቀን",
+    "areasOfLegalFocus": "የሕግ ትኩረት አካባቢዎች",
+    "selectAreasOfLegalFocus": "የሕግ ትኩረት አካባቢዎችን ይምረጡ",
+    "contactPerson": "የግንኙነት ሰው",
+    "registrationCharityNumber": "ምዝገባ/የበጎ አድራጎት ቁጥር",
+    "searchAddress": "አድራሻ ፈልግ",
+    "town": "ከተማ",
+    "postcode": "የፖስታ ኮድ",
+    "address": "አድራሻ",
+    "please_select": "እባክዎ ይምረጡ፡",
+    "legalAidOrganisation": "የሕግ ድጋፍ ድርጅት",
+    "lawCentre": "የሕግ ማዕከል",
+    "proBonoClinic": "Pro-Bono ክሊኒክ",
+    "profile_photo": "የመገለጫ ፎቶ",
+    "profile_photo_required": "ለፕሮ መለያ የመገለጫ ፎቶ ያስፈልጋል",
+    "upload": "ጫን",
+    "please_agree_text": "እባክዎ ውሎቻችንን ይስማሙ",
+    "signup_agreement_text": "በመመዝገብ የእኛን",
+    "terms_of_service": "የአገልግሎት ውሎች",
+    "and_text": "እና",
+    "agree_proceed_button": "ይስማሙ እና ይቀጥሉ",
+    "select_practice_area": "የሥራ አካባቢ ይምረጡ",
+    "already_have_account": "አስቀድመው መለያ አላችሁ?",
+    "account_creat_success": "መለያ በተሳካ ሁኔታ ተፈጥሯል!",
+    "access_detail_msg_legal_assistance": "አሁን ለግል የሕግ ድጋፍ እና ፍላጎቶችዎን በቀላሉ ማስተዳደር ይችላሉ።",
+    "select_practice_areas": "የሥራ አካባቢዎችን ይምረጡ",
+    "contact_person_partner": "የግንኙነት ሰው/አስተዳዳሪ አጋር",
+    "company_regi_number": "የኩባንያ ምዝገባ ቁጥር",
+    "enter_sra_number": "SRA ቁጥር ያስገቡ",
+    "enter_bar_number": "BAR ቁጥር ያስገቡ",
+    "enter_iaa_number": "IAA ቁጥር ያስገቡ",
+    "verify_document": "የመታወቂያ ሰነድን ያረጋግጡ",
+    "reverify_document": "ሰነዱን እንደገና ያረጋግጡ"
+  },
+  "validation": {
+    "missing_info": "መረጃ የጠፋ",
+    "enter_your_name": "እባክዎ �ስምዎን ያስገቡ",
+    "enter_your_email": "እባክዎ ኢሜይል አድራሻዎን ያስገቡ",
+    "enter_your_phone": "እባክዎ ስልክ ቁጥርዎን ያስገቡ",
+    "enter_feedback": "እባክዎ አስተያየት ይስጡ",
+    "valid_first_name": "ስም ቢያንስ 2 ቁምፊዎች ሊሆን ይገባል።",
+    "valid_last_name": "የአባት ስም ቢያንስ 2 ቁምፊዎች ሊሆን ይገባል።",
+    "select_dob": "እባክዎ የትውልድ ቀን ይምረጡ።",
+    "select_country": "እባክዎ አገር ይምረጡ።",
+    "enter_city": "የከተማ መስክ ባዶ ሊሆን አይችልም።",
+    "enter_postcode": "የፖስታ ኮድ መስክ ባዶ ሊሆን አይችልም።",
+    "enter_address": "የአድራሻ መስክ ባዶ ሊሆን አይችልም።",
+    "valid_user_name": "የተጠቃሚ ስም ቢያንስ 3 ቁምፊዎች ርዝመት ሊኖረው ይገባል።",
+    "valid_email": "እባክዎ ትክክለኛ ኢሜይል አድራሻ ያስገቡ።",
+    "valid_password": "የይለፍ ቃል ቢያንስ 8 ቁምፊዎች ርዝመት ሊኖረው ይገባል እና ቢያንስ አንድ ቁጥር ሊያካትት ይገባል።",
+    "valid_organisation": "የድርጅት ስም ቢያንስ 2 ቁምፊዎችን መያዝ አለበት።",
+    "valid_town": "የከተማ መስክ ባዶ ሊሆን አይችልም።",
+    "enter_date_of_incorporate": "እባክዎ የመመረቂያ ቀን ይምረጡ።",
+    "enter_confirm_password": "እባክዎ የማረጋገጫ የይለፍ ቃልዎን ያስገቡ",
+    "valid_confirm_password": "የማረጋገጫ የይለፍ ቃል ቢያንስ 8 ቁምፊዎች ርዝመት ሊኖረው እና ቢያንስ አንድ ቁጥር ሊይዝ ይገባል።",
+    "password_not_match": "የይለፍ ቃሎቹ አይዛመዱም።",
+    "enter_first_name": "እባክዎ የመጀመሪያ ስምዎን ያስገቡ",
+    "enter_last_name": "እባክዎ የአያት ስምዎን ያስገቡ",
+    "document_expired": "ሰነድዎ ጊዜው አልፎበታል። እባክዎ የሚሰራ ሰነድ ያስገቡ።",
+    "document_invalid": "የሰነድ ማረጋገጥ አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "account": {
+    "practice_areas": "የሥራ መስኮች",
+    "services": "አገልግሎቶች",
+    "details": "ዝርዝሮች",
+    "licence": "ፈቃድ",
+    "org_type": "የድርጅት አይነት",
+    "go_back_home": "ወደ መነሻ ቤት ተመለስ"
+  },
+  "chat": {
+    "get_started": "ጀምር",
+    "new_chat": "አዲስ ውይይት",
+    "previous_chat": "ቀደም ሲል ያለ ውይይት",
+    "title": "ውይይት",
+    "waiting": "በመጠበቅ ላይ...",
+    "help": "እገዛ",
+    "end_chat": "ውይይት ጨርስ",
+    "chat_place_holder": "ለLawNeeds መልእክት ይላኩ",
+    "uploading_file": "{{count}} አባሪዎች በመስቀል ላይ ናቸው: {{names}}",
+    "files_uploaded_success": "{{count}} አባሪዎች በተሳካ ሁኔታ ተሰቀሉ።",
+    "uploading_voice_note": "የድምጽ ማስታወሻ በመስቀል ላይ...",
+    "voice_note_uploaded_success": "የድምጽ ማስታወሻ በተሳካ ሁኔታ ተሰቀለ",
+    "open_pdf": "PDF ክፈት",
+    "sample_questions_title": "ናሙና ጥያቄዎች",
+    "you_selected": "መረጡ: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "ሰላም "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": "፣ "
+      },
+      {
+        "type": "token",
+        "content": "እኔ "
+      },
+      {
+        "type": "token",
+        "content": "የLawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "ድጋፍ "
+      },
+      {
+        "type": "token",
+        "content": "ረዳት "
+      },
+      {
+        "type": "token",
+        "content": "ነኝ"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "መረጃ "
+      },
+      {
+        "type": "token",
+        "content": "ብቻ "
+      },
+      {
+        "type": "token",
+        "content": "እሰጣለሁ"
+      },
+      {
+        "type": "token",
+        "content": "፣ "
+      },
+      {
+        "type": "token",
+        "content": "ሙያዊ "
+      },
+      {
+        "type": "token",
+        "content": "ምክር "
+      },
+      {
+        "type": "token",
+        "content": "አልሰጥም"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "ዛሬ "
+      },
+      {
+        "type": "token",
+        "content": "እንዴት "
+      },
+      {
+        "type": "token",
+        "content": "ልረዳዎ "
+      },
+      {
+        "type": "token",
+        "content": "እችላለሁ"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "ውይይቱን ማስመጣት አልተቻለም። እባክዎ እንደገና ይሞክሩ።",
+    "voice_note_ready": "የድምጽ ማስታወሻ ዝግጁ ነው",
+    "tap_to_record": "ለመቅዳት 🔴 ይንኩ",
+    "preview_files": "ፋይሎችን ቅድመ እይታ",
+    "file_selected": "ፋይል ተመርጧል",
+    "files_selected": "ፋይሎች ተመርጠዋል",
+    "upload_files": "ስቀል",
+    "tap_to_preview": "ለመመልከት ይንኩ",
+    "add": "አክል",
+    "today": "ዛሬ",
+    "last_week": "ያለፈው ሳምንት",
+    "last_month": "ያለፈው ወር"
+  },
+  "setting": {
+    "select_language": "ቋንቋ ይምረጡ",
+    "settings": "ቅንብሮች",
+    "app_language": "የመተግበሪያ ቋንቋ",
+    "choose_language": "ቋንቋ ይምረጡ",
+    "notifications": "ማሳወቂያዎች",
+    "submit_feedback": "እገዛ",
+    "about": "ስለ እኛ",
+    "our_philosophy": "ፍልስፍናችን",
+    "account_management": "የመለያ አስተዳደር",
+    "logout": "ውጣ"
+  },
+  "our_philosophy": {
+    "our_vision_header": "ራዕያችን",
+    "our_vision_desc": "በLawNeeds ምርጥ የህግ እርዳታ፣ በተለይም የኢምሬግሬሽን ድጋፍ ለሁሉም በማንኛውም ጊዜ እና ቦታ እንዲደርስባቸው አለን። ስልኮች በዕለታዊ ሕይወት ማእከል እየሆኑ ስለሆነ፣ በእንግሊዝ ውስጥ ሕይወትን ለማቋረጥ ቀላል እና እምነታዊ የህግ እርዳታ እንሰጣለን።",
+    "our_services_header": "አገልግሎቶቻችን",
+    "our_services_desc": "የእኛ መተግበሪያ፣ በተሟላ ሁኔታ የተቆጣጠሩ የህግ ቢሮዎችን፣ ፈቃድ ያላቸውን ህግ ባለሙያዎችን እና የኢምሬግሬሽን አማካይ ሰጪዎችን በብቃት የምታቀርብ ሲሆን፣ በኢምሬግሬሽን ህግ ላይ የተሰማራ አገልግሎት ይሰጣል። በእንግሊዝ ውስጥ ሕይወትን ለማቋረጥ በሰዎች፣ ቤተሰቦች፣ ተማሪዎች እና ባለሞያዎች ድጋፍ እንሰጣለን። እንደምንዛሬ በኢምፕሎይመንት ህግ፣ ቤተሰብ ህግ፣ እና የመንገድ ትራፊክ ብሎች ላይ ደግሞ አገልግሎቶችን በቀላሉ እና በእምነት እንደምናቀርብ እንለምናለን።",
+    "innovation_header": "የፈጠራ ጉዞች",
+    "innovation_desc": "በLawNeeds ውስጥ፣ ፈጠራ የምናደርገውን ሁሉ ይነዳል። የAI ኃይልን በመጠቀም ወዲያውኑ እና ቀንና ሌሊት የሚገኙ በAI የተፈጠሩ የህግ መመሪያዎችን እና በእያንዳንዱ ተጠቃሚ አካባቢና ሁኔታ መሠረት የተበጀ የኢሚግሬሽን ምክር እንሰጣለን።",
+    "community_header": "ማህበረሰብ እና እድገት",
+    "community_desc": "LawNeeds ከመተግበሪያ የበለጠ ነው፤ ይህ አንድ ማህበረሰብ ነው። ስደተኞችን እና ህግ ባለሞያዎችን በፈጠራማ መድረካችን እና ባለባበሮቻችን የእንቅስቃሴ መንገዶች ላይ በማብቃት እናቀርባለን።",
+    "commitment_header": "የጥረት ቃል ኪዳን",
+    "commitment_desc": "LawNeeds የአአ ቴክኖሎጂን ከሰብዓዊ የህግ እይታ ጋር በመያዝ እምነታዊ መመሪያ ይሰጣል። መድረካችን በየእንግሊዝ ውስጥ በብቻው የታሰረ የህግ ዳታ ላይ ተግባራዊ እና የቤተሰብ አባላት የተመረሙ ህገወጥ ሳምንት ተቀባይነት እንዲኖረው ነው።",
+    "join_us_header": "ተቀላቅሉ",
+    "join_us_desc": "እኛ በመነሳት ላይ እንደምንገናኝ፣ ህግ እርዳታ ብቻ ሳይሆን ህግ ስራዎን ለማሳደግ የምታደርጉትን ጉዞ እንከታተላለን። ከLawNeeds ጋር ስኬትዎ እርስዎን ነው።"
+  },
+  "support": {
+    "support_desc": "አስተያየትዎን፣ ችግሮች ወይም አስተካካይ እንዲሁም ሃሳቦች በታች በመካፈል የLawNeedsን አገልግሎት እንዲያሻሽሉ ያግዙን",
+    "feedback_success": "አስተያየት በተሳካ ሁኔታ ተላከ",
+    "name": "ስም",
+    "comment": "አስተያየት",
+    "address": "የተመዘገበ ቢሮ፡ 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "ኢሚግሬሽን ህግ"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "የሥራ ሂደት ህግ"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "የመንገድ ትራፊክ በደል"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "የቤተሰብ ህግ"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "የሕግ ምርምር"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "የሕግ ጽሁፍ"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "የጉዳይ ትንተና"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "የኮንትራት ማቅረብ"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "ውይይት"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "የደንበኛ አማካሪነት"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "የፍርድ ቤት አማካሪነት"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "አገናኝነት"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "መደምደሚያ"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "የተገባው ጥንቃቄ"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "የተመሳሰሉ የህግ ጥናት"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "የአደጋ ግምገማ"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "የሕግ ዘዴ"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "መሻሻል ጥያቄ"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "አጭር ጽሁፍ"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "ማስረጃ መስጠት"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "ማግኘት"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "የስምምነት ውይይት"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "የህጋዊ ትንተና"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "አለምአቀፍ ሕግ"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "የአእምሮ ንብረት"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "ተቀላቀሎችና ማህበራዊ ግንኙነቶች"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "የኩባንያ አስተዳደር"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "የሥራ ግንኙነት"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "የኢምግሬሽን ሂደቶች"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "የእንቅስቃሴ ሕግ"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "የቤተሰብ ሕግ"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "የሥራ ሕግ"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "የወንጀል ሕግ"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "የኩባንያ ሕግ"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "የንብረት ሕግ"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "የግል ደካሞች"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "የአእምሮ ንብረት"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "የቀረጥ ሕግ"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "የውል ሕግ"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "ክስ መከላከያ"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "መካከለኛነት"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "ፍርድ አቅራቢነት"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "የሕግ አማካሪነት"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "የሰነድ እይታ"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "የሕግ ምርምር"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "ተስማሚነት"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "ተቀላቀልና መያዝ"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "ባንክና ፋይናንስ"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "የኢንሹራንስ ሕግ"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "የአካባቢ ሕግ"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "የሰብአዊ መብት ሕግ"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "ዓለም አቀፍ ሕግ"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "የአስተዳደር ሕግ"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "የሕገ-መንግሥት ሕግ"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "አንድ ጊዜ የምክክር አገልግሎት"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "ቀጣይ ድጋፍ"
+    },
+    {
+      "key": "casework",
+      "label": "የክስ ስራ"
+    },
+    {
+      "key": "not_sure",
+      "label": "እስካሁን አልተረጋገጠም"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "መደበኛ (5-7) ቀናት"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "ቅድሚያ (2-3) ቀናት"
+    },
+    {
+      "key": "urgent",
+      "label": "አስቸኳይ (በዚያን ቀን ወይም በማግስቱ)"
+    }
+  ],
+  "search": {
+    "professionals": "ባለሙያዎች",
+    "city": "ከተማ",
+    "distance": "ርቀት",
+    "top_rated": "ከፍተኛ አማራጮች",
+    "more": "ተጨማሪ",
+    "request": "ጥያቄ",
+    "request_service": "አገልግሎት ይጠይቁ",
+    "service": "አገልግሎት",
+    "select_service": "አገልግሎት ይምረጡ",
+    "urgency": "አስቸኳይነት",
+    "select": "ይምረጡ",
+    "additional_notes": "ተጨማሪ ማስታወቂያዎች",
+    "service_request_success": "የአገልግሎት ጥያቄዎ በትክክል ተልኳል",
+    "issue_type": "የችግኝ አይነት",
+    "budget": "በጀት",
+    "select_consultation": "ኮንሱልታን ይምረጡ",
+    "consultation": "ኮንሱልታ",
+    "time_n_rate": "ጊዜ እና ተመን"
+  },
+  "reset_password_info": "ከእርስዎ ጋር የተያያዘውን ኢሜይል ያስገቡ፤ እኛም አዲስ የይለፍ ቃል መቀየር መመሪያዎችን በኢሜይል እናልክላችኋል",
+  "tap_to_upload_image": "ምስል ለማስገባት ይጫኑ",
+  "record": "መዝግብ",
+  "media": "ሚዲያ",
+  "attach": "ይያዙ",
+  "sort_by": "በ… ይደራዱ",
+  "apply": "አተግብሩ",
+  "select_date": "ቀን ይምረጡ",
+  "day": "ቀን",
+  "month": "ወር",
+  "year": "ዓመት",
+  "present": "አሁን",
+  "sector": "ስፋት",
+  "hr": "ሰበር ሁኔታ",
+  "legal": "ህጋዊ",
+  "both": "ሁለቱ",
+  "identity_card": "የማመለከቻ ካርድ",
+  "passport": "ፓስፖርት",
+  "drivers_license": "የአሽከር ፈቃድ",
+  "law_centre": "የህግ ማዕከል",
+  "legal_aid_organisation": "የህጋዊ እገዳ ድርጅት",
+  "beta": "ቤታ",
+  "logged_in": "ገብተዋል",
+  "select_reason": "ምክንያቱን ይምረጡ",
+  "select_area_of_legal_expertise": "የሕግ ልዩ ዘርፍ ይምረጡ",
+  "confirm_password": "የይለፍ ቃልን ያረጋግጡ",
+  "enter_new_password_below": "ከታች የአዲስ የይለፍ ቃል ያስገቡ",
+  "select_a_country": "ሀገር ይምረጡ",
+  "open_email_app": "የኢሜል መተግበሪያ ክፈት",
+  "request_details": "የማመልከቻ ዝርዝር",
+  "accept": "አረጋግጥ",
+  "reject": "አትቀበል",
+  "request_reject_message": "የአገልግሎት ጥያቄ በተሳካው ተዘውግዋል",
+  "document_view": "የሰነድ እይታ",
+  "loading_document": "ሰነዱን በመጫን ላይ",
+  "service_issue_type": "የአገልግሎት ጉዳይ ዓይነት ይምረጡ",
+  "select_consultation_type": "የአማራጭ ዓይነት ይምረጡ",
+  "urgency_level": "የቅድሚያ ደረጃ ይምረጡ",
+  "budget_input": "በጀት ያስገቡ",
+  "attachments": "አቀማመጦች",
+  "user_label": "አንተ",
+  "timestamp": "አሁን",
+  "voice_note": "የድምፅ መልእክት",
+  "comment_placeholder": "አስተያየት ይጻፉ...",
+  "messages": "መልእክቶች",
+  "edit": "አርትዕ",
+  "copy": "ቅጂ",
+  "select_consultation_time": "የምክር ጊዜ ይምረጡ",
+  "request_cancel_success": "የአገልግሎት ጥያቄ ተሳክቶ ተሰርዟል",
+  "accept_request_message": "ይህን ጥያቄ ለመቀበል እርግጠኛ ነዎት?",
+  "reject_request_message": "ይህን ጥያቄ ለመቀበል አትፈልጉም?",
+  "delete_request_message": "ይህን ጥያቄ በእርግጥ መሰረዝ ይፈልጋሉ?",
+  "withdraw_request_message": "ይህን ጥያቄ በእርግጥ ማንሳት ይፈልጋሉ?",
+  "yes": "አዎ",
+  "no": "አይ",
+  "accepted": "ተቀባ",
+  "cancelled": "ተሰርዟል",
+  "pending": "በመጠባበቅ ላይ",
+  "consultation_time": "የምክር ጊዜ",
+  "consultation_type": "የምክር አይነት",
+  "recommended_professionals": "የተመከሩ ባለሙያዎች:",
+  "continue": "ቀጥል",
+  "image": "ምስል",
+  "delete_account": "መለያ አስወግድ",
+  "delete": "ሰርዝ",
+  "delete_confirmation_message": "መለያዎን ማስወገድ እንደሚፈልጉ እርግጠኛ ነዎት? ይህን ተግባር ማቆም አይቻልም።",
+  "delete_account_error_message": "መለያ ማስወገድ ላይ ችግኝ ተከስቷል።",
+  "place_holder_additional_notes": "ስለ ህጋዊ ጉዳይዎ ተጨማሪ ዝርዝሮች ይጻፉ...",
+  "upload_options": "የመጫን አማራጮች:",
+  "select_option": "እባክዎ አንድ አማራጭ ይምረጡ:",
+  "skip": "ዝለል",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "የኢሚግሬሽን ሕግ"
+    },
+    {
+      "key": "employment",
+      "label": "የሥራ ሕግ"
+    },
+    {
+      "key": "road_traffic",
+      "label": "የመንገድ ትራፊክ ጥፋቶች"
+    },
+    {
+      "key": "family",
+      "label": "የቤተሰብ ሕግ"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "አስቸኳይ"
+    },
+    {
+      "key": "within_week",
+      "label": "በአንድ ሳምንት ውስጥ"
+    },
+    {
+      "key": "within_month",
+      "label": "በአንድ ወር ውስጥ"
+    },
+    {
+      "key": "not_urgent",
+      "label": "አልአስቸኳይም"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "የችግኝ አይነት ይምረጡ"
+    },
+    {
+      "key": "urgency",
+      "name": "የአስቸኳይነት ደረጃ ይምረጡ"
+    },
+    {
+      "key": "consultation",
+      "name": "የኮንሰልቴሽን አይነት ይምረጡ"
+    },
+    {
+      "key": "select_time",
+      "name": "ጊዜ እና ዋጋ ይምረጡ"
+    },
+    {
+      "key": "select-budget",
+      "name": "በጀት ይምረጡ"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 ደቂቃ (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 ደቂቃ (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 ደቂቃ (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 ደቂቃ (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 ሰዓት (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 ቀናት (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 ቀናት (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "ከ £700 በላይ"
+    }
+  ],
+  "sample_questions": [
+    "የሕግ ባለሙያ ይጠይቁ",
+    "እኔ Skilled Worker ቪዛ ለማግኘት ብቁ ነኝ?",
+    "የተማሪ ቪዛዬን እንዴት እዘምናለሁ?",
+    "የቋሚ እርምጃ መኖር ህጎች ምንድናቸው?",
+    "በዩኬ አስይል እንዴት እጠይቃለሁ?",
+    "የቪዛ ውሳኔ ለማግኘት ስንት ጊዜ ይፈጅ?"
+  ],
+  "rate_of_hour": "የሰዓት ዋጋ",
+  "search_country": "አገር ፈልግ",
+  "review_error": "ግምገማ ባዶ መሆን አይችልም።",
+  "rating_validation": "እባክዎ ከ 1 እስከ 5 ኮከብ ያለ ደረጃ ይምረጡ።",
+  "create_account_with": "አካውንት ፍጠር በ",
+  "login_with": "ግባ በ",
+  "create_account_email_password": "ኢሜይል/የይለፍ ቃል",
+  "sign_in_with_apple": "በ Apple ግባ",
+  "sign_in_with_google": "በ Google ግባ",
+  "no_cases_available": "ምንም ኬስ የለም",
+  "no_active_cases_available": "ምንም ንቁ ኬስ የለም",
+  "no_pending_cases_available": "ምንም ተጠባቂ ኬስ የለም",
+  "back": "ተመለስ",
+  "submit_review": "ግምገማ አስገባ",
+  "delete_review": "ግምገማ ሰርዝ",
+  "member_since": "ከዚያ ጀምሮ አባል",
+  "work_experience": "የሥራ ልምድ",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "ሙያ",
+  "professional_details": "የሙያ ዝርዝሮች",
+  "review_professional": "ባለሙያን ገምግም",
+  "no_reviews": "እስካሁን ምንም ግምገማ የለም። መጀመሪያ ይሁኑ!",
+  "reviews": "ግምገማዎች",
+  "thanks_feedback": "ስለ አስተያየትዎ እናመሰግናለን!",
+  "accept_case_notification_header": "ጠበቃው ጥያቄዎን ተቀብሏል! 🎉",
+  "accept_case_notification_message_part": " ጉዳይዎን ተቀብሎ ለመርዳት ዝግጁ ነው።",
+  "reject_case_notification_header": "የሪፈራል ማሻሻያ",
+  "reject_case_notification_message_part": " በአሁኑ ጊዜ ጉዳይዎን መቀበል አይችልም።",
+  "delete_case_notification_header": "ጥያቄ ተሰርዟል",
+  "withdraw_case_notification_header": "ጥያቄ ተመልሷል",
+  "delete_case_notification_message_part": " ጥያቄውን ሰርዟል።",
+  "withdraw_case_notification_message_part": " ጥያቄውን መልሷል።",
+  "manuscript": "መነሻ ጽሁፍ",
+  "share_dialog_title": "መነሻ ጽሁፍን አጋራ ወይም አውርድ",
+  "certifications": "ማረጋገጫዎች",
+  "queries_left": "የቀሩ የAI ጥያቄዎች",
+  "voice_notes_limit": "ድምጽ",
+  "uploads_limit": "መጫኛ",
+  "docgen_limit": "የሰነድ ማመንጫ",
+  "current_plan": "አሁን ያለው እቅድ",
+  "faqs": "ተደጋጋሚ ጥያቄዎች",
+  "wallet": "ቦርሳ",
+  "subscription": {
+    "plans_pricing_title": "እቅዶች እና ዋጋ",
+    "plans_pricing_subtitle": "ተጨማሪ ደቂቃዎችን እና ፕሪሚየም ባህሪያትን ክፈት",
+    "syncing_account": "መለያ በማስመሳሰል ላይ...",
+    "processing_purchase": "ግዥ በሂደት ላይ...",
+    "plan_unavailable_title": "እቅድ አይገኝም",
+    "plan_unavailable_message": "ይህን እቅድ በመደብር ውስጥ ማግኘት አልቻልንም።",
+    "purchase_error_title": "የግዥ ስህተት",
+    "purchase_error_message": "ያልተጠበቀ ስህተት ተከስቷል።",
+    "upgrade_plans": "እቅዶችን አሻሽል",
+    "plan_unlimited": "ያልተገደበ",
+    "plan_premium": "ፕሪሚየም",
+    "plan_standard": "መደበኛ",
+    "plan_free_label": "ሁልጊዜ ነፃ",
+    "billing_annually": "በዓመት",
+    "feature_voice_notes": "የድምፅ ማስታወሻዎች",
+    "feature_uploads": "መስቀል",
+    "feature_shared_pool": "ለድምፅ፣ ለመስቀል እና ለዶክስ የጋራ ክምችት",
+    "feature_free_consultation": "ደቂቃ ነፃ ምክክር",
+    "feature_priority_support": "ቅድሚያ ያለው የሰው ድጋፍ ተካትቷል",
+    "feature_ai_queries": "AI የጽሑፍ ጥያቄዎች",
+    "feature_limited": "የተገደበ",
+    "feature_standard_limits": "መደበኛ ገደቦች ይተገበራሉ",
+    "feature_query_reset": "የጥያቄ ገደብ በ12am ይመለሳል",
+    "feature_rollover": "መተላለፍ ይፈቀዳል",
+    "feature_images_max": "ከፍተኛ ምስሎች",
+    "feature_document_max": "ከፍተኛ ሰነዶች",
+    "feature_mb": "ሜባ",
+    "feature_pages": "ገፆች",
+    "label_default_plan": "ነባሪ እቅድ",
+    "cta_subscribe_now": "አሁን ይመዝገቡ",
+    "wallet_loading": "ዋሌት በመጫን ላይ...",
+    "wallet_title": "ዋሌት",
+    "wallet_balance": "የሚገኝ ሂሳብ",
+    "unit_minute": "ደቂቃ",
+    "wallet_top_up": "ተጨማሪ ጫን",
+    "wallet_transactions": "የቅርብ ጊዜ ግብይቶች",
+    "transaction_plan_purchase": "የእቅድ ግዥ",
+    "transaction_legal_query": "ህጋዊ ጥያቄ",
+    "transaction_document_process": "የሰነድ ሂደት",
+    "reference_label": "ማጣቀሻ:",
+    "plan_free": "ነፃ",
+    "unit_min": "ደቂቃ"
+  },
+  "user_name": "የተጠቃሚ ስም",
+  "email": "ኢሜይል",
+  "phone_number": "የስልክ ቁጥር",
+  "urgent": "አስቸኳይ",
+  "contact_support": "ድጋፍን ያግኙ",
+  "minutes": "ደቂቃዎች",
+  "freemium": {
+    "modal": {
+      "title": "የጥያቄ ገደብ ተደርሷል",
+      "timer_label": "እንደገና ይሞክሩ",
+      "timer_format": "{{minutes}}ደ {{seconds}}ሰ",
+      "upgrade_cta": "እቅድ አሻሽል",
+      "loading_text": "ጥያቄዎችዎ በመክፈት ላይ…",
+      "watch_ad_cta": "📺 ማስታወቂያ ይመልከቱ (+{{count}} ጥያቄዎች)",
+      "limit_note": "የfreemium ገደብ: {{count}} ጥያቄዎች / {{hours}} ሰዓታት",
+      "description": "በአለፉት {{hours}} ሰዓታት ውስጥ ሁሉንም {{count}} ነፃ ጥያቄዎች ተጠቅመዋል።",
+      "buy_pass": "{{price}} ዛሬ ያልተገደበ ጥያቄ"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} እቅድ",
+      "queries_left": "{{remaining}} / {{total}} የቀሩ ጥያቄዎች",
+      "daily_pass_active": "✨ ዕለታዊ ፓስ ንቁ ነው",
+      "upgrade_cta": "አሻሽል",
+      "usage_labels": {
+        "voice_notes": "የድምፅ ማስታወሻዎች",
+        "uploads": "መስቀል",
+        "docs": "ዶክስ"
+      },
+      "daily_pass": {
+        "title": "🚀 ዛሬ ያልተገደበ ክፈት",
+        "description": "እስከ እኩለ ሌሊት {{price}} ዕለታዊ ፓስ በመጠቀም ያልተገደበ AI ጥያቄዎች ያግኙ።",
+        "cta": "ዕለታዊ ፓስ ይውሰዱ – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "ገደብ ተደርሷል",
+      "upgrade_cta": "ለመቀጠል ፕላንዎን ያሻሽሉ",
+      "wait_info": "ወይም ቆይተው እንደገና ይሞክሩ፡ {{time}}",
+      "body_message": "ነፃ ገደብዎ ደርሰዋል። ለመቀጠል ያሻሽሉ ወይም ጠብቁ።"
+    }
+  },
+  "plan_card": {
+    "plan_label": "ፕላን",
+    "billing": {
+      "per_period": "በ{{period}}",
+      "always_free": "ሁልጊዜ ነፃ",
+      "discount_badge": "{{discount}}% ቅናሽ በመጀመሪያ ወር",
+      "per_mins": "{{minutes}} ደቂቃ"
+    },
+    "toggle": {
+      "annual": "በዓመት",
+      "monthly": "በወር",
+      "weekly": "በሳምንት",
+      "daily": "በዕለት"
+    },
+    "features": {
+      "voice_notes": "የድምፅ ማስታወሻዎች",
+      "uploads": "መስቀል",
+      "docs": "AI የሰነድ ፍጠር",
+      "minutes": "ደቂቃዎች",
+      "ai_queries": "AI የጽሑፍ ጥያቄዎች",
+      "rollover": "መተላለፍ ይፈቀዳል",
+      "shared_pool": "• ለድምፅ፣ ለመስቀል እና ለዶክስ የጋራ ክምችት",
+      "free_consultation": "• {{minutes}} ደቂቃ ነፃ ምክክር ተካትቷል",
+      "priority_support": "• ቅድሚያ ያለው የሰው ድጋፍ ተካትቷል",
+      "file_caps_title": "የፋይል መጠን እና ገፅ ገደቦች",
+      "image_max": "ከፍተኛ ምስሎች",
+      "doc_max": "ከፍተኛ ሰነዶች"
+    },
+    "limits": {
+      "unlimited": "ያልተገደበ",
+      "limited": "የተገደበ",
+      "none": "የለም",
+      "yes": "አዎ"
+    },
+    "notes": {
+      "standard_limits": "መደበኛ ገደቦች ይተገበራሉ",
+      "reset_time": "የጥያቄ ገደብ በ12am ይመለሳል"
+    },
+    "cta": {
+      "default_plan": "ነባሪ እቅድ",
+      "current_plan": "ያሁኑ እቅድ",
+      "subscribe": "አሁን ይመዝገቡ"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "የወር ገደብ ተደርሷል",
+      "title_paid": "ደቂቃዎችዎ አልቀዋል",
+      "description_freemium": "ለድምፅ ማስታወሻ፣ ለፋይል መስቀል እና ለሰነድ ፍጠር ያሉ 6 ነፃ ወርሃዊ ክሬዲቶችዎን ሁሉ ተጠቅመዋል።",
+      "description_paid": "ይህን እርምጃ ለመጨረስ በቂ ደቂቃዎች የሉዎትም። ተጨማሪ ለማግኘት ይሙሉ ወይም አሻሽሉ።",
+      "upgrade_premium": "ወደ ፕሪሚየም አሻሽል",
+      "topup_cta": "ደቂቃዎችን ሙሉ",
+      "view_usage": "የክሬዲት አጠቃቀም ዝርዝር ይመልከቱ"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "ደቂቃዎችን ሙሉ",
+      "subtitle": "ለመቀጠል ተጨማሪ ደቂቃዎች ይግዙ።",
+      "alerts": {
+        "low_minutes": "የደቂቃዎችዎን {{percentage}}% ተጠቅመዋል። አሁን ይሙሉ!",
+        "limit_reached": "የወር ሙሉ ገደብ ተደርሷል ({{used}}/{{limit}})",
+        "limit_popup_title": "የሙሉ ገደብ ተደርሷል",
+        "limit_popup_message": "የወር ሙሉ ገደብን አልፈዋል።"
+      },
+      "slider": {
+        "label": "ለመግዛት የሚፈልጉት ደቂቃዎች",
+        "minutes_value": "{{minutes}} ደቂቃዎች",
+        "min": "{{min}} ደቂቃ",
+        "max": "{{max}} ደቂቃ"
+      }
+    }
+  },
+  "show_less": "አነስ አሳይ",
+  "show_more": "ተጨማሪ አሳይ",
+  "updating_balance": "ሒሳብ በመዘመን ላይ...",
+  "usage_limits": "የአጠቃቀም ገደቦች",
+  "voice_notes": "የድምጽ ማስታወሻዎች",
+  "uploads": "ሰቀላዎች",
+  "usage_history": "የአጠቃቀም ታሪክ",
+  "manage_plan": "እቅድን አስተዳድር",
+  "cancel_subscription": "ምዝገባን ሰርዝ",
+  "explore_premium_plans": "ፕሪሚየም እቅዶችን ይመልከቱ",
+  "used": "ተጠቅመዋል",
+  "total": "ጠቅላላ",
+  "unlimited": "ያልተገደበ",
+  "manage_subscription_title": "ምዝገባን አስተዳድር",
+  "manage_subscription_desc": "ቅንብሮችዎን ለማስተዳደር ወደ መደብሩ ይዛወራሉ። ሄዳችሁ በመሆኑ እናዝናለን!",
+  "stay_with_us": "ከእኛ ጋር ይቆዩ",
+  "open_store_error": "የመደብር አገናኝ መክፈት አልተቻለም።",
+  "subscription_fetch_error": "የምዝገባ መረጃ መሳብ አልተቻለም።",
+  "unit_min": "ደቂቃ",
+  "no_transaction_yet": "እስካሁን ምንም ግብይቶች የሉም!",
+  "feedback_hint_message": "የራስዎን ልምድ ዝርዝሮች ያጋሩ",
+  "withdraw": "አንሳ",
+  "issue_summary": "የችግኝ ማጠቃለያ",
+  "disclaimer": "ማስጠንቀቂያ",
+  "disclaimer_message": "LawNeeds AI Support Assistant መመሪያን ለመረጃ ዓላማ ብቻ ይሰጣል።",
+  "disclaimer_button": "እቀበላለሁ",
+  "filter": {
+    "title": "ማጣሪያ",
+    "sortBy": "በመሠረት ይደርድሩ",
+    "commonServices": "የተለመዱ አገልግሎቶች",
+    "practiceAreas": "የስራ መስኮች",
+    "professionalTypes": "የሙያ አይነቶች",
+    "sortOptions": {
+      "alphabetical": "በፊደል ቅደም ተከተል",
+      "relevance": "ተዛማጅነት",
+      "experience": "ልምድ"
+    }
+  },
+  "common": {
+    "upgrade_now": "አሁን ያሻሽሉ",
+    "close": "ዝጋ",
+    "maybe_later": "ምናልባት በኋላ",
+    "not_now": "አሁን አይደለም",
+    "pay": "ክፍያ {{currency}}{{amount}}",
+    "total_cost": "አጠቃላይ ወጪ:",
+    "usage_limit_reached": "የአጠቃቀም ገደብ ደርሷል",
+    "apply": "ተግብር",
+    "cancel": "ሰርዝ",
+    "error": "ስህተት",
+    "success": "ስኬት",
+    "processing": "በሂደት ላይ...",
+    "something_wrong": "አንድ ነገር ተሳስቷል",
+    "no_data_available": "ምንም ውሂብ የለም"
+  },
+  "daily_pass_success": "ፕላኑ በተሳካ ሁኔታ ተገዝቷል!",
+  "daily_pass_not_found": "የቀን ፓስ አልተገኘም።",
+  "purchase_failed": "ግዢ አልተሳካም",
+  "expires": "ያበቃል: {{expiryDate}}",
+  "active": "ንቁ",
+  "pricing": {
+    "confirm_price": "ብግል ዋጋ",
+    "propose_price": "ዋጋ ያቅርቡ",
+    "enter_amount": "መጠኑን ያስገቡ",
+    "invalid_amount": "ትክክለኛ መጠን ያስገቡ",
+    "amount_range": "መጠኑ በ ₹{{min}} - ₹{{max}} መካከል መሆን አለበት",
+    "range": "ዝቅተኛ: ₹{{min}} | ከፍተኛ: ₹{{max}}",
+    "price_confirmed": "ዋጋው ተረጋግጧል",
+    "price_proposed": "ዋጋው ቀርቧል",
+    "confirm_price_btn": "ያረጋግጡ",
+    "submit_price_btn": "አስገባ",
+    "load_failed": "የዋጋ መረጃ መጫን አልተሳካም",
+    "title": "ዋጋ",
+    "not_proposed_message": "ዋጋው ገና አልተዘጋጀም። ለመቀጠል እባክዎ ዋጋ ያስገቡ።"
+  },
+  "payment": {
+    "header_title": "ክፍያ",
+    "total_amount": "ጠቅላላ መጠን",
+    "platform_fee": "የመድረክ ክፍያ",
+    "lawyer_receives": "ጠበቃው የሚቀበለው",
+    "pay_button": "ክፈል £ {{amount}}",
+    "preparing_payment": "ደህንነቱ የተጠበቀ ክፍያ በማዘጋጀት ላይ...",
+    "alerts": {
+      "error_title": "ስህተት",
+      "init_failed": "የክፍያ ማስጀመር አልተሳካም",
+      "unable_to_load": "ክፍያውን መጫን አልተቻለም",
+      "payment_failed_title": "ክፍያው አልተሳካም",
+      "generic_error": "የሆነ ችግር ተፈጥሯል",
+      "success_title": "ስኬት",
+      "success_message": "ክፍያው በተሳካ ሁኔታ ተጠናቋል!"
+    },
+    "notification_title": "ክፍያ ተቀብሏል",
+    "notification_message": "{{name}} ክፍያውን አጠናቀቀ። ምክክሩን መጀመር ይችላሉ።"
+  },
+  "consultation": {
+    "ended_title": "ውይይቱ አልቋል",
+    "ended_message": "ጊዜው አልቋል",
+    "pending": "በመጠባበቅ ላይ",
+    "active": "በመቀጠል ላይ",
+    "completed": "ተጠናቋል"
+  },
+  "file": {
+    "uploading_image": "ምስል በመስቀል ላይ...",
+    "uploading_video": "ቪዲዮ በመስቀል ላይ...",
+    "uploading_file": "ፋይል በመስቀል ላይ...",
+    "upload_failed": "መስቀሉ አልተሳካም",
+    "upload_failed_message": "ፋይሉን መላክ አልተቻለም።",
+    "open_pdf": "PDF ክፈት",
+    "open_doc": "DOC ክፈት",
+    "open_file": "ፋይል ክፈት"
+  },
+  "notification": {
+    "lawyer_message": "የጠበቃ መልእክት",
+    "new_message": "አዲስ መልእክት"
+  },
+  "live": "ቀጥታ",
+  "stripe_connected": "Stripe ተገናኝቷል",
+  "connect_with_stripe": "ከStripe ጋር ይገናኙ",
+  "payments": "ክፍያዎች",
+  "beta_instructions": "የቤታ መመሪያዎች",
+  "status": {
+    "title": "ሁኔታ",
+    "paid": "ተከፍሏል",
+    "unpaid": "አልተከፈለም"
+  },
+  "stripe_not_onboarded_title": "የክፍያ ማዋቀር አልተጠናቀቀም",
+  "stripe_not_onboarded_message": "የውይይት ጥያቄዎችን ለመቀበል ከቅንብሮች ትር ውስጥ ያለውን Stripe የክፍያ ማዋቀርዎን ያጠናቅቁ።",
+  "case_folder": "የጉዳይ አቃፊ",
+  "case_helped": "የተረዱ ጉዳዮች",
+  "satisfied": "ረክቷል",
+  "rejected": "ውድቅ የተደረገ",
+  "withdrawn": "የተመለሰ",
+  "deleted": "የተሰረዘ",
+  "consultation_history": "የምክር ታሪክ",
+  "pay": "ክፈል",
+  "start_consultation": "ምክር ጀምር",
+  "waiting_for_session": "ክፍለ ጊዜን በመጠበቅ ላይ",
+  "waiting_for_payment": "ክፍያን በመጠበቅ ላይ",
+  "activity": "እንቅስቃሴ",
+  "one_minute_warning_title": "⏰ 1 ደቂቃ ቀርቷል",
+  "one_minute_warning_body": "የእርስዎ የምክር ክፍለ ጊዜ በ1 ደቂቃ ውስጥ ያበቃል።",
+  "default_notification_title": "ማሳወቂያ",
+  "no_notifications": "እስካሁን ማሳወቂያዎች የሉም",
+  "i_agree": "እሳማማ አለህው",
+  "terms_condition_1": "1. ይህን መተግበሪያ በመጠቀም፣ በእነዚህ ውሎች ተስማምተሃል እና ቢያንስ 18 አመት መሆን አለብህ።",
+  "terms_condition_3": "3. LawNeeds AI ድጋፍ ሰጪ ረዳት መረጃ ሰጭ የህግ መመሪያ ይሰጣል። ይህ የሕግ ምክርን አያካትትም።",
+  "terms_condition_4": "4. ትክክለኛ እና እውነተኛ መረጃ የመስጠት ሃላፊነት እርስዎ ነዎት።",
+  "i_dont_agree": "አልስማማም።",
+  "terms_and_conditions": "ውሎች እና ሁኔታዎች",
+  "terms_condition_2": "2. LawNeeds የህግ ድጋፍ ይሰጣል ነገር ግን ሙያዊ የህግ ውክልና አይተካም።",
+  "terms_condition_5": "5. መረጃህ የግል ነው፣ ነገር ግን የመለያህን ምስክርነቶች በሚስጥር መያዝ አለብህ።",
+  "welcome_to_lawneeds": "ወደ LawNeeds እንኳን በደህና መጡ!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "የባለሙያ ሰራተኛ ቪዛ",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "የተማሪ ቪዛ",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "የጉብኝት ቪዛ",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "የዘር ሐረግ ቪዛ",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "የትዳር አጋር / ፓርትነር ቪዛ",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "የPBS ጥገኞች",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "የቤተሰብ መቀላቀል",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (የ10 ዓመት መንገድ)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "የዜግነት ማግኘት",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "የEU የመኖሪያ እቅድ",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), የሰብዓዊ መብት ማመልከቻዎች",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "የጥገኝነት ማመልከቻዎች (ሙሉ ድጋፍ)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "ሙሉ የጉዳይ አስተዳደር (ከመጀመሪያ እስከ መጨረሻ)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "ፈጣን",
+  "basic": "መሰረታዊ",
+  "verified": "ሰነድ ተረጋግጧል",
+  "verification_failed": "ማረጋገጥ አልተሳካም",
+  "verification_cancelled": "ማረጋገጥ ተሰርዟል",
+  "delete_review_confirm": "እርግጠኛ ነህ ይህንን ግምገማ መሰረዝ ይፈልጋሉ?",
+  "casework_service": "የጉዳይ አገልግሎት",
+  "casework_price_range": "የጉዳይ ዋጋ ክልል",
+  "tour_previous_chat_title": "የቀድሞ ውይይት",
+  "tour_previous_chat_desc": "ያለፉ ውይይቶችዎን እዚህ ይመልከቱ።",
+  "tour_new_chat_title": "አዲስ ውይይት",
+  "tour_new_chat_desc": "አዲስ ሕጋዊ ጥያቄ ለመጀመር እዚህ መታ ያድርጉ።",
+  "tour_notifications_title": "ማሳወቂያዎች",
+  "tour_notifications_desc": "አስፈላጊ ዝመናዎችን እና ማሳወቂያዎችን እዚህ ይመልከቱ።",
+  "tour_inbox_title": "ገቢ መልዕክቶች",
+  "tour_inbox_desc": "መልዕክቶችዎን እና ጉዳይ ምላሾችን እዚህ ያስተዳድሩ።",
+  "tour_language_title": "ቋንቋ",
+  "tour_language_desc": "የሚመርጡትን የመተግበሪያ ቋንቋ እዚህ ይምረጡ።",
+  "tour_chat_history_title": "የውይይት ታሪክ",
+  "tour_chat_history_desc": "ያለፉ ውይይቶችዎን ይመልከቱ እና ይቀጥሉ።",
+  "tour_current_plan_title": "የአሁኑ ፕላን",
+  "tour_current_plan_desc": "የአሁኑን ምዝገባ ዝርዝሮችዎን እዚህ ይመልከቱ።",
+  "tour_usage_history_title": "የአጠቃቀም ታሪክ",
+  "tour_usage_history_desc": "ምን ያህል ደቂቃዎች እና ባህሪያት እንደጠቀሙ ይከታተሉ።",
+  "tour_request_legal_help_title": "ሕጋዊ እርዳታ ይጠይቁ",
+  "tour_request_legal_help_desc": "ከባለሙያዎች ጋር ለመገናኘት አዲስ ጥያቄ ይጀምሩ።",
+  "tour_wallet_title": "ዋሌት",
+  "tour_wallet_desc": "የዋሌት ቀሪ ሂሳብዎን እና ግብይቶችዎን ይመልከቱ።",
+  "tour_top_up_title": "ገንዘብ ይጨምሩ",
+  "tour_top_up_desc": "ለAI ባህሪያት፣ ሰቀላዎች እና ምክክሮች ተጨማሪ ደቂቃዎች ለማግኘት ገንዘብ ይጨምሩ።",
+  "tour_search_desc": "አንድ ባለሙያ ለመፈለግ ስም ያስገቡ።",
+  "tour_explore_subscribe_plans": "ፕላንዎን ለማሰስ እና ለማሻሻል እዚህ መታ ያድርጉ።",
+  "tour_explore_upgrade_plans": "ፕሪሚየም ባህሪያትን ለማንቃት ፕላንዎን ያሻሽሉ።",
+  "tour_lawyer_stripe_connected": "የStripe መለያዎ ተገናኝቷል እና ክፍያ ለመቀበል ዝግጁ ነው።",
+  "tour_lawyer_stripe_not_connected": "ከደንበኞች ክፍያ ለመቀበል Stripe ያገናኙ።",
+  "profile_completion": {
+    "title": "መገለጫዎን ያጠናቅቁ",
+    "description": "ከመቀጠልዎ በፊት እባክዎ ዝርዝሮችዎን ያረጋግጡ።",
+    "first_name": "የመጀመሪያ ስም *",
+    "last_name": "የአባት ስም *",
+    "saving": "በማስቀመጥ ላይ...",
+    "save_continue": "አስቀምጥ እና ቀጥል",
+    "update_profile_failed": "መገለጫውን ማዘመን አልተቻለም"
+  },
+  "auth": {
+    "session_expired": "የመግቢያ ክፍለ ጊዜዎ ጊዜው አልፏል። እባክዎ እንደገና ይሞክሩ።",
+    "login_failed": "መግባት አልተቻለም። እባክዎ እንደገና ይሞክሩ።",
+    "google_login_failed": "በGoogle መግባት አልተሳካም። እባክዎ እንደገና ይሞክሩ።",
+    "apple_login_failed": "በApple መግባት አልተሳካም። እባክዎ እንደገና ይሞክሩ።",
+    "authorization_failed": "ከማረጋገጫ አገልግሎት ጋር መገናኘት አልተቻለም። በኋላ ይሞክሩ።",
+    "invalid_redirect": "በመግባት ላይ ሳሉ ችግር ተፈጥሯል። እባክዎ እንደገና ይሞክሩ።",
+    "cancelled_login": "መግባት ተሰርዟል።",
+    "invalid_response": "መግቢያዎን ማጠናቀቅ አልቻልንም። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "tour_service_request_title": "ጥያቄ",
+  "tour_service_request_desc": "የአገልግሎት ጥያቄን በቀጥታ ለሕጋዊ ባለሙያ ይላኩ። ቅጹን ይሙሉ፣ እንደሚያስፈልግ ማስታወሻዎች ወይም ሰነዶችን ያክሉ፣ ባለሙያውም ሲገኝ ይነገረዋል።",
+  "tour_request_form_title": "የጥያቄ ቅጽ",
+  "tour_request_form_desc": "ስለ የህግ ጉዳይዎ፣ የምክር ፍላጎቶችና አስቸኳይነቱ መረጃ ያቅርቡ። ባለሙያው ሁኔታዎን እንዲረዳ ሰነዶችን ማስገባት ወይም የድምጽ ማስታወሻዎችን ማከል ይችላሉ።",
+  "no_data": "ምንም መረጃ የለም",
+  "duplicate_file_attached": "\"{{filename}}\" አስቀድሞ ተያይዟል።",
+  "duplicate_file_attached_as": "\"{{filename}}\" እንደ \"{{existingLabel}}\" አስቀድሞ ተያይዟል።",
+  "consultation_consent_prefix": "በመጫን",
+  "consultation_consent_middle": "፣ ምክክርዎ በ14 ቀናት ውስጥ ከተሰጠ የሕጋዊ የመሰረዝ መብትዎ ከዚያ በኋላ አይተገበርም ብለው እንደሚቀበሉ ይህ ማለት ነው። አሁንም በእኛ",
+  "cancellation_policy": "የስረዛ ፖሊሲ",
+  "home_actions": {
+    "ask_ai": "LawNeeds AI ይጠይቁ",
+    "ask_ai_description": "ከLawNeeds AI ቻትቦት መመሪያ ያግኙ።",
+    "find_professional": "ባለሙያ ያግኙ",
+    "find_professional_description": "ሊረዳዎ የሚችል የሕግ ባለሙያ ይፈልጉ።",
+    "book_consultation": "ምክክር ያስይዙ",
+    "book_consultation_description": "ምክክር ለማዘጋጀት የሪፈራል ሂደቱን ይጀምሩ።"
+  }
+}

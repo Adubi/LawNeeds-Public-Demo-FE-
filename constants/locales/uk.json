@@ -1,0 +1,1456 @@
+{
+  "submit": "Надіслати",
+  "cancel": "Скасувати",
+  "done": "Готово",
+  "ok": "Ок",
+  "next": "Далі",
+  "save": "Зберегти",
+  "privacy_policy": "Політика конфіденційності",
+  "terms_n_conditions": "Умови та положення",
+  "per": {
+    "camera_roll": "Потрібен дозвіл на доступ до галереї камери! Увімкніть його в налаштуваннях пристрою.",
+    "microphone_access": "Потрібен доступ до мікрофона.",
+    "permission_denied": "Дозвіл відхилено",
+    "notification_permission_not_granted": "Дозвіл на сповіщення не надано"
+  },
+  "policy_text": {
+    "i_agree": "Я погоджуюсь",
+    "i_dont_agree": "Я не погоджуюсь",
+    "label_1": "1. Інформація, яку ми збираємо: Особисті дані (ім’я, електронна пошта, телефон, адреса), технічні дані (IP‑адреса, тип браузера, ОС), дані про використання та маркетингові уподобання.",
+    "label_2": "2. Як ми збираємо вашу інформацію: через прямі взаємодії, автоматичні технології та сторонніх інструментів.",
+    "label_3": "3. Використання інформації: для надання та підтримки сервісу, управління вашим обліковим записом, дотримання юридичних вимог та вдосконалення наших послуг.",
+    "label_4": "4. Розкриття інформації: постачальникам послуг, юридичним та державним органам, а також у зв’язку з передачами бізнесу.",
+    "label_5": "5. Безпека та зберігання даних: ми впроваджуємо заходи безпеки та зберігаємо дані лише стільки, скільки необхідно.",
+    "label_6": "6. Ваші юридичні права: ви маєте право доступу, виправлення, видалення, обмеження, передачі даних та відкликання згоди на їх використання.",
+    "label_7": "7. Особлива категорія: я прямо надаю згоду на обробку будь-яких даних особливої категорії, які я надаю, включно з інформацією про моє етнічне походження та іншими чутливими персональними даними, з метою відповіді на мій запит. Я можу відкликати свою згоду в будь-який час, надіславши електронного листа на info@lawneeds.co.uk.",
+    "policy_details": "Ця політика конфіденційності пояснює, як ми збираємо, використовуємо, розкриваємо та захищаємо ваші дані під час використання нашого мобільного додатку. Використовуючи наш сервіс, ви погоджуєтесь з умовами цієї політики.",
+    "review_message": "Будь ласка, ознайомтеся з нашою",
+    "privacy_policy": "Політикою конфіденційності"
+  },
+  "tab": {
+    "account": "Акаунт",
+    "chat": "Чат",
+    "home": "Головна",
+    "settings": "Опції",
+    "inbox": "Вхідні",
+    "search": "Пошук"
+  },
+  "profile": {
+    "firm_name": "Назва фірми",
+    "practice_areas_label": "Сфери діяльності",
+    "services": "Послуги",
+    "first_name": "Ім’я",
+    "last_name": "Прізвище",
+    "about": "Про себе",
+    "skills": "Навички",
+    "organisation_name": "Назва організації",
+    "areas_of_legal_focus": "Сфери юридичного фокусування",
+    "professional_employer": "Професійний працедавець",
+    "area_of_legal_expertise": "Область юридичної експертизи",
+    "max_of_four": "Макс. чотири",
+    "max_of_two": "Макс. два",
+    "characters": "символів",
+    "please_select": "Будь ласка, виберіть",
+    "account_security": "Безпека облікового запису",
+    "details": "Деталі",
+    "edit_details": "Редагувати деталі",
+    "no_name": "Без імені",
+    "profile_updated_success": "Профіль успішно оновлено",
+    "company_name": "Назва компанії",
+    "enter_your_company_name": "Введіть назву компанії",
+    "achievements": "Досягнення",
+    "enter_your_achievements": "Введіть ваші досягнення",
+    "timeline": "Хронологія",
+    "start_date": "Дата початку",
+    "end_date": "Дата завершення",
+    "add_another_section": "Додати ще розділ",
+    "add_section": "Додати розділ"
+  },
+  "success": {
+    "success": "Успіх",
+    "success_sent_code": "Код підтвердження успішно надіслано."
+  },
+  "error": {
+    "title": "Помилка",
+    "error_msg": "Щось пішло не так. Будь ласка, спробуйте ще раз.",
+    "session_expired": "Сесія закінчилася",
+    "login_again": "Будь ласка, увійдіть знову, щоб продовжити.",
+    "token_missing": "Відсутній токен автентифікації.",
+    "error_process_audio": "Під час обробки аудіо сталася помилка.",
+    "error_process_file": "Під час завантаження файлу сталася помилка.",
+    "try_again": "Вибачте, сталася помилка. Будь ласка, спробуйте ще раз.",
+    "no_use_session": "Сесію користувача не знайдено. Будь ласка, увійдіть знову.",
+    "invalid_response_token_not_found": "Неправильна відповідь: токен не знайдено",
+    "fill_all_fields": "Будь ласка, заповніть усі поля",
+    "network_error": "Помилка мережі. Перевірте інтернет-з’єднання.",
+    "session_expired_login": "Ваш сеанс завершився. Увійдіть знову.",
+    "no_permission": "У вас немає дозволу виконати цю дію.",
+    "resource_not_found": "Запитаний ресурс не знайдено.",
+    "invalid_data": "Надано некоректні дані. Перевірте й спробуйте ще раз.",
+    "server_error": "Помилка сервера. Спробуйте пізніше.",
+    "something_went_wrong": "Щось пішло не так. Спробуйте ще раз.",
+    "case_not_found": "Справу не знайдено",
+    "failed_to_process_request": "Не вдалося обробити запит на послугу"
+  },
+  "change_email": {
+    "send_instruction": "Надіслати інструкцію",
+    "go_back": "Повернутись",
+    "create_new_pass": "Створити новий пароль",
+    "current_email": "Поточний e‑mail",
+    "enter_current_email": "Введіть поточний та новий e‑mail, на який хочете змінити.",
+    "new_email": "Новий e‑mail",
+    "check_your_mail": "Перевірте свою пошту",
+    "check_mail_for_verify_account": "Ми надіслали код підтвердження на вашу пошту. Введіть його нижче, щоб підтвердити акаунт.",
+    "check_mail_for_reset_pass": "Ми надіслали код підтвердження на вашу пошту. Введіть його нижче, щоб скинути пароль.",
+    "enter_verification_code": "Введіть код підтвердження",
+    "go_back_login": "Повернутись до входу",
+    "not_recd_mail": "Не отримали листа? Перевірте папку Спам або",
+    "try_other_email": "Спробуйте інший e‑mail",
+    "resend_code": "Відправити код повторно",
+    "verify_mail": "Підтвердити пошту",
+    "click_link_to_verify_mail": "Натисніть посилання для підтвердження нового e‑mail",
+    "skip_confirm_later": "Пропустити, підтверджу пізніше",
+    "email_updated": "Пошта оновлена"
+  },
+  "landing": {
+    "welcome_to": "Ласкаво просимо до",
+    "immigration": "Міграційна підтримка без проблем",
+    "create_account": "Створити акаунт",
+    "log_in": "Увійти",
+    "or": "або",
+    "create_pro": "Створити професійний акаунт",
+    "select_pro": "Вибрати професійний акаунт",
+    "lawyer": "Адвокат",
+    "law_firm": "Юридична фірма",
+    "hr_legal": "HR/юридичний (ММСП)",
+    "a2j_partners": "Партнери A2J",
+    "screen_not_exist": "Такого екрану не існує.",
+    "go_to_home_screen": "Перейти на головний екран!"
+  },
+  "login": {
+    "password": "Пароль",
+    "login": "Увійти",
+    "remember_me": "Запам’ятати мене",
+    "forgot_password": "Забули пароль?",
+    "need_account": "Потрібен акаунт?",
+    "signup": "Реєстрація"
+  },
+  "reset_password": "Скинути пароль",
+  "create_new_password": "Створити новий пароль",
+  "create_account": {
+    "first_name": "Ім’я",
+    "last_name": "Прізвище",
+    "date_of_birth": "Дата народження",
+    "country": "Країна",
+    "select_country": "Вибрати країну",
+    "next": "Далі",
+    "create_account": "Створити акаунт",
+    "date_of_incorporate": "Дата реєстрації",
+    "create_pro_account": "Створити професійний акаунт",
+    "hr_legal_account": "Обліковий запис HR/юридичний",
+    "lawyer_account": "Обліковий запис адвоката",
+    "law_firm_account": "Акаунт юридичної фірми",
+    "a2j_partners_account": "Акаунт партнерів A2J",
+    "firm_name": "Назва фірми",
+    "organisation_name": "Назва організації",
+    "date_of_establishment": "Дата заснування",
+    "areasOfLegalFocus": "Сфери юридичного фокусу",
+    "selectAreasOfLegalFocus": "Вибрати сфери юридичного фокусу",
+    "contactPerson": "Контактна особа",
+    "registrationCharityNumber": "Реєстраційний / благодійний номер",
+    "searchAddress": "Пошук адреси",
+    "town": "Місто",
+    "postcode": "Поштовий індекс",
+    "address": "Адреса",
+    "please_select": "Будь ласка, виберіть:",
+    "legalAidOrganisation": "Організація правової допомоги",
+    "lawCentre": "Правовий центр",
+    "proBonoClinic": "Клініка Pro‑Bono",
+    "profile_photo": "Фоточка профілю",
+    "profile_photo_required": "Фотографія профілю обов’язкова для професійного акаунта",
+    "upload": "Завантажити",
+    "please_agree_text": "Будь ласка, погодьтеся з нашими умовами",
+    "signup_agreement_text": "Реєструючись, ви погоджуєтеся з нашими",
+    "terms_of_service": "Умовами використання",
+    "and_text": "та",
+    "agree_proceed_button": "Погодитися та продовжити",
+    "select_practice_area": "Вибрати сферу діяльності",
+    "already_have_account": "Вже маєте акаунт?",
+    "account_creat_success": "Акаунт успішно створено!",
+    "access_detail_msg_legal_assistance": "Тепер ви можете отримати персоналізовану юридичну допомогу та легко керувати своїми потребами.",
+    "select_practice_areas": "Вибрати сфери діяльності",
+    "contact_person_partner": "Контактна особа / керуючий партнер",
+    "company_regi_number": "Реєстраційний номер компанії",
+    "enter_sra_number": "Введіть номер SRA",
+    "enter_bar_number": "Введіть номер BAR",
+    "enter_iaa_number": "Введіть номер IAA",
+    "verify_document": "Підтвердьте документ, що посвідчує особу",
+    "reverify_document": "Повторно підтвердьте документ"
+  },
+  "validation": {
+    "missing_info": "Відсутня інформація",
+    "enter_your_name": "Будь ласка, введіть ім’я",
+    "enter_your_email": "Будь ласка, введіть електронну пошту",
+    "enter_your_phone": "Будь ласка, введіть номер телефону",
+    "enter_feedback": "Будь ласка, залиште відгук",
+    "valid_first_name": "Ім’я має бути принаймні 2 символи.",
+    "valid_last_name": "Прізвище має бути принаймні 2 символи.",
+    "select_dob": "Будь ласка, виберіть дату народження.",
+    "select_country": "Будь ласка, оберіть країну.",
+    "enter_city": "Поле міста не може бути порожнім.",
+    "enter_postcode": "Поле поштового індексу не може бути порожнім.",
+    "enter_address": "Поле адреси не може бути порожнім.",
+    "valid_user_name": "Ім’я користувача має бути принаймні 3 символи.",
+    "valid_email": "Будь ласка, введіть дійсну електронну адресу.",
+    "valid_password": "Пароль має бути мінімум 8 символів і містити хоча б одну цифру.",
+    "valid_organisation": "Назва організації має бути принаймні 2 символи.",
+    "valid_town": "Поле 'Місто' не може бути порожнім.",
+    "enter_date_of_incorporate": "Будь ласка, оберіть дату реєстрації.",
+    "enter_confirm_password": "Будь ласка, введіть пароль підтвердження",
+    "valid_confirm_password": "Пароль підтвердження має містити щонайменше 8 символів і принаймні одну цифру.",
+    "password_not_match": "Паролі не збігаються.",
+    "enter_first_name": "Будь ласка, введіть ім’я",
+    "enter_last_name": "Будь ласка, введіть прізвище",
+    "document_expired": "Термін дії вашого документа закінчився. Будь ласка, завантажте дійсний документ.",
+    "document_invalid": "Не вдалося підтвердити документ. Будь ласка, спробуйте ще раз."
+  },
+  "account": {
+    "practice_areas": "Сфери діяльності",
+    "services": "Послуги",
+    "details": "Деталі",
+    "licence": "Ліцензія",
+    "org_type": "Тип організації",
+    "go_back_home": "Повернутись на головну"
+  },
+  "chat": {
+    "get_started": "Почати",
+    "new_chat": "Новий чат",
+    "previous_chat": "Попередні чати",
+    "title": "Чат",
+    "waiting": "Очікування...",
+    "help": "Допомога",
+    "end_chat": "Завершити чат",
+    "chat_place_holder": "Повідомлення LawNeeds",
+    "uploading_file": "Завантаження {{count}} вкладень: {{names}}",
+    "files_uploaded_success": "{{count}} вкладень успішно завантажено.",
+    "uploading_voice_note": "Голосову нотатку завантажується...",
+    "voice_note_uploaded_success": "Голосову нотатку успішно завантажено",
+    "open_pdf": "Відкрити PDF",
+    "sample_questions_title": "Прикладні запитання",
+    "you_selected": "Ви вибрали: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Привіт "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "я "
+      },
+      {
+        "type": "token",
+        "content": "асистент "
+      },
+      {
+        "type": "token",
+        "content": "підтримки "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Я "
+      },
+      {
+        "type": "token",
+        "content": "надаю "
+      },
+      {
+        "type": "token",
+        "content": "лише "
+      },
+      {
+        "type": "token",
+        "content": "інформацію"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "а "
+      },
+      {
+        "type": "token",
+        "content": "не "
+      },
+      {
+        "type": "token",
+        "content": "професійну "
+      },
+      {
+        "type": "token",
+        "content": "пораду"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Як "
+      },
+      {
+        "type": "token",
+        "content": "я "
+      },
+      {
+        "type": "token",
+        "content": "можу "
+      },
+      {
+        "type": "token",
+        "content": "вам "
+      },
+      {
+        "type": "token",
+        "content": "допомогти "
+      },
+      {
+        "type": "token",
+        "content": "сьогодні"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Не вдалося завантажити чат. Будь ласка, спробуйте ще раз.",
+    "voice_note_ready": "Голосова нотатка готова",
+    "tap_to_record": "Натисніть 🔴, щоб почати запис",
+    "preview_files": "Попередній перегляд файлів",
+    "file_selected": "Файл вибрано",
+    "files_selected": "Файли вибрано",
+    "upload_files": "Завантажити",
+    "tap_to_preview": "Натисніть для перегляду",
+    "add": "Додати",
+    "today": "Сьогодні",
+    "last_week": "Минулого тижня",
+    "last_month": "Минулого місяця"
+  },
+  "setting": {
+    "select_language": "Вибрати мову",
+    "settings": "Налаштування",
+    "app_language": "Мова додатку",
+    "choose_language": "Оберіть мову",
+    "notifications": "Повідомлення",
+    "submit_feedback": "Допомога",
+    "about": "Про нас",
+    "our_philosophy": "Наша філософія",
+    "account_management": "Управління акаунтом",
+    "logout": "Вийти"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Наше бачення",
+    "our_vision_desc": "У LawNeeds ми віримо, що надійна юридична допомога, особливо в питаннях імміграції, повинна бути доступною для всіх, у будь-який час та в будь-якому місці. Оскільки смартфони стали невід'ємною частиною повсякденного життя, ми прагнемо допомогти людям орієнтуватися у житті у Великобританії через просту та надійну юридичну підтримку.",
+    "our_services_header": "Наші послуги",
+    "our_services_desc": "Наш мобільний додаток, який містить виключно регульовані юридичні фірми, ліцензованих юристів та імміграційних радників, пропонує спеціалізовані юридичні послуги з особливим акцентом на імміграційному праві. Ми підтримуємо осіб, сім’ї, студентів і професіоналів у їхньому житті у Великобританії. У міру зростання користувачі також зможуть отримати експертну допомогу з трудового, сімейного права та порушень правил дорожнього руху — усе це з такою ж зручною, безпроблемною взаємодією у кілька натискань.",
+    "innovation_header": "Інновації на найвищому рівні",
+    "innovation_desc": "У LawNeeds інновації лежать в основі всього, що ми робимо. Ми використовуємо можливості штучного інтелекту, щоб надавати миттєві, цілодобові юридичні консультації, створені ШІ, а також персоналізовані імміграційні рекомендації на основі місцезнаходження та ситуації кожного користувача.",
+    "community_header": "Спільнота і розвиток",
+    "community_desc": "LawNeeds — це більше, ніж додаток — це спільнота. Ми надаємо можливості мігрантам і допомагаємо юридичним фахівцям розвивати свою практику завдяки нашій інноваційній платформі та функціоналу.",
+    "commitment_header": "Відданість досконалості",
+    "commitment_desc": "LawNeeds поєднує технології штучного інтелекту з людським юридичним контролем. Наша платформа базується на власній базі правових даних Великобританії, яка перевіряється внутрішніми юристами, доповнена системою верифікації та постійно оновлюється згідно з нормативними змінами і перевіреними джерелами права — усе це забезпечує надійні та відповідні рекомендації на кожному кроці.",
+    "join_us_header": "Приєднуйтесь до нас",
+    "join_us_desc": "У міру нашого зростання ми запрошуємо вас приєднатися до нашої подорожі — чи ви шукаєте юридичну допомогу, чи розширюєте юридичну практику. У LawNeeds ваш успіх — наша місія."
+  },
+  "support": {
+    "support_desc": "Допоможіть нам покращити LawNeeds, поділившись своїми думками, проблемами або пропозиціями нижче",
+    "feedback_success": "Відгук успішно надіслано",
+    "name": "Ім’я",
+    "comment": "Коментар",
+    "address": "Юридична адреса: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Імміграційне право"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Трудове право"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Порушення ПДР"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Сімейне право"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Юридичні дослідження"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Юридичне письмо"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Аналіз справ"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Складання контрактів"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Переговори"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Консультування клієнтів"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Представництво в суді"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Медіація"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Арбітраж"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Фінансова перевірка (Due Diligence)"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Огляд відповідності"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Оцінка ризиків"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Юридична стратегія"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Перехресний допит"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Підготовка брифів"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Допит під присягою"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Розкриття доказів"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Переговори про врегулювання"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Регуляторний аналіз"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Міжнародне право"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Інтелектуальна власність"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Злиття та поглинання"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Корпоративне управління"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Трудові відносини"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Імміграційні процедури"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Імміграційне право"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Сімейне право"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Трудове право"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Кримінальне право"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Корпоративне право"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Майнове право"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Особисті травми"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Інтелектуальна власність"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Податкове право"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Договірне право"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Судовий розгляд"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Медіація"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Арбітраж"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Юридична консультація"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Огляд документів"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Юридичні дослідження"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Відповідність нормам"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Злиття та поглинання"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Банківська справа та фінанси"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Страхове право"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Екологічне право"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Право людини"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Міжнародне право"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Адміністративне право"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Конституційне право"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Одна консультація"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Постійна підтримка"
+    },
+    {
+      "key": "casework",
+      "label": "Ведення справи"
+    },
+    {
+      "key": "not_sure",
+      "label": "Ще не впевнений"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Звичайний (5-7 днів)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Пріоритетний (2-3 дні)"
+    },
+    {
+      "key": "urgent",
+      "label": "Терміновий (у той же день або наступний)"
+    }
+  ],
+  "search": {
+    "professionals": "Професіонали",
+    "city": "Місто",
+    "distance": "Відстань",
+    "top_rated": "Найвищий рейтинг",
+    "more": "більше",
+    "request": "Запит",
+    "request_service": "Запросити послугу",
+    "service": "Послуга",
+    "select_service": "Оберіть послугу",
+    "urgency": "Терміновість",
+    "select": "Обрати",
+    "additional_notes": "Додаткові примітки",
+    "service_request_success": "Ваш запит на послугу успішно надіслано",
+    "issue_type": "Тип питання",
+    "budget": "Бюджет",
+    "select_consultation": "Оберіть консультацію",
+    "consultation": "Консультація",
+    "time_n_rate": "Час і ставка"
+  },
+  "reset_password_info": "Введіть електронну адресу, пов’язану з вашим обліковим записом, і ми надішлемо вам інструкції для встановлення нового пароля",
+  "tap_to_upload_image": "Натисніть, щоб завантажити зображення",
+  "record": "Записати",
+  "media": "Медіа",
+  "attach": "Прикріпити",
+  "sort_by": "Сортувати за",
+  "apply": "Застосувати",
+  "select_date": "Виберіть дату",
+  "day": "День",
+  "month": "Місяць",
+  "year": "Рік",
+  "present": "Сьогодення",
+  "sector": "Сектор",
+  "hr": "Кадри",
+  "legal": "Юридичний",
+  "both": "Обидва",
+  "identity_card": "Посвідчення особи",
+  "passport": "Паспорт",
+  "drivers_license": "Водійське посвідчення",
+  "law_centre": "Юридичний центр",
+  "legal_aid_organisation": "Організація правової допомоги",
+  "beta": "Бета",
+  "logged_in": "Увійшли в систему",
+  "select_reason": "Виберіть причину",
+  "select_area_of_legal_expertise": "Виберіть сферу юридичної експертизи",
+  "confirm_password": "Підтвердьте пароль",
+  "enter_new_password_below": "Введіть новий пароль нижче",
+  "select_a_country": "Виберіть країну",
+  "open_email_app": "Відкрити застосунок електронної пошти",
+  "request_details": "Деталі запиту",
+  "accept": "Прийняти",
+  "reject": "Відхилити",
+  "request_reject_message": "Запит на послугу успішно відхилено",
+  "document_view": "Перегляд документа",
+  "loading_document": "Завантаження документа",
+  "service_issue_type": "Виберіть тип проблеми з послугою",
+  "select_consultation_type": "Виберіть тип консультації",
+  "urgency_level": "Виберіть рівень терміновості",
+  "budget_input": "Введіть бюджет",
+  "attachments": "Додатки",
+  "user_label": "Ви",
+  "timestamp": "Саме зараз",
+  "voice_note": "Голосова нотатка",
+  "comment_placeholder": "Напишіть коментар...",
+  "messages": "Повідомлення",
+  "edit": "Редагувати",
+  "copy": "Копіювати",
+  "select_consultation_time": "Виберіть час консультації",
+  "request_cancel_success": "Запит на послугу успішно скасовано",
+  "accept_request_message": "Ви впевнені, що хочете прийняти цей запит?",
+  "reject_request_message": "Ви впевнені, що хочете відхилити цей запит?",
+  "delete_request_message": "Ви дійсно хочете видалити цей запит?",
+  "withdraw_request_message": "Ви дійсно хочете відкликати цей запит?",
+  "yes": "Так",
+  "no": "Ні",
+  "accepted": "Прийнято",
+  "cancelled": "Скасовано",
+  "pending": "В очікуванні",
+  "consultation_time": "Час консультації",
+  "consultation_type": "Тип консультації",
+  "recommended_professionals": "Рекомендовані фахівці:",
+  "continue": "Продовжити",
+  "image": "Зображення",
+  "delete_account": "Видалити акаунт",
+  "delete": "Видалити",
+  "delete_confirmation_message": "Ви впевнені, що хочете видалити свій акаунт? Цю дію не можна скасувати.",
+  "delete_account_error_message": "Сталася помилка під час видалення акаунта.",
+  "place_holder_additional_notes": "Введіть будь-які додаткові деталі щодо вашої юридичної справи...",
+  "upload_options": "Параметри завантаження:",
+  "select_option": "Будь ласка, виберіть опцію:",
+  "skip": "Пропустити",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Імміграційне право"
+    },
+    {
+      "key": "employment",
+      "label": "Трудове право"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Дорожньо-транспортні правопорушення"
+    },
+    {
+      "key": "family",
+      "label": "Сімейне право"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Терміново"
+    },
+    {
+      "key": "within_week",
+      "label": "Протягом тижня"
+    },
+    {
+      "key": "within_month",
+      "label": "Протягом місяця"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Не терміново"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Виберіть тип проблеми"
+    },
+    {
+      "key": "urgency",
+      "name": "Виберіть терміновість"
+    },
+    {
+      "key": "consultation",
+      "name": "Виберіть консультацію"
+    },
+    {
+      "key": "select_time",
+      "name": "Виберіть час і тариф"
+    },
+    {
+      "key": "select-budget",
+      "name": "Виберіть бюджет"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 хвилин (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 хвилин (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 хвилин (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 хвилин (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 година (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 дні (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 днів (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Більше £700"
+    }
+  ],
+  "sample_questions": [
+    "Запросити юридичного фахівця",
+    "Чи маю я право на візу Skilled Worker?",
+    "Як продовжити студентську візу?",
+    "Які правила для постійного проживання?",
+    "Як подати заявку на притулок у Великій Британії?",
+    "Скільки часу займає рішення щодо візи?"
+  ],
+  "rate_of_hour": "Погодинна ставка",
+  "search_country": "Пошук країни",
+  "review_error": "Відгук не може бути порожнім.",
+  "rating_validation": "Будь ласка, виберіть оцінку від 1 до 5 зірок.",
+  "create_account_with": "Створити обліковий запис за допомогою",
+  "login_with": "Увійти за допомогою",
+  "create_account_email_password": "Електронна пошта/Пароль",
+  "sign_in_with_apple": "Увійти за допомогою Apple",
+  "sign_in_with_google": "Увійти за допомогою Google",
+  "no_cases_available": "Немає доступних справ",
+  "no_active_cases_available": "Немає активних справ",
+  "no_pending_cases_available": "Немає очікуваних справ",
+  "back": "Назад",
+  "submit_review": "Надіслати відгук",
+  "delete_review": "Видалити відгук",
+  "member_since": "Учасник з",
+  "work_experience": "Досвід роботи",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Експертиза",
+  "professional_details": "Професійні деталі",
+  "review_professional": "Оцінити фахівця",
+  "no_reviews": "Поки немає відгуків. Будьте першим!",
+  "reviews": "Відгуки",
+  "thanks_feedback": "Дякуємо за ваш відгук!",
+  "accept_case_notification_header": "Юрист прийняв ваш запит! 🎉",
+  "accept_case_notification_message_part": " прийняв вашу справу та готовий допомогти вам.",
+  "reject_case_notification_header": "Оновлення направлення",
+  "reject_case_notification_message_part": " наразі не може прийняти вашу справу.",
+  "delete_case_notification_header": "Запит видалено",
+  "withdraw_case_notification_header": "Запит відкликано",
+  "delete_case_notification_message_part": " видалив свій запит.",
+  "withdraw_case_notification_message_part": " відкликав свій запит.",
+  "manuscript": "Рукопис",
+  "share_dialog_title": "Поділитися або завантажити рукопис",
+  "certifications": "Сертифікати",
+  "queries_left": "Залишилось запитів AI",
+  "voice_notes_limit": "Голос",
+  "uploads_limit": "Завантаження",
+  "docgen_limit": "Генерація документів",
+  "current_plan": "Поточний план",
+  "faqs": "Поширені запитання",
+  "wallet": "Гаманець",
+  "subscription": {
+    "plans_pricing_title": "Плани та ціни",
+    "plans_pricing_subtitle": "Розблокуйте більше хвилин і преміум-функції",
+    "syncing_account": "Синхронізація облікового запису...",
+    "processing_purchase": "Обробка покупки...",
+    "plan_unavailable_title": "План недоступний",
+    "plan_unavailable_message": "Ми не змогли знайти цей план у магазині.",
+    "purchase_error_title": "Помилка покупки",
+    "purchase_error_message": "Сталася неочікувана помилка.",
+    "upgrade_plans": "Оновити плани",
+    "plan_unlimited": "Безлімітний",
+    "plan_premium": "Преміум",
+    "plan_standard": "Стандарт",
+    "plan_free_label": "Завжди безкоштовно",
+    "billing_annually": "Щорічно",
+    "feature_voice_notes": "Голосові нотатки",
+    "feature_uploads": "Завантаження",
+    "feature_shared_pool": "Спільний пул для Голосу, Завантажень і Документів",
+    "feature_free_consultation": "хв безкоштовної консультації",
+    "feature_priority_support": "Пріоритетна підтримка від людини включена",
+    "feature_ai_queries": "Текстові запити AI",
+    "feature_limited": "Обмежено",
+    "feature_standard_limits": "Застосовуються стандартні обмеження",
+    "feature_query_reset": "Ліміт запитів скидається о 12am",
+    "feature_rollover": "Перенесення дозволено",
+    "feature_images_max": "Макс. зображень",
+    "feature_document_max": "Макс. документів",
+    "feature_mb": "МБ",
+    "feature_pages": "сторінок",
+    "label_default_plan": "План за замовчуванням",
+    "cta_subscribe_now": "Підписатися зараз",
+    "wallet_loading": "Завантаження гаманця...",
+    "wallet_title": "Гаманець",
+    "wallet_balance": "Доступний баланс",
+    "unit_minute": "Хвилина",
+    "wallet_top_up": "Поповнити",
+    "wallet_transactions": "Останні транзакції",
+    "transaction_plan_purchase": "Покупка плану",
+    "transaction_legal_query": "Юридичний запит",
+    "transaction_document_process": "Обробка документів",
+    "reference_label": "Реф:",
+    "plan_free": "Безкоштовно",
+    "unit_min": "хв"
+  },
+  "user_name": "Ім'я користувача",
+  "email": "Електронна пошта",
+  "phone_number": "Номер телефону",
+  "urgent": "Терміново",
+  "contact_support": "Зв’язатися з підтримкою",
+  "minutes": "Хвилини",
+  "freemium": {
+    "modal": {
+      "title": "Досягнуто ліміту запитів",
+      "timer_label": "Спробуйте знову через",
+      "timer_format": "{{minutes}} хв {{seconds}} с",
+      "upgrade_cta": "Оновити план",
+      "loading_text": "Розблокування ваших запитів…",
+      "watch_ad_cta": "📺 Подивитися рекламу (+{{count}} запитів)",
+      "limit_note": "Ліміт freemium: {{count}} запитів / {{hours}} годин",
+      "description": "Ви використали всі {{count}} безкоштовні запити за останні {{hours}} годин.",
+      "buy_pass": "{{price}} безлімітні запити сьогодні"
+    },
+    "banner": {
+      "plan_label": "ПЛАН {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} запитів залишилось",
+      "daily_pass_active": "✨ Денний пропуск активний",
+      "upgrade_cta": "Оновити",
+      "usage_labels": {
+        "voice_notes": "Голосові нотатки",
+        "uploads": "Завантаження",
+        "docs": "Документи"
+      },
+      "daily_pass": {
+        "title": "🚀 Розблокуйте безліміт сьогодні",
+        "description": "Отримайте безлімітні AI-запити до півночі з денним пропуском за {{price}}.",
+        "cta": "Отримати денний пропуск – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Ліміт досягнуто",
+      "upgrade_cta": "Оновіть свій план, щоб продовжити",
+      "wait_info": "Або зачекайте та спробуйте знову через: {{time}}",
+      "body_message": "Ви досягли безкоштовного ліміту. Оновіть план або зачекайте, щоб продовжити."
+    }
+  },
+  "plan_card": {
+    "plan_label": "План",
+    "billing": {
+      "per_period": "за {{period}}",
+      "always_free": "Завжди безкоштовно",
+      "discount_badge": "{{discount}}% ЗНИЖКИ ПЕРШИЙ МІСЯЦЬ",
+      "per_mins": "{{minutes}} хв"
+    },
+    "toggle": {
+      "annual": "Щорічно",
+      "monthly": "Щомісяця",
+      "weekly": "Щотижня",
+      "daily": "Щодня"
+    },
+    "features": {
+      "voice_notes": "Голосові нотатки",
+      "uploads": "Завантаження",
+      "docs": "Генерація документів AI",
+      "minutes": "Хвилини",
+      "ai_queries": "Текстові запити AI",
+      "rollover": "Перенесення дозволено",
+      "shared_pool": "• Спільний пул для Голосу, Завантажень і Документів",
+      "free_consultation": "• {{minutes}} хв безкоштовної консультації включено",
+      "priority_support": "• Пріоритетна підтримка від людини включена",
+      "file_caps_title": "Обмеження розміру файлів і сторінок",
+      "image_max": "Макс. зображень",
+      "doc_max": "Макс. документів"
+    },
+    "limits": {
+      "unlimited": "Безлімітний",
+      "limited": "Обмежено",
+      "none": "Немає",
+      "yes": "Так"
+    },
+    "notes": {
+      "standard_limits": "Застосовуються стандартні обмеження",
+      "reset_time": "Ліміт запитів скидається о 12am"
+    },
+    "cta": {
+      "default_plan": "План за замовчуванням",
+      "current_plan": "Поточний план",
+      "subscribe": "Підписатися зараз"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Досягнуто місячного ліміту",
+      "title_paid": "У вас закінчилися хвилини",
+      "description_freemium": "Ви використали всі 6 безкоштовних щомісячних кредитів для Голосових нотаток, Завантажень файлів і Генерації документів.",
+      "description_paid": "У вас недостатньо хвилин для виконання цієї дії. Поповніть або оновіть для більшого ліміту.",
+      "upgrade_premium": "Оновити до Преміум",
+      "topup_cta": "Поповнити хвилини",
+      "view_usage": "Переглянути використання кредитів"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Поповнити хвилини",
+      "subtitle": "Купіть додаткові хвилини, щоб продовжити.",
+      "alerts": {
+        "low_minutes": "Ви використали {{percentage}}% своїх хвилин. Поповніть зараз!",
+        "limit_reached": "Досягнуто місячного ліміту поповнення ({{used}}/{{limit}})",
+        "limit_popup_title": "Досягнуто ліміту поповнення",
+        "limit_popup_message": "Ви перевищили місячний ліміт поповнення."
+      },
+      "slider": {
+        "label": "Хвилини для покупки",
+        "minutes_value": "{{minutes}} хвилин",
+        "min": "{{min}} хв",
+        "max": "{{max}} хв"
+      }
+    }
+  },
+  "show_less": "Показати менше",
+  "show_more": "Показати більше",
+  "updating_balance": "Оновлення балансу...",
+  "usage_limits": "Ліміти використання",
+  "voice_notes": "Голосові нотатки",
+  "uploads": "Завантаження",
+  "usage_history": "Історія використання",
+  "manage_plan": "Керувати планом",
+  "cancel_subscription": "Скасувати підписку",
+  "explore_premium_plans": "Переглянути преміум-плани",
+  "used": "Використано",
+  "total": "Всього",
+  "unlimited": "Безліміт",
+  "manage_subscription_title": "Керування підпискою",
+  "manage_subscription_desc": "Вас буде перенаправлено до магазину для керування налаштуваннями. Нам шкода, що ви йдете!",
+  "stay_with_us": "Залишайтеся з нами",
+  "open_store_error": "Не вдалося відкрити посилання магазину.",
+  "subscription_fetch_error": "Не вдалося отримати інформацію про підписку.",
+  "unit_min": "хв",
+  "no_transaction_yet": "Ще немає транзакцій!",
+  "feedback_hint_message": "Поділіться подробицями свого власного досвіду",
+  "withdraw": "Відкликати",
+  "issue_summary": "Короткий опис проблеми",
+  "disclaimer": "Відмова від відповідальності",
+  "disclaimer_message": "LawNeeds AI Support Assistant надає рекомендації лише з інформаційною метою.",
+  "disclaimer_button": "Я погоджуюсь",
+  "filter": {
+    "title": "Фільтр",
+    "sortBy": "Сортувати за",
+    "commonServices": "Поширені послуги",
+    "practiceAreas": "Сфери практики",
+    "professionalTypes": "Типи професіоналів",
+    "sortOptions": {
+      "alphabetical": "За алфавітом",
+      "relevance": "Актуальність",
+      "experience": "Досвід"
+    }
+  },
+  "common": {
+    "upgrade_now": "Оновити зараз",
+    "close": "Закрити",
+    "maybe_later": "Можливо пізніше",
+    "not_now": "Не зараз",
+    "pay": "Сплатити {{currency}}{{amount}}",
+    "total_cost": "Загальна вартість:",
+    "usage_limit_reached": "Досягнуто ліміту використання",
+    "apply": "Застосувати",
+    "cancel": "Скасувати",
+    "error": "Помилка",
+    "success": "Успіх",
+    "processing": "Обробка...",
+    "something_wrong": "Щось пішло не так",
+    "no_data_available": "Немає доступних даних"
+  },
+  "daily_pass_success": "План успішно придбано!",
+  "daily_pass_not_found": "Денний пропуск не знайдено.",
+  "purchase_failed": "Покупка не вдалася",
+  "expires": "Діє до: {{expiryDate}}",
+  "active": "Активний",
+  "pricing": {
+    "confirm_price": "Індивідуальна ціна",
+    "propose_price": "Запропонувати ціну",
+    "enter_amount": "Введіть суму",
+    "invalid_amount": "Введіть коректну суму",
+    "amount_range": "Сума має бути в межах ₹{{min}} - ₹{{max}}",
+    "range": "Мін: ₹{{min}} | Макс: ₹{{max}}",
+    "price_confirmed": "Ціну підтверджено",
+    "price_proposed": "Ціну запропоновано",
+    "confirm_price_btn": "Підтвердити",
+    "submit_price_btn": "Надіслати",
+    "load_failed": "Не вдалося завантажити ціни",
+    "title": "Ціни",
+    "not_proposed_message": "Ціна ще не встановлена. Будь ласка, встановіть ціну, щоб продовжити."
+  },
+  "payment": {
+    "header_title": "Оплата",
+    "total_amount": "Загальна сума",
+    "platform_fee": "Комісія платформи",
+    "lawyer_receives": "Юрист отримує",
+    "pay_button": "Сплатити £ {{amount}}",
+    "preparing_payment": "Підготовка безпечної оплати...",
+    "alerts": {
+      "error_title": "Помилка",
+      "init_failed": "Не вдалося ініціалізувати оплату",
+      "unable_to_load": "Не вдалося завантажити оплату",
+      "payment_failed_title": "Помилка оплати",
+      "generic_error": "Щось пішло не так",
+      "success_title": "Успіх",
+      "success_message": "Оплату успішно завершено!"
+    },
+    "notification_title": "Платіж отримано",
+    "notification_message": "{{name}} завершив(ла) оплату. Ви можете розпочати консультацію."
+  },
+  "consultation": {
+    "ended_title": "Консультацію завершено",
+    "ended_message": "Час вичерпано",
+    "pending": "У черзі",
+    "active": "У процесі",
+    "completed": "Завершено"
+  },
+  "file": {
+    "uploading_image": "Завантаження зображення...",
+    "uploading_video": "Завантаження відео...",
+    "uploading_file": "Завантаження файлу...",
+    "upload_failed": "Помилка завантаження",
+    "upload_failed_message": "Не вдалося надіслати файл.",
+    "open_pdf": "Відкрити PDF",
+    "open_doc": "Відкрити DOC",
+    "open_file": "Відкрити файл"
+  },
+  "notification": {
+    "lawyer_message": "Повідомлення від юриста",
+    "new_message": "Нове повідомлення"
+  },
+  "live": "Наживо",
+  "stripe_connected": "Stripe підключено",
+  "connect_with_stripe": "Підключити Stripe",
+  "payments": "Платежі",
+  "beta_instructions": "Інструкції бета-версії",
+  "status": {
+    "title": "Статус",
+    "paid": "Сплачено",
+    "unpaid": "Не сплачено"
+  },
+  "stripe_not_onboarded_title": "Налаштування платежів не завершено",
+  "stripe_not_onboarded_message": "Щоб приймати запити на консультацію, завершіть налаштування Stripe у вкладці Налаштування.",
+  "case_folder": "Папка справи",
+  "case_helped": "Справи, яким допомогли",
+  "satisfied": "Задоволений",
+  "rejected": "Відхилено",
+  "withdrawn": "Відкликано",
+  "deleted": "Видалено",
+  "consultation_history": "Історія консультацій",
+  "pay": "Оплатити",
+  "start_consultation": "Розпочати консультацію",
+  "waiting_for_session": "Очікування сесії",
+  "waiting_for_payment": "Очікування оплати",
+  "activity": "Активність",
+  "one_minute_warning_title": "⏰ Залишилася 1 хвилина",
+  "one_minute_warning_body": "Ваша консультаційна сесія завершиться через 1 хвилину.",
+  "default_notification_title": "Сповіщення",
+  "no_notifications": "Сповіщень поки немає",
+  "i_agree": "погоджуюсь",
+  "i_dont_agree": "Я не згоден",
+  "terms_and_conditions": "Правила та умови",
+  "terms_condition_1": "1. Користуючись цією програмою, ви погоджуєтеся з цими умовами та маєте бути не менше 18 років.",
+  "terms_condition_3": "3. Помічник із підтримки AI LawNeeds надає інформативні юридичні рекомендації. Це не є юридичною консультацією.",
+  "terms_condition_4": "4. Ви несете відповідальність за надання точної та правдивої інформації.",
+  "terms_condition_2": "2. LawNeeds надає юридичну допомогу, але не замінює професійне юридичне представництво.",
+  "terms_condition_5": "5. Ваша інформація є конфіденційною, але ви повинні зберігати облікові дані свого облікового запису в секреті.",
+  "welcome_to_lawneeds": "Ласкаво просимо до LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Віза для кваліфікованого працівника",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Студентська віза",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Гостьова віза",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Віза за походженням",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Віза для подружжя / партнера",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Утриманці PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Возз’єднання сім’ї",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (10-річний маршрут)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Натуралізація",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Схема оселення в ЄС",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), заяви з прав людини",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Заяви про притулок (повна підтримка)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Повне ведення справи (від початку до кінця)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Експрес",
+  "basic": "Базовий",
+  "verified": "Документ підтверджено",
+  "verification_failed": "Підтвердження не вдалося",
+  "verification_cancelled": "Підтвердження скасовано",
+  "delete_review_confirm": "Ви впевнені, що хочете видалити цей відгук?",
+  "casework_service": "Послуга супроводу справи",
+  "casework_price_range": "Діапазон вартості супроводу справи",
+  "tour_previous_chat_title": "Попередній чат",
+  "tour_previous_chat_desc": "Перегляньте тут свої попередні розмови.",
+  "tour_new_chat_title": "Новий чат",
+  "tour_new_chat_desc": "Натисніть тут, щоб почати новий юридичний запит.",
+  "tour_notifications_title": "Сповіщення",
+  "tour_notifications_desc": "Переглядайте тут важливі оновлення та сповіщення.",
+  "tour_inbox_title": "Вхідні",
+  "tour_inbox_desc": "Керуйте тут повідомленнями та відповідями по справах.",
+  "tour_language_title": "Мова",
+  "tour_language_desc": "Оберіть тут бажану мову застосунку.",
+  "tour_chat_history_title": "Історія чатів",
+  "tour_chat_history_desc": "Переглядайте та продовжуйте попередні розмови.",
+  "tour_current_plan_title": "Поточний план",
+  "tour_current_plan_desc": "Переглядайте тут деталі поточної підписки.",
+  "tour_usage_history_title": "Історія використання",
+  "tour_usage_history_desc": "Відстежуйте, скільки хвилин і функцій ви використали.",
+  "tour_request_legal_help_title": "Запросити юридичну допомогу",
+  "tour_request_legal_help_desc": "Почніть новий запит, щоб зв’язатися з фахівцями.",
+  "tour_wallet_title": "Гаманець",
+  "tour_wallet_desc": "Переглядайте баланс гаманця та транзакції.",
+  "tour_top_up_title": "Поповнити",
+  "tour_top_up_desc": "Додайте кошти, щоб отримати більше хвилин для функцій ШІ, завантажень і консультацій.",
+  "tour_search_desc": "Введіть ім’я, щоб знайти конкретного спеціаліста.",
+  "tour_explore_subscribe_plans": "Натисніть тут, щоб переглянути й оновити свій план.",
+  "tour_explore_upgrade_plans": "Оновіть свій план, щоб відкрити преміум-функції.",
+  "tour_lawyer_stripe_connected": "Ваш обліковий запис Stripe підключено й готово до отримання платежів.",
+  "tour_lawyer_stripe_not_connected": "Підключіть Stripe, щоб почати приймати платежі від клієнтів.",
+  "profile_completion": {
+    "title": "Заповніть свій профіль",
+    "description": "Будь ласка, перевірте свої дані перед продовженням.",
+    "first_name": "Ім’я *",
+    "last_name": "Прізвище *",
+    "saving": "Збереження...",
+    "save_continue": "Зберегти й продовжити",
+    "update_profile_failed": "Не вдалося оновити профіль"
+  },
+  "auth": {
+    "session_expired": "Термін дії вашого сеансу входу закінчився. Спробуйте ще раз.",
+    "login_failed": "Не вдалося виконати вхід. Спробуйте ще раз.",
+    "google_login_failed": "Вхід через Google не вдався. Спробуйте ще раз.",
+    "apple_login_failed": "Вхід через Apple не вдався. Спробуйте ще раз.",
+    "authorization_failed": "Не вдалося підключитися до служби автентифікації. Спробуйте пізніше.",
+    "invalid_redirect": "Щось пішло не так під час входу. Спробуйте ще раз.",
+    "cancelled_login": "Вхід скасовано.",
+    "invalid_response": "Нам не вдалося завершити ваш вхід. Спробуйте ще раз."
+  },
+  "tour_service_request_title": "Запит",
+  "tour_service_request_desc": "Надішліть запит на послугу безпосередньо юридичному фахівцю. Заповніть форму, за потреби додайте нотатки або документи, і фахівця буде повідомлено, коли він буде доступний.",
+  "tour_request_form_title": "Форма запиту",
+  "tour_request_form_desc": "Надайте інформацію про вашу юридичну справу, вимоги до консультації та терміновість. Ви також можете завантажити документи або додати голосові нотатки, щоб допомогти фахівцю зрозуміти вашу ситуацію.",
+  "no_data": "Немає даних",
+  "duplicate_file_attached": "\"{{filename}}\" вже додано.",
+  "duplicate_file_attached_as": "\"{{filename}}\" вже додано як \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Натискаючи",
+  "consultation_consent_middle": ", ви підтверджуєте, що якщо ваша консультація буде надана протягом 14 днів, ваше законне право на скасування більше не застосовуватиметься. Ви все ще можете скасувати або перенести консультацію відповідно до нашої",
+  "cancellation_policy": "Політика скасування",
+  "home_actions": {
+    "ask_ai": "Запитати LawNeeds AI",
+    "ask_ai_description": "Отримайте поради від чат-бота LawNeeds AI.",
+    "find_professional": "Знайти фахівця",
+    "find_professional_description": "Знайдіть юридичного фахівця, який може допомогти.",
+    "book_consultation": "Записатися на консультацію",
+    "book_consultation_description": "Почніть процес направлення, щоб організувати консультацію."
+  }
+}

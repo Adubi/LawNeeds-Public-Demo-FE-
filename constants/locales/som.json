@@ -1,0 +1,1456 @@
+{
+  "submit": "Gudbi",
+  "cancel": "Jooji",
+  "done": "Dhameystiran",
+  "ok": "Haa",
+  "next": "Xiga",
+  "save": "Kaydi",
+  "privacy_policy": "Sharciga Asturnaanta",
+  "terms_n_conditions": "Shuruudaha iyo Xaaladaha",
+  "per": {
+    "camera_roll": "Oggolaansho loogama helin in la galo kamarada! Fadlan u oggolow dejimaha qalabkaaga.",
+    "microphone_access": "Loo baahan yahay helitaanka makarafoonka.",
+    "permission_denied": "Oggolaansho waa la diiday",
+    "notification_permission_not_granted": "Ogolaanshaha ogeysiisyada lama siin"
+  },
+  "policy_text": {
+    "i_agree": "Waan oggolahay",
+    "i_dont_agree": "Ma ogoli",
+    "label_1": "1. Xogta aan aruurinno: Waxaan aruurin karnaa macluumaad aqoonsi shakhsiyadeed (Magac, Email, Telefoon, Cinwaan), xog farsamo (IP, Nooca Browser-ka, OS), xog isticmaal iyo doorbidyada suuq-geynta.",
+    "label_2": "2. Sida aan u aruurinno xogtaada: Iyada oo loo marayo is-dhexgal toos ah, teknoolojiyad otomaatig ah, iyo dhinacyo saddexaad.",
+    "label_3": "3. Isticmaalka Xogta: Si aan kuu siino adeeg, u maamulno akoonkaaga, u ilaaliyo waajibaad sharciyeed, iyo si aan u horumarino adeegyada.",
+    "label_4": "4. Bixinta Xogta: Loo dhiibo bixiyeyaasha adeegga, hay'adaha sharciyeed iyo dawladeed, iyo marka la wareejinayo ganacsi.",
+    "label_5": "5. Ammaanka Xogta iyo Haynteeda: Waxaan adeegsanaa tillaabooyin amni waxaana xogtaada haysanaa ilaa intii loo baahdo.",
+    "label_6": "6. Xuquuqdaada Sharciga: Waxaad leedahay xuquuq aad ku heli karto, saxdo, tirtirto, xaddido, wareejiso, kana noqoto oggolaanshaha isticmaalka xogtaada.",
+    "label_7": "7. Qayb gaar ah: Waxaan si cad u oggolaanayaa in la farsameeyo xog kasta oo qayb gaar ah ah oo aan bixiyo, oo ay ku jirto macluumaadka la xiriira asal qowmiyaddeyda iyo xog kale oo xasaasi ah oo shaqsiyeed, si looga jawaabo weydiintayda. Waxaan kala noqon karaa oggolaanshahayga wakhti kasta anigoo iimayl u diraya info@lawneeds.co.uk.",
+    "policy_details": "Sharcigan Asturnaanta wuxuu sharxayaa sida aan u ururino, u isticmaalno, u muujinno, una ilaalino xogtaada markaad booqato barnaamijkeena moobilka. Adeegsiga adeeggeena waxa uu la micno yahay inaad oggolaatay sharcigan.",
+    "review_message": "Fadlan dib u eeg",
+    "privacy_policy": "Siyaasaddayada Asturnaanta"
+  },
+  "tab": {
+    "account": "Akoon",
+    "chat": "Sheeko",
+    "home": "Bogga Hore",
+    "settings": "Dejinta",
+    "inbox": "Sanduuqa",
+    "search": "Raadi"
+  },
+  "profile": {
+    "firm_name": "Magaca Shirkadda",
+    "practice_areas_label": "Goobaha Xirfadda",
+    "services": "Adeegyo",
+    "first_name": "Magaca Koowaad",
+    "last_name": "Magaca Dambe",
+    "about": "Ku Saabsan",
+    "skills": "Xirfado",
+    "organisation_name": "Magaca Hay’adda",
+    "areas_of_legal_focus": "Goobaha Sharciga",
+    "professional_employer": "Shaqaalaha Xirfadlaha ah",
+    "area_of_legal_expertise": "Takhasuska Sharciyeed",
+    "max_of_four": "Ubadnaanta Afar",
+    "max_of_two": "Ubadnaanta Labo",
+    "characters": "xarfaha",
+    "please_select": "Fadlan dooro",
+    "account_security": "Amniga Akoonka",
+    "details": "Faahfaahin",
+    "edit_details": "Tafatir Faahfaahinta",
+    "no_name": "Magac la'aan",
+    "profile_updated_success": "Faahfaahinta waa la cusboonaysiiyay si guul leh",
+    "company_name": "Magaca Shirkadda",
+    "enter_your_company_name": "Geli magaca shirkaddaada",
+    "achievements": "Guulo",
+    "enter_your_achievements": "Geli guulahaaga",
+    "timeline": "Jadwal",
+    "start_date": "Taariikhda Bilaabashada",
+    "end_date": "Taariikhda Dhamaadka",
+    "add_another_section": "Kudar Qayb Kale",
+    "add_section": "Kudar Qayb"
+  },
+  "success": {
+    "success": "Guul",
+    "success_sent_code": "Koodhka xaqiijinta si guul leh ayaa loo diray."
+  },
+  "error": {
+    "title": "Khalad",
+    "error_msg": "Waxbaa khaldamay. Fadlan isku day mar kale.",
+    "session_expired": "Fadhigu wuu dhacay",
+    "login_again": "Fadlan gal mar kale si aad u sii wadato.",
+    "token_missing": "Koodhka aqoonsiga wuu maqan yahay.",
+    "error_process_audio": "Waxaa dhacay qalad inta la farsameynayo codka.",
+    "error_process_file": "Qalad ayaa dhacay intii faylka la soo gelinayay.",
+    "try_again": "Waan ka xunnahay, qalad ayaa dhacay. Fadlan isku day mar kale.",
+    "no_use_session": "Ma jiro fadhi isticmaal. Fadlan gal mar kale.",
+    "invalid_response_token_not_found": "Jawaab aan sax ahayn: Token lama helin",
+    "fill_all_fields": "Fadlan buuxi dhammaan meelaha bannaan",
+    "network_error": "Khalad shabakad. Fadlan hubi xiriirkaaga internetka.",
+    "session_expired_login": "Kulankaagu wuu dhacay. Fadlan mar kale soo gal.",
+    "no_permission": "Ma lihid oggolaansho aad ku qabato ficilkan.",
+    "resource_not_found": "Khayraadkii la codsaday lama helin.",
+    "invalid_data": "Xog aan sax ahayn ayaa la bixiyay. Fadlan hubi oo mar kale isku day.",
+    "server_error": "Khalad server. Fadlan mar dambe isku day.",
+    "something_went_wrong": "Waxbaa qaldamay. Fadlan mar kale isku day.",
+    "case_not_found": "Kiis lama helin",
+    "failed_to_process_request": "Codsiga adeegga lama farsameyn karo"
+  },
+  "change_email": {
+    "send_instruction": "Dir Tilmaan",
+    "go_back": "Dib u noqo",
+    "create_new_pass": "Abuur eray sir cusub",
+    "current_email": "Email-ka Hadda",
+    "enter_current_email": "Geli email-ka hadda iyo email-ka cusub ee aad rabto inaad bedesho.",
+    "new_email": "Email Cusub",
+    "check_your_mail": "Hubi email-kaaga",
+    "check_mail_for_verify_account": "Waxaan kuu soo dirnay koodh xaqiijin ah email-kaaga. Geli hoos si aad u xaqiijiso akoonkaaga.",
+    "check_mail_for_reset_pass": "Waxaan kuu soo dirnay koodh xaqiijin ah email-kaaga. Geli hoos si aad u cusboonaysiiso erayga sirta ah.",
+    "enter_verification_code": "Geli koodhka xaqiijinta",
+    "go_back_login": "Dib ugu noqo Gelitaanka",
+    "not_recd_mail": "Ma helin email? Fiiri Spam ama",
+    "try_other_email": "Isku day email kale",
+    "resend_code": "Dir koodhka mar kale",
+    "verify_mail": "Xaqiiji email-kaaga",
+    "click_link_to_verify_mail": "Guji xiriirka si aad u xaqiijiso email-kaaga cusub",
+    "skip_confirm_later": "Ka bood, waxaan xaqiijin doonaa dambe",
+    "email_updated": "Email waa la cusbooneysiiyay"
+  },
+  "landing": {
+    "welcome_to": "Ku soo dhawoow",
+    "immigration": "Taageerada socdaalka oo fudud",
+    "create_account": "Abuur Akoon",
+    "log_in": "Soo gal",
+    "or": "ama",
+    "create_pro": "Abuur Akoon Pro",
+    "select_pro": "Xulo Akoon Pro",
+    "lawyer": "Qareen",
+    "law_firm": "Xafiiska Sharciga",
+    "hr_legal": "HR/Sharci (SME)",
+    "a2j_partners": "A2J Wada-hawlgalayaal",
+    "screen_not_exist": "Shaashaddan ma jirto.",
+    "go_to_home_screen": "Tag shaashadda hore!"
+  },
+  "login": {
+    "password": "Erayga sirta ah",
+    "login": "Soo gal",
+    "remember_me": "I xasuuso",
+    "forgot_password": "Waa iloowday erayga sirta ah?",
+    "need_account": "Ma u baahantahay akoonti?",
+    "signup": "Isdiiwaangeli"
+  },
+  "reset_password": "Dib u deji erayga sirta ah",
+  "create_new_password": "Abuur eray sir cusub",
+  "create_account": {
+    "first_name": "Magaca Koowaad",
+    "last_name": "Magaca Dambe",
+    "date_of_birth": "Taariikhda Dhalashada",
+    "country": "Dalka",
+    "select_country": "Dooro Dalka",
+    "next": "Xiga",
+    "create_account": "Abuur Akoon",
+    "date_of_incorporate": "Taariikhda Diiwaangelinta",
+    "create_pro_account": "Abuur Akoon Pro",
+    "hr_legal_account": "Akoonka HR/Sharci",
+    "lawyer_account": "Akoonka Qareenka",
+    "law_firm_account": "Akoonka Xafiiska Sharciga",
+    "a2j_partners_account": "Akoonka A2J Wada-hawlgalayaal",
+    "firm_name": "Magaca Xafiiska",
+    "organisation_name": "Magaca Ururka",
+    "date_of_establishment": "Taariikhda La Aasaasay",
+    "areasOfLegalFocus": "Meelaha Sharciga ee Diiradda la Saaray",
+    "selectAreasOfLegalFocus": "Dooro Meelaha Sharciga",
+    "contactPerson": "Qofka lala xiriiro",
+    "registrationCharityNumber": "Lambarka Diiwaangelinta/Samada",
+    "searchAddress": "Raadi cinwaanka",
+    "town": "Tuulo/Magaalo",
+    "postcode": "Koodhka boostada",
+    "address": "Cinwaan",
+    "please_select": "Fadlan dooro:",
+    "legalAidOrganisation": "Hay’adda Gargaarka Sharciga",
+    "lawCentre": "Xarunta Sharciga",
+    "proBonoClinic": "Klinikada Pro-Bono",
+    "profile_photo": "Sawirka Profile-ka",
+    "profile_photo_required": "Sawir profile ah ayaa looga baahanyahay Akoon Pro",
+    "upload": "Soo geli",
+    "please_agree_text": "Fadlan oggolow shuruudahayaga",
+    "signup_agreement_text": "Markaad isdiiwaangeliso, waxaad oggolaatay",
+    "terms_of_service": "Shuruudaha Adeegsiga",
+    "and_text": "iyo",
+    "agree_proceed_button": "Oggolow oo Sii wad",
+    "select_practice_area": "Dooro Goobta Tababarka",
+    "already_have_account": "Horey ma u leedahay akoonti?",
+    "account_creat_success": "Akoon si guul leh ayaa loo sameeyay!",
+    "access_detail_msg_legal_assistance": "Waxaad hadda geli kartaa taageero sharciyeed oo shakhsiyaysan.",
+    "select_practice_areas": "Dooro Goobaha Tababarka",
+    "contact_person_partner": "Qofka lala xiriiro/La-taliye",
+    "company_regi_number": "Lambarka Diiwaangelinta Shirkadda",
+    "enter_sra_number": "Geli lambarka SRA",
+    "enter_bar_number": "Geli lambarka BAR",
+    "enter_iaa_number": "Geli lambarka IAA",
+    "verify_document": "Xaqiiji dukumeentiga aqoonsiga",
+    "reverify_document": "Mar kale xaqiiji dukumeentiga"
+  },
+  "validation": {
+    "missing_info": "Macluumaad maqan",
+    "enter_your_name": "Fadlan geli magacaaga",
+    "enter_your_email": "Fadlan geli cinwaankaaga email-ka",
+    "enter_your_phone": "Fadlan geli lambarkaaga telefoonka",
+    "enter_feedback": "Fadlan soo gudbi faallo",
+    "valid_first_name": "Magaca koowaad waa inuu lahaadaa ugu yaraan 2 xaraf.",
+    "valid_last_name": "Magaca dambe waa inuu lahaadaa ugu yaraan 2 xaraf.",
+    "select_dob": "Fadlan dooro taariikhda dhalashada.",
+    "select_country": "Fadlan dooro dal.",
+    "enter_city": "Beerta magaalada ma noqon karto mid madhan.",
+    "enter_postcode": "Beerta koodhka boostada ma noqon karto mid madhan.",
+    "enter_address": "Beerta cinwaanka ma noqon karto mid madhan.",
+    "valid_user_name": "Magaca isticmaale waa inuu lahaadaa ugu yaraan 3 xaraf.",
+    "valid_email": "Fadlan geli cinwaan email sax ah.",
+    "valid_password": "Erayga sirta ah waa inuu lahaadaa ugu yaraan 8 xaraf oo uu ka koobnaadaa ugu yaraan hal lambar.",
+    "valid_organisation": "Magaca ururka waa inuu ahaadaa ugu yaraan 2 xaraf.",
+    "valid_town": "Goobta magaalada lama dhaafi karo iyadoo madhan.",
+    "enter_date_of_incorporate": "Fadlan dooro taariikhda la aasaasay.",
+    "enter_confirm_password": "Fadlan geli eraygaaga sirta xaqiijinta",
+    "valid_confirm_password": "Erayga sirta xaqiijinta waa inuu ahaadaa ugu yaraan 8 xaraf oo uu ku jiro ugu yaraan hal lambar.",
+    "password_not_match": "Erayada sirta isma waafaqaan.",
+    "enter_first_name": "Fadlan geli magacaaga koowaad",
+    "enter_last_name": "Fadlan geli magacaaga dambe",
+    "document_expired": "Dukumeentigaagu wuu dhacay. Fadlan soo geli dukumeenti sax ah.",
+    "document_invalid": "Xaqiijinta dukumeentigu way fashilantay. Fadlan mar kale isku day."
+  },
+  "account": {
+    "practice_areas": "Meelaha Tababarka",
+    "services": "Adeegyada",
+    "details": "Faahfaahin",
+    "licence": "Ruqsad",
+    "org_type": "Nooca Hay’adda",
+    "go_back_home": "Dib ugu noqo bogga hore"
+  },
+  "chat": {
+    "get_started": "Bilow",
+    "new_chat": "Wadahadal Cusub",
+    "previous_chat": "Wadahadal Hore",
+    "title": "Wadahadal",
+    "waiting": "Sugaya...",
+    "help": "Caawin",
+    "end_chat": "Dhamee sheekada",
+    "chat_place_holder": "Fariin u dir LawNeeds",
+    "uploading_file": "{{count}} lifaaqyo ayaa la gelinayaa: {{names}}",
+    "files_uploaded_success": "{{count}} lifaaqyo si guul leh ayaa loo geliyay.",
+    "uploading_voice_note": "Qoraalka codka ayaa la gelinayaa...",
+    "voice_note_uploaded_success": "Qoraalka codka si guul leh ayaa loo geliyay",
+    "open_pdf": "Fur PDF",
+    "sample_questions_title": "Su'aalo tusaale ah",
+    "you_selected": "Waxaad dooratay: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Salaan "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "waxaan "
+      },
+      {
+        "type": "token",
+        "content": "ahay "
+      },
+      {
+        "type": "token",
+        "content": "kaaliyaha "
+      },
+      {
+        "type": "token",
+        "content": "taageerada "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Waxaan "
+      },
+      {
+        "type": "token",
+        "content": "bixiyaa "
+      },
+      {
+        "type": "token",
+        "content": "macluumaad "
+      },
+      {
+        "type": "token",
+        "content": "kaliya"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "ma "
+      },
+      {
+        "type": "token",
+        "content": "bixiyo "
+      },
+      {
+        "type": "token",
+        "content": "talo "
+      },
+      {
+        "type": "token",
+        "content": "xirfadeed"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Sideen "
+      },
+      {
+        "type": "token",
+        "content": "ku "
+      },
+      {
+        "type": "token",
+        "content": "caawin "
+      },
+      {
+        "type": "token",
+        "content": "karaa "
+      },
+      {
+        "type": "token",
+        "content": "maanta"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Wadahadalkii lama soo dejin. Fadlan isku day mar kale.",
+    "voice_note_ready": "Qoraal cod ah waa diyaar",
+    "tap_to_record": "Taabo 🔴 si aad u bilowdo duubista",
+    "preview_files": "Eeg faylasha",
+    "file_selected": "Fayl la xushay",
+    "files_selected": "Faylal la xushay",
+    "upload_files": "Soo geli",
+    "tap_to_preview": "Taabo si aad u eegto",
+    "add": "Ku dar",
+    "today": "Maanta",
+    "last_week": "Toddobaadkii hore",
+    "last_month": "Bishii hore"
+  },
+  "setting": {
+    "select_language": "Dooro Luqadda",
+    "settings": "Dejinta",
+    "app_language": "Luqadda Appka",
+    "choose_language": "Dooro Luqad",
+    "notifications": "Ogeysiisyo",
+    "submit_feedback": "Caawimaad",
+    "about": "Ku saabsan",
+    "our_philosophy": "Aragtidayada",
+    "account_management": "Maareynta Akoonka",
+    "logout": "Soo kabax"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Aragtidayada",
+    "our_vision_desc": "At LawNeeds, waxaan aaminsanahay in caawimada sharci ee la isku halayn karo, gaar ahaan taageerada socdaalka, ay u baahan tahay in qof walba uu heli karo, wakhti kasta iyo meel kasta. Iyada oo telefoonada casriga ah ay qoto dheer u yihiin nolosha maalinlaha ah, waxaan halkan u joognaa in dadka aan ka caawino nolosha UK adoo adeegsanaya caawimaad sharci oo fudud oo la isku halayn karo.",
+    "our_services_header": "Adeegyadayada",
+    "our_services_desc": "App-keena mobilada, kaas oo si gaar ah u muujinaya xafiisyada sharciga, qareenada la shatiyeeyey iyo lataliyayaasha socdaalka, ayaa bixiya adeegyo sharci oo khaas ah iyadoo xoogga la saarayo Sharciga Socdaalka. Waxaan taageernaa dadka, qoysaska, ardayda iyo xirfadlayaasha si ay ula qabsadaan nolosha UK. Marka aan korno, isticmaalayaashu waxay heli doonaan khibrad ku saabsan Sharciga Shaqada, Sharciga Qoyska, iyo Xad-gudubyada Waddooyinka, dhammaan iyadoo la adeegsanayo khibrad isla markaana aan dhib lahayn.",
+    "innovation_header": "Hal-abuurnimada ugu fiican",
+    "innovation_desc": "LawNeeds, hal-abuurku waa waxa hagaya dhammaan waxa aan qabanno. Waxaan ka faa’iidaysanaa awoodda AI si aan u bixino talo sharci oo degdeg ah oo la heli karo 24/7, oo ay soo saartay AI, iyo talooyin socdaal oo shaqsiyan loo habeeyey oo ku salaysan goobta iyo xaaladda isticmaalaha kasta.",
+    "community_header": "Bulsho iyo Kobaca",
+    "community_desc": "LawNeeds waa wax ka badan app — waa bulsho. Waxaan awood siineynaa muhaajiriinta, kana shaqeyneynaa inaan xirfadlayaasha sharci ay ku taraan dhaqankooda iyagoo adeegsanaya madal iyo astaamo hal-abuurnimo leh.",
+    "commitment_header": "Dadaal ku aaddan Heer Sare",
+    "commitment_desc": "LawNeeds wuxuu isku daraa tignoolajiyada AI iyo kormeer sharci oo aadanaha sameeyo. Madalkeenna waxaa lagu tababaray xogta sharciga UK ee gaarka ah, oo ay dib u eegaan qareeno gudaha ah, nidaamkayaga xaqiijinta la socdo, wuxuuna si joogto ah u cusboonaysiiyaa isbeddelada xeerarka iyo ilo sharci oo la xaqiijiyey, isagoo hubinaya in hagitaan lagu kalsoon yahay oo waafaqsan sharci halkii talaabo.",
+    "join_us_header": "Nagu Soo Biir",
+    "join_us_desc": "Markaan sii koraan, waxaan kugu martiqaadeynaa inaad nagu soo biirto safarkeena, ha u baahnayn caawimaad sharci ama balaadhinta xirfaddaada sharci. At LawNeeds, guushaadu waa howshayada."
+  },
+  "support": {
+    "support_desc": "Waxaan halkan u joognaa inaan kaa caawino su’aalahaaga.",
+    "feedback_success": "Faallo si guul leh ayaa loo diray",
+    "name": "Magaca",
+    "comment": "Faallo",
+    "address": "Xafiiska diiwaangashan: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Sharciga Socdaalka"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Sharciga Shaqada"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Dembiyada Waddada"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Sharciga Qoyska"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Baaritaanka Sharciga"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Qoraalka Sharciga"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Falanqaynta Kiisaska"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Qorsheynta Qandaraasyada"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Gorgortanka"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "La-taliyinta Macaamiisha"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Difaacida Maxkamadda"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Dhexdhexaadnimo"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Kala-xisaabtan"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Diligence Due"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Dib-u-eegista La-socodka"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Qiimeynta Khatarta"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Qorsheynta Sharciga"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Baadhitaanka Is-dhex-galka"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Qoraalka Kooban"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Marin"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Helitaanka"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Gorgortanka Heshiiska"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Falanqaynta Xeer-ilaalinta"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Sharciga Caalamiga"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Hantida Aqoonta"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Is-dhex-galka & Qaadashada"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Maamulka Shirkadda"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Xiriirka Shaqada"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Habraacyada Socdaalka"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Sharciga Socdaalka"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Sharciga Qoyska"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Sharciga Shaqada"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Sharciga Dembiga"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Sharciga Shirkadda"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Sharciga Hantida"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Dhaawaca Shakhsi ahaaneed"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Hantida Aqoonta"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Sharciga Canshuurta"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Sharciga Qandaraasyada"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Dacwadaha"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Dhexdhexaadnimo"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Kala-xisaabtan"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "La-taliyinta Sharciga"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Dib-u-eegista Dukumeentiga"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Baaritaanka Sharciga"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "La-socodka"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Is-dhex-galka & Qaadashada"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Baanka & Maaliyadda"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Sharciga Kafaaladda"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Sharciga Deegaanka"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Sharciga Xuquuqda Aadanaha"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Sharciga Caalamiga"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Sharciga Maamulka"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Sharciga Dastuurka"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "La-talin Keliya"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Taageero Joogto ah"
+    },
+    {
+      "key": "casework",
+      "label": "Shaqada kiiska"
+    },
+    {
+      "key": "not_sure",
+      "label": "Weli ma hubi"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Caadiyan (5–7 maalmood)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Mudnaanta (2–3 maalmood)"
+    },
+    {
+      "key": "urgent",
+      "label": "Degdeg ah (isla maalintaas ama maalinta xigta)"
+    }
+  ],
+  "search": {
+    "professionals": "Xirfadlayaal",
+    "city": "Magaalo",
+    "distance": "Masaafada",
+    "top_rated": "Kuwa ugu sarreeya qiimeynta",
+    "more": "inbadan",
+    "request": "Codsi",
+    "request_service": "Codso Adeeg",
+    "service": "Adeeg",
+    "select_service": "Dooro Adeeg",
+    "urgency": "Degdeg ah",
+    "select": "Dooro",
+    "additional_notes": "Xusuusin Dheeraad ah",
+    "service_request_success": "Codsigaaga adeegga si guul leh ayaa loo diray",
+    "issue_type": "Nooca Dhibaatada",
+    "budget": "Miisaaniyad",
+    "select_consultation": "Dooro La-talin",
+    "consultation": "La-talin",
+    "time_n_rate": "Waqti iyo qiime"
+  },
+  "reset_password_info": "Geli iimaylka la xidhiidha akoonkaaga waxaanan kuu soo diri doonaa tilmaamo cusub si aad u dejiso eray sir cusub",
+  "tap_to_upload_image": "Taabo si aad sawir u soo geliso",
+  "record": "Diiwaan",
+  "media": "Warbaahin",
+  "attach": "Ku lifaaq",
+  "sort_by": "Ku kala saar",
+  "apply": "Codso",
+  "select_date": "Xulo Taariikh",
+  "day": "Maalin",
+  "month": "Bisha",
+  "year": "Sanad",
+  "present": "Hadda",
+  "sector": "Qayb",
+  "hr": "HR",
+  "legal": "Sharci",
+  "both": "Labada",
+  "identity_card": "Kaarka Aqoonsiga",
+  "passport": "Baasaboorka",
+  "drivers_license": "Shatiga Darawalnimada",
+  "law_centre": "Xarunta Sharciga",
+  "legal_aid_organisation": "Hay’adda Gargaarka Sharciga",
+  "beta": "Beta",
+  "logged_in": "La galay",
+  "select_reason": "Xulo sababta",
+  "select_area_of_legal_expertise": "Xulo aagga khibradda sharciga",
+  "confirm_password": "Xaqiiji erayga sirta ah",
+  "enter_new_password_below": "Geli eraygaaga sirta ah cusub hoos",
+  "select_a_country": "Xulo waddan",
+  "open_email_app": "Fur app-ka iimaylka",
+  "request_details": "Faahfaahinta codsiga",
+  "accept": "Qaado",
+  "reject": "Diid",
+  "request_reject_message": "Codsiga adeegga si guul leh ayaa loo diiday",
+  "document_view": "Aragtida dukumentiga",
+  "loading_document": "Dukumentiga waa la rarayaa",
+  "service_issue_type": "Xulo nooca arrinta adeegga",
+  "select_consultation_type": "Xulo nooca la-talinta",
+  "urgency_level": "Xulo heerka degdegga ah",
+  "budget_input": "Geli miisaaniyadda",
+  "attachments": "Lifaaqyo",
+  "user_label": "Adiga",
+  "timestamp": "Hadda",
+  "voice_note": "Waraaq cod",
+  "comment_placeholder": "Qor faallo...",
+  "messages": "Fariimo",
+  "edit": "Tafatir",
+  "copy": "Nuqul",
+  "select_consultation_time": "Dooro waqtiga la-tashiga",
+  "request_cancel_success": "Codsiga adeegga si guul leh ayaa loo joojiyay",
+  "accept_request_message": "Ma hubtaa inaad rabto inaad aqbasho codsigan kiiska?",
+  "reject_request_message": "Ma hubtaa inaad rabto inaad diido codsigan kiiska?",
+  "delete_request_message": "Runtii ma rabtaa inaad tirtirto codsigan?",
+  "withdraw_request_message": "Runtii ma rabtaa inaad ka noqoto codsigan?",
+  "yes": "Haa",
+  "no": "Maya",
+  "accepted": "La aqbalay",
+  "cancelled": "La joojiyay",
+  "pending": "Sugaya",
+  "consultation_time": "Waqtiga la-tashiga",
+  "consultation_type": "Nooca la-tashiga",
+  "recommended_professionals": "Xirfadlayaal lagu taliyay:",
+  "continue": "Sii wad",
+  "image": "Sawir",
+  "delete_account": "Tirtir akoonka",
+  "delete": "Tirtir",
+  "delete_confirmation_message": "Ma hubtaa inaad rabto inaad tirtirto akoonkaaga? Ficilkan lama celin karo.",
+  "delete_account_error_message": "Qalad ayaa dhacay markii la tirtirayay akoonkaaga.",
+  "place_holder_additional_notes": "Qor faahfaahin dheeri ah oo ku saabsan arrintaada sharci...",
+  "upload_options": "Ikhtiyaarrada soo gelinta:",
+  "select_option": "Fadlan dooro ikhtiyaar:",
+  "skip": "Ka bood",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Sharciga socdaalka"
+    },
+    {
+      "key": "employment",
+      "label": "Sharciga shaqada"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Dambiyada taraafikada waddooyinka"
+    },
+    {
+      "key": "family",
+      "label": "Sharciga qoyska"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Degdeg"
+    },
+    {
+      "key": "within_week",
+      "label": "Gudaha toddobaad"
+    },
+    {
+      "key": "within_month",
+      "label": "Gudaha bil"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Aan degdeg ahayn"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Dooro nooca dhibaatada"
+    },
+    {
+      "key": "urgency",
+      "name": "Dooro heerka degdegga"
+    },
+    {
+      "key": "consultation",
+      "name": "Dooro la-talin"
+    },
+    {
+      "key": "select_time",
+      "name": "Dooro waqtiga iyo qiimaha"
+    },
+    {
+      "key": "select-budget",
+      "name": "Dooro miisaaniyadda"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 daqiiqo (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 daqiiqo (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 daqiiqo (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 daqiiqo (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 saac (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 maalmood (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 maalmood (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Ka badan £700"
+    }
+  ],
+  "sample_questions": [
+    "Codso xirfadle sharci",
+    "Ma u qalmaa fiisaha Skilled Worker?",
+    "Sideen u kordhin karaa fiisaha ardayga?",
+    "Maxay yihiin shuruucda deganaanshaha joogtada ah?",
+    "Sideen uga dalban karaa magangelyo UK?",
+    "Imisa waqti ayay qaadataa go’aanka fiisaha?"
+  ],
+  "rate_of_hour": "Qiimaha saacaddii",
+  "search_country": "Raadi waddan",
+  "review_error": "Faallo ma noqon karto madhan.",
+  "rating_validation": "Fadlan dooro qiimeyn u dhaxaysa 1 ilaa 5 xiddig.",
+  "create_account_with": "Abuur akoon adigoo isticmaalaya",
+  "login_with": "Gal adigoo isticmaalaya",
+  "create_account_email_password": "Samee akoon adigoo adeegsanaya iimayl iyo furaha sirta ah",
+  "sign_in_with_apple": "Gal adigoo isticmaalaya Apple",
+  "sign_in_with_google": "Gal adigoo isticmaalaya Google",
+  "no_cases_available": "Ma jiraan kiisas la heli karo",
+  "no_active_cases_available": "Ma jiraan kiisas firfircoon",
+  "no_pending_cases_available": "Ma jiraan kiisas sugaya",
+  "back": "Dib",
+  "submit_review": "Gudbi faallo",
+  "delete_review": "Tirtir faallo",
+  "member_since": "Xubin tan iyo",
+  "work_experience": "Khibrad shaqo",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Khibrad",
+  "professional_details": "Faahfaahinta xirfadeed",
+  "review_professional": "Qiimee xirfadlaha",
+  "no_reviews": "Weli ma jiraan faallooyin. Noqo kan ugu horreeya!",
+  "reviews": "Faallooyin",
+  "thanks_feedback": "Waad ku mahadsan tahay jawaabtaada!",
+  "accept_case_notification_header": "Qareenka ayaa aqbalay codsigaaga! 🎉",
+  "accept_case_notification_message_part": " ayaa aqbalay kiiskaaga wuxuuna diyaar u yahay inuu ku caawiyo.",
+  "reject_case_notification_header": "Cusboonaysiinta gudbinta",
+  "reject_case_notification_message_part": " ma awoodi karo inuu qaato kiiskaaga hadda.",
+  "delete_case_notification_header": "Codsi waa la tirtiray",
+  "withdraw_case_notification_header": "Codsi waa laga noqday",
+  "delete_case_notification_message_part": " ayaa tirtiray codsigiisa.",
+  "withdraw_case_notification_message_part": " ayaa ka noqday codsigiisa.",
+  "manuscript": "Qoraal",
+  "share_dialog_title": "La wadaag ama soo dejiso qoraalka",
+  "certifications": "Shahaadooyin",
+  "queries_left": "Su'aalaha AI ee haray",
+  "voice_notes_limit": "Cod",
+  "uploads_limit": "Uploads",
+  "docgen_limit": "Abuurista dukumentiyada",
+  "current_plan": "Qorshaha hadda",
+  "faqs": "Su'aalaha badanaa la isweydiiyo",
+  "wallet": "Boorsada",
+  "subscription": {
+    "plans_pricing_title": "Qorshayaal iyo Qiimeyn",
+    "plans_pricing_subtitle": "Fur daqiiqooyin badan iyo astaamo premium",
+    "syncing_account": "Akoonka waa la isku waafajinayaa...",
+    "processing_purchase": "Iibsiga waa la socdaa...",
+    "plan_unavailable_title": "Qorshaha lama heli karo",
+    "plan_unavailable_message": "Ma aanan helin qorshahan dukaanka.",
+    "purchase_error_title": "Khalad iibsasho",
+    "purchase_error_message": "Khalad lama filaan ah ayaa dhacay.",
+    "upgrade_plans": "Kor u qaad qorshayaasha",
+    "plan_unlimited": "Aan xad lahayn",
+    "plan_premium": "Premium",
+    "plan_standard": "Heerka caadiga",
+    "plan_free_label": "Mar walba bilaash",
+    "billing_annually": "Sannadle",
+    "feature_voice_notes": "Qoraallo cod ah",
+    "feature_uploads": "Soo gelin",
+    "feature_shared_pool": "Keyd wadaag ah oo loogu talagalay Cod, Soo gelin & Dukumiintiyo",
+    "feature_free_consultation": "daqiiqo la-talin bilaash ah",
+    "feature_priority_support": "Taageero bini’aadan oo mudnaan leh ayaa ku jirta",
+    "feature_ai_queries": "Su’aalo qoraal AI",
+    "feature_limited": "Xaddidan",
+    "feature_standard_limits": "Xaddidaadaha caadiga ah ayaa khuseeya",
+    "feature_query_reset": "Xadka su’aalaha waxa uu dib u bilaabmaa 12am",
+    "feature_rollover": "Wareejin waa la oggol yahay",
+    "feature_images_max": "Sawirro ugu badan",
+    "feature_document_max": "Dukumiintiyo ugu badan",
+    "feature_mb": "MB",
+    "feature_pages": "bogag",
+    "label_default_plan": "Qorshaha caadiga ah",
+    "cta_subscribe_now": "Isdiiwaangeli hadda",
+    "wallet_loading": "Boorsada waa la soo rarayaa...",
+    "wallet_title": "Boorsada",
+    "wallet_balance": "Haraaga la heli karo",
+    "unit_minute": "Daqiiqo",
+    "wallet_top_up": "Ku dar lacag",
+    "wallet_transactions": "Hawlaha dhowaan",
+    "transaction_plan_purchase": "Iibsiga qorshaha",
+    "transaction_legal_query": "Su’aal sharci",
+    "transaction_document_process": "Habaynta dukumiinti",
+    "reference_label": "Tixraac:",
+    "plan_free": "Bilaash",
+    "unit_min": "daq"
+  },
+  "user_name": "Magaca isticmaalaha",
+  "email": "Iimayl",
+  "phone_number": "Lambarka telefoonka",
+  "urgent": "Degdeg",
+  "contact_support": "La xiriir taageerada",
+  "minutes": "Daqiiqo",
+  "freemium": {
+    "modal": {
+      "title": "Xadka su’aalaha waa la gaaray",
+      "timer_label": "Mar kale isku day",
+      "timer_format": "{{minutes}} daq {{seconds}} ilb",
+      "upgrade_cta": "Kor u qaad qorshaha",
+      "loading_text": "Su’aalahaaga waa la furayaa…",
+      "watch_ad_cta": "📺 Daawo xayeysiis (+{{count}} su’aalo)",
+      "limit_note": "Xadka freemium: {{count}} su’aalo / {{hours}} saacadood",
+      "description": "Waxaad isticmaashay dhammaan {{count}} su’aalaha bilaashka ah {{hours}} saacadood ee la soo dhaafay.",
+      "buy_pass": "{{price}} su’aalo aan xad lahayn maanta"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} QORSHE",
+      "queries_left": "{{remaining}} / {{total}} su’aalo hadhay",
+      "daily_pass_active": "✨ Kaarka maalinlaha ah firfircoon",
+      "upgrade_cta": "Kor u qaad",
+      "usage_labels": {
+        "voice_notes": "Qoraallo cod ah",
+        "uploads": "Soo gelin",
+        "docs": "Dukumiintiyo"
+      },
+      "daily_pass": {
+        "title": "🚀 Fur aan xad lahayn maanta",
+        "description": "Hel su’aalo AI aan xad lahayn ilaa saqda dhexe adigoo haysta kaar maalinle ah {{price}}.",
+        "cta": "Hel kaar maalinle ah – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Xadka waa la gaaray",
+      "upgrade_cta": "Cusboonaysii qorshahaaga si aad u sii waddo",
+      "wait_info": "Ama sug kadibna mar kale isku day: {{time}}",
+      "body_message": "Waxaad gaartay xadkaaga bilaashka ah. Cusboonaysii ama sug si aad u sii waddo."
+    }
+  },
+  "plan_card": {
+    "plan_label": "{{plan_name}}",
+    "billing": {
+      "per_period": "/{{period}}",
+      "always_free": "Mar walba bilaash",
+      "discount_badge": "{{discount}}% DHIMIS BILOOWGA KOOWAAD",
+      "per_mins": "{{minutes}} daq"
+    },
+    "toggle": {
+      "annual": "Sannadle",
+      "monthly": "Bille",
+      "weekly": "Toddobaadle",
+      "daily": "Maalinle"
+    },
+    "features": {
+      "voice_notes": "Qoraallo cod ah",
+      "uploads": "Soo gelin",
+      "docs": "Abuurista dukumiinti AI",
+      "minutes": "Daqiiqo",
+      "ai_queries": "Su’aalo qoraal AI",
+      "rollover": "Wareejin waa la oggol yahay",
+      "shared_pool": "• Keyd wadaag ah oo loogu talagalay Cod, Soo gelin & Dukumiintiyo",
+      "free_consultation": "• {{minutes}} daqiiqo la-talin bilaash ah ayaa ku jirta",
+      "priority_support": "• Taageero bini’aadan oo mudnaan leh ayaa ku jirta",
+      "file_caps_title": "Xaddidaadda cabbirka faylka iyo bogagga",
+      "image_max": "Sawirro ugu badan",
+      "doc_max": "Dukumiintiyo ugu badan"
+    },
+    "limits": {
+      "unlimited": "Aan xad lahayn",
+      "limited": "Xaddidan",
+      "none": "Midna ma jiro",
+      "yes": "Haa"
+    },
+    "notes": {
+      "standard_limits": "Xaddidaadaha caadiga ah ayaa khuseeya",
+      "reset_time": "Xadka su’aalaha waxa uu dib u bilaabmaa 12am"
+    },
+    "cta": {
+      "default_plan": "Qorshaha caadiga ah",
+      "current_plan": "Qorshaha hadda",
+      "subscribe": "Isdiiwaangeli hadda"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Xadka bille waa la gaaray",
+      "title_paid": "Daqiiqooyinkaaga waa dhammaadeen",
+      "description_freemium": "Waxaad isticmaashay dhammaan 6 dhibcood oo bille ah oo bilaash ah oo loogu talagalay qoraallo cod, soo gelin faylal iyo abuurista dukumiinti.",
+      "description_paid": "Ma haysatid daqiiqooyin ku filan si aad u dhammaystirto ficilkan. Ku dar ama kor u qaad si aad u hesho dheeraad.",
+      "upgrade_premium": "Kor u qaad Premium",
+      "topup_cta": "Ku dar daqiiqooyin",
+      "view_usage": "Eeg faahfaahinta isticmaalka dhibcaha"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Ku dar daqiiqooyin",
+      "subtitle": "Iibso daqiiqooyin dheeraad ah si aad u sii waddo.",
+      "alerts": {
+        "low_minutes": "Waxaad isticmaashay {{percentage}}% daqiiqooyinkaaga. Hadda ku dar!",
+        "limit_reached": "Xadka bille ee ku darista waa la gaaray ({{used}}/{{limit}})",
+        "limit_popup_title": "Xadka ku darista waa la gaaray",
+        "limit_popup_message": "Waxaad dhaaftay xadka bille ee ku darista."
+      },
+      "slider": {
+        "label": "Daqiiqooyin la iibsanayo",
+        "minutes_value": "{{minutes}} daqiiqo",
+        "min": "{{min}} daq",
+        "max": "{{max}} daq"
+      }
+    }
+  },
+  "show_less": "Muuji wax yar",
+  "show_more": "Muuji wax badan",
+  "updating_balance": "Dheelitirka waa la cusboonaysiinayaa...",
+  "usage_limits": "Xadka isticmaalka",
+  "voice_notes": "Qoraallo cod",
+  "uploads": "Soo dejin",
+  "usage_history": "Taariikhda isticmaalka",
+  "manage_plan": "Maamul qorshaha",
+  "cancel_subscription": "Jooji rukhsadda",
+  "explore_premium_plans": "Saham qorshooyinka premium",
+  "used": "La isticmaalay",
+  "total": "Wadarta",
+  "unlimited": "Aan xad lahayn",
+  "manage_subscription_title": "Maamul rukhsadda",
+  "manage_subscription_desc": "Waxaa laguu wareejin doonaa dukaanka.",
+  "stay_with_us": "Nala joog",
+  "open_store_error": "Lama furi karo linkiga.",
+  "subscription_fetch_error": "Ku guuldareystay helitaanka rukhsadda.",
+  "unit_min": "daqiiqo",
+  "no_transaction_yet": "Weli wax macaamil ah ma jiro!",
+  "feedback_hint_message": "La wadaag faahfaahinta khibradaada",
+  "withdraw": "Ka noqo",
+  "issue_summary": "Soo koobidda arrinta",
+  "disclaimer": "Afeef",
+  "disclaimer_message": "LawNeeds AI Support Assistant wuxuu bixiyaa hagitaan ujeeddooyin macluumaad oo keliya.",
+  "disclaimer_button": "Waan aqbalayaa",
+  "filter": {
+    "title": "Shaandheyn",
+    "sortBy": "Kala saar",
+    "commonServices": "Adeegyada caadiga ah",
+    "practiceAreas": "Goobaha shaqada",
+    "professionalTypes": "Noocyada xirfadlayaasha",
+    "sortOptions": {
+      "alphabetical": "Alifbeeto",
+      "relevance": "Ku habboon",
+      "experience": "Khibrad"
+    }
+  },
+  "common": {
+    "upgrade_now": "Hadda cusboonaysii",
+    "close": "Xir",
+    "maybe_later": "Malaha dambe",
+    "not_now": "Hadda maya",
+    "pay": "Bixi {{currency}}{{amount}}",
+    "total_cost": "Kharashka guud:",
+    "usage_limit_reached": "Xadka isticmaalka waa la gaaray",
+    "apply": "Codso",
+    "cancel": "Jooji",
+    "error": "Qalad",
+    "success": "Guul",
+    "processing": "Waa la farsameynayaa...",
+    "something_wrong": "Wax baa khaldamay",
+    "no_data_available": "Wax xog ah lama hayo"
+  },
+  "daily_pass_success": "Qorshaha si guul leh ayaa loo iibsaday!",
+  "daily_pass_not_found": "Baaska maalinlaha ah lama helin.",
+  "purchase_failed": "Iibsigu wuu fashilmay",
+  "expires": "Wuxuu dhacayaa: {{expiryDate}}",
+  "active": "Firfircoon",
+  "pricing": {
+    "confirm_price": "Qiime gaar ah",
+    "propose_price": "Soo jeedi qiime",
+    "enter_amount": "Geli qadarka",
+    "invalid_amount": "Geli qadar sax ah",
+    "amount_range": "Qadarku waa inuu u dhexeeyaa ₹{{min}} - ₹{{max}}",
+    "range": "Ugu yar: ₹{{min}} | Ugu badan: ₹{{max}}",
+    "price_confirmed": "Qiimaha waa la xaqiijiyay",
+    "price_proposed": "Qiime ayaa la soo jeediyay",
+    "confirm_price_btn": "Xaqiiji",
+    "submit_price_btn": "Gudbi",
+    "load_failed": "Ku guuldareysatay soo dejinta qiimaha",
+    "title": "Qiimeyn",
+    "not_proposed_message": "Qiimuhu weli lama dejin. Fadlan deji qiimaha si aad u sii waddo."
+  },
+  "payment": {
+    "header_title": "Lacag-bixin",
+    "total_amount": "Wadarta lacagta",
+    "platform_fee": "Kharashka madasha",
+    "lawyer_receives": "Qareenku wuu helayaa",
+    "pay_button": "Bixi £ {{amount}}",
+    "preparing_payment": "Waxaa la diyaarinayaa lacag-bixin ammaan ah...",
+    "alerts": {
+      "error_title": "Khalad",
+      "init_failed": "Bilowga lacag-bixinta wuu fashilmay",
+      "unable_to_load": "Lacag-bixinta lama soo dejin karin",
+      "payment_failed_title": "Lacag-bixintu way fashilantay",
+      "generic_error": "Wax baa khaldamay",
+      "success_title": "Guul",
+      "success_message": "Lacag-bixinta si guul leh ayay u dhammaatay!"
+    },
+    "notification_title": "Lacagta waa la helay",
+    "notification_message": "{{name}} ayaa dhameystiray bixinta. Waxaad bilaabi kartaa la-tashiga."
+  },
+  "consultation": {
+    "ended_title": "La-tashigu wuu dhammaaday",
+    "ended_message": "Waqtigu wuu dhammaaday",
+    "pending": "Sugaya",
+    "active": "Socda",
+    "completed": "Dhammaystiran"
+  },
+  "file": {
+    "uploading_image": "Sawirka waa la soo gelinayaa...",
+    "uploading_video": "Fiidyowga waa la soo gelinayaa...",
+    "uploading_file": "Faylka waa la soo gelinayaa...",
+    "upload_failed": "Soo gelinta way fashilantay",
+    "upload_failed_message": "Faylka lama diri karin.",
+    "open_pdf": "Fur PDF",
+    "open_doc": "Fur DOC",
+    "open_file": "Fur fayl"
+  },
+  "notification": {
+    "lawyer_message": "Farriinta qareenka",
+    "new_message": "Farriin cusub"
+  },
+  "live": "Toos ah",
+  "stripe_connected": "Stripe waa la isku xiray",
+  "connect_with_stripe": "Ku xidh Stripe",
+  "payments": "Bixinta",
+  "beta_instructions": "Tilmaamaha beta",
+  "status": {
+    "title": "Xaalad",
+    "paid": "La bixiyay",
+    "unpaid": "Lama bixin"
+  },
+  "stripe_not_onboarded_title": "Dejinta bixintu ma dhammaystirna",
+  "stripe_not_onboarded_message": "Si aad u aqbasho codsiyada la-tashiga, fadlan dhammaystir dejinta lacag bixinta Stripe ee tab-ka Settings.",
+  "case_folder": "Faylka kiiska",
+  "case_helped": "Kiisas la caawiyay",
+  "satisfied": "Ku qanacsan",
+  "rejected": "La diiday",
+  "withdrawn": "Laga noqday",
+  "deleted": "La tirtiray",
+  "consultation_history": "Taariikhda la-tashiyada",
+  "pay": "Bixi",
+  "start_consultation": "Bilow la-tashiga",
+  "waiting_for_session": "Sugaya kulanka",
+  "waiting_for_payment": "Sugaya lacag-bixinta",
+  "activity": "Dhaqdhaqaaq",
+  "one_minute_warning_title": "⏰ 1 daqiiqo ayaa haray",
+  "one_minute_warning_body": "Fadhigaaga la-tashiga waxa uu ku dhammaan doonaa 1 daqiiqo gudaheed.",
+  "default_notification_title": "Ogeysiis",
+  "no_notifications": "Weli ma jiraan ogeysiisyo",
+  "i_agree": "Waan aqbalay",
+  "i_dont_agree": "Ma aqbalo",
+  "terms_condition_1": "Waxaan bixinnaa qalab iyo taageero sharci si ay kuu fududaato helitaanka gargaar sharci.",
+  "terms_condition_3": "Waxaad mas’uul ka tahay saxnaanta macluumaadka aad bixiso.",
+  "welcome_to_lawneeds": "Ku soo dhawoow LawNeeds",
+  "terms_condition_2": "Isticmaalka adeegga waxa uu ku xiran yahay u hoggaansanaanta siyaasadaha iyo shuruudaha app-ka.",
+  "terms_and_conditions": "Shuruudaha iyo Xaaladaha",
+  "terms_condition_5": "Isticmaalka joogtada ah ee app-ka wuxuu ka dhigan yahay inaad aqbashay shuruudahan.",
+  "terms_condition_4": "Waxaan ilaalinaynaa xogtaada si waafaqsan siyaasaddayada asturnaanta.",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Fiisaha shaqaale xirfad leh",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Fiisaha ardayga",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Fiisaha booqashada",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Fiisaha abtirsiinta",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Fiisaha xaaska / lammaanaha",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Ku-tiirsanayaasha PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Mideynta qoyska",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (jidka 10-sano)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Jinsiyad qaadasho",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Qorshaha dejinta Midowga Yurub",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), codsiyada xuquuqda aadanaha",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Codsiyada magangelyada (taageero buuxda)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Maareyn buuxda oo kiis ah (bilow ilaa dhammaad)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Degdeg",
+  "basic": "Aasaasi",
+  "verified": "Dukumeenti la xaqiijiyay",
+  "verification_failed": "Xaqiijintu way fashilantay",
+  "verification_cancelled": "Xaqiijinta waa la joojiyay",
+  "delete_review_confirm": "Ma hubtaa inaad rabto inaad tirtirto faalladan?",
+  "casework_service": "Casework Service",
+  "casework_price_range": "Casework Price Range",
+  "tour_previous_chat_title": "Wadahadalkii hore",
+  "tour_previous_chat_desc": "Halkan ka eeg wada sheekaysiyadii hore.",
+  "tour_new_chat_title": "Wadahadal cusub",
+  "tour_new_chat_desc": "Taabo halkan si aad u bilowdo codsi sharci oo cusub.",
+  "tour_notifications_title": "Ogeysiisyo",
+  "tour_notifications_desc": "Halkan ka hubi cusboonaysiinta iyo digniinaha muhiimka ah.",
+  "tour_inbox_title": "Sanduuqa fariimaha",
+  "tour_inbox_desc": "Halkan ku maamul fariimahaaga iyo jawaabaha kiisaska.",
+  "tour_language_title": "Luqad",
+  "tour_language_desc": "Halkan ka dooro luqadda app-ka aad doorbidayso.",
+  "tour_chat_history_title": "Taariikhda wada hadalka",
+  "tour_chat_history_desc": "Dib u eeg oo sii wad wada sheekaysiyadii hore.",
+  "tour_current_plan_title": "Qorshaha hadda",
+  "tour_current_plan_desc": "Halkan ka eeg faahfaahinta rukhsaddaada hadda.",
+  "tour_usage_history_title": "Taariikhda isticmaalka",
+  "tour_usage_history_desc": "La soco inta daqiiqo iyo sifooyin aad isticmaashay.",
+  "tour_request_legal_help_title": "Codso caawimo sharci",
+  "tour_request_legal_help_desc": "Bilow codsi cusub si aad ula xiriiro khubaro.",
+  "tour_wallet_title": "Boorsada",
+  "tour_wallet_desc": "Eeg hadhaaga boorsadaada iyo macaamiladaada.",
+  "tour_top_up_title": "Ku dar lacag",
+  "tour_top_up_desc": "Ku dar lacag si aad u hesho daqiiqado dheeraad ah oo loogu talagalay sifooyinka AI, gelinta iyo la-talinta.",
+  "tour_search_desc": "Qor magac si aad u raadiso xirfadle gaar ah.",
+  "tour_explore_subscribe_plans": "Taabo halkan si aad u eegto una cusboonaysiiso qorshahaaga.",
+  "tour_explore_upgrade_plans": "Cusboonaysii qorshahaaga si aad u furto sifooyinka premium-ka.",
+  "tour_lawyer_stripe_connected": "Akoonkaaga Stripe waa ku xiran yahay oo diyaar ayuu u yahay inuu qaato lacag-bixinno.",
+  "tour_lawyer_stripe_not_connected": "Ku xiro Stripe si aad u bilowdo aqbalidda lacagaha macaamiisha.",
+  "profile_completion": {
+    "title": "Dhammaystir astaantaada",
+    "description": "Fadlan xaqiiji faahfaahintaada ka hor intaadan sii wadin.",
+    "first_name": "Magaca hore *",
+    "last_name": "Magaca dambe *",
+    "saving": "Waa la kaydinayaa...",
+    "save_continue": "Kaydi oo sii wad",
+    "update_profile_failed": "Astaanta lama cusboonaysiin karin"
+  },
+  "auth": {
+    "session_expired": "Fadhiga gelitaankaagu wuu dhacay. Fadlan mar kale isku day.",
+    "login_failed": "Laguma gelin karin. Fadlan mar kale isku day.",
+    "google_login_failed": "Gelitaanka Google ma uusan guulaysan. Fadlan mar kale isku day.",
+    "apple_login_failed": "Gelitaanka Apple ma uusan guulaysan. Fadlan mar kale isku day.",
+    "authorization_failed": "Laguma xirmi karin adeegga xaqiijinta. Fadlan mar kale isku day goor dambe.",
+    "invalid_redirect": "Waxbaa qaldamay intii lagu jiray gelitaanka. Fadlan mar kale isku day.",
+    "cancelled_login": "Gelitaanka waa la joojiyay.",
+    "invalid_response": "Ma aanan dhammaystiri karin gelitaankaaga. Fadlan mar kale isku day."
+  },
+  "tour_service_request_title": "Codsi",
+  "tour_service_request_desc": "Si toos ah ugu dir codsi adeeg xirfadle sharci. Buuxi foomka, ku dar qoraallo ama dukumenti haddii loo baahdo, waxaana xirfadlaha la ogeysiin doonaa marka uu diyaar noqdo.",
+  "tour_request_form_title": "Foomka codsiga",
+  "tour_request_form_desc": "Bixi macluumaad ku saabsan arrintaada sharci, shuruudaha la-tashiga iyo degdegga. Sidoo kale waxaad soo gelin kartaa dukumenti ama ku dari kartaa qoraallo cod si xirfadluhu u fahmo xaaladdaada.",
+  "no_data": "Xog ma jirto",
+  "duplicate_file_attached": "\"{{filename}}\" hore ayaa loo lifaaqay.",
+  "duplicate_file_attached_as": "\"{{filename}}\" hore ayaa loo lifaaqay sida \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Markaad gujiso",
+  "consultation_consent_middle": ", waxaad qiraysaa in haddii la-tashigaaga la bixiyo 14 maalmood gudahood, xuquuqdaada sharciga ah ee joojintu aysan sii shaqeyn doonin. Weli waxaad joojin kartaa ama dib u jadwalayn kartaa la-tashiga sida ku cad",
+  "cancellation_policy": "Siyaasadda joojinta",
+  "home_actions": {
+    "ask_ai": "Weydii LawNeeds AI",
+    "ask_ai_description": "Hagitaan ka hel chatbot-ka LawNeeds AI.",
+    "find_professional": "Raadi xirfadle",
+    "find_professional_description": "Raadi xirfadle sharci oo ku caawin kara.",
+    "book_consultation": "Qabso la-talin",
+    "book_consultation_description": "Bilow habka gudbinta si aad u diyaariso la-talin."
+  }
+}

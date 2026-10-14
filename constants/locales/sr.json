@@ -1,0 +1,1456 @@
+{
+  "submit": "Пошаљи",
+  "cancel": "Откажи",
+  "done": "Готово",
+  "ok": "У реду",
+  "next": "Следеће",
+  "save": "Сачувај",
+  "privacy_policy": "Политика приватности",
+  "terms_n_conditions": "Услови и правила",
+  "per": {
+    "camera_roll": "Потребна је дозвола за галерију.",
+    "microphone_access": "Потребна је дозвола за микрофон.",
+    "permission_denied": "Дозвола одбијена",
+    "notification_permission_not_granted": "Dozvola za obaveštenja nije data"
+  },
+  "policy_text": {
+    "i_agree": "Слажем се",
+    "i_dont_agree": "Не слажем се",
+    "label_1": "1. Прикупљени подаци.",
+    "label_2": "2. Начин прикупљања.",
+    "label_3": "3. Употреба.",
+    "label_4": "4. Дељење.",
+    "label_5": "5. Безбедност.",
+    "label_6": "6. Ваша права.",
+    "label_7": "7. Posebna kategorija: izričito pristajem na obradu svih podataka posebne kategorije koje pružim, uključujući informacije o mom etničkom poreklu i druge osetljive lične podatke, u svrhu odgovora na moj upit. Svoju saglasnost mogu povući u bilo kom trenutku slanjem e-pošte na info@lawneeds.co.uk.",
+    "policy_details": "Ова политика објашњава употребу података.",
+    "review_message": "Молимо прегледајте нашу",
+    "privacy_policy": "Политику приватности"
+  },
+  "tab": {
+    "account": "Nalog",
+    "chat": "Ćaskanje",
+    "home": "Početna",
+    "settings": "Podeš.",
+    "inbox": "Prijemno",
+    "search": "Pretraga"
+  },
+  "profile": {
+    "firm_name": "Naziv firme",
+    "practice_areas_label": "Oblasti prakse",
+    "services": "Usluge",
+    "first_name": "Ime",
+    "last_name": "Prezime",
+    "about": "O nama",
+    "skills": "Veštine",
+    "organisation_name": "Naziv organizacije",
+    "areas_of_legal_focus": "Pravne oblasti",
+    "professional_employer": "Poslodavac",
+    "area_of_legal_expertise": "Oblast pravne ekspertize",
+    "max_of_four": "Maksimalno četiri",
+    "max_of_two": "Maksimalno dva",
+    "characters": "karakteri",
+    "please_select": "Molimo izaberite",
+    "account_security": "Bezbednost naloga",
+    "details": "Detalji",
+    "edit_details": "Izmeni detalje",
+    "no_name": "Bez imena",
+    "profile_updated_success": "Profil je uspešno ažuriran",
+    "company_name": "Naziv kompanije",
+    "enter_your_company_name": "Unesite naziv vaše kompanije",
+    "achievements": "Postignuća",
+    "enter_your_achievements": "Unesite svoja postignuća",
+    "timeline": "Vremenska linija",
+    "start_date": "Datum početka",
+    "end_date": "Datum završetka",
+    "add_another_section": "Dodaj još jednu sekciju",
+    "add_section": "Dodaj sekciju"
+  },
+  "success": {
+    "success": "Uspeh",
+    "success_sent_code": "Verifikacioni kod je uspešno poslat."
+  },
+  "error": {
+    "title": "Greška",
+    "error_msg": "Došlo je do greške. Molimo pokušajte ponovo.",
+    "session_expired": "Sesija je istekla",
+    "login_again": "Molimo prijavite se ponovo da nastavite.",
+    "token_missing": "Nedostaje autentifikacioni token.",
+    "error_process_audio": "Došlo je do greške pri obradi audio zapisa.",
+    "error_process_file": "Došlo je do greške prilikom otpremanja fajla.",
+    "try_again": "Izvinjavamo se, došlo je do greške. Molimo pokušajte ponovo.",
+    "no_use_session": "Sesija korisnika nije pronađena. Molimo prijavite se ponovo.",
+    "invalid_response_token_not_found": "Nevažeći odgovor: token nije pronađen",
+    "fill_all_fields": "Molimo popunite sva polja",
+    "network_error": "Greška mreže. Proverite internet vezu.",
+    "session_expired_login": "Vaša sesija je istekla. Prijavite se ponovo.",
+    "no_permission": "Nemate dozvolu da izvršite ovu radnju.",
+    "resource_not_found": "Traženi resurs nije pronađen.",
+    "invalid_data": "Prosleđeni su neispravni podaci. Proverite i pokušajte ponovo.",
+    "server_error": "Greška servera. Pokušajte ponovo kasnije.",
+    "something_went_wrong": "Nešto je pošlo po zlu. Pokušajte ponovo.",
+    "case_not_found": "Slučaj nije pronađen",
+    "failed_to_process_request": "Zahtev za uslugu nije moguće obraditi"
+  },
+  "change_email": {
+    "send_instruction": "Pošalji instrukcije",
+    "go_back": "Nazad",
+    "create_new_pass": "Kreiraj novu lozinku",
+    "current_email": "Trenutni email",
+    "enter_current_email": "Unesite trenutni i novi email.",
+    "new_email": "Novi email",
+    "check_your_mail": "Proverite svoj email",
+    "check_mail_for_verify_account": "Poslali smo verifikacioni kod na vaš email. Unesite ga ispod.",
+    "check_mail_for_reset_pass": "Poslali smo verifikacioni kod na vaš email. Unesite ga da resetujete lozinku.",
+    "enter_verification_code": "Unesite verifikacioni kod",
+    "go_back_login": "Nazad na prijavu",
+    "not_recd_mail": "Niste primili email? Proverite spam ili",
+    "try_other_email": "Pokušajte drugi email",
+    "resend_code": "Pošalji kod ponovo",
+    "verify_mail": "Verifikujte svoj email",
+    "click_link_to_verify_mail": "Kliknite na link da verifikujete novi email",
+    "skip_confirm_later": "Preskoči, potvrdiću kasnije",
+    "email_updated": "Email je ažuriran"
+  },
+  "landing": {
+    "welcome_to": "Dobrodošli u",
+    "immigration": "Podrška za imigraciju je pojednostavljena",
+    "create_account": "Kreiraj nalog",
+    "log_in": "Prijava",
+    "or": "ili",
+    "create_pro": "Kreiraj Pro nalog",
+    "select_pro": "Izaberite Pro nalog",
+    "lawyer": "Advokat",
+    "law_firm": "Advokatska kancelarija",
+    "hr_legal": "HR/Pravo (SME)",
+    "a2j_partners": "A2J partneri",
+    "screen_not_exist": "Ovaj ekran ne postoji.",
+    "go_to_home_screen": "Idite na početni ekran!"
+  },
+  "login": {
+    "password": "Lozinka",
+    "login": "Prijava",
+    "remember_me": "Zapamti me",
+    "forgot_password": "Zaboravili ste lozinku?",
+    "need_account": "Potreban vam je nalog?",
+    "signup": "Registracija"
+  },
+  "reset_password": "Resetuj lozinku",
+  "create_new_password": "Kreiraj novu lozinku",
+  "create_account": {
+    "first_name": "Ime",
+    "last_name": "Prezime",
+    "date_of_birth": "Datum rođenja",
+    "country": "Država",
+    "select_country": "Izaberite državu",
+    "next": "Dalje",
+    "create_account": "Kreiraj nalog",
+    "date_of_incorporate": "Datum registracije",
+    "create_pro_account": "Kreiraj Pro nalog",
+    "hr_legal_account": "HR/Pravni nalog",
+    "lawyer_account": "Nalog advokata",
+    "law_firm_account": "Nalog kancelarije",
+    "a2j_partners_account": "A2J nalog",
+    "firm_name": "Naziv firme",
+    "organisation_name": "Naziv organizacije",
+    "date_of_establishment": "Datum osnivanja",
+    "areasOfLegalFocus": "Pravne oblasti",
+    "selectAreasOfLegalFocus": "Izaberite pravne oblasti",
+    "contactPerson": "Kontakt osoba",
+    "registrationCharityNumber": "Registracioni broj",
+    "searchAddress": "Pretraži adresu",
+    "town": "Grad",
+    "postcode": "Poštanski broj",
+    "address": "Adresa",
+    "please_select": "Molimo izaberite:",
+    "legalAidOrganisation": "Organizacija pravne pomoći",
+    "lawCentre": "Pravni centar",
+    "proBonoClinic": "Besplatna klinika",
+    "profile_photo": "Profilna slika",
+    "profile_photo_required": "Profilna slika je obavezna za Pro nalog",
+    "upload": "Otpremi",
+    "please_agree_text": "Molimo prihvatite naše uslove",
+    "signup_agreement_text": "Registracijom prihvatate naše",
+    "terms_of_service": "Uslove korišćenja",
+    "and_text": "i",
+    "agree_proceed_button": "Prihvati i nastavi",
+    "select_practice_area": "Izaberite oblast prakse",
+    "already_have_account": "Već imate nalog?",
+    "account_creat_success": "Nalog je uspešno kreiran!",
+    "access_detail_msg_legal_assistance": "Sada možete pristupiti personalizovanoj pravnoj pomoći.",
+    "select_practice_areas": "Izaberite oblasti prakse",
+    "contact_person_partner": "Kontakt osoba/Partner",
+    "company_regi_number": "Registracioni broj kompanije",
+    "enter_sra_number": "Unesite SRA broj",
+    "enter_bar_number": "Unesite BAR broj",
+    "enter_iaa_number": "Unesite IAA broj",
+    "verify_document": "Верификујте лични документ",
+    "reverify_document": "Поново верификујте документ"
+  },
+  "validation": {
+    "missing_info": "Nedostaju informacije",
+    "enter_your_name": "Molimo unesite vaše ime",
+    "enter_your_email": "Molimo unesite vaš email",
+    "enter_your_phone": "Molimo unesite vaš broj telefona",
+    "enter_feedback": "Molimo unesite komentar",
+    "valid_first_name": "Ime mora imati najmanje 2 karaktera.",
+    "valid_last_name": "Prezime mora imati najmanje 2 karaktera.",
+    "select_dob": "Molimo izaberite datum rođenja.",
+    "select_country": "Molimo izaberite državu.",
+    "enter_city": "Polje za grad ne može biti prazno.",
+    "enter_postcode": "Poštanski broj ne može biti prazan.",
+    "enter_address": "Adresa ne može biti prazna.",
+    "valid_user_name": "Korisničko ime mora imati najmanje 3 karaktera.",
+    "valid_email": "Molimo unesite važeći email.",
+    "valid_password": "Lozinka mora imati najmanje 8 karaktera i sadržati broj.",
+    "valid_organisation": "Naziv organizacije mora imati najmanje 2 karaktera.",
+    "valid_town": "Polje za grad ne može biti prazno.",
+    "enter_date_of_incorporate": "Molimo izaberite datum registracije.",
+    "enter_confirm_password": "Unesite lozinku za potvrdu",
+    "valid_confirm_password": "Lozinka za potvrdu mora imati najmanje 8 karaktera i sadržati najmanje jedan broj.",
+    "password_not_match": "Lozinke se ne podudaraju.",
+    "enter_first_name": "Unesite ime",
+    "enter_last_name": "Unesite prezime",
+    "document_expired": "Ваш документ је истекао. Отпремите важећи документ.",
+    "document_invalid": "Верификација документа није успела. Покушајте поново."
+  },
+  "account": {
+    "practice_areas": "Oblasti prakse",
+    "services": "Usluge",
+    "details": "Detalji",
+    "licence": "Licenca",
+    "org_type": "Tip organizacije",
+    "go_back_home": "Nazad na početnu stranicu"
+  },
+  "chat": {
+    "get_started": "Započni",
+    "new_chat": "Nova ćaskanja",
+    "previous_chat": "Prethodna ćaskanja",
+    "title": "Ćaskanje",
+    "waiting": "Čekanje...",
+    "help": "Pomoć",
+    "end_chat": "Završi ćaskanje",
+    "chat_place_holder": "Pošalji poruku LawNeeds",
+    "uploading_file": "Otpremanje {{count}} priloga: {{names}}",
+    "files_uploaded_success": "{{count}} priloga je uspešno otpremljeno.",
+    "uploading_voice_note": "Otpremanje glasovne beleške...",
+    "voice_note_uploaded_success": "Glasovna beleška je uspešno otpremljena",
+    "open_pdf": "Otvori PDF",
+    "sample_questions_title": "Primerna pitanja",
+    "you_selected": "Izabrali ste: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Zdravo "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "ja "
+      },
+      {
+        "type": "token",
+        "content": "sam "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "asistent "
+      },
+      {
+        "type": "token",
+        "content": "za "
+      },
+      {
+        "type": "token",
+        "content": "podršku"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Pružam "
+      },
+      {
+        "type": "token",
+        "content": "samo "
+      },
+      {
+        "type": "token",
+        "content": "informacije"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "ne "
+      },
+      {
+        "type": "token",
+        "content": "profesionalni "
+      },
+      {
+        "type": "token",
+        "content": "savet"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Kako "
+      },
+      {
+        "type": "token",
+        "content": "mogu "
+      },
+      {
+        "type": "token",
+        "content": "da "
+      },
+      {
+        "type": "token",
+        "content": "vam "
+      },
+      {
+        "type": "token",
+        "content": "pomognem "
+      },
+      {
+        "type": "token",
+        "content": "danas"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Učitavanje razgovora nije uspelo. Pokušajte ponovo.",
+    "voice_note_ready": "Glasovna beleška je spremna",
+    "tap_to_record": "Dodirnite 🔴 da biste započeli snimanje",
+    "preview_files": "Pregled fajlova",
+    "file_selected": "Fajl je izabran",
+    "files_selected": "Fajlovi su izabrani",
+    "upload_files": "Otpremi",
+    "tap_to_preview": "Dodirnite za pregled",
+    "add": "Dodaj",
+    "today": "Danas",
+    "last_week": "Prošle nedelje",
+    "last_month": "Prošlog meseca"
+  },
+  "setting": {
+    "select_language": "Izaberite jezik",
+    "settings": "Podešavanja",
+    "app_language": "Jezik aplikacije",
+    "choose_language": "Izaberite jezik",
+    "notifications": "Obaveštenja",
+    "submit_feedback": "Помоћ",
+    "about": "O nama",
+    "our_philosophy": "Naša filozofija",
+    "account_management": "Upravljanje nalogom",
+    "logout": "Odjavi se"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Naša vizija",
+    "our_vision_desc": "U LawNeeds verujemo da pouzdana pravna pomoć, posebno za imigraciju, treba da bude dostupna svima, u bilo koje vreme i bilo gde. Sa pametnim telefonima u centru svakodnevnog života, tu smo da pomognemo pojedincima da se snađu u životu u Ujedinjenom Kraljevstvu kroz jednostavnu i pouzdanu pravnu podršku.",
+    "our_services_header": "Naše usluge",
+    "our_services_desc": "Naša mobilna aplikacija, koja uključuje isključivo regulisane advokatske kancelarije, licencirane advokate i imigracione savetnike, nudi specijalizovane pravne usluge sa snažnim fokusom na imigraciono pravo. Pomažemo pojedincima, porodicama, studentima i profesionalcima da se snađu u životu u UK. Kako rastemo, korisnici će imati pristup i stručnosti iz radnog prava, porodičnog prava i saobraćajnih prekršaja, sve uz jednostavno i bezbrižno iskustvo u nekoliko dodira.",
+    "innovation_header": "Inovacija na vrhuncu",
+    "innovation_desc": "U LawNeeds inovacija pokreće sve što radimo. Koristimo snagu veštačke inteligencije da pružimo trenutne, 24/7 pravne smernice i personalizovane preporuke za imigraciju na osnovu lokacije i situacije korisnika.",
+    "community_header": "Zajednica i rast",
+    "community_desc": "LawNeeds je više od aplikacije — to je zajednica. Osnažujemo migrante i pomažemo pravnim stručnjacima da razvijaju svoju praksu kroz našu inovativnu platformu i funkcije.",
+    "commitment_header": "Posvećenost izvrsnosti",
+    "commitment_desc": "LawNeeds kombinuje AI tehnologiju sa ljudskim pravnim nadzorom. Naša platforma je trenirana na vlasničkom pravnom datasetu UK, pregledana od strane internih advokata i kontinuirano ažurirana sa regulatornim promenama i verifikovanim pravnim izvorima, obezbeđujući pouzdane smernice na svakom koraku.",
+    "join_us_header": "Pridružite nam se",
+    "join_us_desc": "Kako nastavljamo da rastemo, pozivamo vas da nam se pridružite — bilo da tražite pravnu pomoć ili razvijate svoju praksu. U LawNeeds, vaš uspeh je naša misija."
+  },
+  "support": {
+    "support_desc": "Pomozite nam da unapredimo LawNeeds tako što ćete podeliti svoje mišljenje, probleme ili predloge ispod",
+    "feedback_success": "Povratne informacije uspešno poslate",
+    "name": "Ime",
+    "comment": "Komentar",
+    "address": "Registrovana kancelarija: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Imigraciono pravo"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Radno pravo"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Saobraćajni prekršaji"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Porodično pravo"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Pravna istraživanja"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Pravno pisanje"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Analiza slučajeva"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Izrada ugovora"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Pregovaranje"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Savetovanje klijenata"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Zastupanje na sudu"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Medijacija"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Arbitraža"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Detaljna provera"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Provera usklađenosti"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Procena rizika"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Pravna strategija"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Unakrsno ispitivanje"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Pisanje podnesaka"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Iskaz"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Otkrivanje dokaza"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Pregovori o nagodbi"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Regulatorna analiza"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Međunarodno pravo"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Intelektualna svojina"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Spajanja i akvizicije"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Korporativno upravljanje"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Radni odnosi"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Imigracione procedure"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Imigraciono pravo"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Porodično pravo"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Radno pravo"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Krivično pravo"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Korporativno pravo"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Imovinsko pravo"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Lične povrede"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Intelektualna svojina"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Poresko pravo"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Ugovorno pravo"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Sudski postupci"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Medijacija"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Arbitraža"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Pravna konsultacija"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Pregled dokumenata"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Pravna istraživanja"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Usklađenost"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Spajanja i akvizicije"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Bankarstvo i finansije"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Pravo osiguranja"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Ekološko pravo"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Ljudska prava"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Međunarodno pravo"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Upravno pravo"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Ustavno pravo"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Jednokratna konsultacija"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Kontinuirana podrška"
+    },
+    {
+      "key": "casework",
+      "label": "Rad na slučaju"
+    },
+    {
+      "key": "not_sure",
+      "label": "Nisam siguran"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Standardno (5-7 dana)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Prioritet (2-3 dana)"
+    },
+    {
+      "key": "urgent",
+      "label": "Hitno (isti ili sledeći dan)"
+    }
+  ],
+  "search": {
+    "professionals": "Profesionalci",
+    "city": "Grad",
+    "distance": "Udaljenost",
+    "top_rated": "Najbolje ocenjeni",
+    "more": "Više",
+    "request": "Zahtev",
+    "request_service": "Zatraži uslugu",
+    "service": "Usluga",
+    "select_service": "Izaberite uslugu",
+    "urgency": "Hitnost",
+    "select": "Izaberite",
+    "additional_notes": "Dodatne napomene",
+    "service_request_success": "Vaš zahtev za uslugu je uspešno poslat",
+    "issue_type": "Tip problema",
+    "budget": "Budžet",
+    "select_consultation": "Izaberite konsultaciju",
+    "consultation": "Konsultacija",
+    "time_n_rate": "Vreme i tarifa"
+  },
+  "reset_password_info": "Unesite email povezan sa vašim nalogom i poslaćemo vam email sa uputstvima za postavljanje nove lozinke",
+  "tap_to_upload_image": "Dodirnite da biste otpremili sliku",
+  "record": "Snimanje",
+  "media": "Mediji",
+  "attach": "Priloži",
+  "sort_by": "Sortiraj po",
+  "apply": "Primeni",
+  "select_date": "Izaberite datum",
+  "day": "Dan",
+  "month": "Mesec",
+  "year": "Godina",
+  "present": "Trenutno",
+  "sector": "Sektor",
+  "hr": "HR",
+  "legal": "Pravni",
+  "both": "Oba",
+  "identity_card": "Lična karta",
+  "passport": "Pasoš",
+  "drivers_license": "Vozačka dozvola",
+  "law_centre": "Pravni centar",
+  "legal_aid_organisation": "Organizacija pravne pomoći",
+  "beta": "Beta",
+  "logged_in": "Ulogovan",
+  "select_reason": "Izaberite razlog",
+  "select_area_of_legal_expertise": "Izaberite oblast pravne ekspertize",
+  "confirm_password": "Potvrdite lozinku",
+  "enter_new_password_below": "Unesite novu lozinku ispod",
+  "select_a_country": "Izaberite državu",
+  "open_email_app": "Otvorite email aplikaciju",
+  "request_details": "Detalji zahteva",
+  "accept": "Prihvati",
+  "reject": "Odbij",
+  "request_reject_message": "Zahtev za uslugu je uspešno odbijen",
+  "document_view": "Prikaz dokumenta",
+  "loading_document": "Učitavanje dokumenta",
+  "service_issue_type": "Izaberite tip problema usluge",
+  "select_consultation_type": "Izaberite tip konsultacije",
+  "urgency_level": "Izaberite nivo hitnosti",
+  "budget_input": "Unesite budžet",
+  "attachments": "Prilozi",
+  "user_label": "Vi",
+  "timestamp": "Upravo sada",
+  "voice_note": "Glasovna poruka",
+  "comment_placeholder": "Napišite komentar...",
+  "messages": "Poruke",
+  "edit": "Izmeni",
+  "copy": "Kopiraj",
+  "select_consultation_time": "Izaberite vreme konsultacije",
+  "request_cancel_success": "Zahtev za uslugu je uspešno otkazan",
+  "accept_request_message": "Da li ste sigurni da želite da prihvatite ovaj zahtev?",
+  "reject_request_message": "Da li ste sigurni da želite da odbijete ovaj zahtev?",
+  "delete_request_message": "Da li zaista želite da obrišete ovaj zahtev?",
+  "withdraw_request_message": "Da li zaista želite da povučete ovaj zahtev?",
+  "yes": "Da",
+  "no": "Ne",
+  "accepted": "Prihvaćeno",
+  "cancelled": "Otkazano",
+  "pending": "Na čekanju",
+  "consultation_time": "Vreme konsultacije",
+  "consultation_type": "Tip konsultacije",
+  "recommended_professionals": "Preporučeni profesionalci:",
+  "continue": "Nastavi",
+  "image": "Slika",
+  "delete_account": "Obriši nalog",
+  "delete": "Obriši",
+  "delete_confirmation_message": "Da li ste sigurni da želite da obrišete svoj nalog? Ova radnja se ne može poništiti.",
+  "delete_account_error_message": "Došlo je do greške prilikom brisanja vašeg naloga.",
+  "place_holder_additional_notes": "Unesite dodatne detalje o vašem pravnom slučaju...",
+  "upload_options": "Opcije otpremanja:",
+  "select_option": "Molimo izaberite opciju:",
+  "skip": "Preskoči",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Imigraciono pravo"
+    },
+    {
+      "key": "employment",
+      "label": "Radno pravo"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Saobraćajni prekršaji"
+    },
+    {
+      "key": "family",
+      "label": "Porodično pravo"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Hitno"
+    },
+    {
+      "key": "within_week",
+      "label": "U roku od nedelju dana"
+    },
+    {
+      "key": "within_month",
+      "label": "U roku od mesec dana"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Nije hitno"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Izaberite tip problema"
+    },
+    {
+      "key": "urgency",
+      "name": "Izaberite hitnost"
+    },
+    {
+      "key": "consultation",
+      "name": "Izaberite konsultaciju"
+    },
+    {
+      "key": "select_time",
+      "name": "Izaberite vreme i cenu"
+    },
+    {
+      "key": "select-budget",
+      "name": "Izaberite budžet"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 minuta (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 minuta (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 minuta (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 minuta (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 sat (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 dana (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 dana (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Iznad £700"
+    }
+  ],
+  "sample_questions": [
+    "Zatražite pravnog stručnjaka",
+    "Da li ispunjavam uslove za Skilled Worker vizu?",
+    "Kako da produžim svoju studentsku vizu?",
+    "Koja su pravila za stalni boravak?",
+    "Kako da podnesem zahtev za azil u UK?",
+    "Koliko traje donošenje odluke o vizi?"
+  ],
+  "rate_of_hour": "Cena po satu",
+  "search_country": "Pretraži državu",
+  "review_error": "Recenzija ne može biti prazna.",
+  "rating_validation": "Molimo izaberite ocenu od 1 do 5 zvezdica.",
+  "create_account_with": "Kreiraj nalog sa",
+  "login_with": "Prijavi se sa",
+  "create_account_email_password": "Email/Lozinka",
+  "sign_in_with_apple": "Prijavi se sa Apple",
+  "sign_in_with_google": "Prijavi se sa Google",
+  "no_cases_available": "Nema dostupnih slučajeva",
+  "no_active_cases_available": "Nema aktivnih slučajeva",
+  "no_pending_cases_available": "Nema čekajućih slučajeva",
+  "back": "Nazad",
+  "submit_review": "Pošalji recenziju",
+  "delete_review": "Obriši recenziju",
+  "member_since": "Član od",
+  "work_experience": "Radno iskustvo",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Stručnost",
+  "professional_details": "Profesionalni detalji",
+  "review_professional": "Oceni profesionalca",
+  "no_reviews": "Još nema recenzija. Budite prvi!",
+  "reviews": "Recenzije",
+  "thanks_feedback": "Hvala na vašem mišljenju!",
+  "accept_case_notification_header": "Advokat je prihvatio vaš zahtev! 🎉",
+  "accept_case_notification_message_part": " je prihvatio vaš slučaj i spreman je da vam pomogne.",
+  "reject_case_notification_header": "Ažuriranje preporuke",
+  "reject_case_notification_message_part": " trenutno nije u mogućnosti da preuzme vaš slučaj.",
+  "delete_case_notification_header": "Zahtev je obrisan",
+  "withdraw_case_notification_header": "Zahtev je povučen",
+  "delete_case_notification_message_part": " je obrisao svoj zahtev.",
+  "withdraw_case_notification_message_part": " je povukao svoj zahtev.",
+  "manuscript": "Rukopis",
+  "share_dialog_title": "Podeli ili preuzmi rukopis",
+  "certifications": "Sertifikati",
+  "queries_left": "Preostala AI pitanja",
+  "voice_notes_limit": "Glas",
+  "uploads_limit": "Otpremanja",
+  "docgen_limit": "Generisanje dokumenata",
+  "current_plan": "Trenutni plan",
+  "faqs": "Česta pitanja",
+  "wallet": "Novčanik",
+  "subscription": {
+    "plans_pricing_title": "Planovi i cene",
+    "plans_pricing_subtitle": "Otključajte više minuta i premium funkcija",
+    "syncing_account": "Sinhronizacija naloga...",
+    "processing_purchase": "Obrada kupovine...",
+    "plan_unavailable_title": "Plan nije dostupan",
+    "plan_unavailable_message": "Nismo mogli pronaći ovaj plan u prodavnici.",
+    "purchase_error_title": "Greška pri kupovini",
+    "purchase_error_message": "Došlo je do neočekivane greške.",
+    "upgrade_plans": "Nadogradi planove",
+    "plan_unlimited": "Neograničeno",
+    "plan_premium": "Premium",
+    "plan_standard": "Standardni",
+    "plan_free_label": "Uvek besplatno",
+    "billing_annually": "Godišnje",
+    "feature_voice_notes": "Glasovne beleške",
+    "feature_uploads": "Otpremanja",
+    "feature_shared_pool": "Zajednički fond za glas, otpremanja i dokumente",
+    "feature_free_consultation": "min besplatne konsultacije",
+    "feature_priority_support": "Prioritetna ljudska podrška uključena",
+    "feature_ai_queries": "AI tekstualni upiti",
+    "feature_limited": "Ograničeno",
+    "feature_standard_limits": "Važe standardna ograničenja",
+    "feature_query_reset": "Limit upita se resetuje u 12am",
+    "feature_rollover": "Prenos dozvoljen",
+    "feature_images_max": "Maks. slike",
+    "feature_document_max": "Maks. dokumenti",
+    "feature_mb": "MB",
+    "feature_pages": "stranice",
+    "label_default_plan": "Podrazumevani plan",
+    "cta_subscribe_now": "Pretplati se sada",
+    "wallet_loading": "Učitavanje novčanika...",
+    "wallet_title": "Novčanik",
+    "wallet_balance": "Dostupan saldo",
+    "unit_minute": "Minut",
+    "wallet_top_up": "Dopuni",
+    "wallet_transactions": "Nedavne transakcije",
+    "transaction_plan_purchase": "Kupovina plana",
+    "transaction_legal_query": "Pravni upit",
+    "transaction_document_process": "Obrada dokumenta",
+    "reference_label": "Ref:",
+    "plan_free": "Besplatno",
+    "unit_min": "min"
+  },
+  "user_name": "Korisničko ime",
+  "email": "Email",
+  "phone_number": "Broj telefona",
+  "urgent": "Hitno",
+  "contact_support": "Kontaktiraj podršku",
+  "minutes": "Minuti",
+  "freemium": {
+    "modal": {
+      "title": "Limit upita dostignut",
+      "timer_label": "Pokušaj ponovo za",
+      "timer_format": "{{minutes}} мин {{seconds}} сек",
+      "upgrade_cta": "Nadogradi plan",
+      "loading_text": "Otključavanje vaših upita…",
+      "watch_ad_cta": "📺 Pogledaj oglas (+{{count}} upita)",
+      "limit_note": "Freemium limit: {{count}} upita / {{hours}} sati",
+      "description": "Iskoristili ste svih {{count}} besplatnih upita u poslednjih {{hours}} sati.",
+      "buy_pass": "{{price}} neograničeni upiti danas"
+    },
+    "banner": {
+      "plan_label": "PLAN {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} preostalih upita",
+      "daily_pass_active": "✨ Dnevni paket aktivan",
+      "upgrade_cta": "Nadogradi",
+      "usage_labels": {
+        "voice_notes": "Glasovne beleške",
+        "uploads": "Otpremanja",
+        "docs": "Dokumenti"
+      },
+      "daily_pass": {
+        "title": "🚀 Otključaj neograničeno danas",
+        "description": "Dobijte neograničene AI upite do ponoći uz dnevni paket za {{price}}.",
+        "cta": "Uzmi dnevni paket – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Limit dostignut",
+      "upgrade_cta": "Надоградите свој план да наставите",
+      "wait_info": "Или сачекајте па покушајте поново за: {{time}}",
+      "body_message": "Достигли сте бесплатни лимит. Надоградите план или сачекајте да бисте наставили."
+    }
+  },
+  "plan_card": {
+    "plan_label": "{{plan_name}}",
+    "billing": {
+      "per_period": "/{{period}}",
+      "always_free": "Uvek besplatno",
+      "discount_badge": "{{discount}}% POPUST PRVI MESEC",
+      "per_mins": "{{minutes}} min"
+    },
+    "toggle": {
+      "annual": "Godišnje",
+      "monthly": "Mesečno",
+      "weekly": "Nedeljno",
+      "daily": "Dnevno"
+    },
+    "features": {
+      "voice_notes": "Glasovne beleške",
+      "uploads": "Otpremanja",
+      "docs": "AI generisanje dokumenata",
+      "minutes": "Minuti",
+      "ai_queries": "AI tekstualni upiti",
+      "rollover": "Prenos dozvoljen",
+      "shared_pool": "• Zajednički fond za glas, otpremanja i dokumente",
+      "free_consultation": "• {{minutes}} min besplatne konsultacije uključeno",
+      "priority_support": "• Prioritetna ljudska podrška uključena",
+      "file_caps_title": "Ograničenja veličine fajla i stranica",
+      "image_max": "Maks. slike",
+      "doc_max": "Maks. dokumenti"
+    },
+    "limits": {
+      "unlimited": "Neograničeno",
+      "limited": "Ograničeno",
+      "none": "Nema",
+      "yes": "Da"
+    },
+    "notes": {
+      "standard_limits": "Važe standardna ograničenja",
+      "reset_time": "Limit upita se resetuje u 12am"
+    },
+    "cta": {
+      "default_plan": "Podrazumevani plan",
+      "current_plan": "Trenutni plan",
+      "subscribe": "Pretplati se sada"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Mesečni limit dostignut",
+      "title_paid": "Nemate više minuta",
+      "description_freemium": "Iskoristili ste svih 6 besplatnih mesečnih kredita za glasovne beleške, otpremanje fajlova i generisanje dokumenata.",
+      "description_paid": "Nemate dovoljno minuta za ovu akciju. Dopunite ili nadogradite za više.",
+      "upgrade_premium": "Nadogradi na Premium",
+      "topup_cta": "Dopuni minute",
+      "view_usage": "Pogledaj korišćenje kredita"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Dopuni minute",
+      "subtitle": "Kupite dodatne minute da nastavite.",
+      "alerts": {
+        "low_minutes": "Iskoristili ste {{percentage}}% minuta. Dopunite sada!",
+        "limit_reached": "Mesečni limit dopune dostignut ({{used}}/{{limit}})",
+        "limit_popup_title": "Limit dopune dostignut",
+        "limit_popup_message": "Prešli ste mesečni limit dopune."
+      },
+      "slider": {
+        "label": "Minute za kupovinu",
+        "minutes_value": "{{minutes}} minuta",
+        "min": "{{min}} min",
+        "max": "{{max}} min"
+      }
+    }
+  },
+  "show_less": "Prikaži manje",
+  "show_more": "Prikaži više",
+  "updating_balance": "Ažuriranje stanja...",
+  "usage_limits": "Ograničenja korišćenja",
+  "voice_notes": "Glasovne beleške",
+  "uploads": "Otpremanja",
+  "usage_history": "Istorija korišćenja",
+  "manage_plan": "Upravljaj planom",
+  "cancel_subscription": "Otkaži pretplatu",
+  "explore_premium_plans": "Istraži premium planove",
+  "used": "Iskorišćeno",
+  "total": "Ukupno",
+  "unlimited": "Neograničeno",
+  "manage_subscription_title": "Upravljanje pretplatom",
+  "manage_subscription_desc": "Bićete preusmereni na prodavnicu da upravljate podešavanjima. Žao nam je što odlazite!",
+  "stay_with_us": "Ostanite sa nama",
+  "open_store_error": "Nije moguće otvoriti link prodavnice.",
+  "subscription_fetch_error": "Neuspešno preuzimanje informacija o pretplati.",
+  "unit_min": "min",
+  "no_transaction_yet": "Još nema transakcija!",
+  "feedback_hint_message": "Podelite detalje svog iskustva",
+  "withdraw": "Povuci",
+  "issue_summary": "Sažetak problema",
+  "disclaimer": "Odricanje od odgovornosti",
+  "disclaimer_message": "LawNeeds AI Support Assistant pruža smernice samo u informativne svrhe.",
+  "disclaimer_button": "Prihvatam",
+  "filter": {
+    "title": "Filter",
+    "sortBy": "Sortiraj po",
+    "commonServices": "Uobičajene usluge",
+    "practiceAreas": "Oblasti prakse",
+    "professionalTypes": "Tipovi profesionalaca",
+    "sortOptions": {
+      "alphabetical": "Abecedno",
+      "relevance": "Relevantnost",
+      "experience": "Iskustvo"
+    }
+  },
+  "common": {
+    "upgrade_now": "Nadogradi sada",
+    "close": "Zatvori",
+    "maybe_later": "Možda kasnije",
+    "not_now": "Ne sada",
+    "pay": "Plati {{currency}}{{amount}}",
+    "total_cost": "Ukupni trošak:",
+    "usage_limit_reached": "Dostignut limit korišćenja",
+    "apply": "Primeni",
+    "cancel": "Otkaži",
+    "error": "Greška",
+    "success": "Uspeh",
+    "processing": "Obrada...",
+    "something_wrong": "Nešto je pošlo po zlu",
+    "no_data_available": "Nema dostupnih podataka"
+  },
+  "daily_pass_success": "Plan uspešno kupljen!",
+  "daily_pass_not_found": "Dnevna karta nije pronađena.",
+  "purchase_failed": "Kupovina neuspešna",
+  "expires": "Ističe: {{expiryDate}}",
+  "active": "Aktivno",
+  "pricing": {
+    "confirm_price": "Prilagođena cena",
+    "propose_price": "Predloži cenu",
+    "enter_amount": "Unesite iznos",
+    "invalid_amount": "Unesite važeći iznos",
+    "amount_range": "Iznos mora biti između ₹{{min}} - ₹{{max}}",
+    "range": "Min: ₹{{min}} | Max: ₹{{max}}",
+    "price_confirmed": "Cena potvrđena",
+    "price_proposed": "Cena predložena",
+    "confirm_price_btn": "Potvrdi",
+    "submit_price_btn": "Pošalji",
+    "load_failed": "Učitavanje cena nije uspelo",
+    "title": "Cene",
+    "not_proposed_message": "Cena još nije postavljena. Postavite cenu da biste nastavili."
+  },
+  "payment": {
+    "header_title": "Plaćanje",
+    "total_amount": "Ukupan iznos",
+    "platform_fee": "Naknada platforme",
+    "lawyer_receives": "Advokat dobija",
+    "pay_button": "Plati £ {{amount}}",
+    "preparing_payment": "Priprema se bezbedno plaćanje...",
+    "alerts": {
+      "error_title": "Greška",
+      "init_failed": "Pokretanje plaćanja nije uspelo",
+      "unable_to_load": "Nije moguće učitati plaćanje",
+      "payment_failed_title": "Plaćanje nije uspelo",
+      "generic_error": "Nešto je pošlo po zlu",
+      "success_title": "Uspeh",
+      "success_message": "Plaćanje je uspešno završeno!"
+    },
+    "notification_title": "Plaćanje primljeno",
+    "notification_message": "{{name}} je završio/la plaćanje. Možete započeti konsultaciju."
+  },
+  "consultation": {
+    "ended_title": "Konsultacija je završena",
+    "ended_message": "Vreme je isteklo",
+    "pending": "Na čekanju",
+    "active": "U toku",
+    "completed": "Završeno"
+  },
+  "file": {
+    "uploading_image": "Otpremanje slike...",
+    "uploading_video": "Otpremanje videa...",
+    "uploading_file": "Otpremanje fajla...",
+    "upload_failed": "Otpremanje nije uspelo",
+    "upload_failed_message": "Fajl nije mogao biti poslat.",
+    "open_pdf": "Otvori PDF",
+    "open_doc": "Otvori DOC",
+    "open_file": "Otvori fajl"
+  },
+  "notification": {
+    "lawyer_message": "Poruka advokata",
+    "new_message": "Nova poruka"
+  },
+  "live": "Uživo",
+  "stripe_connected": "Stripe povezan",
+  "connect_with_stripe": "Poveži sa Stripe-om",
+  "payments": "Plaćanja",
+  "beta_instructions": "Beta uputstva",
+  "status": {
+    "title": "Status",
+    "paid": "Plaćeno",
+    "unpaid": "Neplaćeno"
+  },
+  "stripe_not_onboarded_title": "Podešavanje plaćanja nije završeno",
+  "stripe_not_onboarded_message": "Da biste prihvatali zahteve za konsultacije, dovršite Stripe podešavanje plaćanja u kartici Podešavanja.",
+  "case_folder": "Fascikla slučaja",
+  "case_helped": "Slučajevi kojima je pružena pomoć",
+  "satisfied": "Zadovoljan",
+  "rejected": "Odbijeno",
+  "withdrawn": "Povučeno",
+  "deleted": "Obrisano",
+  "consultation_history": "Историја консултација",
+  "pay": "Плати",
+  "start_consultation": "Започни консултацију",
+  "waiting_for_session": "Чека се сесија",
+  "waiting_for_payment": "Чека се уплата",
+  "activity": "Активност",
+  "one_minute_warning_title": "⏰ Преостаје 1 минут",
+  "one_minute_warning_body": "Ваша консултацијска сесија ће се завршити за 1 минут.",
+  "default_notification_title": "Обавештење",
+  "no_notifications": "Још увек нема обавештења",
+  "i_agree": "слажем се",
+  "terms_and_conditions": "Услови и одредбе",
+  "terms_condition_1": "1. Коришћењем ове апликације прихватате ове услове и морате имати најмање 18 година.",
+  "terms_condition_2": "2. ЛавНеедс пружа правну помоћ, али не замењује професионално правно заступање.",
+  "terms_condition_3": "3. ЛавНеедс помоћник за АИ подршку пружа информативне правне смернице. Ово не представља правни савет.",
+  "terms_condition_4": "4. Ви сте одговорни за пружање тачних и истинитих информација.",
+  "welcome_to_lawneeds": "Добродошли у ЛавНеедс!",
+  "i_dont_agree": "не слажем се",
+  "terms_condition_5": "5. Ваше информације су приватне, али морате да чувате акредитиве свог налога у тајности.",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Виза за квалификованог радника",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Студентска виза",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Виза за посету",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Виза по пореклу",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Виза за супружника / партнера",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "PBS издржавана лица",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Спајање породице",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (пут од 10 година)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Натурализација",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Шема насељавања ЕУ",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), захтеви за људска права",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Захтеви за азил (пуна подршка)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Потпуно управљање случајем (од почетка до краја)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Експрес",
+  "basic": "Основно",
+  "verified": "Документ је верификован",
+  "verification_failed": "Верификација није успела",
+  "verification_cancelled": "Верификација је отказана",
+  "delete_review_confirm": "Да ли сте сигурни да желите да обришете ову рецензију?",
+  "casework_service": "Casework Service",
+  "casework_price_range": "Casework Price Range",
+  "tour_previous_chat_title": "Претходни чат",
+  "tour_previous_chat_desc": "Погледајте своје претходне разговоре овде.",
+  "tour_new_chat_title": "Нови чат",
+  "tour_new_chat_desc": "Додирните овде да започнете нови правни упит.",
+  "tour_notifications_title": "Обавештења",
+  "tour_notifications_desc": "Овде проверите важна ажурирања и обавештења.",
+  "tour_inbox_title": "Пријемно сандуче",
+  "tour_inbox_desc": "Овде управљајте порукама и одговорима на случајеве.",
+  "tour_language_title": "Језик",
+  "tour_language_desc": "Овде изаберите жељени језик апликације.",
+  "tour_chat_history_title": "Историја разговора",
+  "tour_chat_history_desc": "Прегледајте и наставите претходне разговоре.",
+  "tour_current_plan_title": "Тренутни план",
+  "tour_current_plan_desc": "Овде погледајте детаље тренутне претплате.",
+  "tour_usage_history_title": "Историја коришћења",
+  "tour_usage_history_desc": "Пратите колико сте минута и функција користили.",
+  "tour_request_legal_help_title": "Затражите правну помоћ",
+  "tour_request_legal_help_desc": "Покрените нови захтев да бисте се повезали са стручњацима.",
+  "tour_wallet_title": "Новчаник",
+  "tour_wallet_desc": "Погледајте стање новчаника и трансакције.",
+  "tour_top_up_title": "Допуна",
+  "tour_top_up_desc": "Додајте средства да бисте добили више минута за AI функције, отпремања и консултације.",
+  "tour_search_desc": "Унесите име да бисте пронашли одређеног стручњака.",
+  "tour_explore_subscribe_plans": "Додирните овде да прегледате и надоградите свој план.",
+  "tour_explore_upgrade_plans": "Надоградите план да откључате премијум функције.",
+  "tour_lawyer_stripe_connected": "Ваш Stripe налог је повезан и спреман за примање уплата.",
+  "tour_lawyer_stripe_not_connected": "Повежите Stripe да бисте почели да примате уплате од клијената.",
+  "profile_completion": {
+    "title": "Довршите свој профил",
+    "description": "Проверите своје податке пре него што наставите.",
+    "first_name": "Име *",
+    "last_name": "Презиме *",
+    "saving": "Чување...",
+    "save_continue": "Сачувај и настави",
+    "update_profile_failed": "Профил није могао да се ажурира"
+  },
+  "auth": {
+    "session_expired": "Ваша сесија пријаве је истекла. Покушајте поново.",
+    "login_failed": "Нисмо могли да вас пријавимо. Покушајте поново.",
+    "google_login_failed": "Пријава преко Google-а није успела. Покушајте поново.",
+    "apple_login_failed": "Пријава преко Apple-а није успела. Покушајте поново.",
+    "authorization_failed": "Није могуће повезивање са сервисом за аутентификацију. Покушајте касније.",
+    "invalid_redirect": "Нешто је пошло по злу током пријаве. Покушајте поново.",
+    "cancelled_login": "Пријава је отказана.",
+    "invalid_response": "Нисмо могли да довршимо вашу пријаву. Покушајте поново."
+  },
+  "tour_service_request_title": "Захтев",
+  "tour_service_request_desc": "Пошаљите захтев за услугу директно правном стручњаку. Попуните формулар, додајте белешке или документе ако је потребно, и стручњак ће бити обавештен када буде доступан.",
+  "tour_request_form_title": "Образац захтева",
+  "tour_request_form_desc": "Унесите информације о вашем правном питању, захтевима за консултацију и хитности. Такође можете отпремити документе или додати гласовне белешке како би стручњак боље разумео вашу ситуацију.",
+  "no_data": "Нема података",
+  "duplicate_file_attached": "\"{{filename}}\" је већ приложен.",
+  "duplicate_file_attached_as": "\"{{filename}}\" је већ приложен као \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Кликом на",
+  "consultation_consent_middle": ", потврђујете да ако вам се консултација пружи у року од 14 дана, ваше законско право на отказ више неће важити. И даље можете отказати или померити консултацију према нашој",
+  "cancellation_policy": "Политика отказивања",
+  "home_actions": {
+    "ask_ai": "Питајте LawNeeds AI",
+    "ask_ai_description": "Добијте смернице од LawNeeds AI четбота.",
+    "find_professional": "Пронађите стручњака",
+    "find_professional_description": "Потражите правног стручњака који може да помогне.",
+    "book_consultation": "Закажите консултацију",
+    "book_consultation_description": "Започните поступак упућивања да бисте организовали консултацију."
+  }
+}

@@ -1,0 +1,52 @@
+# Version control and local editor state
+.git/
+.github/
+.idea/
+.vscode/
+.DS_Store
+
+# Dependencies and package-manager caches
+node_modules/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.pnpm-store/
+
+# Expo and generated web output
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+*.tsbuildinfo
+
+# Native dependencies and build output
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/.xcode.env.local
+android/.gradle/
+android/build/
+android/app/build/
+local.properties
+
+# Previous local build artifacts
+*.aab
+*.apk
+*.ipa
+
+# Logs and temporary files
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+coverage/
+
+# Local credentials and environment overrides
+.env
+.env*.local
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem

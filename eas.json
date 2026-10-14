@@ -1,0 +1,19 @@
+{
+  "cli": {
+    "version": ">= 14.4.1",
+    "appVersionSource": "local"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "environment": "development",
+      "env": {
+        "EXPO_PUBLIC_APP_ENV": "local"
+      },
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}

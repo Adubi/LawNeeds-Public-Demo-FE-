@@ -1,0 +1,1452 @@
+{
+  "submit": "Pateikti",
+  "cancel": "Atšaukti",
+  "done": "Atlikta",
+  "ok": "Gerai",
+  "next": "Kitas",
+  "save": "Išsaugoti",
+  "privacy_policy": "Privatumo politika",
+  "terms_n_conditions": "Sąlygos ir nuostatos",
+  "per": {
+    "camera_roll": "Reikalingas leidimas galerijai.",
+    "microphone_access": "Reikalingas mikrofono leidimas.",
+    "permission_denied": "Leidimas atmestas",
+    "notification_permission_not_granted": "Pranešimams nesuteiktas leidimas"
+  },
+  "policy_text": {
+    "i_agree": "Sutinku",
+    "i_dont_agree": "Nesutinku",
+    "label_1": "1. Renkama informacija.",
+    "label_2": "2. Kaip renkama.",
+    "label_3": "3. Naudojimas.",
+    "label_4": "4. Dalijimasis.",
+    "label_5": "5. Saugumas.",
+    "label_6": "6. Jūsų teisės.",
+    "label_7": "7. Specialioji kategorija: aiškiai sutinku, kad būtų tvarkomi visi mano pateikti specialių kategorijų duomenys, įskaitant informaciją apie mano etninę kilmę ir kitus jautrius asmens duomenis, siekiant atsakyti į mano užklausą. Savo sutikimą galiu bet kada atšaukti parašydamas(-a) el. laišką adresu info@lawneeds.co.uk.",
+    "policy_details": "Ši politika paaiškina duomenų naudojimą.",
+    "review_message": "Peržiūrėkite mūsų",
+    "privacy_policy": "Privatumo politiką"
+  },
+  "tab": {
+    "account": "Paskyra",
+    "chat": "Pokalbis",
+    "home": "Pradžia",
+    "settings": "Parinkt.",
+    "inbox": "Gautieji",
+    "search": "Ieškoti"
+  },
+  "profile": {
+    "firm_name": "Įmonės pavadinimas",
+    "practice_areas_label": "Praktikos sritys",
+    "services": "Paslaugos",
+    "first_name": "Vardas",
+    "last_name": "Pavardė",
+    "about": "Apie",
+    "skills": "Įgūdžiai",
+    "organisation_name": "Organizacijos pavadinimas",
+    "areas_of_legal_focus": "Teisinės sritys",
+    "professional_employer": "Darbdavys",
+    "area_of_legal_expertise": "Teisinės kompetencijos sritis",
+    "max_of_four": "Daugiausia keturi",
+    "max_of_two": "Daugiausia du",
+    "characters": "simboliai",
+    "please_select": "Pasirinkite",
+    "account_security": "Paskyros saugumas",
+    "details": "Detalės",
+    "edit_details": "Redaguoti detales",
+    "no_name": "Be pavadinimo",
+    "profile_updated_success": "Profilis sėkmingai atnaujintas",
+    "company_name": "Įmonės pavadinimas",
+    "enter_your_company_name": "Įveskite savo įmonės pavadinimą",
+    "achievements": "Pasiekimai",
+    "enter_your_achievements": "Įveskite savo pasiekimus",
+    "timeline": "Laiko juosta",
+    "start_date": "Pradžios data",
+    "end_date": "Pabaigos data",
+    "add_another_section": "Pridėti kitą skyrių",
+    "add_section": "Pridėti skyrių"
+  },
+  "success": {
+    "success": "Sėkmė",
+    "success_sent_code": "Patvirtinimo kodas sėkmingai išsiųstas."
+  },
+  "error": {
+    "title": "Klaida",
+    "error_msg": "Kažkas nepavyko. Bandykite dar kartą.",
+    "session_expired": "Sesija baigėsi",
+    "login_again": "Prisijunkite dar kartą, kad tęstumėte.",
+    "token_missing": "Trūksta autentifikavimo žetono.",
+    "error_process_audio": "Apdorojant garsą įvyko klaida.",
+    "error_process_file": "Įkeliant failą įvyko klaida.",
+    "try_again": "Atsiprašome, įvyko klaida. Bandykite dar kartą.",
+    "no_use_session": "Vartotojo sesija nerasta. Prisijunkite dar kartą.",
+    "invalid_response_token_not_found": "Neteisingas atsakymas: žetonas nerastas",
+    "fill_all_fields": "Užpildykite visus laukus",
+    "network_error": "Tinklo klaida. Patikrinkite interneto ryšį.",
+    "session_expired_login": "Jūsų sesija baigėsi. Prisijunkite dar kartą.",
+    "no_permission": "Neturite leidimo atlikti šio veiksmo.",
+    "resource_not_found": "Prašomas išteklius nerastas.",
+    "invalid_data": "Pateikti neteisingi duomenys. Patikrinkite ir bandykite dar kartą.",
+    "server_error": "Serverio klaida. Bandykite dar kartą vėliau.",
+    "something_went_wrong": "Kažkas nutiko ne taip. Bandykite dar kartą.",
+    "case_not_found": "Byla nerasta",
+    "failed_to_process_request": "Nepavyko apdoroti paslaugos užklausos"
+  },
+  "change_email": {
+    "send_instruction": "Siųsti instrukciją",
+    "go_back": "Grįžti",
+    "create_new_pass": "Sukurti naują slaptažodį",
+    "current_email": "Dabartinis el. paštas",
+    "enter_current_email": "Įveskite dabartinį ir naują el. paštą.",
+    "new_email": "Naujas el. paštas",
+    "check_your_mail": "Patikrinkite savo el. paštą",
+    "check_mail_for_verify_account": "Išsiuntėme patvirtinimo kodą į jūsų el. paštą. Įveskite jį žemiau.",
+    "check_mail_for_reset_pass": "Išsiuntėme patvirtinimo kodą į jūsų el. paštą. Įveskite jį slaptažodžiui atstatyti.",
+    "enter_verification_code": "Įveskite patvirtinimo kodą",
+    "go_back_login": "Grįžti į prisijungimą",
+    "not_recd_mail": "Negavote laiško? Patikrinkite spam arba",
+    "try_other_email": "Bandykite kitą el. paštą",
+    "resend_code": "Siųsti kodą dar kartą",
+    "verify_mail": "Patvirtinkite savo el. paštą",
+    "click_link_to_verify_mail": "Spustelėkite nuorodą, kad patvirtintumėte naują el. paštą",
+    "skip_confirm_later": "Praleisti, patvirtinsiu vėliau",
+    "email_updated": "El. paštas atnaujintas"
+  },
+  "landing": {
+    "welcome_to": "Sveiki atvykę į",
+    "immigration": "Imigracijos pagalba tapo paprastesnė",
+    "create_account": "Sukurti paskyrą",
+    "log_in": "Prisijungti",
+    "or": "arba",
+    "create_pro": "Sukurti Pro paskyrą",
+    "select_pro": "Pasirinkti Pro paskyrą",
+    "lawyer": "Advokatas",
+    "law_firm": "Advokatų kontora",
+    "hr_legal": "HR/Teisė (SME)",
+    "a2j_partners": "A2J partneriai",
+    "screen_not_exist": "Šis ekranas neegzistuoja.",
+    "go_to_home_screen": "Eiti į pagrindinį ekraną!"
+  },
+  "login": {
+    "password": "Slaptažodis",
+    "login": "Prisijungti",
+    "remember_me": "Prisiminti mane",
+    "forgot_password": "Pamiršote slaptažodį?",
+    "need_account": "Reikia paskyros?",
+    "signup": "Registruotis"
+  },
+  "reset_password": "Atstatyti slaptažodį",
+  "create_new_password": "Sukurti naują slaptažodį",
+  "create_account": {
+    "first_name": "Vardas",
+    "last_name": "Pavardė",
+    "date_of_birth": "Gimimo data",
+    "country": "Šalis",
+    "select_country": "Pasirinkti šalį",
+    "next": "Kitas",
+    "create_account": "Sukurti paskyrą",
+    "date_of_incorporate": "Įsteigimo data",
+    "create_pro_account": "Sukurti Pro paskyrą",
+    "hr_legal_account": "HR/Teisės paskyra",
+    "lawyer_account": "Advokato paskyra",
+    "law_firm_account": "Advokatų kontoros paskyra",
+    "a2j_partners_account": "A2J partnerių paskyra",
+    "firm_name": "Įmonės pavadinimas",
+    "organisation_name": "Organizacijos pavadinimas",
+    "date_of_establishment": "Įkūrimo data",
+    "areasOfLegalFocus": "Teisinės sritys",
+    "selectAreasOfLegalFocus": "Pasirinkite teisines sritis",
+    "contactPerson": "Kontaktinis asmuo",
+    "registrationCharityNumber": "Registracijos numeris",
+    "searchAddress": "Ieškoti adreso",
+    "town": "Miestas",
+    "postcode": "Pašto kodas",
+    "address": "Adresas",
+    "please_select": "Pasirinkite:",
+    "legalAidOrganisation": "Teisinės pagalbos organizacija",
+    "lawCentre": "Teisinis centras",
+    "proBonoClinic": "Nemokama klinika",
+    "profile_photo": "Profilio nuotrauka",
+    "profile_photo_required": "Profilio nuotrauka būtina Pro paskyrai",
+    "upload": "Įkelti",
+    "please_agree_text": "Prašome sutikti su mūsų sąlygomis",
+    "signup_agreement_text": "Registruodamiesi jūs sutinkate su",
+    "terms_of_service": "Paslaugų sąlygomis",
+    "and_text": "ir",
+    "agree_proceed_button": "Sutinku ir tęsti",
+    "select_practice_area": "Pasirinkti praktikos sritį",
+    "already_have_account": "Jau turite paskyrą?",
+    "account_creat_success": "Paskyra sėkmingai sukurta!",
+    "access_detail_msg_legal_assistance": "Dabar galite naudotis personalizuota teisine pagalba.",
+    "select_practice_areas": "Pasirinkti praktikos sritis",
+    "contact_person_partner": "Kontaktinis asmuo/Partneris",
+    "company_regi_number": "Įmonės registracijos numeris",
+    "enter_sra_number": "Įveskite SRA numerį",
+    "enter_bar_number": "Įveskite BAR numerį",
+    "enter_iaa_number": "Įveskite IAA numerį",
+    "verify_document": "Patvirtinti tapatybės dokumentą",
+    "reverify_document": "Patvirtinti dokumentą iš naujo"
+  },
+  "validation": {
+    "missing_info": "Trūksta informacijos",
+    "enter_your_name": "Įveskite savo vardą",
+    "enter_your_email": "Įveskite savo el. paštą",
+    "enter_your_phone": "Įveskite savo telefono numerį",
+    "enter_feedback": "Įveskite komentarą",
+    "valid_first_name": "Vardas turi būti bent 2 simbolių.",
+    "valid_last_name": "Pavardė turi būti bent 2 simbolių.",
+    "select_dob": "Pasirinkite gimimo datą.",
+    "select_country": "Pasirinkite šalį.",
+    "enter_city": "Miestas negali būti tuščias.",
+    "enter_postcode": "Pašto kodas negali būti tuščias.",
+    "enter_address": "Adresas negali būti tuščias.",
+    "valid_user_name": "Vartotojo vardas turi būti bent 3 simbolių.",
+    "valid_email": "Įveskite galiojantį el. paštą.",
+    "valid_password": "Slaptažodis turi būti bent 8 simbolių ir turėti bent vieną skaičių.",
+    "valid_organisation": "Organizacijos pavadinimas turi būti bent 2 simbolių.",
+    "valid_town": "Miestas negali būti tuščias.",
+    "enter_date_of_incorporate": "Pasirinkite įsteigimo datą.",
+    "enter_confirm_password": "Įveskite patvirtinimo slaptažodį",
+    "valid_confirm_password": "Patvirtinimo slaptažodis turi būti bent 8 simbolių ilgio ir turėti bent vieną skaičių.",
+    "password_not_match": "Slaptažodžiai nesutampa.",
+    "enter_first_name": "Įveskite savo vardą",
+    "enter_last_name": "Įveskite savo pavardę",
+    "document_expired": "Jūsų dokumento galiojimas baigėsi. Įkelkite galiojantį dokumentą.",
+    "document_invalid": "Dokumento patvirtinimas nepavyko. Bandykite dar kartą."
+  },
+  "account": {
+    "practice_areas": "Praktikos sritys",
+    "services": "Paslaugos",
+    "details": "Detalės",
+    "licence": "Licencija",
+    "org_type": "Organizacijos tipas",
+    "go_back_home": "Grįžti į pagrindinį puslapį"
+  },
+  "chat": {
+    "get_started": "Pradėti",
+    "new_chat": "Naujas pokalbis",
+    "previous_chat": "Ankstesni pokalbiai",
+    "title": "Pokalbis",
+    "waiting": "Laukiama...",
+    "help": "Pagalba",
+    "end_chat": "Baigti pokalbį",
+    "chat_place_holder": "Rašyti žinutę LawNeeds",
+    "uploading_file": "{{count}} priedai įkeliami: {{names}}",
+    "files_uploaded_success": "{{count}} priedai sėkmingai įkelti.",
+    "uploading_voice_note": "Balso pastaba įkeliama...",
+    "voice_note_uploaded_success": "Balso pastaba sėkmingai įkelta",
+    "open_pdf": "Atidaryti PDF",
+    "sample_questions_title": "Pavyzdiniai klausimai",
+    "you_selected": "Pasirinkote: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Sveiki "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "aš "
+      },
+      {
+        "type": "token",
+        "content": "esu "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "pagalbos "
+      },
+      {
+        "type": "token",
+        "content": "asistentas"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Teikiu "
+      },
+      {
+        "type": "token",
+        "content": "tik "
+      },
+      {
+        "type": "token",
+        "content": "informaciją"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "o "
+      },
+      {
+        "type": "token",
+        "content": "ne "
+      },
+      {
+        "type": "token",
+        "content": "profesionalią "
+      },
+      {
+        "type": "token",
+        "content": "konsultaciją"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Kaip "
+      },
+      {
+        "type": "token",
+        "content": "galiu "
+      },
+      {
+        "type": "token",
+        "content": "jums "
+      },
+      {
+        "type": "token",
+        "content": "padėti "
+      },
+      {
+        "type": "token",
+        "content": "šiandien"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Nepavyko įkelti pokalbio. Bandykite dar kartą.",
+    "voice_note_ready": "Balso pastaba paruošta",
+    "tap_to_record": "Bakstelėkite 🔴, kad pradėtumėte įrašymą",
+    "preview_files": "Failų peržiūra",
+    "file_selected": "Failas pasirinktas",
+    "files_selected": "Failai pasirinkti",
+    "upload_files": "Įkelti",
+    "tap_to_preview": "Bakstelėkite, kad peržiūrėtumėte",
+    "add": "Pridėti",
+    "today": "Šiandien",
+    "last_week": "Praėjusi savaitė",
+    "last_month": "Praėjęs mėnuo"
+  },
+  "setting": {
+    "select_language": "Pasirinkti kalbą",
+    "settings": "Nustatymai",
+    "app_language": "Programėlės kalba",
+    "choose_language": "Pasirinkti kalbą",
+    "notifications": "Pranešimai",
+    "submit_feedback": "Pagalba",
+    "about": "Apie",
+    "our_philosophy": "Mūsų filosofija",
+    "account_management": "Paskyros valdymas",
+    "logout": "Atsijungti"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Mūsų vizija",
+    "our_vision_desc": "LawNeeds tiki, kad patikima teisinė pagalba, ypač imigracijos srityje, turėtų būti prieinama visiems, bet kuriuo metu ir bet kur. Kadangi išmanieji telefonai yra kasdienio gyvenimo centre, mes padedame žmonėms lengvai orientuotis gyvenime Jungtinėje Karalystėje, teikdami paprastą ir patikimą teisinę pagalbą.",
+    "our_services_header": "Mūsų paslaugos",
+    "our_services_desc": "Mūsų mobilioji programėlė, kurioje pateikiamos tik reguliuojamos teisinių paslaugų įmonės, licencijuoti advokatai ir imigracijos konsultantai, siūlo specializuotas teisines paslaugas, daugiausia dėmesio skiriant imigracijos teisei. Mes padedame asmenims, šeimoms, studentams ir specialistams orientuotis gyvenime Jungtinėje Karalystėje. Augant mūsų platformai, vartotojai taip pat galės naudotis darbo teisės, šeimos teisės ir kelių eismo pažeidimų ekspertize, visa tai pateikiama sklandžiai ir be rūpesčių, vos keliais paspaudimais.",
+    "innovation_header": "Geriausia inovacija",
+    "innovation_desc": "LawNeeds inovacijos yra mūsų veiklos pagrindas. Mes naudojame dirbtinio intelekto galią, kad suteiktume momentinę, visą parą prieinamą teisinę pagalbą ir asmenines imigracijos rekomendacijas pagal kiekvieno vartotojo vietą ir situaciją.",
+    "community_header": "Bendruomenė ir augimas",
+    "community_desc": "LawNeeds yra daugiau nei programėlė – tai bendruomenė. Mes įgaliname migrantus ir padedame teisininkams plėsti savo praktiką per mūsų inovatyvią platformą ir funkcijas.",
+    "commitment_header": "Įsipareigojimas kokybei",
+    "commitment_desc": "LawNeeds sujungia dirbtinio intelekto technologiją su žmogaus teisine priežiūra. Mūsų platforma yra apmokyta naudojant nuosavą JK teisinį duomenų rinkinį, peržiūrėta vidinių teisininkų, taip pat paremta mūsų patikros sistema ir nuolat atnaujinama pagal teisės aktų pokyčius bei patikimus teisės šaltinius, užtikrinant patikimą ir atitinkantį reikalavimus konsultavimą kiekviename žingsnyje.",
+    "join_us_header": "Prisijunkite prie mūsų",
+    "join_us_desc": "Augant mūsų platformai, kviečiame jus prisijungti prie mūsų kelionės – nesvarbu, ar ieškote teisinės pagalbos, ar plečiate savo teisinę praktiką. LawNeeds – jūsų sėkmė yra mūsų misija."
+  },
+  "support": {
+    "support_desc": "Padėkite mums tobulinti LawNeeds pasidalindami savo mintimis, problemomis ar pasiūlymais žemiau",
+    "feedback_success": "Atsiliepimas sėkmingai pateiktas",
+    "name": "Vardas",
+    "comment": "Komentaras",
+    "address": "Registruota buveinė: 71–75 Shelton Street, Covent Garden, Londonas, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Imigracijos teisė"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Darbo teisė"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Kelių eismo pažeidimai"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Šeimos teisė"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Teisiniai tyrimai"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Teisinis rašymas"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Bylų analizė"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Sutarčių rengimas"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Derybos"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Kliento konsultavimas"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Atstovavimas teisme"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Mediacija"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Arbitražas"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Išsamus patikrinimas"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Atitikties peržiūra"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Rizikos vertinimas"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Teisinė strategija"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Kryžminė apklausa"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Trumpų dokumentų rengimas"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Liudijimas"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Duomenų atskleidimas"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Susitarimų derybos"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Reglamentų analizė"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Tarptautinė teisė"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Intelektinė nuosavybė"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Susijungimai ir įsigijimai"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Įmonių valdymas"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Darbo santykiai"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Imigracijos procedūros"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Imigracijos teisė"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Šeimos teisė"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Darbo teisė"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Baudžiamoji teisė"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Įmonių teisė"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Nuosavybės teisė"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Asmens sužalojimai"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Intelektinė nuosavybė"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Mokesčių teisė"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Sutarčių teisė"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Bylinėjimasis"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Mediacija"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Arbitražas"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Teisinė konsultacija"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Dokumentų peržiūra"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Teisiniai tyrimai"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Atitiktis"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Susijungimai ir įsigijimai"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Bankininkystė ir finansai"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Draudimo teisė"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Aplinkos teisė"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Žmogaus teisės"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Tarptautinė teisė"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Administracinė teisė"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Konstitucinė teisė"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Vienkartinė konsultacija"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Nuolatinė pagalba"
+    },
+    {
+      "key": "casework",
+      "label": "Bylos darbas"
+    },
+    {
+      "key": "not_sure",
+      "label": "Dar nesu tikras"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Įprasta (5-7 dienos)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Prioritetas (2-3 dienos)"
+    },
+    {
+      "key": "urgent",
+      "label": "Skubu (tą pačią arba kitą dieną)"
+    }
+  ],
+  "search": {
+    "professionals": "Specialistai",
+    "city": "Miestas",
+    "distance": "Atstumas",
+    "top_rated": "Geriausiai įvertinti",
+    "more": "Daugiau",
+    "request": "Užklausa",
+    "request_service": "Prašyti paslaugos",
+    "service": "Paslauga",
+    "select_service": "Pasirinkite paslaugą",
+    "urgency": "Skubumas",
+    "select": "Pasirinkti",
+    "additional_notes": "Papildomos pastabos",
+    "service_request_success": "Jūsų paslaugos užklausa sėkmingai išsiųsta",
+    "issue_type": "Problemos tipas",
+    "budget": "Biudžetas",
+    "select_consultation": "Pasirinkite konsultaciją",
+    "consultation": "Konsultacija",
+    "time_n_rate": "Laikas ir kaina"
+  },
+  "reset_password_info": "Įveskite su jūsų paskyra susietą el. paštą ir mes atsiųsime jums laišką su instrukcijomis, kaip nustatyti naują slaptažodį",
+  "tap_to_upload_image": "Paspauskite, kad įkeltumėte vaizdą",
+  "record": "Įrašyti",
+  "media": "Medija",
+  "attach": "Pridėti",
+  "sort_by": "Rūšiuoti pagal",
+  "apply": "Taikyti",
+  "select_date": "Pasirinkite datą",
+  "day": "Diena",
+  "month": "Mėnuo",
+  "year": "Metai",
+  "present": "Dabar",
+  "sector": "Sektorius",
+  "hr": "HR",
+  "legal": "Teisinis",
+  "both": "Abu",
+  "identity_card": "Asmens tapatybės kortelė",
+  "passport": "Pasas",
+  "drivers_license": "Vairuotojo pažymėjimas",
+  "law_centre": "Teisinis centras",
+  "legal_aid_organisation": "Teisinės pagalbos organizacija",
+  "beta": "Beta",
+  "logged_in": "Prisijungta",
+  "select_reason": "Pasirinkite priežastį",
+  "select_area_of_legal_expertise": "Pasirinkite teisinės kompetencijos sritį",
+  "confirm_password": "Patvirtinkite slaptažodį",
+  "enter_new_password_below": "Įveskite naują slaptažodį žemiau",
+  "select_a_country": "Pasirinkite šalį",
+  "open_email_app": "Atidaryti el. pašto programą",
+  "request_details": "Užklausos detalės",
+  "accept": "Priimti",
+  "reject": "Atmesti",
+  "request_reject_message": "Paslaugos užklausa sėkmingai atmesta",
+  "document_view": "Dokumento peržiūra",
+  "loading_document": "Įkeliamas dokumentas",
+  "service_issue_type": "Pasirinkite paslaugos problemos tipą",
+  "select_consultation_type": "Pasirinkite konsultacijos tipą",
+  "urgency_level": "Pasirinkite skubumo lygį",
+  "budget_input": "Įveskite biudžetą",
+  "attachments": "Priedai",
+  "user_label": "Jūs",
+  "timestamp": "Ką tik",
+  "voice_note": "Garso įrašas",
+  "comment_placeholder": "Parašykite komentarą...",
+  "messages": "Žinutės",
+  "edit": "Redaguoti",
+  "copy": "Kopijuoti",
+  "select_consultation_time": "Pasirinkite konsultacijos laiką",
+  "request_cancel_success": "Paslaugos užklausa sėkmingai atšaukta",
+  "accept_request_message": "Ar tikrai norite priimti šią užklausą?",
+  "reject_request_message": "Ar tikrai norite atmesti šią užklausą?",
+  "delete_request_message": "Ar tikrai norite ištrinti šią užklausą?",
+  "withdraw_request_message": "Ar tikrai norite atsiimti šią užklausą?",
+  "yes": "Taip",
+  "no": "Ne",
+  "accepted": "Priimta",
+  "cancelled": "Atšaukta",
+  "pending": "Laukiama",
+  "consultation_time": "Konsultacijos laikas",
+  "consultation_type": "Konsultacijos tipas",
+  "recommended_professionals": "Rekomenduojami specialistai:",
+  "continue": "Tęsti",
+  "image": "Vaizdas",
+  "delete_account": "Ištrinti paskyrą",
+  "delete": "Ištrinti",
+  "delete_confirmation_message": "Ar tikrai norite ištrinti savo paskyrą? Šio veiksmo negalima atšaukti.",
+  "delete_account_error_message": "Įvyko klaida trinant jūsų paskyrą.",
+  "place_holder_additional_notes": "Įveskite papildomas detales apie jūsų teisinį klausimą...",
+  "upload_options": "Įkėlimo parinktys:",
+  "select_option": "Pasirinkite parinktį:",
+  "skip": "Praleisti",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Imigracijos teisė"
+    },
+    {
+      "key": "employment",
+      "label": "Darbo teisė"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Kelių eismo pažeidimai"
+    },
+    {
+      "key": "family",
+      "label": "Šeimos teisė"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Skubu"
+    },
+    {
+      "key": "within_week",
+      "label": "Per savaitę"
+    },
+    {
+      "key": "within_month",
+      "label": "Per mėnesį"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Neskubu"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Pasirinkite problemos tipą"
+    },
+    {
+      "key": "urgency",
+      "name": "Pasirinkite skubumą"
+    },
+    {
+      "key": "consultation",
+      "name": "Pasirinkite konsultaciją"
+    },
+    {
+      "key": "select_time",
+      "name": "Pasirinkite laiką ir tarifą"
+    },
+    {
+      "key": "select-budget",
+      "name": "Pasirinkite biudžetą"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 minutės (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 minučių (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 minučių (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 minučių (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 valanda (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 dienos (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 dienos (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Daugiau nei £700"
+    }
+  ],
+  "sample_questions": [
+    "Prašyti teisininko",
+    "Ar esu tinkamas Skilled Worker vizai?",
+    "Kaip pratęsti studento vizą?",
+    "Kokios yra nuolatinio leidimo gyventi taisyklės?",
+    "Kaip pateikti prašymą dėl prieglobsčio JK?",
+    "Kiek laiko užtrunka vizos sprendimas?"
+  ],
+  "rate_of_hour": "Valandinis tarifas",
+  "search_country": "Ieškoti šalies",
+  "review_error": "Atsiliepimas negali būti tuščias.",
+  "rating_validation": "Pasirinkite įvertinimą nuo 1 iki 5 žvaigždučių.",
+  "create_account_with": "Sukurti paskyrą su",
+  "login_with": "Prisijungti su",
+  "create_account_email_password": "El. paštas/Slaptažodis",
+  "sign_in_with_apple": "Prisijungti su Apple",
+  "sign_in_with_google": "Prisijungti su Google",
+  "no_cases_available": "Nėra galimų bylų",
+  "no_active_cases_available": "Nėra aktyvių bylų",
+  "no_pending_cases_available": "Nėra laukiančių bylų",
+  "back": "Atgal",
+  "submit_review": "Pateikti atsiliepimą",
+  "delete_review": "Ištrinti atsiliepimą",
+  "member_since": "Narys nuo",
+  "work_experience": "Darbo patirtis",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Ekspertizė",
+  "professional_details": "Profesinė informacija",
+  "review_professional": "Įvertinti specialistą",
+  "no_reviews": "Atsiliepimų dar nėra. Būkite pirmas!",
+  "reviews": "Atsiliepimai",
+  "thanks_feedback": "Ačiū už jūsų atsiliepimą!",
+  "accept_case_notification_header": "Advokatas priėmė jūsų užklausą! 🎉",
+  "accept_case_notification_message_part": " priėmė jūsų bylą ir yra pasirengęs jums padėti.",
+  "reject_case_notification_header": "Rekomendacijos atnaujinimas",
+  "reject_case_notification_message_part": " šiuo metu negali priimti jūsų bylos.",
+  "delete_case_notification_header": "Užklausa ištrinta",
+  "withdraw_case_notification_header": "Užklausa atšaukta",
+  "delete_case_notification_message_part": " ištrynė savo užklausą.",
+  "withdraw_case_notification_message_part": " atšaukė savo užklausą.",
+  "manuscript": "Rankraštis",
+  "share_dialog_title": "Dalintis arba atsisiųsti rankraštį",
+  "certifications": "Sertifikatai",
+  "queries_left": "Likę AI klausimai",
+  "voice_notes_limit": "Balsas",
+  "uploads_limit": "Įkėlimai",
+  "docgen_limit": "Dokumentų generavimas",
+  "current_plan": "Dabartinis planas",
+  "faqs": "DUK",
+  "wallet": "Piniginė",
+  "subscription": {
+    "plans_pricing_title": "Planai ir kainos",
+    "plans_pricing_subtitle": "Atrakinkite daugiau minučių ir premium funkcijų",
+    "syncing_account": "Sinchronizuojama paskyra...",
+    "processing_purchase": "Apdorojamas pirkimas...",
+    "plan_unavailable_title": "Planas neprieinamas",
+    "plan_unavailable_message": "Nepavyko rasti šio plano parduotuvėje.",
+    "purchase_error_title": "Pirkimo klaida",
+    "purchase_error_message": "Įvyko netikėta klaida.",
+    "upgrade_plans": "Atnaujinti planus",
+    "plan_unlimited": "Neribotas",
+    "plan_premium": "Premium",
+    "plan_standard": "Standartinis",
+    "plan_free_label": "Visada nemokamas",
+    "billing_annually": "Kasmet",
+    "feature_voice_notes": "Balso užrašai",
+    "feature_uploads": "Įkėlimai",
+    "feature_shared_pool": "Bendras fondas balsui, įkėlimams ir dokumentams",
+    "feature_free_consultation": "min nemokama konsultacija",
+    "feature_priority_support": "Prioritetinė žmogaus pagalba įtraukta",
+    "feature_ai_queries": "AI teksto užklausos",
+    "feature_limited": "Ribota",
+    "feature_standard_limits": "Taikomi standartiniai limitai",
+    "feature_query_reset": "Užklausų limitas atstatomas 12am",
+    "feature_rollover": "Perkėlimas leidžiamas",
+    "feature_images_max": "Maks. vaizdų",
+    "feature_document_max": "Maks. dokumentų",
+    "feature_mb": "MB",
+    "feature_pages": "puslapiai",
+    "label_default_plan": "Numatytasis planas",
+    "cta_subscribe_now": "Prenumeruoti dabar",
+    "wallet_loading": "Kraunama piniginė...",
+    "wallet_title": "Piniginė",
+    "wallet_balance": "Galimas likutis",
+    "unit_minute": "Minutė",
+    "wallet_top_up": "Papildyti",
+    "wallet_transactions": "Naujausios operacijos",
+    "transaction_plan_purchase": "Plano pirkimas",
+    "transaction_legal_query": "Teisinė užklausa",
+    "transaction_document_process": "Dokumento apdorojimas",
+    "reference_label": "Nuoroda:",
+    "plan_free": "Nemokamas",
+    "unit_min": "min"
+  },
+  "user_name": "Vartotojo vardas",
+  "email": "El. paštas",
+  "phone_number": "Telefono numeris",
+  "urgent": "Skubu",
+  "contact_support": "Susisiekti su pagalba",
+  "minutes": "Minutės",
+  "freemium": {
+    "modal": {
+      "title": "Pasiektas užklausų limitas",
+      "timer_label": "Bandykite dar kartą po",
+      "timer_format": "{{minutes}} min {{seconds}} sek",
+      "upgrade_cta": "Atnaujinti planą",
+      "loading_text": "Atrakintos jūsų užklausos…",
+      "watch_ad_cta": "📺 Žiūrėti reklamą (+{{count}} užklausų)",
+      "limit_note": "Freemium limitas: {{count}} užklausos / {{hours}} valandos",
+      "description": "Per paskutines {{hours}} valandas išnaudojote visas {{count}} nemokamas užklausas.",
+      "buy_pass": "{{price}} neribotos užklausos šiandien"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} PLANAS",
+      "queries_left": "{{remaining}} / {{total}} užklausų liko",
+      "daily_pass_active": "✨ Dienos pasas aktyvus",
+      "upgrade_cta": "Atnaujinti",
+      "usage_labels": {
+        "voice_notes": "Balso užrašai",
+        "uploads": "Įkėlimai",
+        "docs": "Dokumentai"
+      },
+      "daily_pass": {
+        "title": "🚀 Atrakinkite neribotai šiandien",
+        "description": "Gaukite neribotas AI užklausas iki vidurnakčio su dienos pasu už {{price}}.",
+        "cta": "Gauti dienos pasą – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Limitas pasiektas",
+      "upgrade_cta": "Atnaujinkite planą, kad tęstumėte",
+      "wait_info": "Arba palaukite ir bandykite dar kartą po: {{time}}",
+      "body_message": "Pasiekėte nemokamą limitą. Atnaujinkite planą arba palaukite, kad tęstumėte."
+    }
+  },
+  "plan_card": {
+    "plan_label": "{{plan_name}}",
+    "billing": {
+      "per_period": "/{{period}}",
+      "always_free": "Visada nemokamas",
+      "discount_badge": "{{discount}}% NUOLAIDA PIRMAJAM MĖNESIUI",
+      "per_mins": "{{minutes}} min."
+    },
+    "toggle": {
+      "annual": "Kasmet",
+      "monthly": "Kas mėnesį",
+      "weekly": "Kas savaitę",
+      "daily": "Kasdien"
+    },
+    "features": {
+      "voice_notes": "Balso užrašai",
+      "uploads": "Įkėlimai",
+      "docs": "AI dokumentų generavimas",
+      "minutes": "Minutės",
+      "ai_queries": "AI teksto užklausos",
+      "rollover": "Perkėlimas leidžiamas",
+      "shared_pool": "• Bendras fondas balsui, įkėlimams ir dokumentams",
+      "free_consultation": "• {{minutes}} min nemokama konsultacija įtraukta",
+      "priority_support": "• Prioritetinė žmogaus pagalba įtraukta",
+      "file_caps_title": "Failų dydžio ir puslapių limitai",
+      "image_max": "Maks. vaizdų",
+      "doc_max": "Maks. dokumentų"
+    },
+    "limits": {
+      "unlimited": "Neribotas",
+      "limited": "Ribota",
+      "none": "Nėra",
+      "yes": "Taip"
+    },
+    "notes": {
+      "standard_limits": "Taikomi standartiniai limitai",
+      "reset_time": "Užklausų limitas atstatomas 12am"
+    },
+    "cta": {
+      "default_plan": "Numatytasis planas",
+      "current_plan": "Dabartinis planas",
+      "subscribe": "Prenumeruoti dabar"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Pasiektas mėnesio limitas",
+      "title_paid": "Jums baigėsi minutės",
+      "description_freemium": "Jūs panaudojote visus 6 nemokamus mėnesinius kreditus balso užrašams, failų įkėlimui ir dokumentų generavimui.",
+      "description_paid": "Neturite pakankamai minučių šiam veiksmui atlikti. Papildykite arba atnaujinkite planą.",
+      "upgrade_premium": "Atnaujinti į Premium",
+      "topup_cta": "Papildyti minutes",
+      "view_usage": "Peržiūrėti kredito naudojimą"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Papildyti minutes",
+      "subtitle": "Įsigykite papildomų minučių, kad galėtumėte tęsti.",
+      "alerts": {
+        "low_minutes": "Panaudojote {{percentage}}% savo minučių. Papildykite dabar!",
+        "limit_reached": "Pasiektas mėnesio papildymo limitas ({{used}}/{{limit}})",
+        "limit_popup_title": "Papildymo limitas pasiektas",
+        "limit_popup_message": "Viršijote mėnesio papildymo limitą."
+      },
+      "slider": {
+        "label": "Perkamos minutės",
+        "minutes_value": "{{minutes}} minutės",
+        "min": "{{min}} min",
+        "max": "{{max}} min"
+      }
+    }
+  },
+  "show_less": "Rodyti mažiau",
+  "show_more": "Rodyti daugiau",
+  "updating_balance": "Atnaujinamas balansas...",
+  "usage_limits": "Naudojimo ribos",
+  "voice_notes": "Balso užrašai",
+  "uploads": "Įkėlimai",
+  "usage_history": "Naudojimo istorija",
+  "manage_plan": "Tvarkyti planą",
+  "cancel_subscription": "Atšaukti prenumeratą",
+  "explore_premium_plans": "Peržiūrėti premium planus",
+  "used": "Panaudota",
+  "total": "Iš viso",
+  "unlimited": "Neribota",
+  "manage_subscription_title": "Tvarkyti prenumeratą",
+  "manage_subscription_desc": "Būsite nukreipti į parduotuvę, kad galėtumėte tvarkyti nustatymus. Gaila, kad išeinate!",
+  "stay_with_us": "Likite su mumis",
+  "open_store_error": "Nepavyko atidaryti parduotuvės nuorodos.",
+  "subscription_fetch_error": "Nepavyko gauti prenumeratos informacijos.",
+  "unit_min": "min",
+  "no_transaction_yet": "Kol kas nėra operacijų!",
+  "feedback_hint_message": "Pasidalinkite savo patirties detalėmis",
+  "withdraw": "Atsiimti",
+  "issue_summary": "Problemos santrauka",
+  "disclaimer": "Atsakomybės atsisakymas",
+  "disclaimer_message": "LawNeeds AI Support Assistant teikia informaciją tik informaciniais tikslais.",
+  "disclaimer_button": "Sutinku",
+  "filter": {
+    "title": "Filtras",
+    "sortBy": "Rūšiuoti pagal",
+    "commonServices": "Įprastos paslaugos",
+    "practiceAreas": "Praktikos sritys",
+    "professionalTypes": "Profesionalų tipai",
+    "sortOptions": {
+      "alphabetical": "Abėcėlės tvarka",
+      "relevance": "Reikšmingumas",
+      "experience": "Patirtis"
+    }
+  },
+  "common": {
+    "upgrade_now": "Atnaujinti dabar",
+    "close": "Uždaryti",
+    "maybe_later": "Gal vėliau",
+    "not_now": "Ne dabar",
+    "pay": "Mokėti {{currency}}{{amount}}",
+    "total_cost": "Bendra kaina:",
+    "usage_limit_reached": "Pasiektas naudojimo limitas",
+    "apply": "Taikyti",
+    "cancel": "Atšaukti",
+    "error": "Klaida",
+    "success": "Sėkmė",
+    "processing": "Apdorojama...",
+    "something_wrong": "Kažkas nepavyko",
+    "no_data_available": "Duomenų nėra"
+  },
+  "daily_pass_success": "Planą sėkmingai įsigyta!",
+  "daily_pass_not_found": "Dienos bilietas nerastas.",
+  "purchase_failed": "Pirkimas nepavyko",
+  "expires": "Galioja iki: {{expiryDate}}",
+  "active": "Aktyvus",
+  "pricing": {
+    "confirm_price": "Pasirinktinė kaina",
+    "propose_price": "Pasiūlyti kainą",
+    "enter_amount": "Įveskite sumą",
+    "invalid_amount": "Įveskite tinkamą sumą",
+    "amount_range": "Suma turi būti tarp ₹{{min}} - ₹{{max}}",
+    "range": "Min: ₹{{min}} | Maks: ₹{{max}}",
+    "price_confirmed": "Kaina patvirtinta",
+    "price_proposed": "Kaina pasiūlyta",
+    "confirm_price_btn": "Patvirtinti",
+    "submit_price_btn": "Pateikti",
+    "load_failed": "Nepavyko įkelti kainodaros",
+    "title": "Kainodara",
+    "not_proposed_message": "Kaina dar nenustatyta. Norėdami tęsti, nustatykite kainą."
+  },
+  "payment": {
+    "header_title": "Mokėjimas",
+    "total_amount": "Bendra suma",
+    "platform_fee": "Platformos mokestis",
+    "lawyer_receives": "Advokatas gauna",
+    "pay_button": "Mokėti £ {{amount}}",
+    "preparing_payment": "Ruošiamas saugus mokėjimas...",
+    "alerts": {
+      "error_title": "Klaida",
+      "init_failed": "Nepavyko inicijuoti mokėjimo",
+      "unable_to_load": "Nepavyko įkelti mokėjimo",
+      "payment_failed_title": "Mokėjimas nepavyko",
+      "generic_error": "Kažkas nepavyko",
+      "success_title": "Sėkmė",
+      "success_message": "Mokėjimas sėkmingai atliktas!"
+    },
+    "notification_title": "Gautas mokėjimas",
+    "notification_message": "{{name}} užbaigė mokėjimą. Galite pradėti konsultaciją."
+  },
+  "consultation": {
+    "ended_title": "Konsultacija baigta",
+    "ended_message": "Laikas baigėsi",
+    "pending": "Laukiama",
+    "active": "Vykdoma",
+    "completed": "Užbaigta"
+  },
+  "file": {
+    "uploading_image": "Įkeliamas vaizdas...",
+    "uploading_video": "Įkeliamas vaizdo įrašas...",
+    "uploading_file": "Įkeliamas failas...",
+    "upload_failed": "Įkelti nepavyko",
+    "upload_failed_message": "Nepavyko išsiųsti failo.",
+    "open_pdf": "Atidaryti PDF",
+    "open_doc": "Atidaryti DOC",
+    "open_file": "Atidaryti failą"
+  },
+  "notification": {
+    "lawyer_message": "Advokato žinutė",
+    "new_message": "Nauja žinutė"
+  },
+  "live": "Tiesiogiai",
+  "stripe_connected": "Stripe prijungtas",
+  "connect_with_stripe": "Prisijungti prie Stripe",
+  "payments": "Mokėjimai",
+  "beta_instructions": "Bandomosios versijos instrukcijos",
+  "status": {
+    "title": "Būsena",
+    "paid": "Apmokėta",
+    "unpaid": "Neapmokėta"
+  },
+  "stripe_not_onboarded_title": "Mokėjimo sąranka neužbaigta",
+  "stripe_not_onboarded_message": "Norėdami priimti konsultacijų užklausas, užbaikite Stripe mokėjimo sąranką Nustatymų skirtuke.",
+  "case_folder": "Bylos aplankas",
+  "case_helped": "Padėta bylų",
+  "satisfied": "Patenkintas",
+  "rejected": "Atmesta",
+  "withdrawn": "Atsaukta",
+  "deleted": "Ištrinta",
+  "consultation_history": "Konsultacijų istorija",
+  "pay": "Apmokėti",
+  "start_consultation": "Pradėti konsultaciją",
+  "waiting_for_session": "Laukiama sesijos",
+  "waiting_for_payment": "Laukiama mokėjimo",
+  "activity": "Veikla",
+  "one_minute_warning_title": "⏰ Liko 1 minutė",
+  "one_minute_warning_body": "Jūsų konsultacijos sesija baigsis po 1 minutės.",
+  "default_notification_title": "Pranešimas",
+  "no_notifications": "Pranešimų dar nėra",
+  "i_agree": "sutinku",
+  "i_dont_agree": "Aš nesutinku",
+  "terms_and_conditions": "Taisyklės ir sąlygos",
+  "terms_condition_1": "1. Naudodami šią programą sutinkate su šiomis sąlygomis ir turite būti ne jaunesni kaip 18 metų.",
+  "terms_condition_2": "2. LawNeeds teikia teisinę pagalbą, bet nepakeičia profesionalaus teisinio atstovavimo.",
+  "terms_condition_3": "3. LawNeeds AI palaikymo asistentas teikia informatyvias teisines gaires. Tai nėra teisinė konsultacija.",
+  "terms_condition_4": "4. Jūs esate atsakingi už tikslios ir tikros informacijos pateikimą.",
+  "terms_condition_5": "5. Jūsų informacija yra privati, tačiau savo paskyros kredencialus turite laikyti paslaptyje.",
+  "welcome_to_lawneeds": "Sveiki atvykę į LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Kvalifikuoto darbuotojo viza",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Studento viza",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Vizito viza",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Kilmės viza",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Sutuoktinio / partnerio viza",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "PBS išlaikytiniai",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Šeimos susijungimas",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (10 metų kelias)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Natūralizacija",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "ES įsikūrimo schema",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), žmogaus teisių paraiškos",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Prieglobsčio paraiškos (visiška pagalba)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Visiškas bylos valdymas (nuo pradžios iki pabaigos)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Skubus",
+  "basic": "Pagrindinis",
+  "verified": "Dokumentas patvirtintas",
+  "verification_failed": "Patvirtinimas nepavyko",
+  "verification_cancelled": "Patvirtinimas atšauktas",
+  "delete_review_confirm": "Ar tikrai norite ištrinti šią apžvalgą?",
+  "casework_service": "Casework Service",
+  "casework_price_range": "Casework Price Range",
+  "tour_previous_chat_title": "Ankstesnis pokalbis",
+  "tour_previous_chat_desc": "Čia peržiūrėkite ankstesnius pokalbius.",
+  "tour_new_chat_title": "Naujas pokalbis",
+  "tour_new_chat_desc": "Bakstelėkite čia, kad pradėtumėte naują teisinę užklausą.",
+  "tour_notifications_title": "Pranešimai",
+  "tour_notifications_desc": "Čia tikrinkite svarbius atnaujinimus ir įspėjimus.",
+  "tour_inbox_title": "Gautieji",
+  "tour_inbox_desc": "Čia tvarkykite savo žinutes ir bylų atsakymus.",
+  "tour_language_title": "Kalba",
+  "tour_language_desc": "Čia pasirinkite pageidaujamą programėlės kalbą.",
+  "tour_chat_history_title": "Pokalbių istorija",
+  "tour_chat_history_desc": "Peržiūrėkite ir tęskite ankstesnius pokalbius.",
+  "tour_current_plan_title": "Dabartinis planas",
+  "tour_current_plan_desc": "Čia peržiūrėkite dabartinės prenumeratos informaciją.",
+  "tour_usage_history_title": "Naudojimo istorija",
+  "tour_usage_history_desc": "Sekite, kiek minučių ir funkcijų panaudojote.",
+  "tour_request_legal_help_title": "Prašyti teisinės pagalbos",
+  "tour_request_legal_help_desc": "Pradėkite naują užklausą, kad susisiektumėte su specialistais.",
+  "tour_wallet_title": "Piniginė",
+  "tour_wallet_desc": "Peržiūrėkite piniginės likutį ir operacijas.",
+  "tour_top_up_title": "Papildymas",
+  "tour_top_up_desc": "Pridėkite lėšų, kad gautumėte daugiau minučių AI funkcijoms, įkėlimams ir konsultacijoms.",
+  "tour_search_desc": "Įveskite vardą, kad rastumėte konkretų specialistą.",
+  "tour_explore_subscribe_plans": "Bakstelėkite čia, kad peržiūrėtumėte ir atnaujintumėte planą.",
+  "tour_explore_upgrade_plans": "Atnaujinkite planą, kad atrakintumėte premium funkcijas.",
+  "tour_lawyer_stripe_connected": "Jūsų Stripe paskyra prijungta ir paruošta priimti mokėjimus.",
+  "tour_lawyer_stripe_not_connected": "Prijunkite Stripe, kad pradėtumėte priimti klientų mokėjimus.",
+  "profile_completion": {
+    "title": "Užbaikite profilį",
+    "description": "Prieš tęsdami patikrinkite savo duomenis.",
+    "first_name": "Vardas *",
+    "last_name": "Pavardė *",
+    "saving": "Saugoma...",
+    "save_continue": "Išsaugoti ir tęsti",
+    "update_profile_failed": "Nepavyko atnaujinti profilio"
+  },
+  "auth": {
+    "session_expired": "Jūsų prisijungimo sesija baigėsi. Bandykite dar kartą.",
+    "login_failed": "Nepavyko jūsų prijungti. Bandykite dar kartą.",
+    "google_login_failed": "Prisijungimas per Google nepavyko. Bandykite dar kartą.",
+    "apple_login_failed": "Prisijungimas per Apple nepavyko. Bandykite dar kartą.",
+    "authorization_failed": "Nepavyko prisijungti prie autentifikavimo paslaugos. Bandykite vėliau.",
+    "invalid_redirect": "Prisijungiant įvyko klaida. Bandykite dar kartą.",
+    "cancelled_login": "Prisijungimas buvo atšauktas.",
+    "invalid_response": "Nepavyko užbaigti prisijungimo. Bandykite dar kartą."
+  },
+  "tour_service_request_title": "Užklausa",
+  "tour_service_request_desc": "Siųskite paslaugos užklausą tiesiogiai teisės specialistui. Užpildykite formą, prireikus pridėkite pastabų ar dokumentų, ir specialistui bus pranešta, kai jis bus pasiekiamas.",
+  "tour_request_form_title": "Užklausos forma",
+  "tour_request_form_desc": "Pateikite informaciją apie savo teisinį klausimą, konsultacijos reikalavimus ir skubumą. Taip pat galite įkelti dokumentus arba pridėti balso pastabų, kad specialistui būtų lengviau suprasti jūsų situaciją.",
+  "no_data": "Nėra duomenų",
+  "duplicate_file_attached": "\"{{filename}}\" jau pridėtas.",
+  "duplicate_file_attached_as": "\"{{filename}}\" jau pridėtas kaip \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Spustelėdami",
+  "consultation_consent_middle": ", patvirtinate, kad jei konsultacija bus suteikta per 14 dienų, jūsų įstatyminė teisė atšaukti nebegalios. Vis tiek galite atšaukti arba perkelti konsultaciją pagal mūsų",
+  "cancellation_policy": "Atšaukimo politika",
+  "home_actions": {
+    "ask_ai": "Klauskite LawNeeds AI",
+    "ask_ai_description": "Gaukite patarimų iš LawNeeds AI pokalbių roboto.",
+    "find_professional": "Rasti specialistą",
+    "find_professional_description": "Ieškokite teisės specialisto, kuris gali padėti.",
+    "book_consultation": "Užsisakyti konsultaciją",
+    "book_consultation_description": "Pradėkite siuntimo procesą, kad susitartumėte dėl konsultacijos."
+  }
+}

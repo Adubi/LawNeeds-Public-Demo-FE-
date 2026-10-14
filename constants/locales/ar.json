@@ -1,0 +1,1440 @@
+{
+  "submit": "إرسال",
+  "cancel": "إلغاء",
+  "done": "تم",
+  "ok": "حسناً",
+  "next": "التالي",
+  "save": "حفظ",
+  "privacy_policy": "سياسة الخصوصية",
+  "terms_n_conditions": "الأحكام والشروط",
+  "per": {
+    "camera_roll": "يتطلب إذن للوصول إلى لفة الكاميرا! يرجى تمكينه في إعدادات جهازك.",
+    "microphone_access": "مطلوب الوصول إلى الميكروفون.",
+    "permission_denied": "تم رفض الإذن",
+    "notification_permission_not_granted": "لم يتم منح إذن الإشعارات"
+  },
+  "policy_text": {
+    "i_agree": "أوافق",
+    "i_dont_agree": "لا أوافق",
+    "label_1": "1. المعلومات التي نجمعها: قد نجمع معلومات التعريف الشخصية (الاسم، البريد الإلكتروني، الهاتف، العنوان)، والبيانات التقنية (IP، نوع المتصفح، نظام التشغيل)، وبيانات الاستخدام، وتفضيلات التسويق.",
+    "label_2": "2. كيفية جمعنا لمعلوماتك: عبر التفاعلات المباشرة، والتقنيات الآلية، وأطراف ثالثة.",
+    "label_3": "3. استخدام المعلومات: لنقدم ونحافظ على خدمتنا، وندير حسابك، ونلتزم بالالتزامات القانونية، ونُحسِّن عروضنا.",
+    "label_4": "4. إفشاء المعلومات: لمزودي الخدمات، والسلطات القانونية والحكومية، وفي حالات انتقال الأعمال.",
+    "label_5": "5. أمان البيانات والاحتفاظ بها: نقوم بتنفيذ تدابير أمنية ونحتفظ ببياناتك فقط طالما كان ذلك ضروريًا.",
+    "label_6": "6. حقوقك القانونية: لديك حقوق الوصول والتصحيح والمحو والتقييد والنقل وسحب الموافقة لاستخدام بياناتك.",
+    "label_7": "7. الفئة الخاصة: أوافق صراحةً على معالجة أي بيانات من الفئة الخاصة أقدمها، بما في ذلك المعلومات المتعلقة بأصلي العرقي وغيرها من البيانات الشخصية الحساسة، لغرض الرد على استفساري. ويمكنني سحب موافقتي في أي وقت عبر مراسلة info@lawneeds.co.uk.",
+    "policy_details": "تشرح سياسة الخصوصية هذه كيفية جمعنا لمعلوماتك واستخدامها والإفصاح عنها وحمايتها عند زيارتك لتطبيقنا على الهاتف المحمول. باستخدامك لخدمتنا، فإنك توافق على شروط سياسة الخصوصية هذه.",
+    "review_message": "يرجى مراجعة",
+    "privacy_policy": "سياسة الخصوصية"
+  },
+  "tab": {
+    "account": "الحساب",
+    "chat": "الدردشة",
+    "home": "الرئيسية",
+    "settings": "ضبط",
+    "inbox": "الوارد",
+    "search": "البحث"
+  },
+  "profile": {
+    "firm_name": "اسم الشركة",
+    "practice_areas_label": "مجالات التخصص",
+    "services": "الخدمات",
+    "first_name": "الاسم الأول",
+    "last_name": "اسم العائلة",
+    "about": "حول",
+    "skills": "المهارات",
+    "organisation_name": "اسم المؤسسة",
+    "areas_of_legal_focus": "مجالات التركيز القانوني",
+    "professional_employer": "صاحب العمل المهني",
+    "area_of_legal_expertise": "مجال الخبرة القانونية",
+    "max_of_four": "الحد الأقصى أربعة",
+    "max_of_two": "الحد الأقصى اثنان",
+    "characters": "أحرف",
+    "please_select": "الرجاء الاختيار",
+    "account_security": "أمان الحساب",
+    "details": "التفاصيل",
+    "edit_details": "تعديل التفاصيل",
+    "no_name": "لا يوجد اسم",
+    "profile_updated_success": "تم تحديث الملف الشخصي بنجاح",
+    "company_name": "اسم الشركة",
+    "enter_your_company_name": "أدخل اسم شركتك",
+    "achievements": "الإنجازات",
+    "enter_your_achievements": "أدخل إنجازاتك",
+    "timeline": "الجدول الزمني",
+    "start_date": "تاريخ البدء",
+    "end_date": "تاريخ الانتهاء",
+    "add_another_section": "أضف قسمًا آخر",
+    "add_section": "أضف قسم"
+  },
+  "success": {
+    "success": "نجاح",
+    "success_sent_code": "تم إرسال رمز التحقق بنجاح."
+  },
+  "error": {
+    "title": "خطأ",
+    "error_msg": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "session_expired": "انتهت الجلسة",
+    "login_again": "يرجى تسجيل الدخول مرة أخرى للمتابعة.",
+    "token_missing": "رمز المصادقة مفقود.",
+    "error_process_audio": "حدث خطأ أثناء معالجة الصوت.",
+    "error_process_file": "حدث خطأ أثناء رفع الملف.",
+    "try_again": "عذرًا، حدث خطأ. يرجى المحاولة مرة أخرى.",
+    "no_use_session": "لم يتم العثور على جلسة مستخدم. يرجى تسجيل الدخول مرة أخرى.",
+    "invalid_response_token_not_found": "استجابة غير صالحة: لم يتم العثور على الرمز",
+    "fill_all_fields": "يرجى ملء جميع الحقول",
+    "network_error": "خطأ في الشبكة. يرجى التحقق من اتصالك بالإنترنت.",
+    "session_expired_login": "انتهت جلستك. يرجى تسجيل الدخول مرة أخرى.",
+    "no_permission": "ليس لديك إذن لتنفيذ هذا الإجراء.",
+    "resource_not_found": "لم يتم العثور على المورد المطلوب.",
+    "invalid_data": "تم توفير بيانات غير صالحة. يرجى التحقق والمحاولة مرة أخرى.",
+    "server_error": "خطأ في الخادم. يرجى المحاولة لاحقًا.",
+    "something_went_wrong": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "case_not_found": "لم يتم العثور على القضية",
+    "failed_to_process_request": "تعذر معالجة طلب الخدمة"
+  },
+  "change_email": {
+    "send_instruction": "إرسال التعليمات",
+    "go_back": "العودة",
+    "create_new_pass": "إنشاء كلمة مرور جديدة",
+    "current_email": "البريد الإلكتروني الحالي",
+    "enter_current_email": "أدخل البريد الإلكتروني الحالي والبريد الإلكتروني الجديد الذي ترغب في التغيير إليه.",
+    "new_email": "البريد الإلكتروني الجديد",
+    "check_your_mail": "تحقق من بريدك",
+    "check_mail_for_verify_account": "لقد أرسلنا رمز تحقق إلى بريدك الإلكتروني. أدخله أدناه للتحقق من حسابك.",
+    "check_mail_for_reset_pass": "لقد أرسلنا رمز تحقق إلى بريدك الإلكتروني. أدخله أدناه لإعادة تعيين كلمة المرور الخاصة بك.",
+    "enter_verification_code": "أدخل رمز التحقق",
+    "go_back_login": "العودة لتسجيل الدخول",
+    "not_recd_mail": "لم تستلم البريد الإلكتروني؟ تحقق من البريد العشوائي أو",
+    "try_other_email": "جرب بريدًا إلكترونيًا آخر",
+    "resend_code": "إعادة إرسال الرمز",
+    "verify_mail": "تحقق من بريدك",
+    "click_link_to_verify_mail": "انقر على الرابط للتحقق من بريدك الإلكتروني الجديد",
+    "skip_confirm_later": "تخطي، سأؤكد لاحقًا",
+    "email_updated": "تم تحديث البريد الإلكتروني"
+  },
+  "landing": {
+    "welcome_to": "مرحبًا بك في",
+    "immigration": "دعم الهجرة بسهولة",
+    "create_account": "إنشاء حساب",
+    "log_in": "تسجيل الدخول",
+    "or": "أو",
+    "create_pro": "إنشاء حساب محترف",
+    "select_pro": "اختر حساب محترف",
+    "lawyer": "محامي",
+    "law_firm": "مكتب محاماة",
+    "hr_legal": "موارد بشرية / قانونية (SME)",
+    "a2j_partners": "شركاء A2J",
+    "screen_not_exist": "هذه الشاشة غير موجودة.",
+    "go_to_home_screen": "الذهاب إلى الشاشة الرئيسية!"
+  },
+  "login": {
+    "password": "كلمة المرور",
+    "login": "تسجيل الدخول",
+    "remember_me": "تذكرني",
+    "forgot_password": "نسيت كلمة المرور؟",
+    "need_account": "هل تحتاج إلى حساب؟",
+    "signup": "اشتراك"
+  },
+  "reset_password": "إعادة تعيين كلمة المرور",
+  "create_new_password": "إنشاء كلمة مرور جديدة",
+  "create_account": {
+    "first_name": "الاسم الأول",
+    "last_name": "الاسم الأخير",
+    "date_of_birth": "تاريخ الميلاد",
+    "country": "البلد",
+    "select_country": "اختر البلد",
+    "next": "التالي",
+    "create_account": "إنشاء حساب",
+    "date_of_incorporate": "تاريخ التأسيس",
+    "create_pro_account": "إنشاء حساب محترف",
+    "hr_legal_account": "حساب موارد بشرية / قانونية",
+    "lawyer_account": "حساب محامي",
+    "law_firm_account": "حساب مكتب محاماة",
+    "a2j_partners_account": "حساب شركاء A2J",
+    "firm_name": "اسم الشركة",
+    "organisation_name": "اسم المنظمة",
+    "date_of_establishment": "تاريخ التأسيس",
+    "areasOfLegalFocus": "مجالات التركيز القانوني",
+    "selectAreasOfLegalFocus": "اختر مجالات التركيز القانوني",
+    "contactPerson": "شخص الاتصال",
+    "registrationCharityNumber": "رقم التسجيل / الجمعية الخيرية",
+    "searchAddress": "ابحث عن العنوان",
+    "town": "المدينة",
+    "postcode": "الرمز البريدي",
+    "address": "العنوان",
+    "please_select": "الرجاء الاختيار:",
+    "legalAidOrganisation": "منظمة المساعدة القانونية",
+    "lawCentre": "مركز القانون",
+    "proBonoClinic": "عيادة برو بونو",
+    "profile_photo": "صورة الملف الشخصي",
+    "profile_photo_required": "صورة الملف الشخصي مطلوبة للحساب المحترف",
+    "upload": "رفع",
+    "please_agree_text": "الرجاء الموافقة على شروطنا",
+    "signup_agreement_text": "بالتسجيل، فإنك توافق على",
+    "terms_of_service": "شروط الخدمة",
+    "and_text": "و",
+    "agree_proceed_button": "موافق ومتابعة",
+    "select_practice_area": "اختر مجال الممارسة",
+    "already_have_account": "هل لديك حساب بالفعل؟",
+    "account_creat_success": "تم إنشاء الحساب بنجاح!",
+    "access_detail_msg_legal_assistance": "يمكنك الآن الوصول إلى المساعدة القانونية المخصصة وإدارة احتياجاتك بسلاسة.",
+    "select_practice_areas": "اختر مجالات الممارسة",
+    "contact_person_partner": "شخص الاتصال / الشريك المدير",
+    "company_regi_number": "رقم تسجيل الشركة",
+    "enter_sra_number": "أدخل رقم SRA",
+    "enter_bar_number": "أدخل رقم BAR",
+    "enter_iaa_number": "أدخل رقم IAA",
+    "verify_document": "تحقق من وثيقة الهوية",
+    "reverify_document": "أعد التحقق من الوثيقة"
+  },
+  "validation": {
+    "missing_info": "معلومات مفقودة",
+    "enter_your_name": "الرجاء إدخال اسمك",
+    "enter_your_email": "الرجاء إدخال عنوان بريدك الإلكتروني",
+    "enter_your_phone": "الرجاء إدخال رقم هاتفك",
+    "enter_feedback": "الرجاء إدخال تعليق",
+    "valid_first_name": "يجب أن يكون الاسم الأول مكونًا من حرفين على الأقل.",
+    "valid_last_name": "يجب أن يكون الاسم الأخير مكونًا من حرفين على الأقل.",
+    "select_dob": "الرجاء اختيار تاريخ الميلاد.",
+    "select_country": "الرجاء اختيار البلد.",
+    "enter_city": "لا يمكن أن يكون حقل المدينة فارغًا.",
+    "enter_postcode": "لا يمكن أن يكون حقل الرمز البريدي فارغًا.",
+    "enter_address": "لا يمكن أن يكون حقل العنوان فارغًا.",
+    "valid_user_name": "يجب أن يكون اسم المستخدم مكونًا من 3 أحرف على الأقل.",
+    "valid_email": "الرجاء إدخال عنوان بريد إلكتروني صالح.",
+    "valid_password": "يجب أن تكون كلمة المرور مكونة من 8 أحرف على الأقل وتحتوي على رقم واحد على الأقل.",
+    "valid_organisation": "يجب أن يكون اسم المؤسسة مكونًا من حرفين على الأقل.",
+    "valid_town": "لا يمكن أن يكون حقل المدينة فارغًا.",
+    "enter_date_of_incorporate": "يرجى اختيار تاريخ التأسيس.",
+    "enter_confirm_password": "يرجى إدخال تأكيد كلمة المرور",
+    "valid_confirm_password": "يجب أن تكون كلمة مرور التأكيد مكونة من 8 أحرف على الأقل وتحتوي على رقم واحد على الأقل.",
+    "password_not_match": "كلمتا المرور غير متطابقتين.",
+    "enter_first_name": "يرجى إدخال اسمك الأول",
+    "enter_last_name": "يرجى إدخال اسم العائلة",
+    "document_expired": "انتهت صلاحية وثيقتك. يرجى تحميل وثيقة سارية المفعول.",
+    "document_invalid": "فشل التحقق من الوثيقة. يرجى المحاولة مرة أخرى."
+  },
+  "account": {
+    "practice_areas": "مجالات الممارسة",
+    "services": "الخدمات",
+    "details": "التفاصيل",
+    "licence": "الرخصة",
+    "org_type": "نوع المنظمة",
+    "go_back_home": "العودة إلى الصفحة الرئيسية"
+  },
+  "chat": {
+    "get_started": "ابدأ الآن",
+    "new_chat": "محادثة جديدة",
+    "previous_chat": "المحادثة السابقة",
+    "title": "الدردشة",
+    "waiting": "جارٍ الانتظار...",
+    "help": "مساعدة",
+    "end_chat": "إنهاء الدردشة",
+    "chat_place_holder": "رسالة إلى LawNeeds",
+    "uploading_file": "جارٍ رفع {{count}} مرفق(ات): {{names}}",
+    "files_uploaded_success": "تم رفع {{count}} مرفق(ات) بنجاح.",
+    "uploading_voice_note": "جارٍ رفع المذكرة الصوتية...",
+    "voice_note_uploaded_success": "تم رفع المذكرة الصوتية بنجاح",
+    "open_pdf": "فتح ملف PDF",
+    "sample_questions_title": "أسئلة نموذجية",
+    "you_selected": "لقد اخترت: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "مرحبًا "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": "، "
+      },
+      {
+        "type": "token",
+        "content": "أنا "
+      },
+      {
+        "type": "token",
+        "content": "مساعد "
+      },
+      {
+        "type": "token",
+        "content": "دعم "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "أقدم "
+      },
+      {
+        "type": "token",
+        "content": "معلومات "
+      },
+      {
+        "type": "token",
+        "content": "فقط"
+      },
+      {
+        "type": "token",
+        "content": "، "
+      },
+      {
+        "type": "token",
+        "content": "وليس "
+      },
+      {
+        "type": "token",
+        "content": "مشورة "
+      },
+      {
+        "type": "token",
+        "content": "مهنية"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "كيف "
+      },
+      {
+        "type": "token",
+        "content": "يمكنني "
+      },
+      {
+        "type": "token",
+        "content": "مساعدتك "
+      },
+      {
+        "type": "token",
+        "content": "اليوم"
+      },
+      {
+        "type": "token",
+        "content": "؟"
+      }
+    ],
+    "failed_to_load_chat": "فشل تحميل المحادثة. يرجى المحاولة مرة أخرى.",
+    "voice_note_ready": "الملاحظة الصوتية جاهزة",
+    "tap_to_record": "انقر على 🔴 لبدء التسجيل",
+    "preview_files": "معاينة الملفات",
+    "file_selected": "تم اختيار الملف",
+    "files_selected": "تم اختيار الملفات",
+    "upload_files": "رفع",
+    "tap_to_preview": "انقر للمعاينة",
+    "add": "إضافة",
+    "today": "اليوم",
+    "last_week": "الأسبوع الماضي",
+    "last_month": "الشهر الماضي"
+  },
+  "setting": {
+    "select_language": "اختر اللغة",
+    "settings": "الإعدادات",
+    "app_language": "لغة التطبيق",
+    "choose_language": "اختر اللغة",
+    "notifications": "الإشعارات",
+    "submit_feedback": "مساعدة",
+    "about": "حول",
+    "our_philosophy": "فلسفتنا",
+    "account_management": "إدارة الحساب",
+    "logout": "تسجيل الخروج"
+  },
+  "our_philosophy": {
+    "our_vision_header": "رؤيتنا",
+    "our_vision_desc": "في LawNeeds، نؤمن أن المساعدة القانونية الموثوقة، خاصة دعم الهجرة، يجب أن تكون متاحة للجميع في أي وقت وفي أي مكان. مع انتشار الهواتف الذكية في الحياة اليومية، نحن هنا لمساعدة الأفراد على التنقل في الحياة في المملكة المتحدة من خلال مساعدة قانونية سهلة وموثوقة.",
+    "our_services_header": "خدماتنا",
+    "our_services_desc": "يوفر تطبيقنا المتنقل، الذي يعرض حصريًا مكاتب المحاماة المرخصة والمحامين والمستشارين في مجال الهجرة، خدمات قانونية متخصصة مع تركيز قوي على قانون الهجرة. نحن ندعم الأفراد والعائلات والطلاب والمحترفين في التنقل في الحياة في المملكة المتحدة. مع تطورنا، سيتمكن المستخدمون أيضًا من الوصول إلى الخبرة في قانون العمل وقانون الأسرة وقانون المرور، كل ذلك بتجربة سلسة وخالية من المتاعب بنقرة واحدة فقط.",
+    "innovation_header": "الابتكار في أفضل حالاته",
+    "innovation_desc": "في LawNeeds، يقود الابتكار كل ما نقوم به. نحن نستفيد من قوة الذكاء الاصطناعي لتقديم إرشادات قانونية فورية ومتاحة على مدار الساعة، يتم إنشاؤها بواسطة الذكاء الاصطناعي، بالإضافة إلى توصيات هجرة مخصصة بناءً على موقع كل مستخدم ووضعه.",
+    "community_header": "المجتمع والنمو",
+    "community_desc": "LawNeeds هو أكثر من مجرد تطبيق - إنه مجتمع. نحن نمكّن المهاجرين ونساعد المحترفين القانونيين على تطوير ممارساتهم من خلال منصتنا المبتكرة وميزاتنا.",
+    "commitment_header": "الالتزام بالتميز",
+    "commitment_desc": "يجمع LawNeeds بين تقنية الذكاء الاصطناعي والإشراف القانوني البشري. تم تدريب منصتنا على مجموعة بيانات قانونية خاصة بالمملكة المتحدة، ومراجعتها من قبل محامين داخليين، إلى جانب نظام التحقق الخاص بنا، وتحديثها باستمرار مع التغييرات التنظيمية ومصادر القانون الموثوقة، مما يضمن توجيهات موثوقة ومتوافقة في كل خطوة.",
+    "join_us_header": "انضم إلينا",
+    "join_us_desc": "مع استمرار نمونا، ندعوك للانضمام إلى رحلتنا، سواء كنت تبحث عن مساعدة قانونية أو توسيع ممارستك القانونية. في LawNeeds، نجاحك هو مهمتنا."
+  },
+  "support": {
+    "support_desc": "ساعدنا في تحسين LawNeeds من خلال مشاركة أفكارك أو مشاكلك أو اقتراحاتك أدناه",
+    "feedback_success": "تم إرسال الملاحظات بنجاح",
+    "name": "الاسم",
+    "comment": "تعليق",
+    "address": "المكتب المسجل: 71-75 شارع شيلتون، كوفنت جاردن، لندن، WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "قانون الهجرة"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "قانون العمل"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "مخالفات المرور"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "قانون الأسرة"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "البحث القانوني"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "الكتابة القانونية"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "تحليل القضايا"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "صياغة العقود"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "التفاوض"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "استشارة العميل"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "الدفاع في المحكمة"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "الوساطة"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "التحكيم"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "العناية الواجبة"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "مراجعة الامتثال"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "تقييم المخاطر"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "الاستراتيجية القانونية"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "الاستجواب المضاد"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "كتابة المذكرات"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "الشهادة المسجلة"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "الاكتشاف"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "التفاوض على التسوية"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "التحليل التنظيمي"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "القانون الدولي"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "الملكية الفكرية"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "الاندماجات والاستحواذات"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "حوكمة الشركات"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "علاقات العمل"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "إجراءات الهجرة"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "قانون الهجرة"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "قانون الأسرة"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "قانون العمل"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "القانون الجنائي"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "القانون التجاري"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "قانون الملكية"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "الإصابات الشخصية"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "الملكية الفكرية"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "قانون الضرائب"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "قانون العقود"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "التقاضي"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "الوساطة"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "التحكيم"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "استشارة قانونية"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "مراجعة المستندات"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "بحث قانوني"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "الامتثال"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "الاندماج والاستحواذ"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "البنوك والتمويل"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "قانون التأمين"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "قانون البيئة"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "قانون حقوق الإنسان"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "القانون الدولي"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "القانون الإداري"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "القانون الدستوري"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "استشارة فردية"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "دعم مستمر"
+    },
+    {
+      "key": "casework",
+      "label": "العمل على القضايا"
+    },
+    {
+      "key": "not_sure",
+      "label": "غير متأكد بعد"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "روتيني (5-7) أيام"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "أولوية (2-3) أيام"
+    },
+    {
+      "key": "urgent",
+      "label": "عاجل (نفس اليوم أو اليوم التالي)"
+    }
+  ],
+  "search": {
+    "professionals": "المهنيون",
+    "city": "المدينة",
+    "distance": "المسافة",
+    "top_rated": "الأعلى تقييماً",
+    "more": "المزيد",
+    "request": "طلب",
+    "request_service": "طلب خدمة",
+    "service": "الخدمة",
+    "select_service": "اختر الخدمة",
+    "urgency": "درجة الاستعجال",
+    "select": "اختر",
+    "additional_notes": "ملاحظات إضافية",
+    "service_request_success": "تم إرسال طلب الخدمة بنجاح",
+    "issue_type": "نوع المشكلة",
+    "budget": "الميزانية",
+    "select_consultation": "اختر الاستشارة",
+    "consultation": "استشارة",
+    "time_n_rate": "الوقت والسعر"
+  },
+  "reset_password_info": "أدخل البريد الإلكتروني المرتبط بحسابك وسنرسل لك رسالة تحتوي على تعليمات إعادة تعيين كلمة المرور",
+  "tap_to_upload_image": "اضغط لرفع صورة",
+  "record": "تسجيل",
+  "media": "وسائط",
+  "attach": "إرفاق",
+  "sort_by": "رتب حسب",
+  "apply": "تطبيق",
+  "select_date": "اختر التاريخ",
+  "day": "اليوم",
+  "month": "الشهر",
+  "year": "السنة",
+  "present": "الحاضر",
+  "sector": "قطاع",
+  "hr": "الموارد البشرية",
+  "legal": "قانوني",
+  "both": "كلاهما",
+  "identity_card": "بطاقة هوية",
+  "passport": "جواز سفر",
+  "drivers_license": "رخصة قيادة",
+  "law_centre": "مركز قانوني",
+  "legal_aid_organisation": "منظمة المساعدة القانونية",
+  "beta": "بيتا",
+  "logged_in": "تم تسجيل الدخول",
+  "select_reason": "اختر السبب",
+  "select_area_of_legal_expertise": "اختر مجال الخبرة القانونية",
+  "confirm_password": "تأكيد كلمة المرور",
+  "enter_new_password_below": "أدخل كلمة مرور جديدة أدناه",
+  "select_a_country": "اختر دولة",
+  "open_email_app": "افتح تطبيق البريد الإلكتروني",
+  "request_details": "تفاصيل الطلب",
+  "accept": "قبول",
+  "reject": "رفض",
+  "request_reject_message": "تم رفض طلب الخدمة بنجاح",
+  "document_view": "عرض المستند",
+  "loading_document": "جاري تحميل المستند",
+  "service_issue_type": "اختر نوع مشكلة الخدمة",
+  "select_consultation_type": "اختر نوع الاستشارة",
+  "urgency_level": "اختر مستوى الأهمية",
+  "budget_input": "أدخل الميزانية",
+  "attachments": "مرفقات",
+  "user_label": "أنت",
+  "timestamp": "الآن",
+  "voice_note": "ملاحظة صوتية",
+  "comment_placeholder": "اكتب تعليق...",
+  "messages": "الرسائل",
+  "edit": "تعديل",
+  "copy": "نسخ",
+  "select_consultation_time": "اختر وقت الاستشارة",
+  "request_cancel_success": "تم إلغاء طلب الخدمة بنجاح",
+  "accept_request_message": "هل أنت متأكد أنك تريد قبول هذا الطلب؟",
+  "reject_request_message": "هل أنت متأكد أنك تريد رفض هذا الطلب؟",
+  "delete_request_message": "هل تريد حقًا حذف هذا الطلب؟",
+  "withdraw_request_message": "هل تريد حقًا سحب هذا الطلب؟",
+  "yes": "نعم",
+  "no": "لا",
+  "accepted": "مقبول",
+  "cancelled": "ملغي",
+  "pending": "قيد الانتظار",
+  "consultation_time": "وقت الاستشارة",
+  "consultation_type": "نوع الاستشارة",
+  "recommended_professionals": "المهنيون الموصى بهم:",
+  "continue": "متابعة",
+  "image": "صورة",
+  "delete_account": "حذف الحساب",
+  "delete": "حذف",
+  "delete_confirmation_message": "هل أنت متأكد أنك تريد حذف حسابك؟ هذا الإجراء لا يمكن التراجع عنه.",
+  "delete_account_error_message": "حدث خطأ أثناء حذف الحساب.",
+  "place_holder_additional_notes": "اكتب أي تفاصيل إضافية حول قضيتك القانونية...",
+  "upload_options": "خيارات التحميل:",
+  "select_option": "الرجاء اختيار خيار:",
+  "skip": "تخطي",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "قانون الهجرة"
+    },
+    {
+      "key": "employment",
+      "label": "قانون العمل"
+    },
+    {
+      "key": "road_traffic",
+      "label": "مخالفات المرور"
+    },
+    {
+      "key": "family",
+      "label": "قانون الأسرة"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "عاجل"
+    },
+    {
+      "key": "within_week",
+      "label": "خلال أسبوع"
+    },
+    {
+      "key": "within_month",
+      "label": "خلال شهر"
+    },
+    {
+      "key": "not_urgent",
+      "label": "غير عاجل"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "اختر نوع المشكلة"
+    },
+    {
+      "key": "urgency",
+      "name": "اختر مستوى الاستعجال"
+    },
+    {
+      "key": "consultation",
+      "name": "اختر نوع الاستشارة"
+    },
+    {
+      "key": "select_time",
+      "name": "اختر الوقت والسعر"
+    },
+    {
+      "key": "select-budget",
+      "name": "اختر الميزانية"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 دقائق (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 دقائق (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 دقيقة (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 دقيقة (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "ساعة واحدة (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 أيام (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 أيام (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "أكثر من £700"
+    }
+  ],
+  "sample_questions": [
+    "طلب مستشار قانوني",
+    "هل أنا مؤهل للحصول على تأشيرة Skilled Worker؟",
+    "كيف يمكنني تمديد تأشيرة الطالب الخاصة بي؟",
+    "ما هي قواعد الإقامة الدائمة؟",
+    "كيف يمكنني التقدم بطلب لجوء في المملكة المتحدة؟",
+    "كم من الوقت يستغرق قرار التأشيرة؟"
+  ],
+  "rate_of_hour": "السعر بالساعة",
+  "search_country": "البحث عن دولة",
+  "review_error": "لا يمكن أن يكون التقييم فارغًا.",
+  "rating_validation": "يرجى اختيار تقييم من 1 إلى 5 نجوم.",
+  "create_account_with": "إنشاء حساب باستخدام",
+  "login_with": "تسجيل الدخول باستخدام",
+  "create_account_email_password": "البريد الإلكتروني/كلمة المرور",
+  "sign_in_with_apple": "تسجيل الدخول باستخدام Apple",
+  "sign_in_with_google": "تسجيل الدخول باستخدام Google",
+  "no_cases_available": "لا توجد قضايا متاحة",
+  "no_active_cases_available": "لا توجد قضايا نشطة",
+  "no_pending_cases_available": "لا توجد قضايا قيد الانتظار",
+  "back": "رجوع",
+  "submit_review": "إرسال التقييم",
+  "delete_review": "حذف التقييم",
+  "member_since": "عضو منذ",
+  "work_experience": "الخبرة العملية",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "الخبرة",
+  "professional_details": "التفاصيل المهنية",
+  "review_professional": "تقييم المحترف",
+  "no_reviews": "لا توجد تقييمات بعد. كن أول من يضيف!",
+  "reviews": "التقييمات",
+  "thanks_feedback": "شكرًا لملاحظاتك!",
+  "accept_case_notification_header": "تم قبول طلبك من قبل المحامي! 🎉",
+  "accept_case_notification_message_part": " قام بقبول قضيتك وهو مستعد لمساعدتك.",
+  "reject_case_notification_header": "تحديث الإحالة",
+  "reject_case_notification_message_part": " غير قادر على قبول قضيتك في الوقت الحالي.",
+  "delete_case_notification_header": "تم حذف الطلب",
+  "withdraw_case_notification_header": "تم سحب الطلب",
+  "delete_case_notification_message_part": " قام بحذف طلبه.",
+  "withdraw_case_notification_message_part": " قام بسحب طلبه.",
+  "manuscript": "مخطوطة",
+  "share_dialog_title": "مشاركة أو تنزيل المخطوطة",
+  "certifications": "الشهادات",
+  "queries_left": "عدد استفسارات AI المتبقية",
+  "voice_notes_limit": "صوت",
+  "uploads_limit": "تحميل",
+  "docgen_limit": "إنشاء المستندات",
+  "current_plan": "الخطة الحالية",
+  "faqs": "الأسئلة الشائعة",
+  "wallet": "المحفظة",
+  "subscription": {
+    "plans_pricing_title": "الخطط والأسعار",
+    "plans_pricing_subtitle": "افتح المزيد من الدقائق والميزات المميزة",
+    "syncing_account": "جاري مزامنة الحساب...",
+    "processing_purchase": "جاري معالجة الشراء...",
+    "plan_unavailable_title": "الخطة غير متوفرة",
+    "plan_unavailable_message": "لم نتمكن من العثور على هذه الخطة في المتجر.",
+    "purchase_error_title": "خطأ في الشراء",
+    "purchase_error_message": "حدث خطأ غير متوقع.",
+    "upgrade_plans": "ترقية الخطط",
+    "plan_unlimited": "غير محدود",
+    "plan_premium": "بريميوم",
+    "plan_standard": "قياسي",
+    "plan_free_label": "مجاني دائمًا",
+    "billing_annually": "سنويًا",
+    "feature_voice_notes": "ملاحظات صوتية",
+    "feature_uploads": "عمليات رفع",
+    "feature_shared_pool": "مجموعة مشتركة للصوت والرفع والمستندات",
+    "feature_free_consultation": "دقيقة استشارة مجانية",
+    "feature_priority_support": "دعم بشري ذو أولوية مشمول",
+    "feature_ai_queries": "استعلامات نصية بالذكاء الاصطناعي",
+    "feature_limited": "محدود",
+    "feature_standard_limits": "تُطبق الحدود القياسية",
+    "feature_query_reset": "يتم إعادة تعيين حد الاستعلامات عند 12am",
+    "feature_rollover": "مسموح بالترحيل",
+    "feature_images_max": "الحد الأقصى للصور",
+    "feature_document_max": "الحد الأقصى للمستندات",
+    "feature_mb": "ميغابايت",
+    "feature_pages": "صفحات",
+    "label_default_plan": "الخطة الافتراضية",
+    "cta_subscribe_now": "اشترك الآن",
+    "wallet_loading": "جاري تحميل المحفظة...",
+    "wallet_title": "المحفظة",
+    "wallet_balance": "الرصيد المتاح",
+    "unit_minute": "دقيقة",
+    "wallet_top_up": "إعادة الشحن",
+    "wallet_transactions": "المعاملات الأخيرة",
+    "transaction_plan_purchase": "شراء خطة",
+    "transaction_legal_query": "استعلام قانوني",
+    "transaction_document_process": "معالجة المستند",
+    "reference_label": "مرجع:",
+    "plan_free": "مجاني",
+    "unit_min": "دقيقة"
+  },
+  "user_name": "اسم المستخدم",
+  "email": "البريد الإلكتروني",
+  "phone_number": "رقم الهاتف",
+  "urgent": "عاجل",
+  "contact_support": "اتصل بالدعم",
+  "minutes": "دقائق",
+  "freemium": {
+    "modal": {
+      "title": "تم الوصول إلى حد الاستعلامات",
+      "timer_label": "حاول مرة أخرى خلال",
+      "timer_format": "{{minutes}}د {{seconds}}ث",
+      "upgrade_cta": "ترقية الخطة",
+      "loading_text": "جاري فتح الاستعلامات…",
+      "watch_ad_cta": "📺 شاهد إعلانًا (+{{count}} استعلامات)",
+      "limit_note": "حد الفريميوم: {{count}} استعلامات / {{hours}} ساعات",
+      "description": "لقد استخدمت جميع {{count}} الاستعلامات المجانية خلال آخر {{hours}} ساعات.",
+      "buy_pass": "{{price}} استعلامات غير محدودة اليوم"
+    },
+    "banner": {
+      "plan_label": "خطة {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} استعلامات متبقية",
+      "daily_pass_active": "✨ الباقة اليومية مفعلة",
+      "upgrade_cta": "ترقية",
+      "usage_labels": {
+        "voice_notes": "ملاحظات صوتية",
+        "uploads": "عمليات رفع",
+        "docs": "مستندات"
+      },
+      "daily_pass": {
+        "title": "🚀 افتح غير محدود اليوم",
+        "description": "احصل على استعلامات ذكاء اصطناعي غير محدودة حتى منتصف الليل مع باقة يومية بسعر {{price}}.",
+        "cta": "احصل على الباقة اليومية – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "تم الوصول إلى الحد",
+      "upgrade_cta": "قم بترقية خطتك للمتابعة",
+      "wait_info": "أو انتظر ثم حاول مرة أخرى خلال: {{time}}",
+      "body_message": "لقد وصلت إلى الحد المجاني. قم بالترقية أو انتظر للمتابعة."
+    }
+  },
+  "plan_card": {
+    "plan_label": "الخطة",
+    "billing": {
+      "per_period": "لكل {{period}}",
+      "always_free": "مجاني دائمًا",
+      "discount_badge": "{{discount}}% خصم في الشهر الأول",
+      "per_mins": "{{minutes}} دقيقة"
+    },
+    "toggle": {
+      "annual": "سنوي",
+      "monthly": "شهري",
+      "weekly": "أسبوعي",
+      "daily": "يومي"
+    },
+    "features": {
+      "voice_notes": "ملاحظات صوتية",
+      "uploads": "عمليات رفع",
+      "docs": "إنشاء مستندات بالذكاء الاصطناعي",
+      "minutes": "دقائق",
+      "ai_queries": "استعلامات نصية بالذكاء الاصطناعي",
+      "rollover": "مسموح بالترحيل",
+      "shared_pool": "• مجموعة مشتركة للصوت والرفع والمستندات",
+      "free_consultation": "• {{minutes}} دقيقة استشارة مجانية مشمولة",
+      "priority_support": "• دعم بشري ذو أولوية مشمول",
+      "file_caps_title": "حدود حجم الملف وعدد الصفحات",
+      "image_max": "الحد الأقصى للصور",
+      "doc_max": "الحد الأقصى للمستندات"
+    },
+    "limits": {
+      "unlimited": "غير محدود",
+      "limited": "محدود",
+      "none": "لا يوجد",
+      "yes": "نعم"
+    },
+    "notes": {
+      "standard_limits": "تُطبق الحدود القياسية",
+      "reset_time": "يتم إعادة تعيين حد الاستعلامات عند 12am"
+    },
+    "cta": {
+      "default_plan": "الخطة الافتراضية",
+      "current_plan": "الخطة الحالية",
+      "subscribe": "اشترك الآن"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "تم الوصول إلى الحد الشهري",
+      "title_paid": "لقد نفدت دقائقك",
+      "description_freemium": "لقد استخدمت جميع 6 الاعتمادات الشهرية المجانية للملاحظات الصوتية ورفع الملفات وإنشاء المستندات.",
+      "description_paid": "ليس لديك دقائق كافية لإكمال هذا الإجراء. قم بإعادة الشحن أو الترقية للحصول على المزيد.",
+      "upgrade_premium": "الترقية إلى بريميوم",
+      "topup_cta": "إعادة شحن الدقائق",
+      "view_usage": "عرض تفاصيل استخدام الرصيد"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "إعادة شحن الدقائق",
+      "subtitle": "اشترِ دقائق إضافية للاستمرار.",
+      "alerts": {
+        "low_minutes": "لقد استخدمت {{percentage}}% من دقائقك. قم بإعادة الشحن الآن!",
+        "limit_reached": "تم الوصول إلى حد إعادة الشحن الشهري ({{used}}/{{limit}})",
+        "limit_popup_title": "تم الوصول إلى حد إعادة الشحن",
+        "limit_popup_message": "لقد تجاوزت حد إعادة الشحن الشهري."
+      },
+      "slider": {
+        "label": "الدقائق المراد شراؤها",
+        "minutes_value": "{{minutes}} دقيقة",
+        "min": "{{min}} دقيقة",
+        "max": "{{max}} دقيقة"
+      }
+    }
+  },
+  "show_less": "عرض أقل",
+  "show_more": "عرض المزيد",
+  "updating_balance": "جارٍ تحديث الرصيد...",
+  "usage_limits": "حدود الاستخدام",
+  "voice_notes": "ملاحظات صوتية",
+  "uploads": "التحميلات",
+  "usage_history": "سجل الاستخدام",
+  "manage_plan": "إدارة الخطة",
+  "cancel_subscription": "إلغاء الاشتراك",
+  "explore_premium_plans": "استكشاف الخطط المميزة",
+  "used": "المستخدم",
+  "total": "الإجمالي",
+  "unlimited": "غير محدود",
+  "manage_subscription_title": "إدارة الاشتراك",
+  "manage_subscription_desc": "سيتم تحويلك إلى المتجر لإدارة الإعدادات.",
+  "stay_with_us": "ابقَ معنا",
+  "open_store_error": "تعذر فتح الرابط.",
+  "subscription_fetch_error": "فشل في جلب معلومات الاشتراك.",
+  "unit_min": "دقيقة",
+  "no_transaction_yet": "لا توجد معاملات حتى الآن!",
+  "feedback_hint_message": "شارك تفاصيل تجربتك",
+  "withdraw": "سحب",
+  "issue_summary": "ملخص المشكلة",
+  "disclaimer": "إخلاء المسؤولية",
+  "disclaimer_message": "يوفر مساعد LawNeeds AI إرشادات لأغراض معلوماتية فقط.",
+  "disclaimer_button": "أوافق",
+  "filter": {
+    "title": "تصفية",
+    "sortBy": "ترتيب حسب",
+    "commonServices": "الخدمات الشائعة",
+    "practiceAreas": "مجالات الممارسة",
+    "professionalTypes": "أنواع المهنيين",
+    "sortOptions": {
+      "alphabetical": "أبجدي",
+      "relevance": "الأكثر صلة",
+      "experience": "الخبرة"
+    }
+  },
+  "common": {
+    "upgrade_now": "قم بالترقية الآن",
+    "close": "إغلاق",
+    "maybe_later": "ربما لاحقًا",
+    "not_now": "ليس الآن",
+    "pay": "ادفع {{currency}}{{amount}}",
+    "total_cost": "التكلفة الإجمالية:",
+    "usage_limit_reached": "تم الوصول إلى حد الاستخدام",
+    "apply": "تطبيق",
+    "cancel": "إلغاء",
+    "error": "خطأ",
+    "success": "نجاح",
+    "processing": "جارٍ المعالجة...",
+    "something_wrong": "حدث خطأ ما",
+    "no_data_available": "لا توجد بيانات"
+  },
+  "daily_pass_success": "تم شراء الخطة بنجاح!",
+  "daily_pass_not_found": "لم يتم العثور على الباقة اليومية.",
+  "purchase_failed": "فشلت عملية الشراء",
+  "expires": "ينتهي في: {{expiryDate}}",
+  "active": "نشط",
+  "pricing": {
+    "confirm_price": "سعر مخصص",
+    "propose_price": "اقترح سعراً",
+    "enter_amount": "أدخل المبلغ",
+    "invalid_amount": "أدخل مبلغاً صحيحاً",
+    "amount_range": "يجب أن يكون المبلغ بين ₹{{min}} - ₹{{max}}",
+    "range": "الحد الأدنى: ₹{{min}} | الحد الأقصى: ₹{{max}}",
+    "price_confirmed": "تم تأكيد السعر",
+    "price_proposed": "تم اقتراح السعر",
+    "confirm_price_btn": "تأكيد",
+    "submit_price_btn": "إرسال",
+    "load_failed": "فشل تحميل التسعير",
+    "title": "التسعير",
+    "not_proposed_message": "لم يتم تحديد التسعير بعد. يرجى تحديد السعر للمتابعة."
+  },
+  "payment": {
+    "header_title": "الدفع",
+    "total_amount": "المبلغ الإجمالي",
+    "platform_fee": "رسوم المنصة",
+    "lawyer_receives": "ما يستلمه المحامي",
+    "pay_button": "ادفع £ {{amount}}",
+    "preparing_payment": "جارٍ تحضير دفع آمن...",
+    "alerts": {
+      "error_title": "خطأ",
+      "init_failed": "فشل تهيئة الدفع",
+      "unable_to_load": "تعذر تحميل الدفع",
+      "payment_failed_title": "فشل الدفع",
+      "generic_error": "حدث خطأ ما",
+      "success_title": "نجاح",
+      "success_message": "اكتملت عملية الدفع بنجاح!"
+    },
+    "notification_title": "تم استلام الدفع",
+    "notification_message": "أكمل الدفع. يمكنك بدء الاستشارة."
+  },
+  "consultation": {
+    "ended_title": "انتهت الاستشارة",
+    "ended_message": "انتهى الوقت",
+    "pending": "قيد الانتظار",
+    "active": "جاري",
+    "completed": "مكتمل"
+  },
+  "file": {
+    "uploading_image": "جارٍ رفع الصورة...",
+    "uploading_video": "جارٍ رفع الفيديو...",
+    "uploading_file": "جارٍ رفع الملف...",
+    "upload_failed": "فشل الرفع",
+    "upload_failed_message": "تعذر إرسال الملف.",
+    "open_pdf": "افتح PDF",
+    "open_doc": "افتح DOC",
+    "open_file": "افتح الملف"
+  },
+  "notification": {
+    "lawyer_message": "رسالة من المحامي",
+    "new_message": "رسالة جديدة"
+  },
+  "live": "مباشر",
+  "stripe_connected": "تم ربط Stripe",
+  "connect_with_stripe": "الاتصال عبر Stripe",
+  "payments": "المدفوعات",
+  "beta_instructions": "تعليمات النسخة التجريبية",
+  "status": {
+    "title": "الحالة",
+    "paid": "مدفوع",
+    "unpaid": "غير مدفوع"
+  },
+  "stripe_not_onboarded_title": "إعداد الدفع غير مكتمل",
+  "stripe_not_onboarded_message": "للقبول طلبات الاستشارة، يرجى إكمال إعداد الدفع عبر Stripe من تبويب الإعدادات.",
+  "case_folder": "مجلد القضية",
+  "case_helped": "القضايا التي تم المساعدة فيها",
+  "satisfied": "راضٍ",
+  "rejected": "مرفوض",
+  "withdrawn": "مسحوب",
+  "deleted": "محذوف",
+  "consultation_history": "سجل الاستشارات",
+  "pay": "ادفع",
+  "start_consultation": "ابدأ الاستشارة",
+  "waiting_for_session": "في انتظار الجلسة",
+  "waiting_for_payment": "في انتظار الدفع",
+  "activity": "النشاط",
+  "one_minute_warning_title": "⏰ متبقي دقيقة واحدة",
+  "one_minute_warning_body": "ستنتهي جلسة الاستشارة الخاصة بك خلال دقيقة واحدة.",
+  "default_notification_title": "إشعار",
+  "no_notifications": "لا توجد إشعارات حتى الآن",
+  "welcome_to_lawneeds": "مرحبا بكم في LawNeeds!",
+  "i_agree": "أنا موافق",
+  "i_dont_agree": "أنا لا أوافق",
+  "terms_and_conditions": "الشروط والأحكام",
+  "terms_condition_1": "1. باستخدام هذا التطبيق، فإنك توافق على هذه الشروط ويجب أن يكون عمرك 18 عامًا على الأقل.",
+  "terms_condition_2": "2. توفر LawNeeds المساعدة القانونية ولكنها لا تحل محل التمثيل القانوني المهني.",
+  "terms_condition_3": "3. يوفر مساعد دعم LawNeeds AI إرشادات قانونية غنية بالمعلومات. هذا لا يشكل نصيحة قانونية.",
+  "terms_condition_4": "4. أنت مسؤول عن تقديم معلومات دقيقة وصادقة.",
+  "terms_condition_5": "5. معلوماتك خاصة، ولكن يجب عليك الحفاظ على سرية بيانات اعتماد حسابك.",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "تأشيرة العامل الماهر",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "تأشيرة الطالب",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "تأشيرة الزيارة",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "تأشيرة النسب",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "تأشيرة الزوج / الشريك",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "معالو PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "لمّ شمل الأسرة",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (مسار 10 سنوات)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "التجنس",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "برنامج تسوية أوضاع الاتحاد الأوروبي",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP)، طلبات حقوق الإنسان",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "طلبات اللجوء (دعم كامل)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "إدارة كاملة للقضية (من البداية إلى النهاية)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "سريع",
+  "basic": "أساسي",
+  "verified": "تم التحقق من الوثيقة",
+  "verification_failed": "فشل التحقق",
+  "verification_cancelled": "تم إلغاء التحقق",
+  "delete_review_confirm": "هل أنت متأكد أنك تريد حذف هذه المراجعة؟",
+  "casework_service": "خدمة العمل على القضية",
+  "casework_price_range": "نطاق سعر العمل على القضية",
+  "tour_previous_chat_title": "الدردشة السابقة",
+  "tour_previous_chat_desc": "راجع محادثاتك السابقة هنا.",
+  "tour_new_chat_title": "دردشة جديدة",
+  "tour_new_chat_desc": "اضغط هنا لبدء استفسار قانوني جديد.",
+  "tour_notifications_title": "الإشعارات",
+  "tour_notifications_desc": "تحقق من التحديثات والتنبيهات المهمة هنا.",
+  "tour_inbox_title": "الوارد",
+  "tour_inbox_desc": "أدر رسائلك وردود القضايا هنا.",
+  "tour_language_title": "اللغة",
+  "tour_language_desc": "اختر لغة التطبيق المفضلة لديك هنا.",
+  "tour_chat_history_title": "سجل الدردشة",
+  "tour_chat_history_desc": "راجع محادثاتك السابقة وتابعها.",
+  "tour_current_plan_title": "الخطة الحالية",
+  "tour_current_plan_desc": "راجع تفاصيل اشتراكك الحالي هنا.",
+  "tour_usage_history_title": "سجل الاستخدام",
+  "tour_usage_history_desc": "تتبع عدد الدقائق والميزات التي استخدمتها.",
+  "tour_request_legal_help_title": "طلب مساعدة قانونية",
+  "tour_request_legal_help_desc": "ابدأ طلبًا جديدًا للتواصل مع المختصين.",
+  "tour_wallet_title": "المحفظة",
+  "tour_wallet_desc": "راجع رصيد محفظتك ومعاملاتك.",
+  "tour_top_up_title": "إضافة رصيد",
+  "tour_top_up_desc": "أضف رصيدًا للحصول على دقائق إضافية لميزات الذكاء الاصطناعي والتحميلات والاستشارات.",
+  "tour_search_desc": "اكتب اسمًا للبحث عن مختص محدد.",
+  "tour_explore_subscribe_plans": "اضغط هنا لاستكشاف خطتك وترقيتها.",
+  "tour_explore_upgrade_plans": "قم بترقية خطتك لفتح الميزات المميزة.",
+  "tour_lawyer_stripe_connected": "تم ربط حساب Stripe الخاص بك وهو جاهز لاستلام المدفوعات.",
+  "tour_lawyer_stripe_not_connected": "قم بربط Stripe لبدء قبول المدفوعات من العملاء.",
+  "profile_completion": {
+    "title": "أكمل ملفك الشخصي",
+    "description": "يرجى التحقق من بياناتك قبل المتابعة.",
+    "first_name": "الاسم الأول *",
+    "last_name": "اسم العائلة *",
+    "saving": "جارٍ الحفظ...",
+    "save_continue": "حفظ ومتابعة",
+    "update_profile_failed": "تعذر تحديث الملف الشخصي"
+  },
+  "auth": {
+    "session_expired": "انتهت جلسة تسجيل الدخول الخاصة بك. يرجى المحاولة مرة أخرى.",
+    "login_failed": "تعذر تسجيل دخولك. يرجى المحاولة مرة أخرى.",
+    "google_login_failed": "تعذر تسجيل الدخول عبر Google. يرجى المحاولة مرة أخرى.",
+    "apple_login_failed": "تعذر تسجيل الدخول عبر Apple. يرجى المحاولة مرة أخرى.",
+    "authorization_failed": "تعذر الاتصال بخدمة المصادقة. يرجى المحاولة لاحقًا.",
+    "invalid_redirect": "حدث خطأ أثناء تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+    "cancelled_login": "تم إلغاء تسجيل الدخول.",
+    "invalid_response": "تعذر إكمال تسجيل الدخول. يرجى المحاولة مرة أخرى."
+  },
+  "tour_service_request_title": "طلب",
+  "tour_service_request_desc": "أرسل طلب خدمة مباشرة إلى متخصص قانوني. أكمل النموذج، وأضف ملاحظات أو مستندات إذا لزم الأمر، وسيتم إخطار المتخصص عند توفره.",
+  "tour_request_form_title": "نموذج الطلب",
+  "tour_request_form_desc": "قدّم معلومات عن مسألتك القانونية ومتطلبات الاستشارة ودرجة الاستعجال. يمكنك أيضًا تحميل مستندات أو إضافة ملاحظات صوتية لمساعدة المتخصص على فهم حالتك.",
+  "no_data": "لا توجد بيانات",
+  "duplicate_file_attached": "\"{{filename}}\" تمت إضافته بالفعل.",
+  "duplicate_file_attached_as": "\"{{filename}}\" تمت إضافته بالفعل كـ \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "بالنقر على",
+  "consultation_consent_middle": "، فإنك تقر بأن استشارتك إذا تم تقديمها خلال 14 يومًا فلن يعود حقك القانوني في الإلغاء ساريًا. لا يزال بإمكانك إلغاء الاستشارة أو إعادة جدولتها وفقًا لـ",
+  "cancellation_policy": "سياسة الإلغاء",
+  "home_actions": {
+    "ask_ai": "اسأل ذكاء LawNeeds الاصطناعي",
+    "ask_ai_description": "احصل على إرشاد من روبوت الدردشة الذكي من LawNeeds.",
+    "find_professional": "ابحث عن مختص",
+    "find_professional_description": "ابحث عن مختص قانوني يمكنه مساعدتك.",
+    "book_consultation": "احجز استشارة",
+    "book_consultation_description": "ابدأ عملية الإحالة لترتيب استشارة."
+  }
+}

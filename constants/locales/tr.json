@@ -1,0 +1,1444 @@
+{
+  "submit": "Gönder",
+  "cancel": "İptal",
+  "done": "Bitti",
+  "ok": "Tamam",
+  "next": "Sonraki",
+  "save": "Kaydet",
+  "privacy_policy": "Gizlilik Politikası",
+  "terms_n_conditions": "Şartlar ve Koşullar",
+  "per": {
+    "camera_roll": "Kamera galerisine erişim izni gerekli! Lütfen cihaz ayarlarından etkinleştirin.",
+    "microphone_access": "Mikrofon erişimi gerekli.",
+    "permission_denied": "İzin Reddedildi",
+    "notification_permission_not_granted": "Bildirim izni verilmedi"
+  },
+  "policy_text": {
+    "i_agree": "Kabul Ediyorum",
+    "i_dont_agree": "Kabul Etmiyorum",
+    "label_1": "1. Topladığımız Bilgiler: Kişisel Kimlik Bilgileri (Ad, E-posta, Telefon, Adres), Teknik Veriler (IP, Tarayıcı türü, İşletim sistemi), Kullanım Verileri ve Pazarlama Tercihleri toplayabiliriz.",
+    "label_2": "2. Bilgilerinizi Nasıl Topluyoruz: Doğrudan etkileşimler, otomatik teknolojiler ve üçüncü taraflar aracılığıyla.",
+    "label_3": "3. Bilgilerin Kullanımı: Hizmetimizi sağlamak ve sürdürmek, hesabınızı yönetmek, yasal yükümlülüklere uymak ve hizmetlerimizi geliştirmek.",
+    "label_4": "4. Bilgi Açıklaması: Hizmet sağlayıcılar, yasal ve devlet makamları ile iş transferleri kapsamında.",
+    "label_5": "5. Veri Güvenliği ve Saklama: Güvenlik önlemleri uygular ve verilerinizi yalnızca gerekli olduğu sürece saklarız.",
+    "label_6": "6. Yasal Haklarınız: Verilerinize erişme, düzeltme, silme, kısıtlama, aktarma ve kullanım iznini geri çekme hakkınız vardır.",
+    "label_7": "7. Özel kategori: Sorguma yanıt verilmesi amacıyla sağladığım etnik kökenime ilişkin bilgiler ve diğer hassas kişisel veriler dahil olmak üzere her türlü özel kategori verinin işlenmesine açıkça rıza gösteriyorum. Rızamı istediğim zaman info@lawneeds.co.uk adresine e-posta göndererek geri çekebilirim.",
+    "policy_details": "Bu Gizlilik Politikası, mobil uygulamamızı ziyaret ettiğinizde bilgilerinizi nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi ve koruduğumuzu açıklar. Hizmetimizi kullanarak, bu Gizlilik Politikasının şartlarını kabul etmiş olursunuz.",
+    "review_message": "Lütfen",
+    "privacy_policy": "Gizlilik Politikamızı inceleyin"
+  },
+  "tab": {
+    "account": "Hesap",
+    "chat": "Sohbet",
+    "home": "Ana Sayfa",
+    "settings": "Ayarlar",
+    "inbox": "Gelen",
+    "search": "Ara"
+  },
+  "profile": {
+    "firm_name": "Firma Adı",
+    "practice_areas_label": "Uygulama Alanları",
+    "services": "Hizmetler",
+    "first_name": "Ad",
+    "last_name": "Soyad",
+    "about": "Hakkında",
+    "skills": "Yetenekler",
+    "organisation_name": "Kurum Adı",
+    "areas_of_legal_focus": "Hukuki Odak Alanları",
+    "professional_employer": "Profesyonel İşveren",
+    "area_of_legal_expertise": "Hukuki Uzmanlık Alanı",
+    "max_of_four": "En fazla dört",
+    "max_of_two": "En fazla iki",
+    "characters": "karakter",
+    "please_select": "Lütfen seçin",
+    "account_security": "Hesap Güvenliği",
+    "details": "Detaylar",
+    "edit_details": "Detayları Düzenle",
+    "no_name": "İsim Yok",
+    "profile_updated_success": "Profil Başarıyla Güncellendi",
+    "company_name": "Şirket Adı",
+    "enter_your_company_name": "Şirket Adınızı Girin",
+    "achievements": "Başarılar",
+    "enter_your_achievements": "Başarılarınızı Girin",
+    "timeline": "Zaman Çizelgesi",
+    "start_date": "Başlangıç Tarihi",
+    "end_date": "Bitiş Tarihi",
+    "add_another_section": "Başka Bir Bölüm Ekle",
+    "add_section": "Bölüm Ekle"
+  },
+  "success": {
+    "success": "Başarılı",
+    "success_sent_code": "Doğrulama kodu başarıyla gönderildi."
+  },
+  "error": {
+    "title": "Hata",
+    "error_msg": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "session_expired": "Oturum Süresi Doldu",
+    "login_again": "Devam etmek için lütfen tekrar giriş yapın.",
+    "token_missing": "Kimlik doğrulama belirteci eksik.",
+    "error_process_audio": "Ses işlenirken bir hata oluştu.",
+    "error_process_file": "Dosya yüklenirken bir hata oluştu.",
+    "try_again": "Üzgünüz, bir hata oluştu. Lütfen tekrar deneyin.",
+    "no_use_session": "Kullanıcı oturumu bulunamadı. Lütfen tekrar giriş yapın.",
+    "invalid_response_token_not_found": "Geçersiz yanıt: Belirteç bulunamadı",
+    "fill_all_fields": "Lütfen tüm alanları doldurun",
+    "network_error": "Ağ hatası. Lütfen internet bağlantınızı kontrol edin.",
+    "session_expired_login": "Oturumunuzun süresi doldu. Lütfen tekrar giriş yapın.",
+    "no_permission": "Bu işlemi gerçekleştirme izniniz yok.",
+    "resource_not_found": "İstenen kaynak bulunamadı.",
+    "invalid_data": "Geçersiz veri sağlandı. Lütfen kontrol edip tekrar deneyin.",
+    "server_error": "Sunucu hatası. Lütfen daha sonra tekrar deneyin.",
+    "something_went_wrong": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "case_not_found": "Vaka bulunamadı",
+    "failed_to_process_request": "Hizmet isteği işlenemedi"
+  },
+  "change_email": {
+    "send_instruction": "Talimat Gönder",
+    "go_back": "Geri dön",
+    "create_new_pass": "Yeni şifre oluştur",
+    "current_email": "Mevcut E-posta",
+    "enter_current_email": "Mevcut ve yeni e-postanızı girin.",
+    "new_email": "Yeni E-posta",
+    "check_your_mail": "E-postanızı kontrol edin",
+    "check_mail_for_verify_account": "E-posta adresinize bir doğrulama kodu gönderdik. Hesabınızı doğrulamak için aşağıya girin.",
+    "check_mail_for_reset_pass": "E-posta adresinize bir doğrulama kodu gönderdik. Şifrenizi sıfırlamak için aşağıya girin.",
+    "enter_verification_code": "Doğrulama kodunu girin",
+    "go_back_login": "Girişe dön",
+    "not_recd_mail": "E-posta almadınız mı? Spam klasörünü kontrol edin veya",
+    "try_other_email": "Başka bir e-posta deneyin",
+    "resend_code": "Kodu tekrar gönder",
+    "verify_mail": "E-postayı doğrula",
+    "click_link_to_verify_mail": "Yeni e-postanızı doğrulamak için bağlantıya tıklayın",
+    "skip_confirm_later": "Atla, sonra onaylayacağım",
+    "email_updated": "E-posta Güncellendi"
+  },
+  "landing": {
+    "welcome_to": "Hoş Geldiniz",
+    "immigration": "Göçmenlik desteği artık kolay",
+    "create_account": "Hesap Oluştur",
+    "log_in": "Giriş Yap",
+    "or": "veya",
+    "create_pro": "Profesyonel Hesap Oluştur",
+    "select_pro": "Profesyonel Hesap Seç",
+    "lawyer": "Avukat",
+    "law_firm": "Hukuk Bürosu",
+    "hr_legal": "İK/Hukuk (KOBİ)",
+    "a2j_partners": "A2J Ortakları",
+    "screen_not_exist": "Bu ekran mevcut değil.",
+    "go_to_home_screen": "Ana ekrana dön!"
+  },
+  "login": {
+    "password": "Şifre",
+    "login": "Giriş Yap",
+    "remember_me": "Beni Hatırla",
+    "forgot_password": "Şifremi Unuttum",
+    "need_account": "Hesabınız yok mu?",
+    "signup": "Kaydol"
+  },
+  "reset_password": "Şifreyi Sıfırla",
+  "create_new_password": "Yeni Şifre Oluştur",
+  "create_account": {
+    "first_name": "Ad",
+    "last_name": "Soyad",
+    "date_of_birth": "Doğum Tarihi",
+    "country": "Ülke",
+    "select_country": "Ülke Seç",
+    "next": "İleri",
+    "create_account": "Hesap Oluştur",
+    "date_of_incorporate": "Kuruluş Tarihi",
+    "create_pro_account": "Profesyonel Hesap Oluştur",
+    "hr_legal_account": "İK/Hukuk Hesabı",
+    "lawyer_account": "Avukat Hesabı",
+    "law_firm_account": "Hukuk Bürosu Hesabı",
+    "a2j_partners_account": "A2J Ortak Hesabı",
+    "firm_name": "Firma Adı",
+    "organisation_name": "Kurum Adı",
+    "date_of_establishment": "Kuruluş Tarihi",
+    "areasOfLegalFocus": "Hukuki Odak Alanları",
+    "selectAreasOfLegalFocus": "Hukuki Odak Alanlarını Seç",
+    "contactPerson": "İlgili Kişi",
+    "registrationCharityNumber": "Kayıt/Yardım Kuruluşu Numarası",
+    "searchAddress": "Adres Ara",
+    "town": "İlçe",
+    "postcode": "Posta Kodu",
+    "address": "Adres",
+    "please_select": "Lütfen Seçin:",
+    "legalAidOrganisation": "Hukuki Yardım Kuruluşu",
+    "lawCentre": "Hukuk Merkezi",
+    "proBonoClinic": "Ücretsiz Hukuk Kliniği",
+    "profile_photo": "Profil Fotoğrafı",
+    "profile_photo_required": "Profesyonel Hesap için profil fotoğrafı gereklidir",
+    "upload": "Yükle",
+    "please_agree_text": "Lütfen şartlarımızı kabul edin",
+    "signup_agreement_text": "Kaydolarak şunları kabul etmiş olursunuz:",
+    "terms_of_service": "Hizmet Şartları",
+    "and_text": "ve",
+    "agree_proceed_button": "Kabul Et ve Devam Et",
+    "select_practice_area": "Uygulama Alanı Seç",
+    "already_have_account": "Zaten bir hesabınız var mı?",
+    "account_creat_success": "Hesap Başarıyla Oluşturuldu!",
+    "access_detail_msg_legal_assistance": "Artık kişiselleştirilmiş hukuki yardıma erişebilir ve ihtiyaçlarınızı kolayca yönetebilirsiniz.",
+    "select_practice_areas": "Uygulama Alanlarını Seçin",
+    "contact_person_partner": "İlgili Kişi/Yönetici Ortak",
+    "company_regi_number": "Şirket Kayıt Numarası",
+    "enter_sra_number": "SRA numarasını girin",
+    "enter_bar_number": "BAR numarasını girin",
+    "enter_iaa_number": "IAA numarasını girin",
+    "verify_document": "Kimlik belgesini doğrulayın",
+    "reverify_document": "Belgeyi yeniden doğrulayın"
+  },
+  "validation": {
+    "missing_info": "Eksik Bilgi",
+    "enter_your_name": "Lütfen Adınızı Girin",
+    "enter_your_email": "Lütfen E-posta Adresinizi Girin",
+    "enter_your_phone": "Lütfen Telefon Numaranızı Girin",
+    "enter_feedback": "Lütfen Geri Bildiriminizi Girin",
+    "valid_first_name": "Ad en az 2 karakter uzunluğunda olmalıdır.",
+    "valid_last_name": "Soyad en az 2 karakter uzunluğunda olmalıdır.",
+    "select_dob": "Lütfen doğum tarihinizi seçin.",
+    "select_country": "Lütfen bir ülke seçin.",
+    "enter_city": "Şehir alanı boş bırakılamaz.",
+    "enter_postcode": "Posta kodu boş bırakılamaz.",
+    "enter_address": "Adres alanı boş bırakılamaz.",
+    "valid_user_name": "Kullanıcı adı en az 3 karakter uzunluğunda olmalıdır.",
+    "valid_email": "Geçerli bir e-posta adresi girin.",
+    "valid_password": "Şifre en az 8 karakter uzunluğunda ve en az bir sayı içermelidir.",
+    "valid_organisation": "Kurum adı en az 2 karakter uzunluğunda olmalıdır.",
+    "valid_town": "İlçe alanı boş bırakılamaz.",
+    "enter_date_of_incorporate": "Lütfen kuruluş tarihini seçin.",
+    "enter_confirm_password": "Lütfen onay şifrenizi girin",
+    "valid_confirm_password": "Onay şifresi en az 8 karakter uzunluğunda olmalı ve en az bir sayı içermelidir.",
+    "password_not_match": "Şifreler eşleşmiyor.",
+    "enter_first_name": "Lütfen adınızı girin",
+    "enter_last_name": "Lütfen soyadınızı girin",
+    "document_expired": "Belgenizin süresi dolmuş. Lütfen geçerli bir belge yükleyin.",
+    "document_invalid": "Belge doğrulaması başarısız oldu. Lütfen tekrar deneyin."
+  },
+  "account": {
+    "practice_areas": "Uygulama Alanları",
+    "services": "Hizmetler",
+    "details": "Detaylar",
+    "licence": "Lisans",
+    "org_type": "Kurum Türü",
+    "go_back_home": "Ana Sayfaya Dön"
+  },
+  "chat": {
+    "get_started": "Başla",
+    "new_chat": "Yeni Sohbet",
+    "previous_chat": "Önceki Sohbetler",
+    "title": "Sohbet",
+    "waiting": "Bekleniyor...",
+    "help": "Yardım",
+    "end_chat": "Sohbeti sonlandır",
+    "chat_place_holder": "LawNeeds'e bir mesaj gönderin",
+    "uploading_file": "{{count}} ek dosya yükleniyor: {{names}}",
+    "files_uploaded_success": "{{count}} ek dosya başarıyla yüklendi.",
+    "uploading_voice_note": "Ses notu yükleniyor...",
+    "voice_note_uploaded_success": "Ses notu başarıyla yüklendi",
+    "open_pdf": "PDF aç",
+    "sample_questions_title": "Örnek Sorular",
+    "you_selected": "Seçtiniz: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Merhaba "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "ben "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "destek "
+      },
+      {
+        "type": "token",
+        "content": "asistanıyım"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Yalnızca "
+      },
+      {
+        "type": "token",
+        "content": "bilgi "
+      },
+      {
+        "type": "token",
+        "content": "sağlarım"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "profesyonel "
+      },
+      {
+        "type": "token",
+        "content": "tavsiye "
+      },
+      {
+        "type": "token",
+        "content": "vermem"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Bugün "
+      },
+      {
+        "type": "token",
+        "content": "size "
+      },
+      {
+        "type": "token",
+        "content": "nasıl "
+      },
+      {
+        "type": "token",
+        "content": "yardımcı "
+      },
+      {
+        "type": "token",
+        "content": "olabilirim"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Sohbet yüklenemedi. Lütfen tekrar deneyin.",
+    "voice_note_ready": "Ses notu hazır",
+    "tap_to_record": "Kaydı başlatmak için 🔴 dokunun",
+    "preview_files": "Dosyaları önizle",
+    "file_selected": "Dosya seçildi",
+    "files_selected": "Dosyalar seçildi",
+    "upload_files": "Yükle",
+    "tap_to_preview": "Önizlemek için dokunun",
+    "add": "Ekle",
+    "today": "Bugün",
+    "last_week": "Geçen hafta",
+    "last_month": "Geçen ay"
+  },
+  "setting": {
+    "select_language": "Dil Seç",
+    "settings": "Ayarlar",
+    "app_language": "Uygulama Dili",
+    "choose_language": "Dil Seçin",
+    "notifications": "Bildirimler",
+    "submit_feedback": "Yardım",
+    "about": "Hakkında",
+    "our_philosophy": "Felsefemiz",
+    "account_management": "Hesap Yönetimi",
+    "logout": "Çıkış Yap"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Vizyonumuz",
+    "our_vision_desc": "LawNeeds olarak, özellikle göç desteği olmak üzere güvenilir hukuki yardımın herkes için, her zaman ve her yerde erişilebilir olması gerektiğine inanıyoruz. Akıllı telefonların günlük yaşamın merkezinde olduğu günümüzde, Birleşik Krallık'ta hayatınızı güvenilir ve kolay bir şekilde sürdürmeniz için buradayız.",
+    "our_services_header": "Hizmetlerimiz",
+    "our_services_desc": "Mobil uygulamamız; düzenlemelere tabi hukuk büroları, lisanslı avukatlar ve göç danışmanları ile uzmanlaşmış hukuk hizmetleri sunar ve Göç Hukukuna özel bir odaklanma sağlar. Bireylerin, ailelerin, öğrencilerin ve profesyonellerin Birleşik Krallık'taki yaşamlarına yön vermelerine yardımcı oluyoruz. Büyüdükçe, kullanıcılar İş Hukuku, Aile Hukuku ve Trafik Suçları gibi diğer alanlardaki uzmanlıklara da erişim sağlayacaklar – hepsi aynı sorunsuz deneyimle.",
+    "innovation_header": "En İyisiyle İnovasyon",
+    "innovation_desc": "LawNeeds’te yenilik, yaptığımız her şeyi yönlendirir. Yapay zekânın gücünden yararlanarak, anında ve 7/24 erişilebilir yapay zekâ tarafından oluşturulan hukuki rehberlik ve her kullanıcının konumu ile durumuna dayalı kişiselleştirilmiş göçmenlik önerileri sunuyoruz.",
+    "community_header": "Topluluk ve Büyüme",
+    "community_desc": "LawNeeds bir uygulamadan fazlasıdır — bir topluluktur. Göçmenleri güçlendiriyor ve hukuk profesyonellerini yenilikçi platformumuz ve kaynaklarımız aracılığıyla uygulamalarını büyütmeleri için destekliyoruz.",
+    "commitment_header": "Mükemmelliğe Bağlılık",
+    "commitment_desc": "LawNeeds, yapay zekâ teknolojisini insan denetimiyle birleştirir. Platformumuz, Birleşik Krallık'a özgü özel hukuki veri kümeleriyle eğitilmiştir, şirket içi avukatlar tarafından incelenmiştir ve doğrulanmış hukuki kaynaklarla sürekli güncellenmektedir. Böylece her adımda güvenilir ve uyumlu rehberlik sağlanır.",
+    "join_us_header": "Bize Katılın",
+    "join_us_desc": "Büyümeye devam ederken, ister hukuki yardım arıyor olun ister hukuki uygulamanızı genişletmek istiyor olun, sizi bu yolculuğa katılmaya davet ediyoruz. LawNeeds'te başarınız bizim misyonumuzdur."
+  },
+  "support": {
+    "support_desc": "Düşüncelerinizi, sorunlarınızı veya önerilerinizi aşağıda paylaşarak LawNeeds'i geliştirmemize yardımcı olun",
+    "feedback_success": "Geri Bildiriminiz Başarıyla Gönderildi",
+    "name": "Ad",
+    "comment": "Yorum",
+    "address": "Kayıtlı Adres: 71–75 Shelton Street, Covent Garden, Londra, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Göç Hukuku"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "İş Hukuku"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Trafik Suçları"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Aile Hukuku"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Hukuki Araştırma"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Hukuki Yazım"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Vaka Analizi"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Sözleşme Hazırlama"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Müzakere"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Müşteri Danışmanlığı"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Mahkeme Savunması"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Arabuluculuk"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Tahkim"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Durum Tespiti"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Uyum İncelemesi"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Risk Değerlendirmesi"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Hukuki Strateji"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Çapraz Sorgu"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Hukuki Rapor Yazımı"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Beyan Alma"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Delil Tespiti"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Anlaşma Müzakeresi"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Düzenleyici Analiz"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Uluslararası Hukuk"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Fikri Mülkiyet"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Birleşme ve Satın Almalar"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Kurumsal Yönetim"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "İş İlişkileri"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Göç Prosedürleri"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Göç Hukuku"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Aile Hukuku"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "İş Hukuku"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Ceza Hukuku"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Şirketler Hukuku"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Emlak Hukuku"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Kişisel Zararlar"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Fikri Mülkiyet"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Vergi Hukuku"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Sözleşme Hukuku"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Dava Takibi"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Arabuluculuk"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Tahkim"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Hukuki Danışmanlık"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Belge İncelemesi"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Hukuki Araştırma"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Uyum"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Birleşme ve Satın Almalar"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Banka ve Finans"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Sigorta Hukuku"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Çevre Hukuku"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "İnsan Hakları Hukuku"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Uluslararası Hukuk"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "İdare Hukuku"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Anayasa Hukuku"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Tek Seferlik Danışmanlık"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Sürekli Destek"
+    },
+    {
+      "key": "casework",
+      "label": "Vaka Çalışması"
+    },
+    {
+      "key": "not_sure",
+      "label": "Henüz Emin Değilim"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Rutin (5‑7 gün)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Öncelikli (2‑3 gün)"
+    },
+    {
+      "key": "urgent",
+      "label": "Acil (aynı gün veya ertesi gün)"
+    }
+  ],
+  "search": {
+    "professionals": "Profesyoneller",
+    "city": "Şehir",
+    "distance": "Mesafe",
+    "top_rated": "En yüksek puanlı",
+    "more": "daha fazla",
+    "request": "Talep Et",
+    "request_service": "Hizmet Talep Et",
+    "service": "Hizmet",
+    "select_service": "Hizmet Seç",
+    "urgency": "Acil Durum",
+    "select": "Seç",
+    "additional_notes": "Ek Notlar",
+    "service_request_success": "Hizmet talebiniz başarıyla gönderildi",
+    "issue_type": "Sorun Türü",
+    "budget": "Bütçe",
+    "select_consultation": "Danışmanlık Seç",
+    "consultation": "Danışmanlık",
+    "time_n_rate": "Süre ve ücret"
+  },
+  "reset_password_info": "Hesabınıza bağlı e-postayı girin, yeni bir şifre oluşturmak için talimatları size gönderelim",
+  "tap_to_upload_image": "Görsel yüklemek için dokunun",
+  "record": "Kaydet",
+  "media": "Medya",
+  "attach": "Ekle",
+  "sort_by": "Sırala",
+  "apply": "Uygula",
+  "select_date": "Tarih Seç",
+  "day": "Gün",
+  "month": "Ay",
+  "year": "Yıl",
+  "present": "Şu An",
+  "sector": "Sektör",
+  "hr": "İK",
+  "legal": "Hukuk",
+  "both": "Her İkisi",
+  "identity_card": "Kimlik Kartı",
+  "passport": "Pasaport",
+  "drivers_license": "Sürücü Belgesi",
+  "law_centre": "Hukuk Merkezi",
+  "legal_aid_organisation": "Hukuki Yardım Kuruluşu",
+  "beta": "Beta",
+  "logged_in": "Giriş Yapıldı",
+  "select_reason": "Sebep Seçin",
+  "select_area_of_legal_expertise": "Hukuki uzmanlık alanı seçin",
+  "confirm_password": "Şifreyi onaylayın",
+  "enter_new_password_below": "Yeni şifrenizi aşağıya girin",
+  "select_a_country": "Bir ülke seçin",
+  "open_email_app": "E-posta uygulamasını aç",
+  "request_details": "Talep detayları",
+  "accept": "Kabul et",
+  "reject": "Reddet",
+  "request_reject_message": "Hizmet talebi başarıyla reddedildi",
+  "document_view": "Belge görünümü",
+  "loading_document": "Belge yükleniyor",
+  "service_issue_type": "Hizmet sorunu türünü seçin",
+  "select_consultation_type": "Danışma türünü seçin",
+  "urgency_level": "Aciliyet seviyesini seçin",
+  "budget_input": "Bütçeyi girin",
+  "attachments": "Ekler",
+  "user_label": "Sen",
+  "timestamp": "Şimdi",
+  "voice_note": "Sesli not",
+  "comment_placeholder": "Yorum yaz...",
+  "messages": "Mesajlar",
+  "edit": "Düzenle",
+  "copy": "Kopyala",
+  "select_consultation_time": "Danışma zamanını seçin",
+  "request_cancel_success": "Hizmet talebi başarıyla iptal edildi",
+  "accept_request_message": "Bu talebi kabul etmek istediğinizden emin misiniz?",
+  "reject_request_message": "Bu talebi reddetmek istediğinizden emin misiniz?",
+  "delete_request_message": "Bu isteği gerçekten silmek istiyor musunuz?",
+  "withdraw_request_message": "Bu isteği gerçekten geri çekmek istiyor musunuz?",
+  "yes": "Evet",
+  "no": "Hayır",
+  "accepted": "Kabul edildi",
+  "cancelled": "İptal edildi",
+  "pending": "Beklemede",
+  "consultation_time": "Danışma süresi",
+  "consultation_type": "Danışma türü",
+  "recommended_professionals": "Önerilen uzmanlar:",
+  "continue": "Devam et",
+  "image": "Resim",
+  "delete_account": "Hesabı sil",
+  "delete": "Sil",
+  "delete_confirmation_message": "Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+  "delete_account_error_message": "Hesabınızı silerken bir hata oluştu.",
+  "place_holder_additional_notes": "Hukuki konunuzla ilgili ek detayları yazın...",
+  "upload_options": "Yükleme seçenekleri:",
+  "select_option": "Lütfen bir seçenek seçin:",
+  "skip": "Atla",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Göç hukuku"
+    },
+    {
+      "key": "employment",
+      "label": "İş hukuku"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Trafik suçları"
+    },
+    {
+      "key": "family",
+      "label": "Aile hukuku"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Acil"
+    },
+    {
+      "key": "within_week",
+      "label": "Bir hafta içinde"
+    },
+    {
+      "key": "within_month",
+      "label": "Bir ay içinde"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Acil değil"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Sorun türünü seçin"
+    },
+    {
+      "key": "urgency",
+      "name": "Aciliyet seçin"
+    },
+    {
+      "key": "consultation",
+      "name": "Danışmanlık seçin"
+    },
+    {
+      "key": "select_time",
+      "name": "Zaman ve ücret seçin"
+    },
+    {
+      "key": "select-budget",
+      "name": "Bütçe seçin"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 dakika (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 dakika (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 dakika (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 dakika (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 saat (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 gün (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 gün (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "£700 üzeri"
+    }
+  ],
+  "sample_questions": [
+    "Bir hukuk uzmanı talep et",
+    "Skilled Worker vizesi için uygun muyum?",
+    "Öğrenci vizemi nasıl uzatabilirim?",
+    "Süresiz oturum izni kuralları nelerdir?",
+    "Birleşik Krallık'ta nasıl sığınma başvurusu yapabilirim?",
+    "Vize kararı ne kadar sürer?"
+  ],
+  "rate_of_hour": "Saatlik ücret",
+  "search_country": "Ülke ara",
+  "review_error": "Yorum boş olamaz.",
+  "rating_validation": "Lütfen 1 ile 5 yıldız arasında bir değerlendirme seçin.",
+  "create_account_with": "Şununla hesap oluştur",
+  "login_with": "Şununla giriş yap",
+  "create_account_email_password": "E-posta/Şifre",
+  "sign_in_with_apple": "Apple ile giriş yap",
+  "sign_in_with_google": "Google ile giriş yap",
+  "no_cases_available": "Mevcut dava yok",
+  "no_active_cases_available": "Aktif dava yok",
+  "no_pending_cases_available": "Bekleyen dava yok",
+  "back": "Geri",
+  "submit_review": "Yorumu gönder",
+  "delete_review": "Yorumu sil",
+  "member_since": "Üyelik tarihi",
+  "work_experience": "İş deneyimi",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Uzmanlık",
+  "professional_details": "Profesyonel detaylar",
+  "review_professional": "Uzmanı değerlendir",
+  "no_reviews": "Henüz yorum yok. İlk siz olun!",
+  "reviews": "Yorumlar",
+  "thanks_feedback": "Geri bildiriminiz için teşekkür ederiz!",
+  "accept_case_notification_header": "Avukat talebinizi kabul etti! 🎉",
+  "accept_case_notification_message_part": " davanızı kabul etti ve size yardımcı olmaya hazır.",
+  "reject_case_notification_header": "Yönlendirme güncellemesi",
+  "reject_case_notification_message_part": " şu anda davanızı alamıyor.",
+  "delete_case_notification_header": "Talep silindi",
+  "withdraw_case_notification_header": "Talep geri çekildi",
+  "delete_case_notification_message_part": " talebini sildi.",
+  "withdraw_case_notification_message_part": " talebini geri çekti.",
+  "manuscript": "El yazması",
+  "share_dialog_title": "El yazmasını paylaş veya indir",
+  "certifications": "Sertifikalar",
+  "queries_left": "Kalan AI sorguları",
+  "voice_notes_limit": "Ses",
+  "uploads_limit": "Yüklemeler",
+  "docgen_limit": "Belge oluşturma",
+  "current_plan": "Mevcut plan",
+  "faqs": "SSS",
+  "wallet": "Cüzdan",
+  "subscription": {
+    "plans_pricing_title": "Planlar ve Fiyatlandırma",
+    "plans_pricing_subtitle": "Daha fazla dakika ve premium özelliklerin kilidini açın",
+    "syncing_account": "Hesap senkronize ediliyor...",
+    "processing_purchase": "Satın alma işleniyor...",
+    "plan_unavailable_title": "Plan mevcut değil",
+    "plan_unavailable_message": "Bu planı mağazada bulamadık.",
+    "purchase_error_title": "Satın alma hatası",
+    "purchase_error_message": "Beklenmeyen bir hata oluştu.",
+    "upgrade_plans": "Planları yükselt",
+    "plan_unlimited": "Sınırsız",
+    "plan_premium": "Premium",
+    "plan_standard": "Standart",
+    "plan_free_label": "Her zaman ücretsiz",
+    "billing_annually": "Yıllık",
+    "feature_voice_notes": "Sesli notlar",
+    "feature_uploads": "Yüklemeler",
+    "feature_shared_pool": "Ses, Yüklemeler ve Belgeler için ortak havuz",
+    "feature_free_consultation": "dk Ücretsiz Danışmanlık",
+    "feature_priority_support": "Öncelikli insan desteği dahil",
+    "feature_ai_queries": "AI metin sorguları",
+    "feature_limited": "Sınırlı",
+    "feature_standard_limits": "Standart limitler geçerlidir",
+    "feature_query_reset": "Sorgu limitleri 12am'de sıfırlanır",
+    "feature_rollover": "Devretme izinli",
+    "feature_images_max": "Maks. görseller",
+    "feature_document_max": "Maks. belgeler",
+    "feature_mb": "MB",
+    "feature_pages": "sayfa",
+    "label_default_plan": "Varsayılan plan",
+    "cta_subscribe_now": "Şimdi abone ol",
+    "wallet_loading": "Cüzdan yükleniyor...",
+    "wallet_title": "Cüzdan",
+    "wallet_balance": "Kullanılabilir bakiye",
+    "unit_minute": "Dakika",
+    "wallet_top_up": "Bakiye yükle",
+    "wallet_transactions": "Son işlemler",
+    "transaction_plan_purchase": "Plan satın alma",
+    "transaction_legal_query": "Hukuki sorgu",
+    "transaction_document_process": "Belge işleme",
+    "reference_label": "Referans",
+    "plan_free": "Ücretsiz",
+    "unit_min": "dk"
+  },
+  "user_name": "Kullanıcı Adı",
+  "email": "E-posta",
+  "phone_number": "Telefon Numarası",
+  "urgent": "Acil",
+  "contact_support": "Destek ile iletişime geç",
+  "minutes": "Dakikalar",
+  "freemium": {
+    "modal": {
+      "title": "Sorgu limiti aşıldı",
+      "timer_label": "Tekrar dene",
+      "timer_format": "{{minutes}} dk {{seconds}} sn",
+      "upgrade_cta": "Planı yükselt",
+      "loading_text": "Sorgularınız açılıyor…",
+      "watch_ad_cta": "📺 Reklam izle (+{{count}} Sorgu)",
+      "limit_note": "Freemium limiti: {{count}} sorgu / {{hours}} saat",
+      "description": "Son {{hours}} saat içinde {{count}} ücretsiz sorgunun tamamını kullandınız.",
+      "buy_pass": "{{price}} bugün sınırsız sorgu"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} PLAN",
+      "queries_left": "{{remaining}} / {{total}} kalan sorgu",
+      "daily_pass_active": "✨ Günlük geçiş aktif",
+      "upgrade_cta": "Yükselt",
+      "usage_labels": {
+        "voice_notes": "Sesli notlar",
+        "uploads": "Yüklemeler",
+        "docs": "Belgeler"
+      },
+      "daily_pass": {
+        "title": "🚀 Bugün sınırsızı aç",
+        "description": "{{price}} günlük geçiş ile gece yarısına kadar sınırsız AI sorguları alın.",
+        "cta": "Günlük geçiş al – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Limit aşıldı",
+      "upgrade_cta": "Devam etmek için planınızı yükseltin",
+      "wait_info": "Ya da bekleyip şu süre sonra tekrar deneyin: {{time}}",
+      "body_message": "Ücretsiz limitinize ulaştınız. Devam etmek için yükseltin veya bekleyin."
+    }
+  },
+  "plan_card": {
+    "plan_label": "Plan",
+    "billing": {
+      "per_period": "{{period}} başına",
+      "always_free": "Her zaman ücretsiz",
+      "discount_badge": "İLK AY %{{discount}} İNDİRİM",
+      "per_mins": "{{minutes}} dk"
+    },
+    "toggle": {
+      "annual": "Yıllık",
+      "monthly": "Aylık",
+      "weekly": "Haftalık",
+      "daily": "Günlük"
+    },
+    "features": {
+      "voice_notes": "Sesli notlar",
+      "uploads": "Yüklemeler",
+      "docs": "AI belge oluşturma",
+      "minutes": "Dakikalar",
+      "ai_queries": "AI metin sorguları",
+      "rollover": "Devretme izinli",
+      "shared_pool": "• Ses, Yüklemeler ve Belgeler için ortak havuz",
+      "free_consultation": "• {{minutes}} dk ücretsiz danışmanlık dahil",
+      "priority_support": "• Öncelikli insan desteği dahil",
+      "file_caps_title": "Dosya boyutu ve sayfa sınırları",
+      "image_max": "Maks. görseller",
+      "doc_max": "Maks. belgeler"
+    },
+    "limits": {
+      "unlimited": "Sınırsız",
+      "limited": "Sınırlı",
+      "none": "Yok",
+      "yes": "Evet"
+    },
+    "notes": {
+      "standard_limits": "Standart limitler geçerlidir",
+      "reset_time": "Sorgu limitleri 12am'de sıfırlanır"
+    },
+    "cta": {
+      "default_plan": "Varsayılan plan",
+      "current_plan": "Mevcut plan",
+      "subscribe": "Şimdi abone ol"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Aylık limit aşıldı",
+      "title_paid": "Dakikalarınız tükendi",
+      "description_freemium": "Sesli notlar, dosya yükleme ve belge oluşturma için tüm 6 ücretsiz aylık kredinizi kullandınız.",
+      "description_paid": "Bu işlemi tamamlamak için yeterli dakikanız yok. Daha fazla için bakiye yükleyin veya yükseltin.",
+      "upgrade_premium": "Premium'a yükselt",
+      "topup_cta": "Dakika yükle",
+      "view_usage": "Kredi kullanımını görüntüle"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Dakika yükle",
+      "subtitle": "Devam etmek için ekstra dakika satın alın.",
+      "alerts": {
+        "low_minutes": "Dakikalarınızın %{{percentage}} kadarını kullandınız. Şimdi yükleyin!",
+        "limit_reached": "Aylık yükleme limiti aşıldı ({{used}}/{{limit}})",
+        "limit_popup_title": "Yükleme limiti aşıldı",
+        "limit_popup_message": "Aylık yükleme limitini aştınız."
+      },
+      "slider": {
+        "label": "Satın alınacak dakikalar",
+        "minutes_value": "{{minutes}} dakika",
+        "min": "{{min}} dk",
+        "max": "{{max}} dk"
+      }
+    }
+  },
+  "show_less": "Daha az göster",
+  "show_more": "Daha fazla göster",
+  "updating_balance": "Bakiye güncelleniyor...",
+  "usage_limits": "Kullanım limitleri",
+  "voice_notes": "Sesli notlar",
+  "uploads": "Yüklemeler",
+  "usage_history": "Kullanım geçmişi",
+  "manage_plan": "Planı yönet",
+  "cancel_subscription": "Aboneliği iptal et",
+  "explore_premium_plans": "Premium planları keşfet",
+  "used": "Kullanılan",
+  "total": "Toplam",
+  "unlimited": "Sınırsız",
+  "manage_subscription_title": "Aboneliği yönet",
+  "manage_subscription_desc": "Mağazaya yönlendirileceksiniz.",
+  "stay_with_us": "Bizimle kalın",
+  "open_store_error": "Bağlantı açılamadı.",
+  "subscription_fetch_error": "Abonelik alınamadı.",
+  "unit_min": "dk",
+  "no_transaction_yet": "Henüz işlem yok!",
+  "feedback_hint_message": "Kendi deneyiminizin detaylarını paylaşın",
+  "withdraw": "Geri çek",
+  "issue_summary": "Sorun özeti",
+  "disclaimer": "Sorumluluk reddi",
+  "disclaimer_message": "LawNeeds AI Support Assistant yalnızca bilgilendirme amaçlı rehberlik sağlar.",
+  "disclaimer_button": "Kabul ediyorum",
+  "filter": {
+    "title": "Filtre",
+    "sortBy": "Göre sırala",
+    "commonServices": "Yaygın hizmetler",
+    "practiceAreas": "Uygulama alanları",
+    "professionalTypes": "Profesyonel türleri",
+    "sortOptions": {
+      "alphabetical": "Alfabetik",
+      "relevance": "Alaka",
+      "experience": "Deneyim"
+    }
+  },
+  "common": {
+    "upgrade_now": "Şimdi yükselt",
+    "close": "Kapat",
+    "maybe_later": "Belki sonra",
+    "not_now": "Şimdi değil",
+    "pay": "Öde {{currency}}{{amount}}",
+    "total_cost": "Toplam maliyet:",
+    "usage_limit_reached": "Kullanım limiti aşıldı",
+    "apply": "Uygula",
+    "cancel": "İptal",
+    "error": "Hata",
+    "success": "Başarılı",
+    "processing": "İşleniyor...",
+    "something_wrong": "Bir şeyler yanlış gitti",
+    "no_data_available": "Veri yok"
+  },
+  "daily_pass_success": "Plan başarıyla satın alındı!",
+  "daily_pass_not_found": "Günlük geçiş bulunamadı.",
+  "purchase_failed": "Satın alma başarısız oldu",
+  "expires": "Bitiş: {{expiryDate}}",
+  "active": "Aktif",
+  "pricing": {
+    "confirm_price": "Özel Fiyat",
+    "propose_price": "Fiyat Öner",
+    "enter_amount": "Tutar girin",
+    "invalid_amount": "Geçerli bir tutar girin",
+    "amount_range": "Tutar ₹{{min}} - ₹{{max}} arasında olmalıdır",
+    "range": "Min: ₹{{min}} | Maks: ₹{{max}}",
+    "price_confirmed": "Fiyat onaylandı",
+    "price_proposed": "Fiyat önerildi",
+    "confirm_price_btn": "Onayla",
+    "submit_price_btn": "Gönder",
+    "load_failed": "Fiyatlandırma yüklenemedi",
+    "title": "Fiyatlandırma",
+    "not_proposed_message": "Fiyat henüz belirlenmedi. Devam etmek için lütfen fiyatı belirleyin."
+  },
+  "payment": {
+    "header_title": "Ödeme",
+    "total_amount": "Toplam Tutar",
+    "platform_fee": "Platform Ücreti",
+    "lawyer_receives": "Avukatın Alacağı",
+    "pay_button": "Öde £ {{amount}}",
+    "preparing_payment": "Güvenli ödeme hazırlanıyor...",
+    "alerts": {
+      "error_title": "Hata",
+      "init_failed": "Ödeme başlatılamadı",
+      "unable_to_load": "Ödeme yüklenemedi",
+      "payment_failed_title": "Ödeme Başarısız",
+      "generic_error": "Bir şeyler yanlış gitti",
+      "success_title": "Başarılı",
+      "success_message": "Ödeme başarıyla tamamlandı!"
+    },
+    "notification_title": "Ödeme Alındı",
+    "notification_message": "ödemeyi tamamladı. Danışmaya başlayabilirsiniz."
+  },
+  "consultation": {
+    "ended_title": "Danışma sona erdi",
+    "ended_message": "Süre doldu",
+    "pending": "Beklemede",
+    "active": "Devam ediyor",
+    "completed": "Tamamlandı"
+  },
+  "file": {
+    "uploading_image": "Görüntü yükleniyor...",
+    "uploading_video": "Video yükleniyor...",
+    "uploading_file": "Dosya yükleniyor...",
+    "upload_failed": "Yükleme başarısız",
+    "upload_failed_message": "Dosya gönderilemedi.",
+    "open_pdf": "PDF aç",
+    "open_doc": "DOC aç",
+    "open_file": "Dosya aç"
+  },
+  "notification": {
+    "lawyer_message": "Avukat mesajı",
+    "new_message": "Yeni mesaj"
+  },
+  "live": "Canlı",
+  "stripe_connected": "Stripe bağlandı",
+  "connect_with_stripe": "Stripe ile bağlan",
+  "payments": "Ödemeler",
+  "beta_instructions": "Beta talimatları",
+  "status": {
+    "title": "Durum",
+    "paid": "Ödendi",
+    "unpaid": "Ödenmedi"
+  },
+  "stripe_not_onboarded_title": "Ödeme kurulumu tamamlanmadı",
+  "stripe_not_onboarded_message": "Danışmanlık taleplerini kabul etmek için lütfen Ayarlar sekmesinden Stripe ödeme kurulumunuzu tamamlayın.",
+  "case_folder": "Dosya klasörü",
+  "case_helped": "Yardım edilen vakalar",
+  "satisfied": "Memnun",
+  "rejected": "Reddedildi",
+  "withdrawn": "Geri çekildi",
+  "deleted": "Silindi",
+  "consultation_history": "Danışma Geçmişi",
+  "pay": "Öde",
+  "start_consultation": "Danışmayı Başlat",
+  "waiting_for_session": "Oturum bekleniyor",
+  "waiting_for_payment": "Ödeme bekleniyor",
+  "activity": "Etkinlik",
+  "one_minute_warning_title": "⏰ 1 dakika kaldı",
+  "one_minute_warning_body": "Danışma oturumunuz 1 dakika içinde sona erecek.",
+  "default_notification_title": "Bildirim",
+  "no_notifications": "Henüz bildirim yok",
+  "i_agree": "Kabul ediyorum",
+  "terms_and_conditions": "Şartlar ve koşullar",
+  "terms_condition_2": "2. LawNeeds hukuki yardım sağlar ancak profesyonel hukuki temsilin yerini almaz.",
+  "terms_condition_1": "1. Bu uygulamayı kullanarak bu şartları kabul etmiş olursunuz ve en az 18 yaşında olmanız gerekir.",
+  "i_dont_agree": "Katılmıyorum",
+  "terms_condition_3": "3. LawNeeds AI destek asistanı bilgilendirici hukuki rehberlik sağlar. Bu hukuki tavsiye teşkil etmez.",
+  "terms_condition_4": "4. Doğru ve gerçek bilgileri sağlamak sizin sorumluluğunuzdadır.",
+  "terms_condition_5": "5. Bilgileriniz gizlidir ancak hesap bilgilerinizi gizli tutmalısınız.",
+  "welcome_to_lawneeds": "LawNeeds'e hoş geldiniz!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Nitelikli İşçi Vizesi",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Öğrenci Vizesi",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Ziyaret Vizesi",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Soy Vizesi",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Eş / Partner Vizesi",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "PBS Bağımlıları",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Aile Birleşimi",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (10 yıllık rota)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Vatandaşlığa kabul",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "AB Yerleşim Planı",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), İnsan Hakları Başvuruları",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Sığınma Başvuruları (Tam Destek)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Tam Dava Yönetimi (Uçtan Uca)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Hızlı",
+  "basic": "Temel",
+  "verified": "Belge doğrulandı",
+  "verification_failed": "Doğrulama başarısız oldu",
+  "verification_cancelled": "Doğrulama iptal edildi",
+  "delete_review_confirm": "Bu yorumu silmek istediğinizden emin misiniz?",
+  "casework_service": "Dosya takip hizmeti",
+  "casework_price_range": "Dosya takip fiyat aralığı",
+  "tour_previous_chat_title": "Önceki sohbet",
+  "tour_previous_chat_desc": "Önceki konuşmalarınızı burada görüntüleyin.",
+  "tour_new_chat_title": "Yeni sohbet",
+  "tour_new_chat_desc": "Yeni bir hukuki talep başlatmak için buraya dokunun.",
+  "tour_notifications_title": "Bildirimler",
+  "tour_notifications_desc": "Önemli güncellemeleri ve uyarıları burada görün.",
+  "tour_inbox_title": "Gelen kutusu",
+  "tour_inbox_desc": "Mesajlarınızı ve dosya yanıtlarını burada yönetin.",
+  "tour_language_title": "Dil",
+  "tour_language_desc": "Tercih ettiğiniz uygulama dilini burada seçin.",
+  "tour_chat_history_title": "Sohbet geçmişi",
+  "tour_chat_history_desc": "Önceki konuşmalarınızı görüntüleyin ve devam edin.",
+  "tour_current_plan_title": "Mevcut plan",
+  "tour_current_plan_desc": "Mevcut abonelik ayrıntılarınızı burada görüntüleyin.",
+  "tour_usage_history_title": "Kullanım geçmişi",
+  "tour_usage_history_desc": "Kaç dakika ve özellik kullandığınızı takip edin.",
+  "tour_request_legal_help_title": "Hukuki yardım isteyin",
+  "tour_request_legal_help_desc": "Uzmanlarla bağlantı kurmak için yeni bir talep başlatın.",
+  "tour_wallet_title": "Cüzdan",
+  "tour_wallet_desc": "Cüzdan bakiyenizi ve işlemlerinizi görüntüleyin.",
+  "tour_top_up_title": "Bakiye yükle",
+  "tour_top_up_desc": "Yapay zeka özellikleri, yüklemeler ve danışmalar için daha fazla dakika almak üzere bakiye ekleyin.",
+  "tour_search_desc": "Belirli bir profesyoneli aramak için bir isim yazın.",
+  "tour_explore_subscribe_plans": "Planınızı incelemek ve yükseltmek için buraya dokunun.",
+  "tour_explore_upgrade_plans": "Premium özelliklerin kilidini açmak için planınızı yükseltin.",
+  "tour_lawyer_stripe_connected": "Stripe hesabınız bağlı ve ödeme almaya hazır.",
+  "tour_lawyer_stripe_not_connected": "Müşterilerden ödeme almaya başlamak için Stripe’ı bağlayın.",
+  "profile_completion": {
+    "title": "Profilinizi tamamlayın",
+    "description": "Devam etmeden önce lütfen bilgilerinizi doğrulayın.",
+    "first_name": "Ad *",
+    "last_name": "Soyad *",
+    "saving": "Kaydediliyor...",
+    "save_continue": "Kaydet ve devam et",
+    "update_profile_failed": "Profil güncellenemedi"
+  },
+  "auth": {
+    "session_expired": "Giriş oturumunuzun süresi doldu. Lütfen tekrar deneyin.",
+    "login_failed": "Giriş yapılamadı. Lütfen tekrar deneyin.",
+    "google_login_failed": "Google ile giriş başarısız oldu. Lütfen tekrar deneyin.",
+    "apple_login_failed": "Apple ile giriş başarısız oldu. Lütfen tekrar deneyin.",
+    "authorization_failed": "Kimlik doğrulama hizmetine bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
+    "invalid_redirect": "Giriş sırasında bir sorun oluştu. Lütfen tekrar deneyin.",
+    "cancelled_login": "Giriş iptal edildi.",
+    "invalid_response": "Girişinizi tamamlayamadık. Lütfen tekrar deneyin."
+  },
+  "tour_service_request_title": "Talep",
+  "tour_service_request_desc": "Hukuki bir uzmana doğrudan hizmet talebi gönderin. Formu doldurun, gerekirse notlar veya belgeler ekleyin ve uzman müsait olduğunda bilgilendirilecektir.",
+  "tour_request_form_title": "Talep Formu",
+  "tour_request_form_desc": "Hukuki konunuz, danışmanlık gereksinimleriniz ve aciliyet hakkında bilgi verin. Uzmanın durumunuzu anlamasına yardımcı olmak için belge yükleyebilir veya ses notu ekleyebilirsiniz.",
+  "no_data": "Veri yok",
+  "duplicate_file_attached": "\"{{filename}}\" zaten eklendi.",
+  "duplicate_file_attached_as": "\"{{filename}}\" zaten \"{{existingLabel}}\" olarak eklendi.",
+  "consultation_consent_prefix": "Tıklayarak",
+  "consultation_consent_middle": ", danışmanlığınız 14 gün içinde sunulursa, cayma hakkınızın artık geçerli olmayacağını kabul etmiş olursunuz. Yine de danışmanlığı politikamıza göre iptal edebilir veya yeniden planlayabilirsiniz",
+  "cancellation_policy": "İptal politikası",
+  "home_actions": {
+    "ask_ai": "LawNeeds AI'ya Sor",
+    "ask_ai_description": "LawNeeds AI sohbet botundan rehberlik alın.",
+    "find_professional": "Bir uzman bul",
+    "find_professional_description": "Size yardımcı olabilecek bir hukuk uzmanı arayın.",
+    "book_consultation": "Danışmanlık randevusu al",
+    "book_consultation_description": "Bir danışmanlık ayarlamak için yönlendirme sürecini başlatın."
+  }
+}

@@ -1,0 +1,1452 @@
+{
+  "submit": "Enviar",
+  "cancel": "Cancelar",
+  "done": "Hecho",
+  "ok": "De acuerdo",
+  "next": "Siguiente",
+  "save": "Ahorrar",
+  "privacy_policy": "Política de Privacidad",
+  "terms_n_conditions": "Términos y Condiciones",
+  "per": {
+    "camera_roll": "¡Se requiere permiso para acceder al carrete de la cámara! Por favor, actívalo en la configuración de tu dispositivo.",
+    "microphone_access": "Se requiere acceso al micrófono.",
+    "permission_denied": "Permiso denegado",
+    "notification_permission_not_granted": "No se concedió permiso para las notificaciones"
+  },
+  "policy_text": {
+    "i_agree": "Estoy de acuerdo",
+    "i_dont_agree": "No estoy de acuerdo",
+    "label_1": "1. Información que recopilamos: Podemos recopilar información de identificación personal (nombre, correo electrónico, teléfono, dirección), datos técnicos (IP, tipo de navegador, sistema operativo), datos de uso y preferencias de marketing.",
+    "label_2": "2. Cómo recopilamos su información: A través de interacciones directas, tecnologías automatizadas y terceros.",
+    "label_3": "3. Uso de la información: Para proporcionar y mantener nuestro servicio, administrar su cuenta, cumplir con las obligaciones legales y mejorar nuestra oferta.",
+    "label_4": "4. Divulgación de información: A proveedores de servicios, autoridades legales y gubernamentales, y en relación con transferencias comerciales.",
+    "label_5": "5. Seguridad y retención de datos: Implementamos medidas de seguridad y conservamos sus datos solo el tiempo necesario.",
+    "label_6": "6. Sus derechos legales: Tiene derecho a acceder, corregir y eliminar Restringir, transferir y retirar el consentimiento para el uso de sus datos.",
+    "label_7": "7. Categoría especial: Doy mi consentimiento explícito para el tratamiento de cualquier dato de categoría especial que proporcione, incluida la información relativa a mi origen étnico y otros datos personales sensibles, con el fin de responder a mi consulta. Puedo retirar mi consentimiento en cualquier momento enviando un correo electrónico a info@lawneeds.co.uk.",
+    "policy_details": "Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y protegemos su información cuando visita nuestra aplicación móvil. Al utilizar nuestro servicio, usted acepta los términos de esta Política de Privacidad.",
+    "review_message": "Por favor revise nuestra",
+    "privacy_policy": "Política de privacidad"
+  },
+  "tab": {
+    "account": "Cuenta",
+    "chat": "Charlar",
+    "home": "Inicio",
+    "settings": "Ajustes",
+    "inbox": "Buzón",
+    "search": "Buscar"
+  },
+  "profile": {
+    "firm_name": "Nombre de la firma",
+    "practice_areas_label": "Áreas de práctica",
+    "services": "Servicios",
+    "first_name": "Nombre",
+    "last_name": "Apellidos",
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "organisation_name": "Nombre de la organización",
+    "areas_of_legal_focus": "Áreas de especialización legal",
+    "professional_employer": "Empleador profesional",
+    "area_of_legal_expertise": "Área de especialización legal",
+    "max_of_four": "Máximo de cuatro",
+    "max_of_two": "Máximo de dos",
+    "characters": "personajes",
+    "please_select": "Por favor, seleccione",
+    "account_security": "Seguridad de la cuenta",
+    "details": "Detalles",
+    "edit_details": "Editar detalles",
+    "no_name": "Sin nombre",
+    "profile_updated_success": "Perfil actualizado con éxito",
+    "company_name": "Nombre de la empresa",
+    "enter_your_company_name": "Ingrese el nombre de su empresa",
+    "achievements": "Logros",
+    "enter_your_achievements": "Ingrese sus logros",
+    "timeline": "Cronología",
+    "start_date": "Fecha de inicio",
+    "end_date": "Fecha de finalización",
+    "add_another_section": "Añadir otra sección",
+    "add_section": "Añadir sección"
+  },
+  "success": {
+    "success": "Éxito",
+    "success_sent_code": "Código de verificación enviado con éxito."
+  },
+  "error": {
+    "title": "Error",
+    "error_msg": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "session_expired": "Sesión expirada",
+    "login_again": "Por favor, inicia sesión de nuevo para continuar.",
+    "token_missing": "Falta el token de autenticación.",
+    "error_process_audio": "Ocurrió un error al procesar el audio.",
+    "error_process_file": "Ocurrió un error al subir el archivo.",
+    "try_again": "Lo sentimos, ocurrió un error. Por favor, inténtalo de nuevo.",
+    "no_use_session": "No se encontró sesión de usuario. Por favor, inicia sesión nuevamente.",
+    "invalid_response_token_not_found": "Respuesta inválida: Token no encontrado",
+    "fill_all_fields": "Por favor, completa todos los campos",
+    "network_error": "Error de red. Por favor, comprueba tu conexión a Internet.",
+    "session_expired_login": "Tu sesión ha expirado. Por favor, inicia sesión de nuevo.",
+    "no_permission": "No tienes permiso para realizar esta acción.",
+    "resource_not_found": "No se encontró el recurso solicitado.",
+    "invalid_data": "Se proporcionaron datos no válidos. Por favor, comprueba e inténtalo de nuevo.",
+    "server_error": "Error del servidor. Por favor, inténtalo más tarde.",
+    "something_went_wrong": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "case_not_found": "Caso no encontrado",
+    "failed_to_process_request": "No se pudo procesar la solicitud de servicio"
+  },
+  "change_email": {
+    "send_instruction": "Enviar instrucciones",
+    "go_back": "Volver",
+    "create_new_pass": "Crear nueva contraseña",
+    "current_email": "Correo actual",
+    "enter_current_email": "Introduce el correo actual y el nuevo al que deseas cambiar.",
+    "new_email": "Nuevo correo",
+    "check_your_mail": "Revisa tu correo",
+    "check_mail_for_verify_account": "Hemos enviado un código de verificación a tu correo. Ingrésalo a continuación para verificar tu cuenta.",
+    "check_mail_for_reset_pass": "Hemos enviado un código de verificación a tu correo. Ingrésalo a continuación para restablecer tu contraseña.",
+    "enter_verification_code": "Ingresa el código de verificación",
+    "go_back_login": "Volver al inicio de sesión",
+    "not_recd_mail": "¿No recibiste el correo? Revisa el correo no deseado o",
+    "try_other_email": "Prueba con otro correo",
+    "resend_code": "Reenviar código",
+    "verify_mail": "Verifica tu correo",
+    "click_link_to_verify_mail": "Haz clic en el enlace para verificar tu nuevo correo",
+    "skip_confirm_later": "Omitir, lo confirmaré más tarde",
+    "email_updated": "Correo actualizado"
+  },
+  "landing": {
+    "welcome_to": "Bienvenido a",
+    "immigration": "Apoyo migratorio fácil",
+    "create_account": "Áreas de enfoque legal",
+    "log_in": "Iniciar sesión",
+    "or": "o",
+    "create_pro": "Crear cuenta Pro",
+    "select_pro": "Seleccionar cuenta Pro",
+    "lawyer": "Abogado",
+    "law_firm": "Bufete de abogados",
+    "hr_legal": "RR. HH./Abogado (PYME)",
+    "a2j_partners": "Socios de A2J",
+    "screen_not_exist": "Esta pantalla no existe.",
+    "go_to_home_screen": "Ir a la pantalla de inicio"
+  },
+  "login": {
+    "password": "Contraseña",
+    "login": "Iniciar sesión",
+    "remember_me": "Recuérdame",
+    "forgot_password": "¿Olvidó su contraseña?",
+    "need_account": "¿Necesita una cuenta?",
+    "signup": "Registrarse"
+  },
+  "reset_password": "Restablecer contraseña",
+  "create_new_password": "Crear nueva contraseña",
+  "create_account": {
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "date_of_birth": "Fecha de nacimiento",
+    "country": "País",
+    "select_country": "Seleccionar país",
+    "next": "Siguiente",
+    "create_account": "Crear cuenta",
+    "date_of_incorporate": "Fecha de constitución",
+    "create_pro_account": "Crear cuenta Pro",
+    "hr_legal_account": "Cuenta de RR. HH./Abogado",
+    "lawyer_account": "Cuenta de abogado",
+    "law_firm_account": "Cuenta de bufete de abogados",
+    "a2j_partners_account": "Cuenta de A2J Partners",
+    "firm_name": "Nombre de la empresa",
+    "organisation_name": "Nombre de la organización",
+    "date_of_establishment": "Fecha de constitución",
+    "areasOfLegalFocus": "Domaines d'intervention juridique",
+    "selectAreasOfLegalFocus": "Sélectionner les domaines d'intervention juridique",
+    "contactPerson": "Personne à contacter",
+    "registrationCharityNumber": "Numéro d'enregistrement/d'organisme de bienfaisance",
+    "searchAddress": "Rechercher une adresse",
+    "town": "Ville",
+    "postcode": "Code postal",
+    "address": "Adresse",
+    "please_select": "Veuillez sélectionner:",
+    "legalAidOrganisation": "Organisation d'aide juridique",
+    "lawCentre": "Centre juridique",
+    "proBonoClinic": "Clinique bénévole",
+    "profile_photo": "Foto de perfil",
+    "profile_photo_required": "Se requiere una foto de perfil para una cuenta Pro",
+    "upload": "Subir",
+    "please_agree_text": "Acepta nuestros términos",
+    "signup_agreement_text": "Al registrarte, aceptas nuestros",
+    "terms_of_service": "Términos de servicio",
+    "and_text": "y",
+    "agree_proceed_button": "Aceptar y continuar",
+    "select_practice_area": "Seleccionar área de práctica",
+    "already_have_account": "¿Ya tienes una cuenta?",
+    "account_creat_success": "¡Cuenta creada con éxito!",
+    "access_detail_msg_legal_assistance": "Ahora puedes acceder a asistencia legal personalizada y gestionar tus necesidades sin problemas.",
+    "select_practice_areas": "Selecciona áreas de práctica",
+    "contact_person_partner": "Persona de contacto/Socio administrador",
+    "company_regi_number": "Número de registro de la empresa",
+    "enter_sra_number": "Introduce el número SRA",
+    "enter_bar_number": "Introduce el número del colegio de abogados (BAR)",
+    "enter_iaa_number": "Introduce el número IAA",
+    "verify_document": "Verificar documento de identidad",
+    "reverify_document": "Volver a verificar el documento"
+  },
+  "validation": {
+    "missing_info": "Información faltante",
+    "enter_your_name": "Ingrese su nombre",
+    "enter_your_email": "Ingrese su correo electrónico",
+    "enter_your_phone": "Ingrese su número de teléfono",
+    "enter_feedback": "Envíe su comentario",
+    "valid_first_name": "El nombre debe tener al menos 2 caracteres.",
+    "valid_last_name": "El apellido debe tener al menos 2 caracteres.",
+    "select_dob": "Seleccione una fecha de nacimiento.",
+    "select_country": "Seleccione un país.",
+    "enter_city": "El campo de ciudad no puede estar vacío.",
+    "enter_postcode": "El campo de código postal no puede estar vacío.",
+    "enter_address": "El campo de dirección no puede estar vacío.",
+    "valid_user_name": "El nombre de usuario debe tener al menos 3 caracteres.",
+    "valid_email": "Ingrese una dirección de correo electrónico válida.",
+    "valid_password": "La contraseña debe tener al menos 8 caracteres y contener al menos un número.",
+    "valid_organisation": "El nombre de la organización debe tener al menos 2 caracteres.",
+    "valid_town": "El campo de la ciudad no puede estar vacío.",
+    "enter_date_of_incorporate": "Por favor, selecciona una fecha de constitución.",
+    "enter_confirm_password": "Por favor ingrese su contraseña de confirmación",
+    "valid_confirm_password": "La contraseña de confirmación debe tener al menos 8 caracteres y contener al menos un número.",
+    "password_not_match": "Las contraseñas no coinciden.",
+    "enter_first_name": "Por favor ingrese su nombre",
+    "enter_last_name": "Por favor ingrese su apellido",
+    "document_expired": "Su documento ha caducado. Cargue un documento válido.",
+    "document_invalid": "La verificación del documento falló. Inténtelo de nuevo."
+  },
+  "account": {
+    "practice_areas": "Áreas de práctica",
+    "services": "Servicios",
+    "details": "Detalles",
+    "licence": "Licencia",
+    "org_type": "Type d'organisation",
+    "go_back_home": "Retour à l'accueil"
+  },
+  "chat": {
+    "get_started": "Comenzar",
+    "new_chat": "Nuevo chat",
+    "previous_chat": "Chat anterior",
+    "title": "Charlar",
+    "waiting": "Esperando...",
+    "help": "Ayuda",
+    "end_chat": "Finalizar chat",
+    "chat_place_holder": "Mensaje LawNeeds",
+    "uploading_file": "Subiendo {{count}} archivo(s): {{names}}",
+    "files_uploaded_success": "Se subieron correctamente {{count}} archivo(s).",
+    "uploading_voice_note": "Subiendo nota de voz...",
+    "voice_note_uploaded_success": "La nota de voz se subió correctamente",
+    "open_pdf": "Abrir PDF",
+    "sample_questions_title": "Preguntas de ejemplo",
+    "you_selected": "Seleccionaste: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Hola "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "soy "
+      },
+      {
+        "type": "token",
+        "content": "el "
+      },
+      {
+        "type": "token",
+        "content": "asistente "
+      },
+      {
+        "type": "token",
+        "content": "de "
+      },
+      {
+        "type": "token",
+        "content": "soporte "
+      },
+      {
+        "type": "token",
+        "content": "de "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Solo "
+      },
+      {
+        "type": "token",
+        "content": "proporciono "
+      },
+      {
+        "type": "token",
+        "content": "información"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "no "
+      },
+      {
+        "type": "token",
+        "content": "asesoramiento "
+      },
+      {
+        "type": "token",
+        "content": "profesional"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "¿Cómo "
+      },
+      {
+        "type": "token",
+        "content": "puedo "
+      },
+      {
+        "type": "token",
+        "content": "ayudarle "
+      },
+      {
+        "type": "token",
+        "content": "hoy"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "No se pudo cargar la conversación. Por favor, inténtalo de nuevo.",
+    "voice_note_ready": "Nota de voz lista",
+    "tap_to_record": "Toca 🔴 para empezar a grabar",
+    "preview_files": "Vista previa de archivos",
+    "file_selected": "Archivo seleccionado",
+    "files_selected": "Archivos seleccionados",
+    "upload_files": "Subir",
+    "tap_to_preview": "Toca para previsualizar",
+    "add": "Agregar",
+    "today": "Hoy",
+    "last_week": "La semana pasada",
+    "last_month": "El mes pasado"
+  },
+  "setting": {
+    "select_language": "Seleccionar idioma",
+    "settings": "Configuración",
+    "app_language": "Idioma de la aplicación",
+    "choose_language": "Seleccionar idioma",
+    "notifications": "Notificaciones",
+    "submit_feedback": "Ayuda",
+    "about": "Acerca de",
+    "our_philosophy": "Nuestra filosofía",
+    "account_management": "Administración de cuentas",
+    "logout": "Cerrar sesión"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Nuestra Visión",
+    "our_vision_desc": "En LawNeeds, creemos que la ayuda legal confiable, especialmente el apoyo en inmigración, debe ser accesible para todos, en cualquier momento y en cualquier lugar. Con los teléfonos inteligentes como parte fundamental de la vida diaria, estamos aquí para ayudar a las personas a desenvolverse en el Reino Unido mediante una asistencia legal sencilla y confiable.",
+    "our_services_header": "Nuestros Servicios",
+    "our_services_desc": "Nuestra aplicación móvil, que incluye exclusivamente bufetes de abogados regulados, abogados colegiados y asesores de inmigración, ofrece servicios legales especializados con un fuerte enfoque en el Derecho de Inmigración. Apoyamos a personas, familias, estudiantes y profesionales en su vida en el Reino Unido. A medida que crecemos, los usuarios también accederán a experiencia en Derecho Laboral, Derecho de Familia e Infracciones de Tráfico, todo ello con la misma experiencia fluida y sin complicaciones en tan solo unos clics.",
+    "innovation_header": "Innovación en su Máxima Expresión",
+    "innovation_desc": "En LawNeeds, la innovación impulsa todo lo que hacemos. Aprovechamos el poder de la IA para ofrecer orientación legal inmediata, disponible las 24 horas, generada por IA, y recomendaciones de inmigración personalizadas basadas en la ubicación y situación de cada usuario.",
+    "community_header": "Comunidad y Crecimiento",
+    "community_desc": "LawNeeds es más que una aplicación: es una comunidad. Empoderamos a los migrantes y equipamos a los profesionales del derecho para que desarrollen su práctica a través de nuestra plataforma y funciones innovadoras",
+    "commitment_header": "Compromiso con la Excelencia",
+    "commitment_desc": "LawNeeds combina la tecnología de IA con la supervisión legal humana. Nuestra plataforma está basada en un conjunto de datos legales propios del Reino Unido, revisada por abogados internos, junto con nuestro sistema de verificación, y se actualiza continuamente con los cambios regulatorios y fuentes legales verificadas, lo que garantiza una orientación confiable y conforme a la normativa en cada paso del proceso",
+    "join_us_header": "Únete a nosotros",
+    "join_us_desc": "A medida que seguimos creciendo, te invitamos a unirte a nuestro camino, ya sea que busques ayuda legal o expandas tu práctica legal. En LawNeeds, tu éxito es nuestra misión"
+  },
+  "support": {
+    "support_desc": "Ayúdenos a mejorar LawNeeds compartiendo sus opiniones, problemas o sugerencias a continuación",
+    "feedback_success": "Comentarios enviados correctamente",
+    "name": "Nombre",
+    "comment": "Comentario",
+    "address": "Domicilio social: 71–75 Shelton Street, Covent Garden, Londres, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Derecho de inmigración"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Derecho laboral"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Infracciones de tráfico"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Derecho de familia"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Investigación Jurídica"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Redacción Jurídica"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Análisis de Casos"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Redacción de Contratos"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Negociación"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Asesoría al Cliente"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Abogacía Judicial"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Mediación"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Arbitraje"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Due Diligence"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Revisión de Cumplimiento"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Evaluación de Riesgos"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Estrategia Jurídica"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Contrainterrogatorio"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Redacción de Informes"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Declaración Jurídica"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Descubrimiento de Pruebas"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Negociación de Acuerdos"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Análisis Regulatorio"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Derecho Internacional"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Propiedad Intelectual"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Fusiones y Adquisiciones"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Gobierno Corporativo"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Relaciones Laborales"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Trámites de Inmigración"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Derecho de Inmigración"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Derecho de Familia"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Derecho Laboral"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Derecho Penal"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Derecho Societario"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Derecho Inmobiliario"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Lesiones Personales"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Propiedad Intelectual"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Derecho Tributario"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Derecho Contractual"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Litigios"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Mediación"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Arbitraje"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Consultoría Legal"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Revisión Documental"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Investigación Legal"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Cumplimiento Normativo"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Fusiones y Adquisiciones"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Banca y Finanzas"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Derecho de Seguros"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Derecho Ambiental"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Derecho de Derechos Humanos"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Derecho Internacional"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Derecho Administrativo"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Derecho Constitucional"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Consulta única"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Apoyo continuo"
+    },
+    {
+      "key": "casework",
+      "label": "Trabajo de caso"
+    },
+    {
+      "key": "not_sure",
+      "label": "Aún no estoy seguro"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Rutina (5 a 7 días)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Prioridad (2 a 3 días)"
+    },
+    {
+      "key": "urgent",
+      "label": "Urgente (mismo día o al día siguiente)"
+    }
+  ],
+  "search": {
+    "professionals": "Profesionales",
+    "city": "Ciudad",
+    "distance": "Distancia",
+    "top_rated": "Mejor valorados",
+    "more": "más",
+    "request": "Solicitud",
+    "request_service": "Solicitar servicio",
+    "service": "Servicio",
+    "select_service": "Seleccionar servicio",
+    "urgency": "Urgencia",
+    "select": "Seleccionar",
+    "additional_notes": "Notas adicionales",
+    "service_request_success": "Su solicitud de servicio se envió con éxito",
+    "issue_type": "Tipo de problema",
+    "budget": "Presupuesto",
+    "select_consultation": "Seleccionar consulta",
+    "consultation": "Consulta",
+    "time_n_rate": "Tiempo y tarifa"
+  },
+  "reset_password_info": "Introduzca el correo electrónico asociado a su cuenta y le enviaremos un correo con instrucciones para establecer una nueva contraseña",
+  "tap_to_upload_image": "Toque para subir una imagen",
+  "record": "Grabar",
+  "media": "Medios",
+  "attach": "Adjuntar",
+  "sort_by": "Ordenar por",
+  "apply": "Aplicar",
+  "select_date": "Seleccionar fecha",
+  "day": "Día",
+  "month": "Mes",
+  "year": "Año",
+  "present": "Presente",
+  "sector": "Sector",
+  "hr": "HORA",
+  "legal": "Legal",
+  "both": "Ambos",
+  "identity_card": "Documento de identidad",
+  "passport": "Pasaporte",
+  "drivers_license": "Licencia de conducir",
+  "law_centre": "Centro legal",
+  "legal_aid_organisation": "Organización de asistencia legal",
+  "beta": "Beta",
+  "logged_in": "Conectado",
+  "select_reason": "Seleccionar motivo",
+  "select_area_of_legal_expertise": "Selecciona área de experiencia legal",
+  "confirm_password": "Confirmar contraseña",
+  "enter_new_password_below": "Introduce tu nueva contraseña abajo",
+  "select_a_country": "Selecciona un país",
+  "open_email_app": "Abrir app de correo",
+  "request_details": "Detalles de la solicitud",
+  "accept": "Aceptar",
+  "reject": "Rechazar",
+  "request_reject_message": "Solicitud de servicio rechazada con éxito",
+  "document_view": "Vista del documento",
+  "loading_document": "Cargando documento",
+  "service_issue_type": "Selecciona tipo de incidencia de servicio",
+  "select_consultation_type": "Selecciona tipo de consulta",
+  "urgency_level": "Selecciona nivel de urgencia",
+  "budget_input": "Introduce presupuesto",
+  "attachments": "Archivos adjuntos",
+  "user_label": "Tú",
+  "timestamp": "Justo ahora",
+  "voice_note": "Nota de voz",
+  "comment_placeholder": "Escribe un comentario...",
+  "messages": "Mensajes",
+  "edit": "Editar",
+  "copy": "Copiar",
+  "select_consultation_time": "Seleccionar tiempo de consulta",
+  "request_cancel_success": "Solicitud de servicio cancelada con éxito",
+  "accept_request_message": "¿Está seguro de que desea aceptar esta solicitud?",
+  "reject_request_message": "¿Está seguro de que desea rechazar esta solicitud?",
+  "delete_request_message": "¿Realmente desea eliminar esta solicitud?",
+  "withdraw_request_message": "¿Realmente desea retirar esta solicitud?",
+  "yes": "Sí",
+  "no": "No",
+  "accepted": "Aceptado",
+  "cancelled": "Cancelado",
+  "pending": "Pendiente",
+  "consultation_time": "Tiempo de consulta",
+  "consultation_type": "Tipo de consulta",
+  "recommended_professionals": "Profesionales recomendados:",
+  "continue": "Continuar",
+  "image": "Imagen",
+  "delete_account": "Eliminar cuenta",
+  "delete": "Eliminar",
+  "delete_confirmation_message": "¿Está seguro de que desea eliminar su cuenta? Esta acción no se puede deshacer.",
+  "delete_account_error_message": "Algo salió mal al eliminar su cuenta.",
+  "place_holder_additional_notes": "Escriba detalles adicionales sobre su asunto legal...",
+  "upload_options": "Opciones de carga:",
+  "select_option": "Por favor seleccione una opción:",
+  "skip": "Omitir",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Derecho de inmigración"
+    },
+    {
+      "key": "employment",
+      "label": "Derecho laboral"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Infracciones de tráfico"
+    },
+    {
+      "key": "family",
+      "label": "Derecho de familia"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Urgente"
+    },
+    {
+      "key": "within_week",
+      "label": "Dentro de una semana"
+    },
+    {
+      "key": "within_month",
+      "label": "Dentro de un mes"
+    },
+    {
+      "key": "not_urgent",
+      "label": "No urgente"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Seleccionar tipo de problema"
+    },
+    {
+      "key": "urgency",
+      "name": "Seleccionar urgencia"
+    },
+    {
+      "key": "consultation",
+      "name": "Seleccionar consulta"
+    },
+    {
+      "key": "select_time",
+      "name": "Seleccionar tiempo y tarifa"
+    },
+    {
+      "key": "select-budget",
+      "name": "Seleccionar presupuesto"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 minutos (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 minutos (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 minutos (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 minutos (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 hora (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 días (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 días (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Más de £700"
+    }
+  ],
+  "sample_questions": [
+    "Solicitar un profesional legal",
+    "¿Soy elegible para una visa Skilled Worker?",
+    "¿Cómo puedo extender mi visa de estudiante?",
+    "¿Cuáles son las reglas para el permiso de residencia indefinido?",
+    "¿Cómo solicito asilo en el Reino Unido?",
+    "¿Cuánto tiempo tarda una decisión de visa?"
+  ],
+  "rate_of_hour": "Tarifa por hora",
+  "search_country": "Buscar país",
+  "review_error": "La reseña no puede estar vacía.",
+  "rating_validation": "Por favor selecciona una calificación entre 1 y 5 estrellas.",
+  "create_account_with": "Crear cuenta con",
+  "login_with": "Iniciar sesión con",
+  "create_account_email_password": "Correo electrónico/Contraseña",
+  "sign_in_with_apple": "Iniciar sesión con Apple",
+  "sign_in_with_google": "Iniciar sesión con Google",
+  "no_cases_available": "No hay casos disponibles",
+  "no_active_cases_available": "No hay casos activos disponibles",
+  "no_pending_cases_available": "No hay casos pendientes disponibles",
+  "back": "Atrás",
+  "submit_review": "Enviar reseña",
+  "delete_review": "Eliminar reseña",
+  "member_since": "Miembro desde",
+  "work_experience": "Experiencia laboral",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Experiencia",
+  "professional_details": "Detalles profesionales",
+  "review_professional": "Evaluar profesional",
+  "no_reviews": "Aún no hay reseñas. ¡Sé el primero!",
+  "reviews": "Reseñas",
+  "thanks_feedback": "¡Gracias por tu comentario!",
+  "accept_case_notification_header": "¡El abogado aceptó tu solicitud! 🎉",
+  "accept_case_notification_message_part": " ha aceptado tu caso y está listo para ayudarte.",
+  "reject_case_notification_header": "Actualización de referencia",
+  "reject_case_notification_message_part": " no puede aceptar tu caso en este momento.",
+  "delete_case_notification_header": "Solicitud eliminada",
+  "withdraw_case_notification_header": "Solicitud retirada",
+  "delete_case_notification_message_part": " ha eliminado su solicitud.",
+  "withdraw_case_notification_message_part": " ha retirado su solicitud.",
+  "manuscript": "Manuscrito",
+  "share_dialog_title": "Compartir o descargar manuscrito",
+  "certifications": "Certificaciones",
+  "queries_left": "Consultas de IA restantes",
+  "voice_notes_limit": "Voz",
+  "uploads_limit": "Subidas",
+  "docgen_limit": "Límite de generación de documentos",
+  "current_plan": "Plan actual",
+  "faqs": "Preguntas frecuentes",
+  "wallet": "Billetera",
+  "subscription": {
+    "plans_pricing_title": "Planes y Precios",
+    "plans_pricing_subtitle": "Desbloquea más minutos y funciones premium",
+    "syncing_account": "Sincronizando cuenta...",
+    "processing_purchase": "Procesando compra...",
+    "plan_unavailable_title": "Plan no disponible",
+    "plan_unavailable_message": "No pudimos encontrar este plan en la tienda.",
+    "purchase_error_title": "Error de compra",
+    "purchase_error_message": "Ocurrió un error inesperado.",
+    "upgrade_plans": "Actualizar planes",
+    "plan_unlimited": "Ilimitado",
+    "plan_premium": "Premium",
+    "plan_standard": "Estándar",
+    "plan_free_label": "Siempre gratis",
+    "billing_annually": "Anual",
+    "feature_voice_notes": "Notas de voz",
+    "feature_uploads": "Subidas",
+    "feature_shared_pool": "Grupo compartido para Voz, Subidas y Documentos",
+    "feature_free_consultation": "min de consulta gratuita",
+    "feature_priority_support": "Soporte humano prioritario incluido",
+    "feature_ai_queries": "Consultas de texto AI",
+    "feature_limited": "Limitado",
+    "feature_standard_limits": "Se aplican límites estándar",
+    "feature_query_reset": "El límite de consultas se reinicia a las 12am",
+    "feature_rollover": "Transferencia permitida",
+    "feature_images_max": "Imágenes máx",
+    "feature_document_max": "Documentos máx",
+    "feature_mb": "MB",
+    "feature_pages": "páginas",
+    "label_default_plan": "Plan predeterminado",
+    "cta_subscribe_now": "Suscribirse ahora",
+    "wallet_loading": "Cargando billetera...",
+    "wallet_title": "Billetera",
+    "wallet_balance": "Saldo disponible",
+    "unit_minute": "Minuto",
+    "wallet_top_up": "Recargar",
+    "wallet_transactions": "Transacciones recientes",
+    "transaction_plan_purchase": "Compra de plan",
+    "transaction_legal_query": "Consulta legal",
+    "transaction_document_process": "Procesamiento de documentos",
+    "reference_label": "Referencia",
+    "plan_free": "Gratis",
+    "unit_min": "min"
+  },
+  "user_name": "Nombre de usuario",
+  "email": "Correo electrónico",
+  "phone_number": "Número de teléfono",
+  "urgent": "Urgente",
+  "contact_support": "Contactar soporte",
+  "minutes": "Minutos",
+  "freemium": {
+    "modal": {
+      "title": "Límite de consultas alcanzado",
+      "timer_label": "Inténtalo de nuevo en",
+      "timer_format": "{{minutes}} min {{seconds}} s",
+      "upgrade_cta": "Actualizar plan",
+      "loading_text": "Desbloqueando tus consultas…",
+      "watch_ad_cta": "📺 Ver anuncio (+{{count}} consultas)",
+      "limit_note": "Límite freemium: {{count}} consultas / {{hours}} horas",
+      "description": "Has usado todas las {{count}} consultas gratuitas en las últimas {{hours}} horas.",
+      "buy_pass": "{{price}} consultas ilimitadas hoy"
+    },
+    "banner": {
+      "plan_label": "PLAN {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} consultas restantes",
+      "daily_pass_active": "✨ Pase diario activo",
+      "upgrade_cta": "Actualizar",
+      "usage_labels": {
+        "voice_notes": "Notas de voz",
+        "uploads": "Subidas",
+        "docs": "Documentos"
+      },
+      "daily_pass": {
+        "title": "🚀 Desbloquea ilimitado hoy",
+        "description": "Obtén consultas AI ilimitadas hasta la medianoche con un pase diario de {{price}}.",
+        "cta": "Obtener pase diario – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Límite alcanzado",
+      "upgrade_cta": "Actualiza tu plan para continuar",
+      "wait_info": "O espera y vuelve a intentarlo en: {{time}}",
+      "body_message": "Has alcanzado tu límite gratuito. Actualiza tu plan o espera para continuar."
+    }
+  },
+  "plan_card": {
+    "plan_label": "Plan",
+    "billing": {
+      "per_period": "por {{period}}",
+      "always_free": "Siempre gratis",
+      "discount_badge": "{{discount}}% DE DESCUENTO EL PRIMER MES",
+      "per_mins": "{{minutes}} min"
+    },
+    "toggle": {
+      "annual": "Anual",
+      "monthly": "Mensual",
+      "weekly": "Semanal",
+      "daily": "Diario"
+    },
+    "features": {
+      "voice_notes": "Notas de voz",
+      "uploads": "Subidas",
+      "docs": "Generación de documentos AI",
+      "minutes": "Minutos",
+      "ai_queries": "Consultas de texto AI",
+      "rollover": "Transferencia permitida",
+      "shared_pool": "• Grupo compartido para Voz, Subidas y Documentos",
+      "free_consultation": "• {{minutes}} min de consulta gratuita incluida",
+      "priority_support": "• Soporte humano prioritario incluido",
+      "file_caps_title": "Límites de tamaño de archivo y páginas",
+      "image_max": "Imágenes máx",
+      "doc_max": "Documentos máx"
+    },
+    "limits": {
+      "unlimited": "Ilimitado",
+      "limited": "Limitado",
+      "none": "Ninguno",
+      "yes": "Sí"
+    },
+    "notes": {
+      "standard_limits": "Se aplican límites estándar",
+      "reset_time": "El límite de consultas se reinicia a las 12am"
+    },
+    "cta": {
+      "default_plan": "Plan predeterminado",
+      "current_plan": "Plan actual",
+      "subscribe": "Suscribirse ahora"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Límite mensual alcanzado",
+      "title_paid": "Te has quedado sin minutos",
+      "description_freemium": "Has utilizado tus 6 créditos mensuales gratuitos para Notas de voz, Subidas de archivos y Generación de documentos.",
+      "description_paid": "No tienes suficientes minutos para completar esta acción. Recarga o actualiza para obtener más capacidad.",
+      "upgrade_premium": "Actualizar a Premium",
+      "topup_cta": "Recargar minutos",
+      "view_usage": "Ver desglose de uso de créditos"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Recargar minutos",
+      "subtitle": "Compra minutos adicionales para continuar.",
+      "alerts": {
+        "low_minutes": "Has usado el {{percentage}}% de tus minutos. ¡Recarga ahora!",
+        "limit_reached": "Límite mensual de recarga alcanzado ({{used}}/{{limit}})",
+        "limit_popup_title": "Límite de recarga alcanzado",
+        "limit_popup_message": "Has superado el límite mensual de recarga."
+      },
+      "slider": {
+        "label": "Minutos a comprar",
+        "minutes_value": "{{minutes}} minutos",
+        "min": "Mín: {{min}} min",
+        "max": "Máx: {{max}} min"
+      }
+    }
+  },
+  "show_less": "Mostrar menos",
+  "show_more": "Mostrar más",
+  "updating_balance": "Actualizando saldo...",
+  "usage_limits": "Límites de uso",
+  "voice_notes": "Notas de voz",
+  "uploads": "Subidas",
+  "usage_history": "Historial de uso",
+  "manage_plan": "Gestionar plan",
+  "cancel_subscription": "Cancelar suscripción",
+  "explore_premium_plans": "Explorar planes premium",
+  "used": "Usado",
+  "total": "Total",
+  "unlimited": "Ilimitado",
+  "manage_subscription_title": "Gestionar suscripción",
+  "manage_subscription_desc": "Serás redirigido a la tienda para gestionar tus ajustes.",
+  "stay_with_us": "Quédate con nosotros",
+  "open_store_error": "No se pudo abrir el enlace.",
+  "subscription_fetch_error": "Error al obtener suscripción.",
+  "unit_min": "min",
+  "no_transaction_yet": "¡Aún no hay transacciones!",
+  "feedback_hint_message": "Comparta los detalles de su experiencia",
+  "withdraw": "Retirar",
+  "issue_summary": "Resumen del problema",
+  "disclaimer": "Descargo de responsabilidad",
+  "disclaimer_message": "El asistente LawNeeds AI proporciona orientación solo con fines informativos.",
+  "disclaimer_button": "Acepto",
+  "filter": {
+    "title": "Filtro",
+    "sortBy": "Ordenar por",
+    "commonServices": "Servicios comunes",
+    "practiceAreas": "Áreas de práctica",
+    "professionalTypes": "Tipos de profesionales",
+    "sortOptions": {
+      "alphabetical": "Alfabético",
+      "relevance": "Relevancia",
+      "experience": "Experiencia"
+    }
+  },
+  "common": {
+    "upgrade_now": "Actualizar ahora",
+    "close": "Cerrar",
+    "maybe_later": "Quizás más tarde",
+    "not_now": "Ahora no",
+    "pay": "Pagar {{currency}}{{amount}}",
+    "total_cost": "Costo total:",
+    "usage_limit_reached": "Límite de uso alcanzado",
+    "apply": "Aplicar",
+    "cancel": "Cancelar",
+    "error": "Error",
+    "success": "Éxito",
+    "processing": "Procesando...",
+    "something_wrong": "Algo salió mal",
+    "no_data_available": "No hay datos disponibles"
+  },
+  "daily_pass_success": "¡Plan comprado con éxito!",
+  "daily_pass_not_found": "Pase diario no encontrado.",
+  "purchase_failed": "Compra fallida",
+  "expires": "Vence: {{expiryDate}}",
+  "active": "Activo",
+  "pricing": {
+    "confirm_price": "Precio personalizado",
+    "propose_price": "Proponer precio",
+    "enter_amount": "Introduce el importe",
+    "invalid_amount": "Introduce un importe válido",
+    "amount_range": "El importe debe estar entre ₹{{min}} - ₹{{max}}",
+    "range": "Mín: ₹{{min}} | Máx: ₹{{max}}",
+    "price_confirmed": "Precio confirmado",
+    "price_proposed": "Precio propuesto",
+    "confirm_price_btn": "Confirmar",
+    "submit_price_btn": "Enviar",
+    "load_failed": "No se pudo cargar el precio",
+    "title": "Precios",
+    "not_proposed_message": "Los precios aún no están configurados. Establece el precio para continuar."
+  },
+  "payment": {
+    "header_title": "Pago",
+    "total_amount": "Importe total",
+    "platform_fee": "Tarifa de la plataforma",
+    "lawyer_receives": "El abogado recibe",
+    "pay_button": "Pagar £ {{amount}}",
+    "preparing_payment": "Preparando pago seguro...",
+    "alerts": {
+      "error_title": "Error",
+      "init_failed": "La inicialización del pago falló",
+      "unable_to_load": "No se pudo cargar el pago",
+      "payment_failed_title": "Pago fallido",
+      "generic_error": "Algo salió mal",
+      "success_title": "Éxito",
+      "success_message": "¡Pago completado correctamente!"
+    },
+    "notification_title": "Pago recibido",
+    "notification_message": "ha completado el pago. Puedes iniciar la consulta."
+  },
+  "consultation": {
+    "ended_title": "Consulta finalizada",
+    "ended_message": "El tiempo se ha agotado",
+    "pending": "Pendiente",
+    "active": "En curso",
+    "completed": "Completado"
+  },
+  "file": {
+    "uploading_image": "Subiendo imagen...",
+    "uploading_video": "Subiendo video...",
+    "uploading_file": "Subiendo archivo...",
+    "upload_failed": "Error al subir",
+    "upload_failed_message": "No se pudo enviar el archivo.",
+    "open_pdf": "Abrir PDF",
+    "open_doc": "Abrir DOC",
+    "open_file": "Abrir archivo"
+  },
+  "notification": {
+    "lawyer_message": "Mensaje del abogado",
+    "new_message": "Nuevo mensaje"
+  },
+  "live": "En vivo",
+  "stripe_connected": "Stripe conectado",
+  "connect_with_stripe": "Conectar con Stripe",
+  "payments": "Pagos",
+  "beta_instructions": "Instrucciones de beta",
+  "status": {
+    "title": "Estado",
+    "paid": "Pagado",
+    "unpaid": "No pagado"
+  },
+  "stripe_not_onboarded_title": "Configuración de pago incompleta",
+  "stripe_not_onboarded_message": "Para aceptar solicitudes de consulta, completa la configuración de pago de Stripe desde la pestaña Ajustes.",
+  "case_folder": "Carpeta del caso",
+  "case_helped": "Casos atendidos",
+  "satisfied": "Satisfecho",
+  "rejected": "Rechazado",
+  "withdrawn": "Retirado",
+  "deleted": "Eliminado",
+  "consultation_history": "Historial de consultas",
+  "pay": "Pagar",
+  "start_consultation": "Iniciar consulta",
+  "waiting_for_session": "Esperando la sesión",
+  "waiting_for_payment": "Esperando el pago",
+  "activity": "Actividad",
+  "one_minute_warning_title": "⏰ Queda 1 minuto",
+  "one_minute_warning_body": "Tu sesión de consulta terminará en 1 minuto.",
+  "default_notification_title": "Notificación",
+  "no_notifications": "Aún no hay notificaciones",
+  "i_agree": "Estoy de acuerdo",
+  "i_dont_agree": "no estoy de acuerdo",
+  "terms_and_conditions": "Términos y condiciones",
+  "terms_condition_1": "1. Al utilizar esta aplicación, acepta estos términos y debe tener al menos 18 años.",
+  "terms_condition_2": "2. LawNeeds brinda asistencia legal pero no reemplaza la representación legal profesional.",
+  "terms_condition_3": "3. El asistente de soporte de LawNeeds AI brinda orientación legal informativa. Esto no constituye asesoramiento legal.",
+  "terms_condition_4": "4. Usted es responsable de proporcionar información precisa y veraz.",
+  "terms_condition_5": "5. Su información es privada, pero debe mantener en secreto las credenciales de su cuenta.",
+  "welcome_to_lawneeds": "¡Bienvenido a LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Visado de trabajador cualificado",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Visado de estudiante",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Visado de visita",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Visado por ascendencia",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Visado de cónyuge / pareja",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Dependientes de PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Reagrupación familiar",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (ruta de 10 años)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Naturalización",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Plan de Asentamiento de la UE",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), solicitudes de derechos humanos",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Solicitudes de asilo (apoyo completo)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Gestión integral del caso (de principio a fin)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Exprés",
+  "basic": "Básico",
+  "verified": "Documento verificado",
+  "verification_failed": "La verificación falló",
+  "verification_cancelled": "Verificación cancelada",
+  "delete_review_confirm": "¿Seguro que quieres eliminar esta reseña?",
+  "casework_service": "Servicio de gestión del caso",
+  "casework_price_range": "Rango de precio del caso",
+  "tour_previous_chat_title": "Chat anterior",
+  "tour_previous_chat_desc": "Consulta aquí tus conversaciones anteriores.",
+  "tour_new_chat_title": "Nuevo chat",
+  "tour_new_chat_desc": "Pulsa aquí para iniciar una nueva consulta legal.",
+  "tour_notifications_title": "Notificaciones",
+  "tour_notifications_desc": "Consulta aquí actualizaciones y alertas importantes.",
+  "tour_inbox_title": "Bandeja de entrada",
+  "tour_inbox_desc": "Gestiona aquí tus mensajes y respuestas de casos.",
+  "tour_language_title": "Idioma",
+  "tour_language_desc": "Elige aquí tu idioma preferido para la app.",
+  "tour_chat_history_title": "Historial de chat",
+  "tour_chat_history_desc": "Revisa y continúa tus conversaciones anteriores.",
+  "tour_current_plan_title": "Plan actual",
+  "tour_current_plan_desc": "Consulta aquí los detalles de tu suscripción actual.",
+  "tour_usage_history_title": "Historial de uso",
+  "tour_usage_history_desc": "Haz seguimiento de cuántos minutos y funciones has usado.",
+  "tour_request_legal_help_title": "Solicitar ayuda legal",
+  "tour_request_legal_help_desc": "Inicia una nueva solicitud para conectar con profesionales.",
+  "tour_wallet_title": "Billetera",
+  "tour_wallet_desc": "Consulta el saldo de tu billetera y tus transacciones.",
+  "tour_top_up_title": "Recargar",
+  "tour_top_up_desc": "Añade fondos para recibir más minutos para funciones de IA, cargas y consultas.",
+  "tour_search_desc": "Escribe un nombre para buscar a un profesional específico.",
+  "tour_explore_subscribe_plans": "Pulsa aquí para explorar y actualizar tu plan.",
+  "tour_explore_upgrade_plans": "Actualiza tu plan para desbloquear funciones premium.",
+  "tour_lawyer_stripe_connected": "Tu cuenta de Stripe está conectada y lista para recibir pagos.",
+  "tour_lawyer_stripe_not_connected": "Conecta Stripe para empezar a aceptar pagos de clientes.",
+  "profile_completion": {
+    "title": "Completa tu perfil",
+    "description": "Verifica tus datos antes de continuar.",
+    "first_name": "Nombre *",
+    "last_name": "Apellido *",
+    "saving": "Guardando...",
+    "save_continue": "Guardar y continuar",
+    "update_profile_failed": "No se pudo actualizar el perfil"
+  },
+  "auth": {
+    "session_expired": "Tu sesión ha expirado. Inténtalo de nuevo.",
+    "login_failed": "No pudimos iniciar tu sesión. Inténtalo de nuevo.",
+    "google_login_failed": "El inicio de sesión con Google no se realizó correctamente. Inténtalo de nuevo.",
+    "apple_login_failed": "El inicio de sesión con Apple no se realizó correctamente. Inténtalo de nuevo.",
+    "authorization_failed": "No se pudo conectar con el servicio de autenticación. Inténtalo más tarde.",
+    "invalid_redirect": "Algo salió mal al iniciar sesión. Inténtalo de nuevo.",
+    "cancelled_login": "Se canceló el inicio de sesión.",
+    "invalid_response": "No pudimos completar tu inicio de sesión. Inténtalo de nuevo."
+  },
+  "tour_service_request_title": "Solicitud",
+  "tour_service_request_desc": "Envía una solicitud de servicio directamente a un profesional legal. Completa el formulario, añade notas o documentos si es necesario, y se notificará al profesional cuando esté disponible.",
+  "tour_request_form_title": "Formulario de solicitud",
+  "tour_request_form_desc": "Proporciona información sobre tu asunto legal, los requisitos de la consulta y la urgencia. También puedes subir documentos o añadir notas de voz para ayudar al profesional a entender tu situación.",
+  "no_data": "Sin datos",
+  "duplicate_file_attached": "\"{{filename}}\" ya se adjuntó.",
+  "duplicate_file_attached_as": "\"{{filename}}\" ya se adjuntó como \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Al hacer clic en",
+  "consultation_consent_middle": ", reconoces que si tu consulta se presta dentro de 14 días, tu derecho legal de cancelación dejará de aplicarse. Aun así, puedes cancelar o reprogramar la consulta según nuestra",
+  "cancellation_policy": "Política de cancelación",
+  "home_actions": {
+    "ask_ai": "Preguntar a LawNeeds AI",
+    "ask_ai_description": "Obtén orientación del chatbot de IA de LawNeeds.",
+    "find_professional": "Buscar un profesional",
+    "find_professional_description": "Busca un profesional legal que pueda ayudarte.",
+    "book_consultation": "Reservar una consulta",
+    "book_consultation_description": "Inicia el proceso de referencia para organizar una consulta."
+  }
+}

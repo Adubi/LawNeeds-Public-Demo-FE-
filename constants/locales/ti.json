@@ -1,0 +1,1448 @@
+{
+  "submit": "ኣቕርብ",
+  "cancel": "ሰርዝ",
+  "done": "ተዛዚሙ",
+  "ok": "እሺ",
+  "next": "ቀጽል",
+  "save": "ኣቐምጥ",
+  "privacy_policy": "ናይ ምስጢር ፖሊሲ",
+  "terms_n_conditions": "ውሳነን መስፈርታትን",
+  "per": {
+    "camera_roll": "ፍቓድ ናይ ካሜራ ይድልየካ።",
+    "microphone_access": "ፍቓድ ናይ ማይክሮፎን ይድልየካ።",
+    "permission_denied": "ፍቓድ ተኸልከለ",
+    "notification_permission_not_granted": "ናይ ሓበሬታ ፍቓድ ኣይተውሃበን"
+  },
+  "policy_text": {
+    "i_agree": "እስማማዕ",
+    "i_dont_agree": "ኣይስማማዕን",
+    "label_1": "1. እንታይ ንሰብስብ መረዳእታ.",
+    "label_2": "2. እንታይ ንሰብስብ.",
+    "label_3": "3. እንታይ ንጥቀም.",
+    "label_4": "4. ምክፋል መረዳእታ.",
+    "label_5": "5. ደህንነት.",
+    "label_6": "6. መሰልካ.",
+    "label_7": "7. ፍሉይ ምድብ፡ ንሕቶይ ምላሽ ንምሃብ ዝተዋህበ ዝኾነ ፍሉይ ምድብ ውሂብ፣ ሓበሬታ ብዛዕባ ዓሌተይን ካልኦት ስሱ ውልቃዊ ውሂባትን ሓዊሱ፣ ንምትሕውዋስ ብግልጺ ፍቓደይ እህብ ኣለኹ። ፍቓደይ ብምልኣኽ ኢመይል ናብ info@lawneeds.co.uk ኣብ ዝኾነ ግዜ ክሰርዞ እኽእል እየ።",
+    "policy_details": "እዚ ፖሊሲ መጠቀም መረዳእታ ይገልጽ.",
+    "review_message": "በጃኹም ናትና",
+    "privacy_policy": "ፖሊሲ ምስጢራዊነት ርአዩ"
+  },
+  "tab": {
+    "account": "ኣካውንት",
+    "chat": "ቻት",
+    "home": "መበገሲ",
+    "settings": "ቅንብራት",
+    "inbox": "ኢንቦክስ",
+    "search": "ፍለጋ"
+  },
+  "profile": {
+    "firm_name": "ስም ናይ ኩባንያ",
+    "practice_areas_label": "መስኮታት ስራሕ",
+    "services": "ኣገልግሎታት",
+    "first_name": "ስም",
+    "last_name": "ኣቦ ስም",
+    "about": "ብዛዕባ",
+    "skills": "ክእለታት",
+    "organisation_name": "ስም ድርጅት",
+    "areas_of_legal_focus": "መስኮታት ሕጊ",
+    "professional_employer": "ባዕል ስራሕ",
+    "area_of_legal_expertise": "መስኮት ሙያ ሕጊ",
+    "max_of_four": "ክሳብ 4",
+    "max_of_two": "ክሳብ 2",
+    "characters": "ፊደላት",
+    "please_select": "በጃኹም ምረጹ",
+    "account_security": "ደህንነት ኣካውንት",
+    "details": "ዝርዝር",
+    "edit_details": "ዝርዝር ኣርእስት",
+    "no_name": "ስም የለን",
+    "profile_updated_success": "ፕሮፋይል ብዓወት ተሻሽለ",
+    "company_name": "ስም ኩባንያ",
+    "enter_your_company_name": "ስም ኩባንያኻ ኣእቱ",
+    "achievements": "ውጽኢታት",
+    "enter_your_achievements": "ውጽኢታትካ ኣእቱ",
+    "timeline": "ሰዓታዊ መደብ",
+    "start_date": "መጀመርታ ዕለት",
+    "end_date": "መወዳእታ ዕለት",
+    "add_another_section": "ሌላ ክፍሊ ወስኽ",
+    "add_section": "ክፍሊ ወስኽ"
+  },
+  "success": {
+    "success": "ዓወት",
+    "success_sent_code": "ኮድ ምርግጋጽ ብዓወት ተላእከ።"
+  },
+  "error": {
+    "title": "ጌጋ",
+    "error_msg": "ጌጋ ተፈጢሩ። እባክኩም ደጊም ፈትኑ።",
+    "session_expired": "ሰርስዮን ተወዲኡ",
+    "login_again": "ንመቐጸል ደጊም እተዓተዉ።",
+    "token_missing": "ቶክን ምርግጋጽ የለን።",
+    "error_process_audio": "ኣብ ምስራሕ ኦዲዮ ጌጋ ተፈጢሩ።",
+    "error_process_file": "ፋይል ክስቀል እንከሎ ጌጋ ተፈጢሩ።",
+    "try_again": "ይቕሬታ፣ ጌጋ ተፈጢሩ። ደጊም ፈትኑ።",
+    "no_use_session": "ሰርስዮን ተጠቃሚ ኣይተረኸበን። ደጊም እተዓተዉ።",
+    "invalid_response_token_not_found": "ምላሽ ዘይሕጋዊ: ቶክን ኣይተረኸበን",
+    "fill_all_fields": "ኩሎም መስኮታት ሙሉእ ኣብርክቱ",
+    "network_error": "ጌጋ መረብ። ብኽብረትኩም ናይ ኢንተርነት ምትእስሳርኩም ርአዩ።",
+    "session_expired_login": "ክፍለ-ግዜኹም ግዜኡ ሓሊፉ። ብኽብረትኩም እንደገና እቶ.",
+    "no_permission": "እዚ ተግባር ንምፍጻም ፍቓድ የብልኩምን።",
+    "resource_not_found": "ዝተሓተተ ሃብቲ ኣይተረኸበን።",
+    "invalid_data": "ዘይቅኑዕ ዳታ ተዋሂቡ። ብኽብረትኩም መርምሩ እሞ ደጊም ፈትኑ።",
+    "server_error": "ጌጋ ሰርቨር። ብኽብረትኩም ድሕሪ ሓደ ግዜ ደጊም ፈትኑ።",
+    "something_went_wrong": "ገለ ነገር ተጋግዩ። ብኽብረትኩም ደጊም ፈትኑ።",
+    "case_not_found": "ጉዳይ ኣይተረኽበን",
+    "failed_to_process_request": "ዕድል ኣገልግሎት ክስራሕ ኣይተኻእለን"
+  },
+  "change_email": {
+    "send_instruction": "መመሪያ ላእክ",
+    "go_back": "ተመለስ",
+    "create_new_pass": "ሓድሽ ፓስዎርድ ፍጠር",
+    "current_email": "ናይ ሕጂ ኢሜይል",
+    "enter_current_email": "ናይ ሕጂ ኢሜይልን ሓድሽ ኢሜይልን ኣእቱ።",
+    "new_email": "ሓድሽ ኢሜይል",
+    "check_your_mail": "ኢሜይልካ መርምር",
+    "check_mail_for_verify_account": "ኮድ ምርግጋጽ ናብ ኢሜይልካ ተላእኩ። ኣብ ታሕቲ ኣእቱ።",
+    "check_mail_for_reset_pass": "ኮድ ምርግጋጽ ናብ ኢሜይልካ ተላእኩ። ፓስዎርድ ንምቕያር ኣእቱ።",
+    "enter_verification_code": "ኮድ ምርግጋጽ ኣእቱ",
+    "go_back_login": "ናብ መእተዊ ተመለስ",
+    "not_recd_mail": "ኢሜይል ኣይተቐበልካን? ስፓም መርምር ወይ",
+    "try_other_email": "ካልእ ኢሜይል ፈትን",
+    "resend_code": "ኮድ ደጊም ላእክ",
+    "verify_mail": "ኢሜይልካ ኣረጋግጽ",
+    "click_link_to_verify_mail": "ንምርግጋጽ ኢሜይል ናይ ሓድሽ ሊንክ ጠውቕ",
+    "skip_confirm_later": "ኣልፍ፣ ድሕሪ ክኣርግጽ እየ",
+    "email_updated": "ኢሜይል ተሻሽለ"
+  },
+  "landing": {
+    "welcome_to": "እንቋዕ ብደሓን መጻእኩም ናብ",
+    "immigration": "ድጋፍ ናይ ስደት ቀሊል ኮይኑ",
+    "create_account": "ኣካውንት ፍጠር",
+    "log_in": "እተዓተው",
+    "or": "ወይ",
+    "create_pro": "ፕሮ ኣካውንት ፍጠር",
+    "select_pro": "ፕሮ ኣካውንት ምረጽ",
+    "lawyer": "ሕጋዊ ጠበቃ",
+    "law_firm": "ኩባንያ ሕጊ",
+    "hr_legal": "HR/ሕጊ (SME)",
+    "a2j_partners": "A2J ሓበሬታት",
+    "screen_not_exist": "እዚ ስክሪን የለን።",
+    "go_to_home_screen": "ናብ ሆም ስክሪን ኺድ!"
+  },
+  "login": {
+    "password": "ፓስዎርድ",
+    "login": "እተዓተው",
+    "remember_me": "ዝክረኒ",
+    "forgot_password": "ፓስዎርድ ረሲዕካ?",
+    "need_account": "ኣካውንት ትፈልጥ?",
+    "signup": "ተመዝገብ"
+  },
+  "reset_password": "ፓስዎርድ ኣቀይር",
+  "create_new_password": "ሓድሽ ፓስዎርድ ፍጠር",
+  "create_account": {
+    "first_name": "ስም",
+    "last_name": "ኣቦ ስም",
+    "date_of_birth": "ዕለት ልደት",
+    "country": "ሃገር",
+    "select_country": "ሃገር ምረጽ",
+    "next": "ቀጽል",
+    "create_account": "ኣካውንት ፍጠር",
+    "date_of_incorporate": "ዕለት መመዝገቢ",
+    "create_pro_account": "ፕሮ ኣካውንት ፍጠር",
+    "hr_legal_account": "HR/ሕጊ ኣካውንት",
+    "lawyer_account": "ኣካውንት ጠበቃ",
+    "law_firm_account": "ኣካውንት ኩባንያ ሕጊ",
+    "a2j_partners_account": "ኣካውንት A2J",
+    "firm_name": "ስም ኩባንያ",
+    "organisation_name": "ስም ድርጅት",
+    "date_of_establishment": "ዕለት መመስረቲ",
+    "areasOfLegalFocus": "መስኮታት ሕጊ",
+    "selectAreasOfLegalFocus": "መስኮታት ሕጊ ምረጽ",
+    "contactPerson": "ሰብ ርክብ",
+    "registrationCharityNumber": "ቁጽሪ መመዝገቢ",
+    "searchAddress": "ኣድራሻ ፍለጋ",
+    "town": "ከተማ",
+    "postcode": "ፖስትኮድ",
+    "address": "ኣድራሻ",
+    "please_select": "በጃኹም ምረጹ:",
+    "legalAidOrganisation": "ድርጅት ሕጋዊ ድጋፍ",
+    "lawCentre": "ማእከል ሕጊ",
+    "proBonoClinic": "ነጻ ክሊኒክ",
+    "profile_photo": "ፎቶ ፕሮፋይል",
+    "profile_photo_required": "ፎቶ ፕሮፋይል ኣብ ፕሮ ኣካውንት ኣድላይ እዩ",
+    "upload": "ጫን",
+    "please_agree_text": "በጃኹም ምስ መመርያታት ስማምዕ",
+    "signup_agreement_text": "ብምምዝጋብ፣ ን",
+    "terms_of_service": "መመርያ ኣገልግሎት",
+    "and_text": "እና",
+    "agree_proceed_button": "ስማምዕን ቀጽል",
+    "select_practice_area": "መስኮት ስራሕ ምረጽ",
+    "already_have_account": "ኣካውንት ኣለካ?",
+    "account_creat_success": "ኣካውንት ብዓወት ተፈጥረ!",
+    "access_detail_msg_legal_assistance": "ሕጋዊ ድጋፍ ናይ ግል ክትረክብ ትኽእል።",
+    "select_practice_areas": "መስኮታት ስራሕ ምረጽ",
+    "contact_person_partner": "ሰብ ርክብ/ኣስተዳዳሪ",
+    "company_regi_number": "ቁጽሪ መመዝገቢ ኩባንያ",
+    "enter_sra_number": "SRA ቁጽሪ ኣእቱ",
+    "enter_bar_number": "BAR ቁጽሪ ኣእቱ",
+    "enter_iaa_number": "IAA ቁጽሪ ኣእቱ",
+    "verify_document": "መንነት ሰነድ ኣረጋግጽ",
+    "reverify_document": "እቲ ሰነድ እንደገና ኣረጋግጽ"
+  },
+  "validation": {
+    "missing_info": "ሓበሬታ ጎዲሉ",
+    "enter_your_name": "በጃኹም ስምካ ኣእቱ",
+    "enter_your_email": "በጃኹም ኢሜይልካ ኣእቱ",
+    "enter_your_phone": "በጃኹም ቁጽሪ ስልክካ ኣእቱ",
+    "enter_feedback": "በጃኹም ኣስተያየት ኣእቱ",
+    "valid_first_name": "ስም ክንደይ 2 ፊደላት ክኸውን ኣለዎ።",
+    "valid_last_name": "ኣቦ ስም ክንደይ 2 ፊደላት ክኸውን ኣለዎ።",
+    "select_dob": "በጃኹም ዕለት ልደት ምረጹ።",
+    "select_country": "በጃኹም ሃገር ምረጹ።",
+    "enter_city": "መስኮት ከተማ ክትባዕ ኣይክእልን።",
+    "enter_postcode": "ፖስትኮድ ክትባዕ ኣይክእልን።",
+    "enter_address": "ኣድራሻ ክትባዕ ኣይክእልን።",
+    "valid_user_name": "ስም ተጠቃሚ ክንደይ 3 ፊደላት ክኸውን ኣለዎ።",
+    "valid_email": "በጃኹም ትክክለኛ ኢሜይል ኣእቱ",
+    "valid_password": "ፓስዎርድ ክንደይ 8 ፊደላትን ሓደ ቁጽሪን ክኸውን ኣለዎ።",
+    "valid_organisation": "ስም ድርጅት ክንደይ 2 ፊደላት ክኸውን ኣለዎ።",
+    "valid_town": "መስኮት ከተማ ክትባዕ ኣይክእልን።",
+    "enter_date_of_incorporate": "በጃኹም ዕለት ምረጹ።",
+    "enter_confirm_password": "እባክኩም ናይ ምርግጋጽ ቃለ-ምስጢርኩም ኣእትዉ",
+    "valid_confirm_password": "ናይ ምርግጋጽ ቃለ-ምስጢር ብትሕቲ 8 ፊደላት ክኸውን እና ብትሕቲ ሓደ ቁጽሪ ክሓዝ ኣለዎ።",
+    "password_not_match": "ቃላት ምስጢር ኣይሰማምዑን።",
+    "enter_first_name": "እባክኩም ቀዳማይ ስምኩም ኣእትዉ",
+    "enter_last_name": "እባክኩም ናይ መወዳእታ ስምኩም ኣእትዉ",
+    "document_expired": "ሰነድካ ግዜኡ ኣብቂዑ እዩ። በጃኻ ዝጸንሐ ሰነድ ስቀል።",
+    "document_invalid": "ምርግጋጽ ሰነድ ኣይተሳኽዐን። በጃኻ እንደገና ፈትን።"
+  },
+  "account": {
+    "practice_areas": "መድብ ስራሕ",
+    "services": "ኣገልግሎታት",
+    "details": "ዝርዝር",
+    "licence": "ፍቓድ",
+    "org_type": "ዓይነት ውድብ",
+    "go_back_home": "ናብ መጀመርታ ገጽ ተመለስ"
+  },
+  "chat": {
+    "get_started": "ጀምር",
+    "new_chat": "ሓድሽ ቻት",
+    "previous_chat": "ዝሓለፈ ቻት",
+    "title": "ቻት",
+    "waiting": "ትጽቢት እናተገብረ...",
+    "help": "ሓገዝ",
+    "end_chat": "ዕላል ዝውዳእ",
+    "chat_place_holder": "መልእኽቲ ናብ LawNeeds",
+    "uploading_file": "{{count}} ተወሳኺ ፋይላት ብመጫን ላይ ኣለዉ፡ {{names}}",
+    "files_uploaded_success": "{{count}} ተወሳኺ ፋይላት ብዓወት ተጫኑ።",
+    "uploading_voice_note": "ድምጺ ማስታወሻ ብመጫን ላይ...",
+    "voice_note_uploaded_success": "ድምጺ ማስታወሻ ብዓወት ተጫነ",
+    "open_pdf": "PDF ክፈት",
+    "sample_questions_title": "ናሙና ሕቶታት",
+    "you_selected": "መሪጽኩም: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "ሰላም "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "ኣነ "
+      },
+      {
+        "type": "token",
+        "content": "ናይ "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "ደገፍ "
+      },
+      {
+        "type": "token",
+        "content": "ሓጋዚ "
+      },
+      {
+        "type": "token",
+        "content": "እየ"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "ሓበሬታ "
+      },
+      {
+        "type": "token",
+        "content": "ጥራይ "
+      },
+      {
+        "type": "token",
+        "content": "እህብ"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "ሞያዊ "
+      },
+      {
+        "type": "token",
+        "content": "ምኽሪ "
+      },
+      {
+        "type": "token",
+        "content": "ኣይኮነን"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "ሎሚ "
+      },
+      {
+        "type": "token",
+        "content": "ከመይ "
+      },
+      {
+        "type": "token",
+        "content": "ክሕግዘካ "
+      },
+      {
+        "type": "token",
+        "content": "እኽእል"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "ዝርርብ ምጫን ኣይተሳኸለን። እባክካ ዳግም ሞክር።",
+    "voice_note_ready": "ድምጺ ምልክት ድሉው እዩ",
+    "tap_to_record": "መዝግብ ንምጅማር 🔴 ጠግዕ",
+    "preview_files": "ፋይላት ቅድመ-ምርኣይ",
+    "file_selected": "ፋይል ተመሪጹ",
+    "files_selected": "ፋይላት ተመሪጾም",
+    "upload_files": "ስቀል",
+    "tap_to_preview": "ንቅድመ-ምርኣይ ጠግዕ",
+    "add": "ኣክል",
+    "today": "ሎሚ",
+    "last_week": "ዝሓለፈ ሰሙን",
+    "last_month": "ዝሓለፈ ወርሒ"
+  },
+  "setting": {
+    "select_language": "ቋንቋ ምረጽ",
+    "settings": "ማቅናብር",
+    "app_language": "ቋንቋ መተግበሪ",
+    "choose_language": "ቋንቋ ምረጽ",
+    "notifications": "ምልክታት",
+    "submit_feedback": "ሓገዝ",
+    "about": "ብዛዕባ",
+    "our_philosophy": "ፍልስፍናና",
+    "account_management": "ምሕደራ ኣካውንት",
+    "logout": "ውጽእ"
+  },
+  "our_philosophy": {
+    "our_vision_header": "ራእይና",
+    "our_vision_desc": "ኣብ LawNeeds እሙን ዝኾነ ሕጋዊ ሓገዝ፣ ብፍላይ ናይ ስደት ድጋፍ፣ ንኹሉ ሰብ ብዝኾነ ግዜን ቦታን ክበጽሕ ኣለዎ ብምባል ንእምን። ስማርትፎናት ኣብ ዕለታዊ ህይወት ማእከል ከም ዝኾኑ፣ ሰባት ኣብ ዩኬ ህይወቶም ብቐሊልን እሙንን ሕጋዊ ሓገዝ ክንሕግዞም ኣብዚ ኣለና።",
+    "our_services_header": "ኣገልግሎታትና",
+    "our_services_desc": "ሞባይል መተግበሪና፣ ብተቆጻጻሪ ዝስሩዑ ዝሕጋውያን ትካላት፣ ፍቓድ ዘለዎም ጠበቓትን ኣማኸርቲ ስደትን ጥራይ ዘካትት፣ ብፍላይ ኣብ ሕጊ ስደት ዘተኮረ ልዩ ሕጋዊ ኣገልግሎታት ይህብ። ንውልቀ ሰባት፣ ስድራቤታት፣ ተማሃሮን ሞያውያንን ኣብ ዩኬ ህይወቶም ክንመርሖም ንደግፍ። እንዳበዛሕና ከኣ፣ ተጠቃሚታት ኣብ ሕጊ ስራሕ፣ ሕጊ ስድራን ጉዳያት ትራፊክን እውን ሞያዊ ፍልጠት ክረኽቡ እዮም፣ እዚ ኩሉ ድማ ብተመሳሳሊ ቀሊልን ዘይሽግርን ተሞክሮ ብጥቂት መጫን ይቐርብ።",
+    "innovation_header": "ምሕዳስ ብዝበለጸ መልክዕ",
+    "innovation_desc": "ኣብ LawNeeds ምሕዳስ ንስራሕና ኩሉ ይመርሕ። ናይ AI ሓይሊ ብምጥቃም ብቕልጡፍን 24/7ን ብ AI ዝፈጠረ ሕጋዊ መምርሒን ከምኡውን ኣብ ነፍሲ ወከፍ ተጠቃሚ ኣድራሻን ኩነታትን ዝተመርኮሰ ግላዊ ምኽሪ ስደት ንህብ።",
+    "community_header": "ማሕበረሰብን ዕብየትን",
+    "community_desc": "LawNeeds ካብ መተግበሪ ንላዕሊ እዩ፣ ማሕበረሰብ እዩ። ንስደተኛታት ኃይሊ ንህብ፣ ንሕጋውያን ሞያውያን ድማ ብኢኖቬቲቭ መድረኽናን ባህርያትናን ተግባራቶም ከምዘዕብዩ ንዕጥቖም።",
+    "commitment_header": "ቁርጸኝነት ናብ ልቀት",
+    "commitment_desc": "LawNeeds ቴክኖሎጂ AI ምስ ሰብኣዊ ሕጋዊ ቁጽጽር ይዋሃድ። መድረኽና ብልዩ ናይ ዩኬ ሕጊ ዳታሰት ዝተማህረ እዩ፣ ብውሽጢ ጠበቓት ተመርመረ እዩ፣ ምስ ስርዓት ምርግጋጽና ተወሃሂዱ ድማ ብለውጢ ደንቦችን ዝተረጋገጹ ምንጭታት ሕግን ቀጻሊ ይዘመን እዩ፣ እዚ ድማ ኣብ ነፍሲ ወከፍ ስጉምቲ እሙንን ሕጋዊ ዝሰማማዕን መምርሒ የረጋግጽ።",
+    "join_us_header": "ተጸንበሩና",
+    "join_us_desc": "እንዳዓበና እናቐጸልና፣ ሕጋዊ ሓገዝ ትደልዩ ወይ ሕጋዊ ስራሕኩም ክትዘርግሑ እንተደሊኹም፣ ኣብ ጉዕዞና ክትጽንበሩ ንዕድም። ኣብ LawNeeds ስኬትኩም ተልእኾና እዩ።"
+  },
+  "support": {
+    "support_desc": "ሓሳባትኩም፣ ጸገማትኩም ወይ ምኽርታትኩም ኣብ ታሕቲ ብምክፋል LawNeeds ክንምሕይሽ ሓግዙና",
+    "feedback_success": "ኣስተያየት ብዓወት ተላኢኹ",
+    "name": "ስም",
+    "comment": "ኣስተያየት",
+    "address": "ዝተመዝገበ ቤት ጽሕፈት: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "ሕጊ ስደተኛ"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "ሕጊ ስራሕ"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "ጥራፊክ በደላት"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "ሕጊ ስድራ"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "ሕጋዊ ምርምር"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "ሕጋዊ ጽሑፍ"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "ትንተና ጉዳይ"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "ምዘጋጃ ውዕል"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "ውይይት"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "ምክር ንደንበኛ"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "መከላኸሊ ኣብ ቤት ፍርዲ"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "ማእከላይ ምርኻብ"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "ዳኝነት"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "ጥንቃቐ ምርመራ"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "ምርመራ ምክብባር"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "ምግምጋም ሓደጋ"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "ሕጋዊ ስትራተጂ"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "ክሮስ ምመርመር"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "ምጽሓፍ ሓጺር ጽሑፍ"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "መግለጺ"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "ምግናይ ሓበሬታ"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "ውይይት ስምምዕ"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "ትንተና ደንቦች"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "ዓለምለኻዊ ሕጊ"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "ምህዞ ስነ ኣእምሮ"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "ምትካልን ምግዛእን"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "ኮርፖሬት ምሕደራ"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "ግንኙነት ስራሕ"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "ስደተኛ ሂደት"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "ሕጊ ስደተኛ"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "ሕጊ ስድራ"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "ሕጊ ስራሕ"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "ወንጀል ሕጊ"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "ኮርፖሬት ሕጊ"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "ሕጊ ንብረት"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "ጉዳት ግል"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "ምህዞ ስነ ኣእምሮ"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "ሕጊ ታክስ"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "ሕጊ ውዕል"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "ክስተት"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "ማእከላይ ምርኻብ"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "ዳኝነት"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "ሕጋዊ ምክር"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "ምርመራ ሰነድ"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "ሕጋዊ ምርምር"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "ምክብባር"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "ምትካልን ምግዛእን"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "ባንክን ፋይናንስን"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "ሕጊ ኢንሹራንስ"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "ሕጊ ኣካባቢ"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "ሕጊ መሰል ሰብ"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "ዓለምለኻዊ ሕጊ"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "ኣስተዳደር ሕጊ"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "ሕጊ መሰረታዊ"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "ነጠላ ምክር"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "ቀጻሊ ደገፍ"
+    },
+    {
+      "key": "casework",
+      "label": "ስራሕ ጉዳይ"
+    },
+    {
+      "key": "not_sure",
+      "label": "ገና ኣይፈልጥን"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "መደበኛ (5-7 መዓልቲ)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "ቀዳምነት (2-3 መዓልቲ)"
+    },
+    {
+      "key": "urgent",
+      "label": "ኣስቸኳይ (እቲ መዓልቲ ወይ ቀጺሉ መዓልቲ)"
+    }
+  ],
+  "search": {
+    "professionals": "ሞያውያን",
+    "city": "ከተማ",
+    "distance": "ርሕቀት",
+    "top_rated": "ኣብ ላዕሊ ዝተመዘነ",
+    "more": "ተጨማሪ",
+    "request": "ሓበሬታ",
+    "request_service": "ኣገልግሎት ሕቶ",
+    "service": "ኣገልግሎት",
+    "select_service": "ኣገልግሎት ምረጽ",
+    "urgency": "ኣስቸኳይነት",
+    "select": "ምረጽ",
+    "additional_notes": "ተጨማሪ ማስታወሻታት",
+    "service_request_success": "ሕቶ ኣገልግሎትካ ብምሉእ ተላኢኩ",
+    "issue_type": "ዓይነት ጉዳይ",
+    "budget": "በጀት",
+    "select_consultation": "ምክር ምረጽ",
+    "consultation": "ምክር",
+    "time_n_rate": "ግዜን ዋጋን"
+  },
+  "reset_password_info": "ናብ ኣካውንትካ ዝተያያዘ ኢሜይል ኣእትው እሞ ሓድሽ ፓስዎርድ ንምቕያር መምርሒ ኢሜይል ንልእኸልካ",
+  "tap_to_upload_image": "ምስሊ ንምጫን ጫን",
+  "record": "ምቕዳም",
+  "media": "ሚድያ",
+  "attach": "ኣብርክ",
+  "sort_by": "ብመሰረት ስርዓት",
+  "apply": "ኣተግብር",
+  "select_date": "ዕለት ምረጽ",
+  "day": "መዓልቲ",
+  "month": "ወርሒ",
+  "year": "ዓመት",
+  "present": "ሕጂ",
+  "sector": "ዘርፍ",
+  "hr": "HR",
+  "legal": "ሕጋዊ",
+  "both": "ክልቲኡ",
+  "identity_card": "መለለዪ ካርድ",
+  "passport": "ፓስፖርት",
+  "drivers_license": "ፍቓድ ሽከርካሪ",
+  "law_centre": "ሕጋዊ ማእከል",
+  "legal_aid_organisation": "ሕጋዊ ሓገዝ ውድብ",
+  "beta": "ቤታ",
+  "logged_in": "ኣብ ውሽጢ ኣትዩ",
+  "select_reason": "ምኽንያት ምረጽ",
+  "select_area_of_legal_expertise": "መድብ ሕጋዊ ሞያ ምረጽ",
+  "confirm_password": "ፓስዎርድ ኣረጋግጽ",
+  "enter_new_password_below": "ሓድሽ ፓስዎርድካ ኣብ ታሕቲ ኣእትው",
+  "select_a_country": "ሃገር ምረጽ",
+  "open_email_app": "ኢሜይል ኣፕ ክፈት",
+  "request_details": "ዝርዝር ሕቶ",
+  "accept": "ተቐበል",
+  "reject": "ክሕደት",
+  "request_reject_message": "ሕቶ ኣገልግሎት ብምሉእ ተኸልኪሉ",
+  "document_view": "ምርኣይ ሰነድ",
+  "loading_document": "ሰነድ ይጭነ",
+  "service_issue_type": "ዓይነት ጉዳይ ኣገልግሎት ምረጽ",
+  "select_consultation_type": "ዓይነት ምክር ምረጽ",
+  "urgency_level": "ደረጃ ኣስቸኳይነት ምረጽ",
+  "budget_input": "በጀት ኣእትው",
+  "attachments": "ኣብራሪታት",
+  "user_label": "ንስኻ",
+  "timestamp": "ሕጂ",
+  "voice_note": "ድምጺ መዝገብ",
+  "comment_placeholder": "ኣስተያየት ጽሓፍ...",
+  "messages": "መልእኽትታት",
+  "edit": "ኣርእይ",
+  "copy": "ቅዳሕ",
+  "select_consultation_time": "ግዜ ምክር ምረጽ",
+  "request_cancel_success": "ሕቶ ኣገልግሎት ብምሉእ ተሰርዩ",
+  "accept_request_message": "ነዚ ሕቶ ክትቕበል ከም ዝደለኻ ኣረጋግጽ?",
+  "reject_request_message": "ነዚ ሕቶ ክትከልክል ከም ዝደለኻ ኣረጋግጽ?",
+  "delete_request_message": "ነዚ ሕቶ ብምሉእ ክትሰርይ ትደሊ?",
+  "withdraw_request_message": "ነዚ ሕቶ ክትመልስ ትደሊ?",
+  "yes": "እወ",
+  "no": "ኣይኮነን",
+  "accepted": "ተቐቢሉ",
+  "cancelled": "ተሰርዩ",
+  "pending": "ተጠባቢ",
+  "consultation_time": "ግዜ ምክር",
+  "consultation_type": "ዓይነት ምክር",
+  "recommended_professionals": "ዝተመከሩ ሞያውያን:",
+  "continue": "ቀጽል",
+  "image": "ምስሊ",
+  "delete_account": "ኣካውንት ሰርይ",
+  "delete": "ሰርይ",
+  "delete_confirmation_message": "ኣካውንትካ ክትሰርይ ከም ዝደለኻ ኣረጋግጽ? እዚ ክትመለስ ኣይክእልን እዩ።",
+  "delete_account_error_message": "ኣካውንት ክሰርይ ከሎ ጌጋ ተፈጢሩ።",
+  "place_holder_additional_notes": "ብዛዕባ ሕጋዊ ጉዳይካ ተጨማሪ ዝርዝር ጽሓፍ...",
+  "upload_options": "ኣማራጺ ምጫን:",
+  "select_option": "ኣማራጺ ምረጽ:",
+  "skip": "ዝልል",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "ሕጊ ስደተኛ"
+    },
+    {
+      "key": "employment",
+      "label": "ሕጊ ስራሕ"
+    },
+    {
+      "key": "road_traffic",
+      "label": "ጥራፊክ በደላት"
+    },
+    {
+      "key": "family",
+      "label": "ሕጊ ስድራ"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "ኣስቸኳይ"
+    },
+    {
+      "key": "within_week",
+      "label": "ኣብ ሓደ ሰሙን"
+    },
+    {
+      "key": "within_month",
+      "label": "ኣብ ሓደ ወርሒ"
+    },
+    {
+      "key": "not_urgent",
+      "label": "ኣይኮነን ኣስቸኳይ"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "ዓይነት ጉዳይ ምረጽ"
+    },
+    {
+      "key": "urgency",
+      "name": "ደረጃ ኣስቸኳይነት ምረጽ"
+    },
+    {
+      "key": "consultation",
+      "name": "ዓይነት ምክር ምረጽ"
+    },
+    {
+      "key": "select_time",
+      "name": "ግዜን ዋጋን ምረጽ"
+    },
+    {
+      "key": "select-budget",
+      "name": "በጀት ምረጽ"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 ደቒቕ (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 ደቒቕ (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 ደቒቕ (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 ደቒቕ (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 ሰዓት (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 መዓልቲ (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 መዓልቲ (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "ካብ £700 ላዕሊ"
+    }
+  ],
+  "sample_questions": [
+    "ሕጋዊ ሞያዊ ሰብ ሕቶ ኣቕርብ",
+    "ኣነ Skilled Worker ቪዛ ክረክብ ይኽእል እየ?",
+    "ናይ ተማሃሪ ቪዛይ ከመይ ክንውሕ እኽእል?",
+    "Indefinite Leave to Remain ዝምልከት ሕጊ ምንዳይ እዩ?",
+    "ኣብ UK ኣስይልም ከመይ ክንሓትት እኽእል?",
+    "ውሳኔ ቪዛ ክንደይ ግዜ ይወስድ?"
+  ],
+  "rate_of_hour": "ዋጋ ብሰዓት",
+  "search_country": "ሃገር ድለይ",
+  "review_error": "ርእይቶ ባዶ ክኸውን ኣይክእልን።",
+  "rating_validation": "ካብ 1 ክሳብ 5 ኮከብ ደረጃ ምረጽ።",
+  "create_account_with": "ኣካውንት ፍጠር ብ",
+  "login_with": "እቶ ብ",
+  "create_account_email_password": "ኢሜይል/ፓስዎርድ",
+  "sign_in_with_apple": "ብ Apple እቶ",
+  "sign_in_with_google": "ብ Google እቶ",
+  "no_cases_available": "ዝኾነ ጉዳይ የለን",
+  "no_active_cases_available": "ንቁጽ ጉዳይ የለን",
+  "no_pending_cases_available": "ዝተጠባበቐ ጉዳይ የለን",
+  "back": "ተመለስ",
+  "submit_review": "ርእይቶ ላክ",
+  "delete_review": "ርእይቶ ሰርይ",
+  "member_since": "ኣባል ካብ",
+  "work_experience": "ልምዲ ስራሕ",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "ክእለት",
+  "professional_details": "ዝርዝር ሞያዊ",
+  "review_professional": "ሞያዊ ርእይቶ",
+  "no_reviews": "ገና ርእይቶ የለን። መጀመርታ ኩን!",
+  "reviews": "ርእይቶታት",
+  "thanks_feedback": "ንርእይቶኻ የቐንየልና!",
+  "accept_case_notification_header": "ሓጋዚ ሕጊ ሕቶኻ ተቐቢሉ! 🎉",
+  "accept_case_notification_message_part": " ጉዳይካ ተቐቢሉ ንምሕጋዝ ዝዘጋጀ እዩ።",
+  "reject_case_notification_header": "ምምሕያሽ ርእሰ ጉዳይ",
+  "reject_case_notification_message_part": " ኣብ እዚ ግዜ ጉዳይካ ክወስድ ኣይክእልን።",
+  "delete_case_notification_header": "ሕቶ ተሰርዩ",
+  "withdraw_case_notification_header": "ሕቶ ተመልሲ",
+  "delete_case_notification_message_part": " ሕቶኡ ሰርዩ።",
+  "withdraw_case_notification_message_part": " ሕቶኡ መልሲ።",
+  "manuscript": "መጽሓፍ ጽሑፍ",
+  "share_dialog_title": "መጽሓፍ ጽሑፍ ኣካፍል ወይ ኣውርድ",
+  "certifications": "ምስክር ወረቐት",
+  "queries_left": "ዝተረፈ AI ሕቶታት",
+  "voice_notes_limit": "ድምጺ",
+  "uploads_limit": "ምጫን",
+  "docgen_limit": "ምፍጣር ሰነዳት",
+  "current_plan": "ናይ ሕጂ እቅድ",
+  "faqs": "ተደጋጋሚ ሕቶታት",
+  "wallet": "ቦርሳ",
+  "subscription": {
+    "plans_pricing_title": "መደቦችን እና ዋጋታት",
+    "plans_pricing_subtitle": "ተጨማሪ ደቂቃታትን እና ፕሪሚየም ባህሪያትን ክፈት",
+    "syncing_account": "ኣካውንት እናትና ይሰማማ...",
+    "processing_purchase": "ግዥ ብምስራሕ ላይ...",
+    "plan_unavailable_title": "መደብ ኣይርከብን",
+    "plan_unavailable_message": "እዚ መደብ ኣብ ሱቅ ኣይተረኽበን።",
+    "purchase_error_title": "ስህተት ግዥ",
+    "purchase_error_message": "ዘይተጠበቀ ስህተት ተፈጥሯል።",
+    "upgrade_plans": "መደቦች ኣሻሽል",
+    "plan_unlimited": "ዘይተወሰነ",
+    "plan_premium": "ፕሪሚየም",
+    "plan_standard": "መደበኛ",
+    "plan_free_label": "ሁሉ ግዜ ነጻ",
+    "billing_annually": "ዓመታዊ",
+    "feature_voice_notes": "የድምፅ ማስታወሻታት",
+    "feature_uploads": "ምስቀል",
+    "feature_shared_pool": "ሓባራዊ ፑል ንድምፅ፣ ምስቀልን ዶክመንታትን",
+    "feature_free_consultation": "ደቂቃ ነጻ ምክክር",
+    "feature_priority_support": "ቅድሚያ ዝሃብ ሰብ ድጋፍ ተኻትቷል",
+    "feature_ai_queries": "AI ጽሑፍ ሕቶታት",
+    "feature_limited": "ዝተወሰነ",
+    "feature_standard_limits": "መደበኛ ገደባት ይተገበሩ",
+    "feature_query_reset": "ገደብ ሕቶ ብ12am ይመለስ",
+    "feature_rollover": "ምምሕላፍ ይፍቀድ",
+    "feature_images_max": "ከፍተኛ ምስልታት",
+    "feature_document_max": "ከፍተኛ ዶክመንታት",
+    "feature_mb": "MB",
+    "feature_pages": "ገጻት",
+    "label_default_plan": "ነባሪ መደብ",
+    "cta_subscribe_now": "ኣሁን ተመዝገብ",
+    "wallet_loading": "ዋሌት ብምጫን ላይ...",
+    "wallet_title": "ዋሌት",
+    "wallet_balance": "ዝርከብ ሚዛን",
+    "unit_minute": "ደቂቃ",
+    "wallet_top_up": "ኣምርክት",
+    "wallet_transactions": "ቀረባ ግብይታት",
+    "transaction_plan_purchase": "ግዥ መደብ",
+    "transaction_legal_query": "ሕጋዊ ሕቶ",
+    "transaction_document_process": "ሂደት ዶክመንት",
+    "reference_label": "ማጣቀሻ:",
+    "plan_free": "ነጻ",
+    "unit_min": "ደቂቃ"
+  },
+  "user_name": "ስም ተጠቃሚ",
+  "email": "ኢሜይል",
+  "phone_number": "ቁጽሪ ስልኪ",
+  "urgent": "ኣስቸኳይ",
+  "contact_support": "ንድጋፍ ኣግንን",
+  "minutes": "ደቂቃታት",
+  "freemium": {
+    "modal": {
+      "title": "ገደብ ሕቶታት ተበጺሑ",
+      "timer_label": "እንደገና ሞክር ድሕሪ",
+      "timer_format": "{{minutes}} ደ {{seconds}} ሰ",
+      "upgrade_cta": "መደብ ኣሻሽል",
+      "loading_text": "ሕቶታትካ ይኽፈቱ ኣለዉ…",
+      "watch_ad_cta": "📺 ማስታወቂያ ተመልከት (+{{count}} ሕቶታት)",
+      "limit_note": "Freemium ገደብ: {{count}} ሕቶታት / {{hours}} ሰዓታት",
+      "description": "ኣብ {{hours}} ሰዓታት ውሽጢ ሁሉ {{count}} ነጻ ሕቶታት ተጠቒምካ።",
+      "buy_pass": "{{price}} ዘይተወሰነ ሕቶታት ዛሬ"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} መደብ",
+      "queries_left": "{{remaining}} / {{total}} ዝተረፉ ሕቶታት",
+      "daily_pass_active": "✨ ዕለታዊ ፓስ ንቁ እዩ",
+      "upgrade_cta": "ኣሻሽል",
+      "usage_labels": {
+        "voice_notes": "የድምፅ ማስታወሻታት",
+        "uploads": "ምስቀል",
+        "docs": "ዶክመንታት"
+      },
+      "daily_pass": {
+        "title": "🚀 ዛሬ ዘይተወሰነ ክፈት",
+        "description": "ብ{{price}} ዕለታዊ ፓስ ክሳብ እኩለ ሌሊት ዘይተወሰነ AI ሕቶታት ይረክብ።",
+        "cta": "ዕለታዊ ፓስ ውሰድ – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "ገደብ ተበጺሑ",
+      "upgrade_cta": "ንምቕጻል ፕላንኩም ኣሻሽሉ",
+      "wait_info": "ወይ ተጸበዩ እሞ ድሕሪ: {{time}} ደጊምኩም ፈትኑ",
+      "body_message": "ነጻ ገደብኩም በጺሕኩም። ንምቕጻል ኣሻሽሉ ወይ ተጸበዩ።"
+    }
+  },
+  "plan_card": {
+    "plan_label": "{{plan_name}}",
+    "billing": {
+      "per_period": "/{{period}}",
+      "always_free": "ሁሉ ግዜ ነጻ",
+      "discount_badge": "{{discount}}% ቅናሽ መጀመርታ ወር",
+      "per_mins": "{{minutes}} ደቒቕ"
+    },
+    "toggle": {
+      "annual": "ዓመታዊ",
+      "monthly": "ወርሓዊ",
+      "weekly": "ሳምንታዊ",
+      "daily": "ዕለታዊ"
+    },
+    "features": {
+      "voice_notes": "የድምፅ ማስታወሻታት",
+      "uploads": "ምስቀል",
+      "docs": "AI ዶክመንት ፍጠር",
+      "minutes": "ደቂቃታት",
+      "ai_queries": "AI ጽሑፍ ሕቶታት",
+      "rollover": "ምምሕላፍ ይፍቀድ",
+      "shared_pool": "• ሓባራዊ ፑል ንድምፅ፣ ምስቀልን ዶክመንታትን",
+      "free_consultation": "• {{minutes}} ደቂቃ ነጻ ምክክር ተኻትቷል",
+      "priority_support": "• ቅድሚያ ዝሃብ ሰብ ድጋፍ ተኻትቷል",
+      "file_caps_title": "ገደብ መጠን ፋይልን ገጻትን",
+      "image_max": "ከፍተኛ ምስልታት",
+      "doc_max": "ከፍተኛ ዶክመንታት"
+    },
+    "limits": {
+      "unlimited": "ዘይተወሰነ",
+      "limited": "ዝተወሰነ",
+      "none": "የለን",
+      "yes": "እወ"
+    },
+    "notes": {
+      "standard_limits": "መደበኛ ገደባት ይተገበሩ",
+      "reset_time": "ገደብ ሕቶ ብ12am ይመለስ"
+    },
+    "cta": {
+      "default_plan": "ነባሪ መደብ",
+      "current_plan": "ዘሎ መደብ",
+      "subscribe": "ኣሁን ተመዝገብ"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "ወርሓዊ ገደብ ተበጺሑ",
+      "title_paid": "ደቂቃታትካ ወዲኡ",
+      "description_freemium": "ንድምፅ ማስታወሻ፣ ምስቀል ፋይልን ፍጠር ዶክመንትን ዘለዉ 6 ነጻ ወርሓዊ ክሬዲት ሁሉ ተጠቒምካ።",
+      "description_paid": "እዚ ንምፍጻም ብቂ ደቂቃታት የብልካን። ኣምርክት ወይ ኣሻሽል።",
+      "upgrade_premium": "ናብ ፕሪሚየም ኣሻሽል",
+      "topup_cta": "ደቂቃታት ኣምርክት",
+      "view_usage": "ኣጠቃቀም ክሬዲት ርአ"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "ደቂቃታት ኣምርክት",
+      "subtitle": "ንምቕጻል ተጨማሪ ደቂቃታት ግዛ።",
+      "alerts": {
+        "low_minutes": "{{percentage}}% ደቂቃታትካ ተጠቒምካ። ኣሁን ኣምርክት!",
+        "limit_reached": "ወርሓዊ ገደብ ኣምርክት ተበጺሑ ({{used}}/{{limit}})",
+        "limit_popup_title": "ገደብ ኣምርክት ተበጺሑ",
+        "limit_popup_message": "ወርሓዊ ገደብ ኣምርክት ሓሊፍካ።"
+      },
+      "slider": {
+        "label": "ደቂቃታት ንምግዛ",
+        "minutes_value": "{{minutes}} ደቂቃታት",
+        "min": "{{min}} ደቂቃ",
+        "max": "{{max}} ደቂቃ"
+      }
+    }
+  },
+  "show_less": "ንእሽቶ ኣርኢ",
+  "show_more": "ብዙሕ ኣርኢ",
+  "updating_balance": "ሚዛን ብምዕራፍ ላይ...",
+  "usage_limits": "ገደብ ኣጠቃቀም",
+  "voice_notes": "የድምፅ ማስታወሻታት",
+  "uploads": "ምስቀል",
+  "usage_history": "ታሪኽ ኣጠቃቀም",
+  "manage_plan": "መደብ ኣስተዳድር",
+  "cancel_subscription": "ምዝገባ ሰርዝ",
+  "explore_premium_plans": "ፕሪሚየም መደቦች ርአ",
+  "used": "ዝተጠቀመ",
+  "total": "ጠቅላላ",
+  "unlimited": "ዘይተወሰነ",
+  "manage_subscription_title": "ምዝገባ ኣስተዳድር",
+  "manage_subscription_desc": "ንቅንብሮትካ ንምክታት ናብ ሱቕ ትመራ። ክትሄድ እንዳረአና ንጽቡቕ ኣይኮነን!",
+  "stay_with_us": "ኣብ ጎናና ተቐጽል",
+  "open_store_error": "ኣገናኝ ሱቕ ክኽፈት ኣይከኣለን።",
+  "subscription_fetch_error": "ሓበሬታ ምዝገባ ምምጻእ ኣይተሳካን።",
+  "unit_min": "ደቂቃ",
+  "no_transaction_yet": "ክሳብ ሕጂ ምንም ግብይት የለን!",
+  "feedback_hint_message": "ዝተሞክሮኻ ዝርዝር ኣካፍል",
+  "withdraw": "ሰሓብ",
+  "issue_summary": "ሓፈሻዊ ሓበሬታ ጉዳይ",
+  "disclaimer": "ሓበሬታ መንገዲ",
+  "disclaimer_message": "LawNeeds AI Support Assistant ንመረጃ ብቻ መመሪያ ይህብ።",
+  "disclaimer_button": "ኣነ እምነት ኣለኝ",
+  "filter": {
+    "title": "ማጣሪያ",
+    "sortBy": "ብመሰረት ኣዘምን",
+    "commonServices": "ዝተለመዱ ኣገልግሎታት",
+    "practiceAreas": "መስኮታት ስራሕ",
+    "professionalTypes": "ዓይነታት ሙያ",
+    "sortOptions": {
+      "alphabetical": "ብፊደላት",
+      "relevance": "ምስ ዝተዛመደ",
+      "experience": "ልምዲ"
+    }
+  },
+  "common": {
+    "upgrade_now": "ኣሁን ኣሻሽል",
+    "close": "ዝግ",
+    "maybe_later": "ምናልባት ድሕሪ",
+    "not_now": "ኣሁን ኣይኮነን",
+    "pay": "ክፍሊ {{currency}}{{amount}}",
+    "total_cost": "ጠቕላላ ዋጋ:",
+    "usage_limit_reached": "ወሰን ተበጺሑ",
+    "apply": "ኣተግብር",
+    "cancel": "ሰርዝ",
+    "error": "ጌጋ",
+    "success": "ዓወት",
+    "processing": "እናተሰርሐ ኣሎ...",
+    "something_wrong": "ገለ ጌጋ ኣሎ",
+    "no_data_available": "ዳታ የለን"
+  },
+  "daily_pass_success": "ፕላን ብስኬት ተገዝአ!",
+  "daily_pass_not_found": "ዕለታዊ ፓስ ኣይተረኸበን።",
+  "purchase_failed": "ግዢ ኣልተሳኸን",
+  "expires": "ዝወድእ: {{expiryDate}}",
+  "active": "ንቁሕ",
+  "pricing": {
+    "confirm_price": "ፍሉይ ዋጋ",
+    "propose_price": "ዋጋ ኣቕርብ",
+    "enter_amount": "መጠን ኣእቱ",
+    "invalid_amount": "ትኽክለኛ መጠን ኣእቱ",
+    "amount_range": "መጠኑ ኣብ ₹{{min}} - ₹{{max}} መንጎ ክኸውን ኣለዎ",
+    "range": "ንኡስ: ₹{{min}} | ዓቢ: ₹{{max}}",
+    "price_confirmed": "ዋጋ ተረጋጊጹ",
+    "price_proposed": "ዋጋ ቀሪቡ",
+    "confirm_price_btn": "ኣረጋግጽ",
+    "submit_price_btn": "ኣቕርብ",
+    "load_failed": "ዋጋ ምጽዓን ኣይተሳኸዐን",
+    "title": "ዋጋ",
+    "not_proposed_message": "ዋጋ ገና ኣይተወሰነን። ንምቕጻል እባክኻ ዋጋ ኣውጽእ።"
+  },
+  "payment": {
+    "header_title": "ክፍሊት",
+    "total_amount": "ጠቕላላ መጠን",
+    "platform_fee": "ናይ መድረኽ ክፍሊት",
+    "lawyer_receives": "ጠበቓ ዝቕበሎ",
+    "pay_button": "ክፈል £ {{amount}}",
+    "preparing_payment": "ውሑስ ክፍሊት እናተዳለወ ኣሎ...",
+    "alerts": {
+      "error_title": "ጌጋ",
+      "init_failed": "ክፍሊት ምጅማር ኣይተሳኸዐን",
+      "unable_to_load": "ክፍሊት ምጽዓን ኣይከኣለን",
+      "payment_failed_title": "ክፍሊት ኣይተሳኸዐን",
+      "generic_error": "ገለ ጌጋ ተፈጢሩ",
+      "success_title": "ዓወት",
+      "success_message": "ክፍሊት ብዓወት ተዛዚሙ!"
+    },
+    "notification_title": "ክፍያ ተቐቢሉ",
+    "notification_message": "{{name}} ነቲ ክፍያ ወዲኡ። ምኽር ክትጅምሩ ትኽእሉ።"
+  },
+  "consultation": {
+    "ended_title": "ምኽሪ ተዛዚሙ",
+    "ended_message": "ግዜ ኣልቂቑ",
+    "pending": "ተጸባይ",
+    "active": "ተኸይዱ ዘሎ",
+    "completed": "ተዛዚሙ"
+  },
+  "file": {
+    "uploading_image": "ስእሊ እናተሰቀለ ኣሎ...",
+    "uploading_video": "ቪድዮ እናተሰቀለ ኣሎ...",
+    "uploading_file": "ፋይል እናተሰቀለ ኣሎ...",
+    "upload_failed": "ምስቃል ኣይተሳኸዐን",
+    "upload_failed_message": "ፋይል ምልኣኽ ኣይተኻእለን።",
+    "open_pdf": "PDF ክፈት",
+    "open_doc": "DOC ክፈት",
+    "open_file": "ፋይል ክፈት"
+  },
+  "notification": {
+    "lawyer_message": "መልእኽቲ ጠበቓ",
+    "new_message": "ሓድሽ መልእኽቲ"
+  },
+  "live": "ብቐጥታ",
+  "stripe_connected": "Stripe ተዳሊዩ",
+  "connect_with_stripe": "ብStripe ተራኸብ",
+  "payments": "ክፍሊታት",
+  "beta_instructions": "ቤታ መምርሒታት",
+  "status": {
+    "title": "ኩነታት",
+    "paid": "ተኸፊሉ",
+    "unpaid": "ኣይተኸፈለን"
+  },
+  "stripe_not_onboarded_title": "ምድላው ክፍሊት ኣይተዛዘመን",
+  "stripe_not_onboarded_message": "ጥያቄታት ምክክር ንምቕባል፣ በጃኻ ካብ ትብ ቅንብር ውሽጢ ዘሎ Stripe ምድላው ክፍሊትካ ዛዝም።",
+  "case_folder": "ፋይል ጉዳይ",
+  "case_helped": "ዝተሓገዙ ጉዳያት",
+  "satisfied": "ዕጉብ",
+  "rejected": "ተነጺጉ",
+  "withdrawn": "ተሰሒቡ",
+  "deleted": "ተሰሪዙ",
+  "consultation_history": "ታሪኽ ምኽሪ",
+  "pay": "ክፈል",
+  "start_consultation": "ምኽሪ ጀምር",
+  "waiting_for_session": "ንክፍለ ግዜ ትጽቢት ኣሎ",
+  "waiting_for_payment": "ንክፍሊት ትጽቢት ኣሎ",
+  "activity": "ንጥፈታት",
+  "one_minute_warning_title": "⏰ 1 ደቒቕ ተሪፉ",
+  "one_minute_warning_body": "ናይ ምኽሪ ክፍለ ግዜኻ ድሕሪ 1 ደቒቕ ክውዳእ እዩ።",
+  "default_notification_title": "ምልክታ",
+  "no_notifications": "ክሳብ ሕጂ ምንም ምልክታታት የሉን",
+  "i_agree": "ይሰማማዕ እየ",
+  "terms_and_conditions": "ውዕላትን ቅጥዕታትን",
+  "terms_condition_1": "1. ነዚ ኣፕ ብምጥቃም ነዚ ውዕላት ከም እትሰማማዕን እንተወሓደ ዕድሜኻ 18 ዓመት ክኸውን ኣለዎ።",
+  "terms_condition_3": "3. LawNeeds AI support assistant መሃሪ ሕጋዊ መምርሒ ይህብ። እዚ ድማ ሕጋዊ ምኽሪ ኣይኰነን።",
+  "terms_condition_4": "4. ቅኑዕን ሓቅን ሓበሬታ ናይ ምሃብ ሓላፍነት ኣለካ።",
+  "terms_condition_5": "5. ሓበሬታኻ ብሕታዊ እዩ፡ እንተኾነ ግን ናይ ኣካውንትካ መረጋገጺ ምስጢር ክትሕዞ ኣለካ።",
+  "i_dont_agree": "ኣይሰማማዕን እየ",
+  "terms_condition_2": "2. LawNeeds ሕጋዊ ሓገዝ ይህብ ግን ንሞያዊ ሕጋዊ ውክልና ኣይትክእን እዩ።",
+  "welcome_to_lawneeds": "እንቋዕ ናብ LawNeeds ብደሓን መጻእኩም!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "ቪዛ ናይ ክእለት ሰራሕተኛ",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "ቪዛ ተማሃራይ",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "ቪዛ ምብጻሕ",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "ቪዛ ዘርኢ",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "ቪዛ በዓል / መጻምድቲ",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "ተደገፍቲ PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "ምትእኽኻብ ስድራ",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (ናይ 10 ዓመት መንገዲ)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "ዜግነት ምውሳድ",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "እቅድ ምቕማጥ EU",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), ናይ መሰል ሰብ መመልከቲታት",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "መመልከቲታት ስደት (ምሉእ ድጋፍ)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "ምሉእ ምሕደራ ጉዳይ (ካብ መጀመርታ ክሳብ መወዳእታ)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "ፈጣን",
+  "basic": "መሰረታዊ",
+  "verified": "ሰነድ ተረጋጊጹ",
+  "verification_failed": "ምርግጋጽ ኣይተሳኽዐን",
+  "verification_cancelled": "ምርግጋጽ ተሰሪዙ",
+  "delete_review_confirm": "እዚ ግምገማ ንምድምሳስ ርግፀኛ ዲኻ?",
+  "casework_service": "Casework Service",
+  "casework_price_range": "Casework Price Range",
+  "tour_previous_chat_title": "ቀዳማይ ዕላል",
+  "tour_previous_chat_desc": "ቀደም ዝነበሩ ዕላላትኩም ኣብዚ ርአዩ።",
+  "tour_new_chat_title": "ሓድሽ ዕላል",
+  "tour_new_chat_desc": "ሓድሽ ሕጋዊ ሕቶ ንምጅማር ኣብዚ ጠውቑ።",
+  "tour_notifications_title": "ሓበሬታታት",
+  "tour_notifications_desc": "ኣገዳሲ ሓዳስን ሓበሬታታትን ኣብዚ ርአዩ።",
+  "tour_inbox_title": "ኢንቦክስ",
+  "tour_inbox_desc": "መልእኽትኹምን መልስታት ጉዳይን ኣብዚ ኣስተዳድሩ።",
+  "tour_language_title": "ቋንቋ",
+  "tour_language_desc": "ዝመረጽኩም ቋንቋ መተግበሪ ኣብዚ ምረጹ።",
+  "tour_chat_history_title": "ታሪኽ ዕላል",
+  "tour_chat_history_desc": "ቀደም ዝነበሩ ዕላላትኩም ርአዩ እሞ ቀጽሉ።",
+  "tour_current_plan_title": "ሕጂ ዘሎ ፕላን",
+  "tour_current_plan_desc": "ዝርዝር ሕጂ ዘሎ ምዝገባኹም ኣብዚ ርአዩ።",
+  "tour_usage_history_title": "ታሪኽ ኣጠቓቕማ",
+  "tour_usage_history_desc": "ክንደይ ደቓይቕን ባህርያትን ከምዝተጠቐምኩም ተኸታተሉ።",
+  "tour_request_legal_help_title": "ሕጋዊ ሓገዝ ሕተቱ",
+  "tour_request_legal_help_desc": "ምስ ሞያውያን ንምግናን ሓድሽ ሕቶ ጀምሩ።",
+  "tour_wallet_title": "ቦርሳ",
+  "tour_wallet_desc": "ሚዛን ቦርሳኹምን ንግድታትኩምን ርአዩ።",
+  "tour_top_up_title": "ተወሳኺ ገንዘብ ኣእቱ",
+  "tour_top_up_desc": "ን AI ባህርያት፣ ምስቀላትን ምኽርታትን ተወሳኺ ደቓይቕ ንምርካብ ገንዘብ ኣእቱ።",
+  "tour_search_desc": "ፍሉይ ሞያዊ ንምድላይ ሽም ጽሓፉ።",
+  "tour_explore_subscribe_plans": "ፕላንኩም ንምርኣይን ንምሻሻልን ኣብዚ ጠውቑ።",
+  "tour_explore_upgrade_plans": "ፕሪሚየም ባህርያት ንምኽፋት ፕላንኩም ኣሻሽሉ።",
+  "tour_lawyer_stripe_connected": "ኣካውንት Stripe ናትኩም ተኣሳሲሩ ኣሎ እሞ ክፍሊታት ንምቕባል ድሉው እዩ።",
+  "tour_lawyer_stripe_not_connected": "ካብ ዓማዊል ክፍሊታት ንምቕባል Stripe ኣካኣልዎ።",
+  "profile_completion": {
+    "title": "ፕሮፋይልኩም ምልኡ",
+    "description": "ንምቕጻል ቅድሚ ኩሉ ዝርዝራትኩም ኣረጋግጹ።",
+    "first_name": "ቀዳማይ ስም *",
+    "last_name": "ኣቦ ስም *",
+    "saving": "ይዕቀብ ኣሎ...",
+    "save_continue": "ዓቅቡ እሞ ቀጽሉ",
+    "update_profile_failed": "ፕሮፋይል ምዕራፍ ኣይተኻእለን"
+  },
+  "auth": {
+    "session_expired": "ናይ መእተዊ ክፍለ-ግዜኹም ኣብቂዑ እዩ። በጃኹም ደጊምኩም ፈትኑ።",
+    "login_failed": "ክንኣትወኩም ኣይከኣልናን። በጃኹም ደጊምኩም ፈትኑ።",
+    "google_login_failed": "Google መእተዊ ኣይተዓወተን። በጃኹም ደጊምኩም ፈትኑ።",
+    "apple_login_failed": "Apple መእተዊ ኣይተዓወተን። በጃኹም ደጊምኩም ፈትኑ።",
+    "authorization_failed": "ምስ ኣገልግሎት ምርግጋጽ ምግናን ኣይተኻእለን። ጸኒሕኩም ደጊምኩም ፈትኑ።",
+    "invalid_redirect": "ኣብ መእተዊ ግዜ ጌጋ ተፈጢሩ። በጃኹም ደጊምኩም ፈትኑ።",
+    "cancelled_login": "መእተዊ ተሰሪዙ።",
+    "invalid_response": "መእተዊኹም ክንውድእ ኣይከኣልናን። በጃኹም ደጊምኩም ፈትኑ።"
+  },
+  "tour_service_request_title": "ሕቶ",
+  "tour_service_request_desc": "ንሕጋዊ ባለሙያ ቀጥታ ናይ ኣገልግሎት ሕቶ ስደዱ። ቅጥዒ ምሉእ፣ እንተድላይ መዝገብ ወይ ሰነድ ወስኹ፣ እቲ ባለሙያ ምስ ዝተገኝ መልእኽቲ ይቕበል።",
+  "tour_request_form_title": "ቅጥዒ ሕቶ",
+  "tour_request_form_desc": "ብዛዕባ ሕጋዊ ጉዳይኩም፣ ናይ ምኽሪ ድሌታትን ህጹጽነትን ሓበሬታ ሃቡ። ንባለሙያ ኩነታትኩም ንኽርድእ ሰነዳት ክትጽዕኑ ወይ ድምጺ መዝገባት ክትውስኹ ትኽእሉ።",
+  "no_data": "ዳታ የለን",
+  "duplicate_file_attached": "\"{{filename}}\" ቀዲሙ ተደሚሩ ኣሎ።",
+  "duplicate_file_attached_as": "\"{{filename}}\" ቀዲሙ ከም \"{{existingLabel}}\" ተደሚሩ ኣሎ።",
+  "consultation_consent_prefix": "ብምጥዋቕ",
+  "consultation_consent_middle": ", ምኽንያቱ ምኽርኹም ውሽጢ 14 መዓልቲ እንተተዋሂቡ፣ ናይ ሕጋዊ ምስርዛይ መሰልኩም ደጊም ኣይተግበርን ክብሉ ትቕበሉ። ክሳብ ሕጂ ንምስረዝ ወይ ንምልዋጥ ትኽእሉ ብመሰረት",
+  "cancellation_policy": "መምርሒ ምስራዝ",
+  "home_actions": {
+    "ask_ai": "LawNeeds AI ሕተቱ",
+    "ask_ai_description": "ካብ LawNeeds AI ቻትቦት መምርሒ ረኸቡ።",
+    "find_professional": "በዓል ሞያ ድለዩ",
+    "find_professional_description": "ክሕግዘኩም ዝኽእል ሕጋዊ በዓል ሞያ ድለዩ።",
+    "book_consultation": "ምኽክር ያዙ",
+    "book_consultation_description": "ምኽክር ንምድላው መስርሕ ምልኣኽ ጀምሩ።"
+  }
+}

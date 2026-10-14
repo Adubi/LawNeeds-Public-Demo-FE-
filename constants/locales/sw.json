@@ -1,0 +1,1452 @@
+{
+  "submit": "Wasilisha",
+  "cancel": "Ghairi",
+  "done": "Imekamilika",
+  "ok": "Sawa",
+  "next": "Ifuatayo",
+  "save": "Hifadhi",
+  "privacy_policy": "Sera ya Faragha",
+  "terms_n_conditions": "Sheria na Masharti",
+  "per": {
+    "camera_roll": "Ruhusa ya kufikia picha inahitajika.",
+    "microphone_access": "Ruhusa ya maikrofoni inahitajika.",
+    "permission_denied": "Ruhusa imekataliwa",
+    "notification_permission_not_granted": "Ruhusa ya arifa haikutolewa"
+  },
+  "policy_text": {
+    "i_agree": "Nakubali",
+    "i_dont_agree": "Sikubali",
+    "label_1": "1. Taarifa tunazokusanya.",
+    "label_2": "2. Jinsi tunavyokusanya.",
+    "label_3": "3. Matumizi ya taarifa.",
+    "label_4": "4. Ugawaji wa taarifa.",
+    "label_5": "5. Usalama wa data.",
+    "label_6": "6. Haki zako.",
+    "label_7": "7. Kategoria maalum: Ninatoa idhini yangu wazi kwa uchakataji wa data yoyote ya kategoria maalum ninayotoa, ikijumuisha taarifa kuhusu asili yangu ya kikabila na data nyingine nyeti za kibinafsi, kwa madhumuni ya kujibu ombi langu. Ninaweza kuondoa idhini yangu wakati wowote kwa kutuma barua pepe kwa info@lawneeds.co.uk.",
+    "policy_details": "Sera hii inaeleza matumizi ya data.",
+    "review_message": "Tafadhali pitia",
+    "privacy_policy": "Sera yetu ya faragha"
+  },
+  "tab": {
+    "account": "Akaunti",
+    "chat": "Gumzo",
+    "home": "Nyumbani",
+    "settings": "Mipango",
+    "inbox": "Kikasha",
+    "search": "Tafuta"
+  },
+  "profile": {
+    "firm_name": "Jina la kampuni",
+    "practice_areas_label": "Maeneo ya mazoezi",
+    "services": "Huduma",
+    "first_name": "Jina la kwanza",
+    "last_name": "Jina la mwisho",
+    "about": "Kuhusu",
+    "skills": "Ujuzi",
+    "organisation_name": "Jina la shirika",
+    "areas_of_legal_focus": "Maeneo ya kisheria",
+    "professional_employer": "Mwajiri",
+    "area_of_legal_expertise": "Eneo la utaalamu wa kisheria",
+    "max_of_four": "Kiwango cha juu ni nne",
+    "max_of_two": "Kiwango cha juu ni mbili",
+    "characters": "herufi",
+    "please_select": "Tafadhali chagua",
+    "account_security": "Usalama wa akaunti",
+    "details": "Maelezo",
+    "edit_details": "Hariri maelezo",
+    "no_name": "Hakuna jina",
+    "profile_updated_success": "Wasifu umeboreshwa kwa mafanikio",
+    "company_name": "Jina la kampuni",
+    "enter_your_company_name": "Weka jina la kampuni yako",
+    "achievements": "Mafanikio",
+    "enter_your_achievements": "Weka mafanikio yako",
+    "timeline": "Muda wa matukio",
+    "start_date": "Tarehe ya kuanza",
+    "end_date": "Tarehe ya mwisho",
+    "add_another_section": "Ongeza sehemu nyingine",
+    "add_section": "Ongeza sehemu"
+  },
+  "success": {
+    "success": "Mafanikio",
+    "success_sent_code": "Msimbo wa uthibitisho umetumwa kwa mafanikio."
+  },
+  "error": {
+    "title": "Hitilafu",
+    "error_msg": "Kuna hitilafu imetokea. Tafadhali jaribu tena.",
+    "session_expired": "Kikao kimekwisha muda",
+    "login_again": "Tafadhali ingia tena ili kuendelea.",
+    "token_missing": "Tokeni ya uthibitisho haipo.",
+    "error_process_audio": "Hitilafu imetokea wakati wa kuchakata sauti.",
+    "error_process_file": "Hitilafu ilitokea wakati wa kupakia faili.",
+    "try_again": "Samahani, hitilafu imetokea. Tafadhali jaribu tena.",
+    "no_use_session": "Hakuna kikao cha mtumiaji kilichopatikana. Tafadhali ingia tena.",
+    "invalid_response_token_not_found": "Jibu batili: Tokeni haikupatikana",
+    "fill_all_fields": "Tafadhali jaza sehemu zote",
+    "network_error": "Hitilafu ya mtandao. Tafadhali angalia muunganisho wako wa intaneti.",
+    "session_expired_login": "Kikao chako kimeisha. Tafadhali ingia tena.",
+    "no_permission": "Huna ruhusa ya kutekeleza kitendo hiki.",
+    "resource_not_found": "Rasilimali iliyoombwa haikupatikana.",
+    "invalid_data": "Taarifa zisizo sahihi zimetolewa. Tafadhali kagua na ujaribu tena.",
+    "server_error": "Hitilafu ya seva. Tafadhali jaribu tena baadaye.",
+    "something_went_wrong": "Kuna kitu kimeenda vibaya. Tafadhali jaribu tena.",
+    "case_not_found": "Kesi haikupatikana",
+    "failed_to_process_request": "Ombi la huduma halikuweza kuchakatwa"
+  },
+  "change_email": {
+    "send_instruction": "Tuma maelekezo",
+    "go_back": "Rudi nyuma",
+    "create_new_pass": "Unda nenosiri jipya",
+    "current_email": "Barua pepe ya sasa",
+    "enter_current_email": "Weka barua pepe ya sasa na mpya.",
+    "new_email": "Barua pepe mpya",
+    "check_your_mail": "Angalia barua pepe yako",
+    "check_mail_for_verify_account": "Tumetuma msimbo wa uthibitisho kwenye barua pepe yako. Weka hapa chini.",
+    "check_mail_for_reset_pass": "Tumetuma msimbo wa uthibitisho kwenye barua pepe yako. Weka ili kuweka upya nenosiri.",
+    "enter_verification_code": "Weka msimbo wa uthibitisho",
+    "go_back_login": "Rudi kwenye kuingia",
+    "not_recd_mail": "Hujapokea barua pepe? Angalia spam au",
+    "try_other_email": "Jaribu barua pepe nyingine",
+    "resend_code": "Tuma tena msimbo",
+    "verify_mail": "Thibitisha barua pepe yako",
+    "click_link_to_verify_mail": "Bonyeza kiungo kuthibitisha barua pepe mpya",
+    "skip_confirm_later": "Ruka, nitathibitisha baadaye",
+    "email_updated": "Barua pepe imesasishwa"
+  },
+  "landing": {
+    "welcome_to": "Karibu kwenye",
+    "immigration": "Msaada wa uhamiaji umefanywa rahisi",
+    "create_account": "Unda akaunti",
+    "log_in": "Ingia",
+    "or": "au",
+    "create_pro": "Unda akaunti ya Pro",
+    "select_pro": "Chagua akaunti ya Pro",
+    "lawyer": "Wakili",
+    "law_firm": "Kampuni ya sheria",
+    "hr_legal": "HR/Sheria (SME)",
+    "a2j_partners": "Washirika wa A2J",
+    "screen_not_exist": "Skrini hii haipo.",
+    "go_to_home_screen": "Nenda kwenye ukurasa wa nyumbani!"
+  },
+  "login": {
+    "password": "Nenosiri",
+    "login": "Ingia",
+    "remember_me": "Nikumbuke",
+    "forgot_password": "Umesahau nenosiri?",
+    "need_account": "Unahitaji akaunti?",
+    "signup": "Jisajili"
+  },
+  "reset_password": "Weka upya nenosiri",
+  "create_new_password": "Unda nenosiri jipya",
+  "create_account": {
+    "first_name": "Jina la kwanza",
+    "last_name": "Jina la mwisho",
+    "date_of_birth": "Tarehe ya kuzaliwa",
+    "country": "Nchi",
+    "select_country": "Chagua nchi",
+    "next": "Ifuatayo",
+    "create_account": "Unda akaunti",
+    "date_of_incorporate": "Tarehe ya usajili",
+    "create_pro_account": "Unda akaunti ya Pro",
+    "hr_legal_account": "Akaunti ya HR/Sheria",
+    "lawyer_account": "Akaunti ya wakili",
+    "law_firm_account": "Akaunti ya kampuni ya sheria",
+    "a2j_partners_account": "Akaunti ya A2J",
+    "firm_name": "Jina la kampuni",
+    "organisation_name": "Jina la shirika",
+    "date_of_establishment": "Tarehe ya kuanzishwa",
+    "areasOfLegalFocus": "Maeneo ya kisheria",
+    "selectAreasOfLegalFocus": "Chagua maeneo ya kisheria",
+    "contactPerson": "Mtu wa mawasiliano",
+    "registrationCharityNumber": "Nambari ya usajili",
+    "searchAddress": "Tafuta anwani",
+    "town": "Mji",
+    "postcode": "Msimbo wa posta",
+    "address": "Anwani",
+    "please_select": "Tafadhali chagua:",
+    "legalAidOrganisation": "Shirika la msaada wa kisheria",
+    "lawCentre": "Kituo cha sheria",
+    "proBonoClinic": "Kliniki ya bure",
+    "profile_photo": "Picha ya wasifu",
+    "profile_photo_required": "Picha ya wasifu inahitajika kwa akaunti ya Pro",
+    "upload": "Pakia",
+    "please_agree_text": "Tafadhali kubali masharti yetu",
+    "signup_agreement_text": "Kwa kujisajili, unakubali",
+    "terms_of_service": "Masharti ya huduma",
+    "and_text": "na",
+    "agree_proceed_button": "Kubali na endelea",
+    "select_practice_area": "Chagua eneo la mazoezi",
+    "already_have_account": "Tayari una akaunti?",
+    "account_creat_success": "Akaunti imeundwa kwa mafanikio!",
+    "access_detail_msg_legal_assistance": "Sasa unaweza kupata msaada wa kisheria uliobinafsishwa.",
+    "select_practice_areas": "Chagua maeneo ya mazoezi",
+    "contact_person_partner": "Mtu wa mawasiliano/Mshirika",
+    "company_regi_number": "Nambari ya usajili wa kampuni",
+    "enter_sra_number": "Weka nambari ya SRA",
+    "enter_bar_number": "Weka nambari ya BAR",
+    "enter_iaa_number": "Weka nambari ya IAA",
+    "verify_document": "Thibitisha hati ya utambulisho",
+    "reverify_document": "Thibitisha tena hati"
+  },
+  "validation": {
+    "missing_info": "Taarifa hazijakamilika",
+    "enter_your_name": "Tafadhali weka jina lako",
+    "enter_your_email": "Tafadhali weka barua pepe yako",
+    "enter_your_phone": "Tafadhali weka nambari yako ya simu",
+    "enter_feedback": "Tafadhali weka maoni",
+    "valid_first_name": "Jina lazima liwe na angalau herufi 2.",
+    "valid_last_name": "Jina la mwisho lazima liwe na angalau herufi 2.",
+    "select_dob": "Tafadhali chagua tarehe ya kuzaliwa.",
+    "select_country": "Tafadhali chagua nchi.",
+    "enter_city": "Sehemu ya mji haiwezi kuwa tupu.",
+    "enter_postcode": "Msimbo wa posta hauwezi kuwa tupu.",
+    "enter_address": "Anwani haiwezi kuwa tupu.",
+    "valid_user_name": "Jina la mtumiaji lazima liwe na angalau herufi 3.",
+    "valid_email": "Tafadhali weka barua pepe sahihi.",
+    "valid_password": "Nenosiri lazima liwe na angalau herufi 8 na liwe na nambari.",
+    "valid_organisation": "Jina la shirika lazima liwe na angalau herufi 2.",
+    "valid_town": "Sehemu ya mji haiwezi kuwa tupu.",
+    "enter_date_of_incorporate": "Tafadhali chagua tarehe ya usajili.",
+    "enter_confirm_password": "Tafadhali weka nenosiri lako la kuthibitisha",
+    "valid_confirm_password": "Nenosiri la kuthibitisha lazima liwe na angalau herufi 8 na liwe na angalau namba moja.",
+    "password_not_match": "Nenosiri hazilingani.",
+    "enter_first_name": "Tafadhali weka jina lako la kwanza",
+    "enter_last_name": "Tafadhali weka jina lako la mwisho",
+    "document_expired": "Hati yako imekwisha muda wake. Tafadhali pakia hati halali.",
+    "document_invalid": "Uthibitishaji wa hati umeshindwa. Tafadhali jaribu tena."
+  },
+  "account": {
+    "practice_areas": "Maeneo ya mazoezi",
+    "services": "Huduma",
+    "details": "Maelezo",
+    "licence": "Leseni",
+    "org_type": "Aina ya shirika",
+    "go_back_home": "Rudi kwenye ukurasa wa nyumbani"
+  },
+  "chat": {
+    "get_started": "Anza",
+    "new_chat": "Mazungumzo mapya",
+    "previous_chat": "Mazungumzo yaliyopita",
+    "title": "Mazungumzo",
+    "waiting": "Inasubiri...",
+    "help": "Msaada",
+    "end_chat": "Maliza mazungumzo",
+    "chat_place_holder": "Tuma ujumbe kwa LawNeeds",
+    "uploading_file": "{{count}} viambatisho vinapakiwa: {{names}}",
+    "files_uploaded_success": "{{count}} viambatisho vimepakiwa kwa mafanikio.",
+    "uploading_voice_note": "Ujumbe wa sauti unapakiwa...",
+    "voice_note_uploaded_success": "Ujumbe wa sauti umefanikiwa kupakiwa",
+    "open_pdf": "Fungua PDF",
+    "sample_questions_title": "Maswali ya mfano",
+    "you_selected": "Umechagua: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Habari "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "mimi "
+      },
+      {
+        "type": "token",
+        "content": "ni "
+      },
+      {
+        "type": "token",
+        "content": "msaidizi "
+      },
+      {
+        "type": "token",
+        "content": "wa "
+      },
+      {
+        "type": "token",
+        "content": "msaada "
+      },
+      {
+        "type": "token",
+        "content": "wa "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Ninatoa "
+      },
+      {
+        "type": "token",
+        "content": "taarifa "
+      },
+      {
+        "type": "token",
+        "content": "tu"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "si "
+      },
+      {
+        "type": "token",
+        "content": "ushauri "
+      },
+      {
+        "type": "token",
+        "content": "wa "
+      },
+      {
+        "type": "token",
+        "content": "kitaalamu"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Ninawezaje "
+      },
+      {
+        "type": "token",
+        "content": "kukusaidia "
+      },
+      {
+        "type": "token",
+        "content": "leo"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Imeshindikana kupakia mazungumzo. Tafadhali jaribu tena.",
+    "voice_note_ready": "Sauti imeandaliwa",
+    "tap_to_record": "Gusa 🔴 kuanza kurekodi",
+    "preview_files": "Hakiki faili",
+    "file_selected": "Faili imechaguliwa",
+    "files_selected": "Faili zimechaguliwa",
+    "upload_files": "Pakia",
+    "tap_to_preview": "Gusa ili kukagua",
+    "add": "Ongeza",
+    "today": "Leo",
+    "last_week": "Wiki iliyopita",
+    "last_month": "Mwezi uliopita"
+  },
+  "setting": {
+    "select_language": "Chagua lugha",
+    "settings": "Mipangilio",
+    "app_language": "Lugha ya programu",
+    "choose_language": "Chagua lugha",
+    "notifications": "Arifa",
+    "submit_feedback": "Msaada",
+    "about": "Kuhusu",
+    "our_philosophy": "Falsafa yetu",
+    "account_management": "Usimamizi wa akaunti",
+    "logout": "Ondoka"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Dira yetu",
+    "our_vision_desc": "Katika LawNeeds, tunaamini kuwa msaada wa kisheria unaoaminika, hasa katika masuala ya uhamiaji, unapaswa kupatikana kwa kila mtu, wakati wowote na mahali popote. Kwa kuwa simu janja ni sehemu muhimu ya maisha ya kila siku, tupo hapa kusaidia watu kuendesha maisha yao nchini Uingereza kupitia msaada wa kisheria rahisi na wa kuaminika.",
+    "our_services_header": "Huduma zetu",
+    "our_services_desc": "Programu yetu ya simu, inayojumuisha tu kampuni za sheria zilizosajiliwa, mawakili wenye leseni na washauri wa uhamiaji, inatoa huduma maalum za kisheria kwa kuzingatia sana sheria za uhamiaji. Tunasaidia watu binafsi, familia, wanafunzi na wataalamu kuishi na kuelewa maisha nchini Uingereza. Kadri tunavyokua, watumiaji pia watapata utaalamu katika sheria ya ajira, sheria ya familia na makosa ya trafiki barabarani, yote yakitolewa kwa urahisi kwa kubonyeza mara chache tu.",
+    "innovation_header": "Ubunifu wa hali ya juu",
+    "innovation_desc": "Katika LawNeeds, ubunifu unaongoza kila tunachofanya. Tunatumia nguvu ya AI kutoa mwongozo wa kisheria wa papo hapo, saa 24 kwa siku, na mapendekezo ya uhamiaji yaliyobinafsishwa kulingana na eneo na hali ya kila mtumiaji.",
+    "community_header": "Jamii na ukuaji",
+    "community_desc": "LawNeeds ni zaidi ya programu — ni jamii. Tunawawezesha wahamiaji na kusaidia wataalamu wa sheria kukuza kazi zao kupitia jukwaa na vipengele vyetu vya ubunifu.",
+    "commitment_header": "Ahadi ya ubora",
+    "commitment_desc": "LawNeeds inaunganisha teknolojia ya AI na usimamizi wa kisheria wa binadamu. Mfumo wetu umefunzwa kwa kutumia data ya kisheria ya kipekee ya Uingereza, kukaguliwa na mawakili wa ndani, na kusasishwa kila wakati kulingana na mabadiliko ya sheria na vyanzo vilivyothibitishwa, kuhakikisha mwongozo wa kuaminika kila hatua.",
+    "join_us_header": "Jiunge nasi",
+    "join_us_desc": "Kadri tunavyoendelea kukua, tunakualika ujiunge nasi — iwe unatafuta msaada wa kisheria au unapanua kazi yako ya sheria. Katika LawNeeds, mafanikio yako ndiyo dhamira yetu."
+  },
+  "support": {
+    "support_desc": "Tusaidie kuboresha LawNeeds kwa kushiriki mawazo yako, matatizo au mapendekezo hapa chini",
+    "feedback_success": "Maoni yamewasilishwa kwa mafanikio",
+    "name": "Jina",
+    "comment": "Maoni",
+    "address": "Ofisi iliyosajiliwa: 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Sheria ya uhamiaji"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "Sheria ya ajira"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Makosa ya trafiki barabarani"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "Sheria ya familia"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Utafiti wa kisheria"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Uandishi wa kisheria"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Uchambuzi wa kesi"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Uandishi wa mikataba"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Majadiliano"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Ushauri wa mteja"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Uwakilishi mahakamani"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Upatanishi"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Usuluhishi"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Uchunguzi wa kina"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Ukaguzi wa ufuasi"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Tathmini ya hatari"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Mkakati wa kisheria"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Mahojiano ya msalaba"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Uandishi wa muhtasari"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Ushahidi wa maandishi"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Ugunduzi"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Majadiliano ya makubaliano"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Uchambuzi wa kanuni"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "Sheria ya kimataifa"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Mali ya kiakili"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Muunganiko na ununuzi"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Utawala wa kampuni"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Mahusiano ya ajira"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Taratibu za uhamiaji"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "Sheria ya uhamiaji"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "Sheria ya familia"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "Sheria ya ajira"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "Sheria ya jinai"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "Sheria ya kampuni"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "Sheria ya mali"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Madhara ya binafsi"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Mali ya kiakili"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "Sheria ya kodi"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "Sheria ya mikataba"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Madai ya kisheria"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Upatanishi"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Usuluhishi"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Ushauri wa kisheria"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Ukaguzi wa nyaraka"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Utafiti wa kisheria"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Ufuasi"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Muunganiko na ununuzi"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Benki na fedha"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "Sheria ya bima"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "Sheria ya mazingira"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Haki za binadamu"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "Sheria ya kimataifa"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "Sheria ya utawala"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "Sheria ya katiba"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Ushauri wa mara moja"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Msaada unaoendelea"
+    },
+    {
+      "key": "casework",
+      "label": "Kazi ya kesi"
+    },
+    {
+      "key": "not_sure",
+      "label": "Sijui bado"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Kawaida (siku 5-7)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Kipaumbele (siku 2-3)"
+    },
+    {
+      "key": "urgent",
+      "label": "Haraka (siku hiyo hiyo au siku inayofuata)"
+    }
+  ],
+  "search": {
+    "professionals": "Wataalamu",
+    "city": "Jiji",
+    "distance": "Umbali",
+    "top_rated": "Waliokadiriwa juu",
+    "more": "Zaidi",
+    "request": "Ombi",
+    "request_service": "Omba huduma",
+    "service": "Huduma",
+    "select_service": "Chagua huduma",
+    "urgency": "Uharaka",
+    "select": "Chagua",
+    "additional_notes": "Maelezo ya ziada",
+    "service_request_success": "Ombi lako la huduma limetumwa kwa mafanikio",
+    "issue_type": "Aina ya tatizo",
+    "budget": "Bajeti",
+    "select_consultation": "Chagua ushauri",
+    "consultation": "Ushauri",
+    "time_n_rate": "Muda na bei"
+  },
+  "reset_password_info": "Weka barua pepe inayohusiana na akaunti yako na tutakutumia barua pepe yenye maelekezo ya kuweka nenosiri jipya",
+  "tap_to_upload_image": "Gusa kupakia picha",
+  "record": "Rekodi",
+  "media": "Midia",
+  "attach": "Ambatisha",
+  "sort_by": "Panga kwa",
+  "apply": "Tumia",
+  "select_date": "Chagua tarehe",
+  "day": "Siku",
+  "month": "Mwezi",
+  "year": "Mwaka",
+  "present": "Sasa",
+  "sector": "Sekta",
+  "hr": "Rasilimali watu",
+  "legal": "Kisheria",
+  "both": "Zote mbili",
+  "identity_card": "Kitambulisho",
+  "passport": "Pasipoti",
+  "drivers_license": "Leseni ya udereva",
+  "law_centre": "Kituo cha kisheria",
+  "legal_aid_organisation": "Shirika la msaada wa kisheria",
+  "beta": "Beta",
+  "logged_in": "Umeingia",
+  "select_reason": "Chagua sababu",
+  "select_area_of_legal_expertise": "Chagua eneo la utaalamu wa kisheria",
+  "confirm_password": "Thibitisha nenosiri",
+  "enter_new_password_below": "Weka nenosiri lako jipya hapa chini",
+  "select_a_country": "Chagua nchi",
+  "open_email_app": "Fungua programu ya barua pepe",
+  "request_details": "Maelezo ya ombi",
+  "accept": "Kubali",
+  "reject": "Kataa",
+  "request_reject_message": "Ombi la huduma limekataliwa kwa mafanikio",
+  "document_view": "Mwonekano wa hati",
+  "loading_document": "Inapakia hati",
+  "service_issue_type": "Chagua aina ya tatizo la huduma",
+  "select_consultation_type": "Chagua aina ya ushauri",
+  "urgency_level": "Chagua kiwango cha uharaka",
+  "budget_input": "Weka bajeti",
+  "attachments": "Viambatisho",
+  "user_label": "Wewe",
+  "timestamp": "Sasa hivi",
+  "voice_note": "Ujumbe wa sauti",
+  "comment_placeholder": "Andika maoni...",
+  "messages": "Ujumbe",
+  "edit": "Hariri",
+  "copy": "Nakili",
+  "select_consultation_time": "Chagua muda wa ushauri",
+  "request_cancel_success": "Ombi la huduma limeghairiwa kwa mafanikio",
+  "accept_request_message": "Una uhakika unataka kukubali ombi hili?",
+  "reject_request_message": "Una uhakika unataka kukataa ombi hili?",
+  "delete_request_message": "Je, kweli unataka kufuta ombi hili?",
+  "withdraw_request_message": "Je, kweli unataka kuondoa ombi hili?",
+  "yes": "Ndiyo",
+  "no": "Hapana",
+  "accepted": "Imekubaliwa",
+  "cancelled": "Imeghairiwa",
+  "pending": "Inasubiri",
+  "consultation_time": "Muda wa ushauri",
+  "consultation_type": "Aina ya ushauri",
+  "recommended_professionals": "Wataalamu waliopendekezwa:",
+  "continue": "Endelea",
+  "image": "Picha",
+  "delete_account": "Futa akaunti",
+  "delete": "Futa",
+  "delete_confirmation_message": "Una uhakika unataka kufuta akaunti yako? Hatua hii haiwezi kurejeshwa.",
+  "delete_account_error_message": "Kuna hitilafu ilitokea wakati wa kufuta akaunti yako.",
+  "place_holder_additional_notes": "Andika maelezo yoyote ya ziada kuhusu suala lako la kisheria...",
+  "upload_options": "Chaguo za kupakia:",
+  "select_option": "Tafadhali chagua chaguo:",
+  "skip": "Ruka",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "Sheria ya uhamiaji"
+    },
+    {
+      "key": "employment",
+      "label": "Sheria ya ajira"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Makosa ya trafiki barabarani"
+    },
+    {
+      "key": "family",
+      "label": "Sheria ya familia"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Haraka"
+    },
+    {
+      "key": "within_week",
+      "label": "Ndani ya wiki moja"
+    },
+    {
+      "key": "within_month",
+      "label": "Ndani ya mwezi mmoja"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Sio haraka"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Chagua aina ya tatizo"
+    },
+    {
+      "key": "urgency",
+      "name": "Chagua kiwango cha uharaka"
+    },
+    {
+      "key": "consultation",
+      "name": "Chagua ushauri"
+    },
+    {
+      "key": "select_time",
+      "name": "Chagua muda na gharama"
+    },
+    {
+      "key": "select-budget",
+      "name": "Chagua bajeti"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "Dakika 5 (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "Dakika 10 (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "Dakika 20 (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "Dakika 30 (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "Saa 1 (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "Siku 3 (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "Siku 5 (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Zaidi ya £700"
+    }
+  ],
+  "sample_questions": [
+    "Omba mtaalamu wa kisheria",
+    "Je, ninastahili visa ya Skilled Worker?",
+    "Ninawezaje kuongeza muda wa visa yangu ya mwanafunzi?",
+    "Ni sheria gani za Indefinite Leave to Remain?",
+    "Ninawezaje kuomba hifadhi nchini Uingereza?",
+    "Inachukua muda gani kupata uamuzi wa visa?"
+  ],
+  "rate_of_hour": "Kiwango cha saa",
+  "search_country": "Tafuta nchi",
+  "review_error": "Maoni hayawezi kuwa tupu.",
+  "rating_validation": "Tafadhali chagua ukadiriaji kati ya nyota 1 hadi 5.",
+  "create_account_with": "Unda akaunti kwa",
+  "login_with": "Ingia kwa",
+  "create_account_email_password": "Barua pepe/Nenosiri",
+  "sign_in_with_apple": "Ingia kwa Apple",
+  "sign_in_with_google": "Ingia kwa Google",
+  "no_cases_available": "Hakuna kesi zilizopo",
+  "no_active_cases_available": "Hakuna kesi zinazofanya kazi",
+  "no_pending_cases_available": "Hakuna kesi zinazosubiri",
+  "back": "Rudi",
+  "submit_review": "Tuma maoni",
+  "delete_review": "Futa maoni",
+  "member_since": "Mwanachama tangu",
+  "work_experience": "Uzoefu wa kazi",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Utaalamu",
+  "professional_details": "Maelezo ya kitaaluma",
+  "review_professional": "Kagua mtaalamu",
+  "no_reviews": "Hakuna maoni bado. Kuwa wa kwanza!",
+  "reviews": "Maoni",
+  "thanks_feedback": "Asante kwa maoni yako!",
+  "accept_case_notification_header": "Wakili amekubali ombi lako! 🎉",
+  "accept_case_notification_message_part": " amekubali kesi yako na yuko tayari kukusaidia.",
+  "reject_case_notification_header": "Sasisho la rufaa",
+  "reject_case_notification_message_part": " hawezi kuchukua kesi yako kwa sasa.",
+  "delete_case_notification_header": "Ombi limefutwa",
+  "withdraw_case_notification_header": "Ombi limeondolewa",
+  "delete_case_notification_message_part": " amefuta ombi lake.",
+  "withdraw_case_notification_message_part": " ameondoa ombi lake.",
+  "manuscript": "Muswada",
+  "share_dialog_title": "Shiriki au pakua muswada",
+  "certifications": "Vyeti",
+  "queries_left": "Maswali ya AI yaliyobaki",
+  "voice_notes_limit": "Sauti",
+  "uploads_limit": "Upakiaji",
+  "docgen_limit": "Uundaji wa nyaraka",
+  "current_plan": "Mpango wa sasa",
+  "faqs": "Maswali yanayoulizwa mara kwa mara",
+  "wallet": "Mkoba",
+  "subscription": {
+    "plans_pricing_title": "Mipango na Bei",
+    "plans_pricing_subtitle": "Fungua dakika zaidi na vipengele vya premium",
+    "syncing_account": "Akaunti inasawazishwa...",
+    "processing_purchase": "Ununuzi unachakatwa...",
+    "plan_unavailable_title": "Mpango haupatikani",
+    "plan_unavailable_message": "Hatukuweza kupata mpango huu dukani.",
+    "purchase_error_title": "Hitilafu ya ununuzi",
+    "purchase_error_message": "Hitilafu isiyotarajiwa imetokea.",
+    "upgrade_plans": "Boresha mipango",
+    "plan_unlimited": "Bila kikomo",
+    "plan_premium": "Premium",
+    "plan_standard": "Kawaida",
+    "plan_free_label": "Bure daima",
+    "billing_annually": "Kila mwaka",
+    "feature_voice_notes": "Vidokezo vya sauti",
+    "feature_uploads": "Upakiaji",
+    "feature_shared_pool": "Hifadhi ya pamoja kwa Sauti, Upakiaji na Nyaraka",
+    "feature_free_consultation": "dakika za ushauri bure",
+    "feature_priority_support": "Msaada wa kibinadamu wa kipaumbele umejumuishwa",
+    "feature_ai_queries": "Maswali ya maandishi ya AI",
+    "feature_limited": "Imewekewa kikomo",
+    "feature_standard_limits": "Mipaka ya kawaida inatumika",
+    "feature_query_reset": "Kikomo cha maswali kinarejeshwa saa 12am",
+    "feature_rollover": "Uhamisho unaruhusiwa",
+    "feature_images_max": "Picha za juu",
+    "feature_document_max": "Nyaraka za juu",
+    "feature_mb": "MB",
+    "feature_pages": "kurasa",
+    "label_default_plan": "Mpango chaguomsingi",
+    "cta_subscribe_now": "Jiandikishe sasa",
+    "wallet_loading": "Wallet inapakiwa...",
+    "wallet_title": "Mkoba",
+    "wallet_balance": "Salio linalopatikana",
+    "unit_minute": "Dakika",
+    "wallet_top_up": "Ongeza salio",
+    "wallet_transactions": "Miamala ya hivi karibuni",
+    "transaction_plan_purchase": "Ununuzi wa mpango",
+    "transaction_legal_query": "Swali la kisheria",
+    "transaction_document_process": "Usindikaji wa nyaraka",
+    "reference_label": "Rejea:",
+    "plan_free": "Bure",
+    "unit_min": "dak"
+  },
+  "user_name": "Jina la mtumiaji",
+  "email": "Barua pepe",
+  "phone_number": "Nambari ya simu",
+  "urgent": "Dharura",
+  "contact_support": "Wasiliana na msaada",
+  "minutes": "Dakika",
+  "freemium": {
+    "modal": {
+      "title": "Kikomo cha maswali kimefikiwa",
+      "timer_label": "Jaribu tena baada ya",
+      "timer_format": "{{minutes}} dk {{seconds}} sek",
+      "upgrade_cta": "Boresha mpango",
+      "loading_text": "Maswali yako yanafunguliwa…",
+      "watch_ad_cta": "📺 Tazama tangazo (+{{count}} maswali)",
+      "limit_note": "Kikomo cha freemium: {{count}} maswali / {{hours}} saa",
+      "description": "Umetumia maswali yote {{count}} ya bure katika {{hours}} saa zilizopita.",
+      "buy_pass": "{{price}} maswali bila kikomo leo"
+    },
+    "banner": {
+      "plan_label": "MPANGO {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} maswali yaliyobaki",
+      "daily_pass_active": "✨ Pasi ya kila siku iko hai",
+      "upgrade_cta": "Boresha",
+      "usage_labels": {
+        "voice_notes": "Vidokezo vya sauti",
+        "uploads": "Upakiaji",
+        "docs": "Nyaraka"
+      },
+      "daily_pass": {
+        "title": "🚀 Fungua bila kikomo leo",
+        "description": "Pata maswali ya AI bila kikomo hadi usiku wa manane kwa pasi ya kila siku ya {{price}}.",
+        "cta": "Pata pasi ya kila siku – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Kikomo kimefikiwa",
+      "upgrade_cta": "Boresha mpango wako ili kuendelea",
+      "wait_info": "Au subiri kisha ujaribu tena baada ya: {{time}}",
+      "body_message": "Umefikia kikomo chako cha bure. Boresha au subiri ili kuendelea."
+    }
+  },
+  "plan_card": {
+    "plan_label": "Mpango",
+    "billing": {
+      "per_period": "kwa kila {{period}}",
+      "always_free": "Bure daima",
+      "discount_badge": "{{discount}}% PUNGUZO MWEZI WA KWANZA",
+      "per_mins": "{{minutes}} dakika"
+    },
+    "toggle": {
+      "annual": "Kila mwaka",
+      "monthly": "Kila mwezi",
+      "weekly": "Kila wiki",
+      "daily": "Kila siku"
+    },
+    "features": {
+      "voice_notes": "Vidokezo vya sauti",
+      "uploads": "Upakiaji",
+      "docs": "Uundaji wa nyaraka wa AI",
+      "minutes": "Dakika",
+      "ai_queries": "Maswali ya maandishi ya AI",
+      "rollover": "Uhamisho unaruhusiwa",
+      "shared_pool": "• Hifadhi ya pamoja kwa Sauti, Upakiaji na Nyaraka",
+      "free_consultation": "• {{minutes}} dakika za ushauri bure zimejumuishwa",
+      "priority_support": "• Msaada wa kibinadamu wa kipaumbele umejumuishwa",
+      "file_caps_title": "Mipaka ya ukubwa wa faili na kurasa",
+      "image_max": "Picha za juu",
+      "doc_max": "Nyaraka za juu"
+    },
+    "limits": {
+      "unlimited": "Bila kikomo",
+      "limited": "Imewekewa kikomo",
+      "none": "Hakuna",
+      "yes": "Ndiyo"
+    },
+    "notes": {
+      "standard_limits": "Mipaka ya kawaida inatumika",
+      "reset_time": "Kikomo cha maswali kinarejeshwa saa 12am"
+    },
+    "cta": {
+      "default_plan": "Mpango chaguomsingi",
+      "current_plan": "Mpango wa sasa",
+      "subscribe": "Jiandikishe sasa"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Kikomo cha mwezi kimefikiwa",
+      "title_paid": "Dakika zako zimeisha",
+      "description_freemium": "Umetumia krediti zako zote 6 za kila mwezi za bure kwa Vidokezo vya sauti, Upakiaji wa faili na Uundaji wa nyaraka.",
+      "description_paid": "Huna dakika za kutosha kukamilisha kitendo hiki. Ongeza au boresha kwa zaidi.",
+      "upgrade_premium": "Boresha hadi Premium",
+      "topup_cta": "Ongeza dakika",
+      "view_usage": "Tazama matumizi ya krediti"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Ongeza dakika",
+      "subtitle": "Nunua dakika za ziada ili kuendelea.",
+      "alerts": {
+        "low_minutes": "Umetumia {{percentage}}% ya dakika zako. Ongeza sasa!",
+        "limit_reached": "Kikomo cha kuongeza cha mwezi kimefikiwa ({{used}}/{{limit}})",
+        "limit_popup_title": "Kikomo cha kuongeza kimefikiwa",
+        "limit_popup_message": "Umezidi kikomo cha kuongeza cha mwezi."
+      },
+      "slider": {
+        "label": "Dakika za kununua",
+        "minutes_value": "{{minutes}} dakika",
+        "min": "{{min}} dak",
+        "max": "{{max}} dak"
+      }
+    }
+  },
+  "show_less": "Onyesha kidogo",
+  "show_more": "Onyesha zaidi",
+  "updating_balance": "Salio linasasishwa...",
+  "usage_limits": "Mipaka ya matumizi",
+  "voice_notes": "Vidokezo vya sauti",
+  "uploads": "Upakiaji",
+  "usage_history": "Historia ya matumizi",
+  "manage_plan": "Dhibiti mpango",
+  "cancel_subscription": "Ghairi usajili",
+  "explore_premium_plans": "Chunguza mipango ya premium",
+  "used": "Imetumika",
+  "total": "Jumla",
+  "unlimited": "Bila kikomo",
+  "manage_subscription_title": "Dhibiti usajili",
+  "manage_subscription_desc": "Utaelekezwa kwenye duka ili kudhibiti mipangilio yako. Tunasikitika kukuona ukienda!",
+  "stay_with_us": "Endelea kuwa nasi",
+  "open_store_error": "Haikuwezekana kufungua kiungo cha duka.",
+  "subscription_fetch_error": "Imeshindikana kupata taarifa za usajili.",
+  "unit_min": "dak",
+  "no_transaction_yet": "Bado hakuna miamala!",
+  "feedback_hint_message": "Shiriki maelezo ya uzoefu wako",
+  "withdraw": "Ondoa",
+  "issue_summary": "Muhtasari wa tatizo",
+  "disclaimer": "Kanusho",
+  "disclaimer_message": "LawNeeds AI Support Assistant hutoa mwongozo kwa madhumuni ya taarifa pekee.",
+  "disclaimer_button": "Nakubali",
+  "filter": {
+    "title": "Chuja",
+    "sortBy": "Panga kwa",
+    "commonServices": "Huduma za kawaida",
+    "practiceAreas": "Maeneo ya mazoezi",
+    "professionalTypes": "Aina za wataalamu",
+    "sortOptions": {
+      "alphabetical": "Kialfabeti",
+      "relevance": "Uhusiano",
+      "experience": "Uzoefu"
+    }
+  },
+  "common": {
+    "upgrade_now": "Boresha sasa",
+    "close": "Funga",
+    "maybe_later": "Labda baadaye",
+    "not_now": "Sasa hapana",
+    "pay": "Lipa {{currency}}{{amount}}",
+    "total_cost": "Gharama ya jumla:",
+    "usage_limit_reached": "Kikomo cha matumizi kimefikiwa",
+    "apply": "Tumia",
+    "cancel": "Ghairi",
+    "error": "Hitilafu",
+    "success": "Mafanikio",
+    "processing": "Inachakatwa...",
+    "something_wrong": "Kuna hitilafu imetokea",
+    "no_data_available": "Hakuna data inayopatikana"
+  },
+  "daily_pass_success": "Mpango umenunuliwa kwa mafanikio!",
+  "daily_pass_not_found": "Pasi ya kila siku haikupatikana.",
+  "purchase_failed": "Ununuzi umeshindikana",
+  "expires": "Inaisha: {{expiryDate}}",
+  "active": "Inatumika",
+  "pricing": {
+    "confirm_price": "Bei maalum",
+    "propose_price": "Pendekeza bei",
+    "enter_amount": "Weka kiasi",
+    "invalid_amount": "Weka kiasi halali",
+    "amount_range": "Kiasi lazima kiwe kati ya ₹{{min}} - ₹{{max}}",
+    "range": "Kiwango",
+    "price_confirmed": "Bei imethibitishwa",
+    "price_proposed": "Bei imependekezwa",
+    "confirm_price_btn": "Thibitisha",
+    "submit_price_btn": "Wasilisha",
+    "load_failed": "Imeshindikana kupakia bei",
+    "title": "Bei",
+    "not_proposed_message": "Bei bado haijawekwa. Tafadhali weka bei ili kuendelea."
+  },
+  "payment": {
+    "header_title": "Malipo",
+    "total_amount": "Jumla ya kiasi",
+    "platform_fee": "Ada ya jukwaa",
+    "lawyer_receives": "Wakili anapokea",
+    "pay_button": "Lipa £ {{amount}}",
+    "preparing_payment": "Malipo salama yanaandaliwa...",
+    "alerts": {
+      "error_title": "Hitilafu",
+      "init_failed": "Uanzishaji wa malipo umeshindikana",
+      "unable_to_load": "Imeshindikana kupakia malipo",
+      "payment_failed_title": "Malipo yameshindikana",
+      "generic_error": "Kuna hitilafu imetokea",
+      "success_title": "Mafanikio",
+      "success_message": "Malipo yamekamilika kwa mafanikio!"
+    },
+    "notification_title": "Malipo yamepokelewa",
+    "notification_message": "{{name}} amekamilisha malipo. Unaweza kuanza mashauriano."
+  },
+  "consultation": {
+    "ended_title": "Ushauri umeisha",
+    "ended_message": "Muda umeisha",
+    "pending": "Inasubiri",
+    "active": "Inaendelea",
+    "completed": "Imekamilika"
+  },
+  "file": {
+    "uploading_image": "Inapakia picha...",
+    "uploading_video": "Inapakia video...",
+    "uploading_file": "Inapakia faili...",
+    "upload_failed": "Upakiaji umeshindikana",
+    "upload_failed_message": "Imeshindikana kutuma faili.",
+    "open_pdf": "Fungua PDF",
+    "open_doc": "Fungua DOC",
+    "open_file": "Fungua faili"
+  },
+  "notification": {
+    "lawyer_message": "Ujumbe wa wakili",
+    "new_message": "Ujumbe mpya"
+  },
+  "live": "Moja kwa moja",
+  "stripe_connected": "Stripe imeunganishwa",
+  "connect_with_stripe": "Unganisha na Stripe",
+  "payments": "Malipo",
+  "beta_instructions": "Maelekezo ya beta",
+  "status": {
+    "title": "Hali",
+    "paid": "Imelipwa",
+    "unpaid": "Haijalipwa"
+  },
+  "stripe_not_onboarded_title": "Usanidi wa malipo haujakamilika",
+  "stripe_not_onboarded_message": "Ili kukubali maombi ya mashauriano, tafadhali kamilisha usanidi wako wa malipo wa Stripe kutoka kichupo cha Mipangilio.",
+  "case_folder": "Folda ya kesi",
+  "case_helped": "Kesi zilizosaidiwa",
+  "satisfied": "Ridhika",
+  "rejected": "Imekataliwa",
+  "withdrawn": "Imeondolewa",
+  "deleted": "Imefutwa",
+  "consultation_history": "Historia ya mashauriano",
+  "pay": "Lipa",
+  "start_consultation": "Anza ushauri",
+  "waiting_for_session": "Inasubiri kikao",
+  "waiting_for_payment": "Inasubiri malipo",
+  "activity": "Shughuli",
+  "one_minute_warning_title": "⏰ Dakika 1 imesalia",
+  "one_minute_warning_body": "Kikao chako cha ushauri kitaisha baada ya dakika 1.",
+  "default_notification_title": "Arifa",
+  "no_notifications": "Bado hakuna arifa",
+  "i_agree": "Nakubali",
+  "i_dont_agree": "sikubali",
+  "terms_condition_2": "2. LawNeeds hutoa usaidizi wa kisheria lakini haichukui nafasi ya uwakilishi wa kitaalamu wa kisheria.",
+  "terms_condition_1": "1. Kwa kutumia programu hii, unakubali sheria na masharti haya na lazima uwe na umri wa angalau miaka 18.",
+  "terms_and_conditions": "Vigezo na Masharti",
+  "terms_condition_3": "3. Msaidizi wa usaidizi wa LawNeeds AI hutoa mwongozo wa kisheria wenye taarifa. Hii haijumuishi ushauri wa kisheria.",
+  "terms_condition_4": "4. Unawajibu wa kutoa taarifa sahihi na za ukweli.",
+  "terms_condition_5": "5. Maelezo yako ni ya faragha, lakini lazima uweke kitambulisho cha akaunti yako kuwa siri.",
+  "welcome_to_lawneeds": "Karibu kwenye LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Visa ya mfanyakazi mwenye ujuzi",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Visa ya mwanafunzi",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Visa ya kutembelea",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Visa ya ukoo",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Visa ya mwenzi / mshirika",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Wategemezi wa PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Muungano wa familia",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (njia ya miaka 10)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Upataji uraia",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Mpango wa Makazi wa EU",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), maombi ya haki za binadamu",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Maombi ya hifadhi (msaada kamili)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Usimamizi kamili wa kesi (mwanzo hadi mwisho)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Haraka",
+  "basic": "Msingi",
+  "verified": "Hati imethibitishwa",
+  "verification_failed": "Uthibitishaji umeshindwa",
+  "verification_cancelled": "Uthibitishaji umeghairiwa",
+  "delete_review_confirm": "Una uhakika unataka kufuta hakiki hii?",
+  "casework_service": "Huduma ya usimamizi wa kesi",
+  "casework_price_range": "Kiwango cha bei ya usimamizi wa kesi",
+  "tour_previous_chat_title": "Gumzo la awali",
+  "tour_previous_chat_desc": "Tazama mazungumzo yako ya awali hapa.",
+  "tour_new_chat_title": "Gumzo jipya",
+  "tour_new_chat_desc": "Gusa hapa kuanza ombi jipya la kisheria.",
+  "tour_notifications_title": "Arifa",
+  "tour_notifications_desc": "Angalia masasisho na arifa muhimu hapa.",
+  "tour_inbox_title": "Kikasha",
+  "tour_inbox_desc": "Dhibiti ujumbe wako na majibu ya kesi hapa.",
+  "tour_language_title": "Lugha",
+  "tour_language_desc": "Chagua lugha unayopendelea ya programu hapa.",
+  "tour_chat_history_title": "Historia ya gumzo",
+  "tour_chat_history_desc": "Pitia na uendelee na mazungumzo yako ya awali.",
+  "tour_current_plan_title": "Mpango wa sasa",
+  "tour_current_plan_desc": "Tazama maelezo ya usajili wako wa sasa hapa.",
+  "tour_usage_history_title": "Historia ya matumizi",
+  "tour_usage_history_desc": "Fuatilia ni dakika na vipengele vingapi umetumia.",
+  "tour_request_legal_help_title": "Omba msaada wa kisheria",
+  "tour_request_legal_help_desc": "Anza ombi jipya ili kuunganishwa na wataalamu.",
+  "tour_wallet_title": "Mkoba",
+  "tour_wallet_desc": "Tazama salio la mkoba wako na miamala yako.",
+  "tour_top_up_title": "Ongeza salio",
+  "tour_top_up_desc": "Ongeza fedha ili upate dakika zaidi kwa vipengele vya AI, upakiaji na mashauriano.",
+  "tour_search_desc": "Andika jina kutafuta mtaalamu maalum.",
+  "tour_explore_subscribe_plans": "Gusa hapa kuchunguza na kuboresha mpango wako.",
+  "tour_explore_upgrade_plans": "Boresha mpango wako ili kufungua vipengele vya premium.",
+  "tour_lawyer_stripe_connected": "Akaunti yako ya Stripe imeunganishwa na iko tayari kupokea malipo.",
+  "tour_lawyer_stripe_not_connected": "Unganisha Stripe ili kuanza kupokea malipo kutoka kwa wateja.",
+  "profile_completion": {
+    "title": "Kamilisha wasifu wako",
+    "description": "Tafadhali thibitisha maelezo yako kabla ya kuendelea.",
+    "first_name": "Jina la kwanza *",
+    "last_name": "Jina la mwisho *",
+    "saving": "Inahifadhiwa...",
+    "save_continue": "Hifadhi na uendelee",
+    "update_profile_failed": "Imeshindikana kusasisha wasifu"
+  },
+  "auth": {
+    "session_expired": "Kipindi chako cha kuingia kimeisha. Tafadhali jaribu tena.",
+    "login_failed": "Imeshindikana kukuingiza. Tafadhali jaribu tena.",
+    "google_login_failed": "Kuingia kupitia Google hakukufaulu. Tafadhali jaribu tena.",
+    "apple_login_failed": "Kuingia kupitia Apple hakukufaulu. Tafadhali jaribu tena.",
+    "authorization_failed": "Imeshindikana kuunganisha kwenye huduma ya uthibitishaji. Tafadhali jaribu tena baadaye.",
+    "invalid_redirect": "Kuna tatizo wakati wa kuingia. Tafadhali jaribu tena.",
+    "cancelled_login": "Kuingia kumefutwa.",
+    "invalid_response": "Hatukuweza kukamilisha kuingia kwako. Tafadhali jaribu tena."
+  },
+  "tour_service_request_title": "Ombi",
+  "tour_service_request_desc": "Tuma ombi la huduma moja kwa moja kwa mtaalamu wa sheria. Jaza fomu, ongeza maelezo au hati ikiwa inahitajika, na mtaalamu ataarifiwa anapopatikana.",
+  "tour_request_form_title": "Fomu ya ombi",
+  "tour_request_form_desc": "Toa taarifa kuhusu suala lako la kisheria, mahitaji ya ushauri na dharura. Unaweza pia kupakia hati au kuongeza maelezo ya sauti ili kumsaidia mtaalamu kuelewa hali yako.",
+  "no_data": "Hakuna data",
+  "duplicate_file_attached": "\"{{filename}}\" tayari imeambatishwa.",
+  "duplicate_file_attached_as": "\"{{filename}}\" tayari imeambatishwa kama \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Kwa kubofya",
+  "consultation_consent_middle": ", unakiri kwamba ikiwa ushauri wako utatolewa ndani ya siku 14, haki yako ya kisheria ya kufuta haitatumika tena. Bado unaweza kufuta au kupanga upya ushauri kulingana na",
+  "cancellation_policy": "Sera ya kughairi",
+  "home_actions": {
+    "ask_ai": "Uliza LawNeeds AI",
+    "ask_ai_description": "Pata mwongozo kutoka kwa chatbot ya LawNeeds AI.",
+    "find_professional": "Tafuta mtaalamu",
+    "find_professional_description": "Tafuta mtaalamu wa sheria anayeweza kukusaidia.",
+    "book_consultation": "Weka miadi ya ushauri",
+    "book_consultation_description": "Anzisha mchakato wa rufaa ili kupanga ushauri."
+  }
+}

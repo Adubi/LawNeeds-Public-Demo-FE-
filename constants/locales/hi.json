@@ -1,0 +1,1472 @@
+{
+  "submit": "सबमिट करें",
+  "cancel": "रद्द करें",
+  "done": "हो गया",
+  "ok": "ठीक है",
+  "next": "अगला",
+  "save": "सहेजें",
+  "privacy_policy": "गोपनीयता नीति",
+  "terms_n_conditions": "नियम और शर्तें",
+  "per": {
+    "camera_roll": "कैमरा रोल तक पहुँचने की अनुमति आवश्यक है! कृपया इसे अपने डिवाइस सेटिंग में सक्षम करें।",
+    "microphone_access": "माइक्रोफ़ोन की अनुमति आवश्यक है।",
+    "permission_denied": "अनुमति अस्वीकृत",
+    "notification_permission_not_granted": "सूचनाओं की अनुमति नहीं दी गई"
+  },
+  "policy_text": {
+    "i_agree": "मैं सहमत हूँ",
+    "i_dont_agree": "मैं सहमत नहीं हूँ",
+    "label_1": "1. हम जो जानकारी एकत्र करते हैं: हम व्यक्तिगत पहचान जानकारी (नाम, ईमेल, फ़ोन, पता), तकनीकी डेटा (आईपी, ब्राउज़र प्रकार, ओएस), उपयोग डेटा और मार्केटिंग प्राथमिकताएँ एकत्र कर सकते हैं।",
+    "label_2": "2. हम आपकी जानकारी कैसे एकत्र करते हैं: प्रत्यक्ष बातचीत, स्वचालित तकनीकों और तीसरे पक्ष के माध्यम से।",
+    "label_3": "3. जानकारी का उपयोग: हमारी सेवा प्रदान करने और बनाए रखने, अपने खाते का प्रबंधन करने, कानूनी दायित्वों का पालन करने और हमारी पेशकशों में सुधार करने के लिए।",
+    "label_4": "4. जानकारी का प्रकटीकरण: सेवा प्रदाताओं, कानूनी और सरकारी अधिकारियों और व्यावसायिक हस्तांतरण के संबंध में।",
+    "label_5": "5. डेटा सुरक्षा और अवधारण: हम सुरक्षा उपायों को लागू करते हैं और आपके डेटा को केवल तब तक बनाए रखते हैं जब तक आवश्यक हो।",
+    "label_6": "6. आपका कानूनी अधिकार: आपके पास अपने डेटा तक पहुँचने, उसे सही करने, मिटाने, प्रतिबंधित करने, स्थानांतरित करने और उसके उपयोग के लिए सहमति वापस लेने के अधिकार हैं।",
+    "label_7": "7. विशेष श्रेणी: मैं अपनी पूछताछ का उत्तर देने के उद्देश्य से मेरे द्वारा प्रदान किए गए किसी भी विशेष श्रेणी के डेटा, जिसमें मेरी जातीयता से संबंधित जानकारी और अन्य संवेदनशील व्यक्तिगत डेटा शामिल हैं, के प्रसंस्करण के लिए स्पष्ट रूप से सहमति देता/देती हूं। मैं किसी भी समय info@lawneeds.co.uk पर ईमेल करके अपनी सहमति वापस ले सकता/सकती हूं।",
+    "policy_details": "यह गोपनीयता नीति बताती है कि जब आप हमारे मोबाइल एप्लिकेशन पर जाते हैं तो हम आपकी जानकारी कैसे एकत्रित करते हैं, उसका उपयोग करते हैं, उसका खुलासा करते हैं और उसकी सुरक्षा करते हैं। हमारी सेवा का उपयोग करके, आप इस गोपनीयता नीति की शर्तों से सहमत होते हैं।",
+    "review_message": "कृपया हमारी",
+    "privacy_policy": "गोपनीयता नीति"
+  },
+  "tab": {
+    "account": "खाता",
+    "chat": "बातचीत",
+    "home": "होम",
+    "settings": "सेटिंग",
+    "inbox": "इनबॉक्स",
+    "search": "खोज"
+  },
+  "profile": {
+    "firm_name": "फ़र्म का नाम",
+    "practice_areas_label": "अभ्यास क्षेत्र",
+    "services": "सेवाएँ",
+    "first_name": "पहला नाम",
+    "last_name": "अंतिम नाम",
+    "about": "के बारे में",
+    "skills": "कौशल",
+    "organisation_name": "संगठन का नाम",
+    "areas_of_legal_focus": "कानूनी फ़ोकस के क्षेत्र",
+    "professional_employer": "पेशेवर नियोक्ता",
+    "area_of_legal_expertise": "कानूनी विशेषज्ञता का क्षेत्र",
+    "max_of_four": "अधिकतम चार",
+    "max_of_two": "अधिकतम दो",
+    "characters": "अक्षर",
+    "please_select": "कृपया चयन करें",
+    "account_security": "खाता सुरक्षा",
+    "details": "विवरण",
+    "edit_details": "विवरण संपादित करें",
+    "no_name": "कोई नाम नहीं",
+    "profile_updated_success": "प्रोफ़ाइल सफलतापूर्वक अपडेट की गई",
+    "company_name": "कंपनी का नाम",
+    "enter_your_company_name": "अपनी कंपनी का नाम दर्ज करें",
+    "achievements": "उपलब्धियाँ",
+    "enter_your_achievements": "अपनी उपलब्धियाँ दर्ज करें",
+    "timeline": "समयरेखा",
+    "start_date": "आरंभ तिथि",
+    "end_date": "समाप्ति तिथि",
+    "add_another_section": "एक और अनुभाग जोड़ें",
+    "add_section": "अनुभाग जोड़ें"
+  },
+  "success": {
+    "success": "सफलता",
+    "success_sent_code": "सफलतापूर्वक सत्यापन कोड भेजा गया."
+  },
+  "error": {
+    "title": "त्रुटि",
+    "error_msg": "कुछ गलत हो गया. कृपया पुनः प्रयास करें.",
+    "session_expired": "सत्र समाप्त हो गया",
+    "login_again": "कृपया जारी रखने के लिए पुनः लॉगिन करें.",
+    "token_missing": "प्रमाणीकरण टोकन गुम है.",
+    "error_process_audio": "ऑडियो को संसाधित करते समय कोई त्रुटि हुई.",
+    "error_process_file": "फ़ाइल अपलोड करते समय एक त्रुटि हुई।",
+    "try_again": "क्षमा करें, कोई त्रुटि हुई. कृपया पुनः प्रयास करें.",
+    "no_use_session": "कोई उपयोगकर्ता सत्र नहीं मिला. कृपया पुनः लॉग इन करें.",
+    "invalid_response_token_not_found": "अमान्य प्रतिक्रिया: टोकन नहीं मिला",
+    "fill_all_fields": "कृपया सभी फ़ील्ड भरें",
+    "network_error": "नेटवर्क त्रुटि। कृपया अपना इंटरनेट कनेक्शन जांचें।",
+    "session_expired_login": "आपका सत्र समाप्त हो गया है। कृपया फिर से लॉग इन करें।",
+    "no_permission": "आपको यह कार्य करने की अनुमति नहीं है।",
+    "resource_not_found": "अनुरोधित संसाधन नहीं मिला।",
+    "invalid_data": "अमान्य डेटा प्रदान किया गया है। कृपया जांचें और पुनः प्रयास करें।",
+    "server_error": "सर्वर त्रुटि। कृपया बाद में पुनः प्रयास करें।",
+    "something_went_wrong": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+    "case_not_found": "मामला नहीं मिला",
+    "failed_to_process_request": "सेवा अनुरोध संसाधित नहीं किया जा सका"
+  },
+  "change_email": {
+    "send_instruction": "निर्देश भेजें",
+    "go_back": "वापस जाएं",
+    "create_new_pass": "नया पासवर्ड बनाएं",
+    "current_email": "वर्तमान ईमेल",
+    "enter_current_email": "वर्तमान ईमेल और वह नया ईमेल दर्ज करें जिसे आप बदलना चाहते हैं।",
+    "new_email": "नया ईमेल",
+    "check_your_mail": "अपना मेल जांचें",
+    "check_mail_for_verify_account": "हमने आपके ईमेल पर एक सत्यापन कोड भेजा है। अपना खाता सत्यापित करने के लिए इसे नीचे दर्ज करें।",
+    "check_mail_for_reset_pass": "हमने आपके ईमेल पर एक सत्यापन कोड भेजा है। अपना पासवर्ड रीसेट करने के लिए इसे नीचे दर्ज करें।",
+    "enter_verification_code": "सत्यापन कोड दर्ज करें",
+    "go_back_login": "लॉगिन पर वापस जाएं",
+    "not_recd_mail": "कोई संदेश प्राप्त नहीं हुआ ईमेल? स्पैम चेक करें या",
+    "try_other_email": "कोई दूसरा ईमेल आज़माएँ",
+    "resend_code": "कोड फिर से भेजें",
+    "verify_mail": "अपना मेल सत्यापित करें",
+    "click_link_to_verify_mail": "अपना नया ईमेल सत्यापित करने के लिए लिंक पर क्लिक करें",
+    "skip_confirm_later": "छोड़ें, मैं बाद में पुष्टि करूँगा",
+    "email_updated": "ईमेल अपडेट किया गया"
+  },
+  "landing": {
+    "welcome_to": "आपका स्वागत है",
+    "immigration": "आव्रजन सहायता आसान बना दी गई",
+    "create_account": "खाता बनाएँ",
+    "log_in": "लॉग इन करें",
+    "or": "या",
+    "create_pro": "प्रो खाता बनाएँ",
+    "select_pro": "प्रो खाता चुनें",
+    "lawyer": "वकील",
+    "law_firm": "लॉ फ़र्म",
+    "hr_legal": "एचआर/लीगल (एसएमई)",
+    "a2j_partners": "A2J पार्टनर्स",
+    "screen_not_exist": "यह स्क्रीन मौजूद नहीं है.",
+    "go_to_home_screen": "होम स्क्रीन पर जाएँ!"
+  },
+  "login": {
+    "password": "पासवर्ड",
+    "login": "लॉगिन",
+    "remember_me": "मुझे याद रखें",
+    "forgot_password": "पासवर्ड भूल गए",
+    "need_account": "खाते की आवश्यकता है?",
+    "signup": "साइन अप करें"
+  },
+  "reset_password": "पासवर्ड रीसेट करें",
+  "create_new_password": "नया पासवर्ड बनाएं",
+  "create_account": {
+    "first_name": "पहला नाम",
+    "last_name": "अंतिम नाम",
+    "date_of_birth": "जन्म तिथि",
+    "country": "देश",
+    "select_country": "देश चुनें",
+    "next": "अगला",
+    "create_account": "खाता बनाएँ",
+    "date_of_incorporate": "निगमन की तिथि",
+    "create_pro_account": "प्रो बनाएँ खाता",
+    "hr_legal_account": "HR/कानूनी खाता",
+    "lawyer_account": "वकील खाता",
+    "law_firm_account": "कानूनी फर्म खाता",
+    "a2j_partners_account": "A2J पार्टनर्स खाता",
+    "firm_name": "फर्म का नाम",
+    "organisation_name": "संगठन का नाम",
+    "date_of_establishment": "स्थापना की तिथि",
+    "areasOfLegalFocus": "कानूनी फोकस के क्षेत्र",
+    "selectAreasOfLegalFocus": "कानूनी फोकस के क्षेत्र चुनें",
+    "contactPerson": "संपर्क व्यक्ति",
+    "registrationCharityNumber": "पंजीकरण/चैरिटी नंबर",
+    "searchAddress": "पता खोजें",
+    "town": "टाउन",
+    "postcode": "पोस्टकोड",
+    "address": "पता",
+    "please_select": "कृपया चुनें:",
+    "legalAidOrganisation": "कानूनी सहायता संगठन",
+    "lawCentre": "कानून केंद्र",
+    "proBonoClinic": "प्रो-बोनो क्लिनिक",
+    "profile_photo": "प्रोफाइल फोटो",
+    "profile_photo_required": "प्रो अकाउंट के लिए प्रोफाइल फोटो की आवश्यकता होती है",
+    "upload": "अपलोड करें",
+    "please_agree_text": "कृपया हमारी शर्तों से सहमत हों",
+    "signup_agreement_text": "साइन अप करके, आप हमारी शर्तों से सहमत होते हैं",
+    "terms_of_service": "सेवा की शर्तें",
+    "and_text": "और",
+    "agree_proceed_button": "सहमत हों और आगे बढ़ें",
+    "select_practice_area": "अभ्यास क्षेत्र चुनें",
+    "already_have_account": "क्या आपके पास पहले से ही खाता है?",
+    "account_creat_success": "खाता सफलतापूर्वक बनाया गया!",
+    "access_detail_msg_legal_assistance": "अब आप व्यक्तिगत कानूनी सहायता प्राप्त कर सकते हैं और अपनी आवश्यकताओं को सहजता से प्रबंधित कर सकते हैं।",
+    "select_practice_areas": "अभ्यास क्षेत्र चुनें",
+    "contact_person_partner": "संपर्क व्यक्ति/प्रबंध भागीदार",
+    "company_regi_number": "कंपनी पंजीकरण संख्या",
+    "enter_sra_number": "SRA संख्या दर्ज करें",
+    "enter_bar_number": "BAR संख्या दर्ज करें",
+    "enter_iaa_number": "IAA संख्या दर्ज करें",
+    "verify_document": "पहचान दस्तावेज़ सत्यापित करें",
+    "reverify_document": "दस्तावेज़ दोबारा सत्यापित करें"
+  },
+  "validation": {
+    "missing_info": "अनुपलब्ध जानकारी",
+    "enter_your_name": "कृपया अपना नाम दर्ज करें",
+    "enter_your_email": "कृपया अपना ईमेल पता दर्ज करें",
+    "enter_your_phone": "कृपया अपना फ़ोन नंबर दर्ज करें",
+    "enter_feedback": "कृपया टिप्पणी पर प्रतिक्रिया दें",
+    "valid_first_name": "पहला नाम कम से कम 2 वर्ण लंबा होना चाहिए.",
+    "valid_last_name": "अंतिम नाम कम से कम 2 वर्ण लंबा होना चाहिए.",
+    "select_dob": "कृपया जन्म तिथि चुनें.",
+    "select_country": "कृपया कोई देश चुनें.",
+    "enter_city": "शहर फ़ील्ड खाली नहीं हो सकता.",
+    "enter_postcode": "पोस्टकोड फ़ील्ड खाली नहीं हो सकता.",
+    "enter_address": "पता फ़ील्ड खाली नहीं हो सकता.",
+    "valid_user_name": "उपयोगकर्ता नाम कम से कम 3 वर्ण लंबा होना चाहिए.",
+    "valid_email": "कृपया एक मान्य ईमेल पता दर्ज करें.",
+    "valid_password": "पासवर्ड कम से कम 8 वर्ण लंबा होना चाहिए और उसमें कम से कम एक नंबर होना चाहिए.",
+    "valid_organisation": "संगठन का नाम कम से कम 2 अक्षर लंबा होना चाहिए।",
+    "valid_town": "शहर का फ़ील्ड खाली नहीं हो सकता।",
+    "enter_date_of_incorporate": "कृपया स्थापना की तारीख चुनें।",
+    "enter_confirm_password": "कृपया अपना कन्फर्म पासवर्ड दर्ज करें",
+    "valid_confirm_password": "कन्फर्म पासवर्ड कम से कम 8 अक्षरों का होना चाहिए और उसमें कम से कम एक संख्या होनी चाहिए।",
+    "password_not_match": "पासवर्ड मेल नहीं खाते।",
+    "enter_first_name": "कृपया अपना पहला नाम दर्ज करें",
+    "enter_last_name": "कृपया अपना अंतिम नाम दर्ज करें",
+    "document_expired": "आपका दस्तावेज़ समाप्त हो चुका है। कृपया एक वैध दस्तावेज़ अपलोड करें।",
+    "document_invalid": "दस्तावेज़ सत्यापन विफल रहा। कृपया पुनः प्रयास करें।"
+  },
+  "account": {
+    "practice_areas": "अभ्यास क्षेत्र",
+    "services": "सेवाएँ",
+    "details": "विवरण",
+    "licence": "लाइसेंस",
+    "org_type": "संगठन का प्रकार",
+    "go_back_home": "वापस घर जाएँ"
+  },
+  "chat": {
+    "get_started": "आरंभ करें",
+    "new_chat": "नई बातचीत",
+    "previous_chat": "पिछली बातचीत",
+    "title": "बातचीत",
+    "waiting": "प्रतीक्षा की जा रही है...",
+    "help": "सहायता",
+    "end_chat": "चैट समाप्त करें",
+    "chat_place_holder": "संदेश LawNeeds",
+    "uploading_file": "{{count}} संलग्नक अपलोड हो रहे हैं: {{names}}",
+    "files_uploaded_success": "{{count}} संलग्नक सफलतापूर्वक अपलोड हो गए।",
+    "uploading_voice_note": "वॉइस नोट अपलोड हो रहा है...",
+    "voice_note_uploaded_success": "वॉइस नोट सफलतापूर्वक अपलोड हो गया",
+    "open_pdf": "पीडीएफ़ खोलें",
+    "sample_questions_title": "नमूना प्रश्न",
+    "you_selected": "आपने चुना: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "नमस्ते "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "मैं "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "सपोर्ट "
+      },
+      {
+        "type": "token",
+        "content": "असिस्टेंट "
+      },
+      {
+        "type": "token",
+        "content": "हूँ"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "मैं "
+      },
+      {
+        "type": "token",
+        "content": "केवल "
+      },
+      {
+        "type": "token",
+        "content": "जानकारी "
+      },
+      {
+        "type": "token",
+        "content": "प्रदान "
+      },
+      {
+        "type": "token",
+        "content": "करता/करती "
+      },
+      {
+        "type": "token",
+        "content": "हूँ"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "पेशेवर "
+      },
+      {
+        "type": "token",
+        "content": "सलाह "
+      },
+      {
+        "type": "token",
+        "content": "नहीं"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "आज "
+      },
+      {
+        "type": "token",
+        "content": "मैं "
+      },
+      {
+        "type": "token",
+        "content": "आपकी "
+      },
+      {
+        "type": "token",
+        "content": "कैसे "
+      },
+      {
+        "type": "token",
+        "content": "मदद "
+      },
+      {
+        "type": "token",
+        "content": "कर "
+      },
+      {
+        "type": "token",
+        "content": "सकता/सकती "
+      },
+      {
+        "type": "token",
+        "content": "हूँ"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "बातचीत लोड करने में विफल। कृपया फिर से प्रयास करें।",
+    "voice_note_ready": "वॉइस नोट तैयार है",
+    "tap_to_record": "रिकॉर्डिंग शुरू करने के लिए 🔴 पर टैप करें",
+    "preview_files": "फ़ाइलों का पूर्वावलोकन",
+    "file_selected": "फ़ाइल चुनी गई",
+    "files_selected": "फ़ाइलें चुनी गईं",
+    "upload_files": "अपलोड",
+    "tap_to_preview": "पूर्वावलोकन के लिए टैप करें",
+    "add": "जोड़ें",
+    "today": "आज",
+    "last_week": "पिछला सप्ताह",
+    "last_month": "पिछला महीना"
+  },
+  "setting": {
+    "select_language": "भाषा चुनें",
+    "settings": "सेटिंग",
+    "app_language": "ऐप भाषा",
+    "choose_language": "भाषा चुनें",
+    "notifications": "सूचनाएँ",
+    "submit_feedback": "सहायता",
+    "about": "हमारे बारे में",
+    "our_philosophy": "हमारा दर्शन",
+    "account_management": "खाता प्रबंधन",
+    "logout": "लॉग आउट करें"
+  },
+  "our_philosophy": {
+    "our_vision_header": "हमारा विज़न",
+    "our_vision_desc": "LawNeeds में, हमारा मानना है कि विश्वसनीय कानूनी सहायता, विशेष रूप से आव्रजन सहायता हर किसी के लिए, कभी भी और कहीं भी सुलभ होनी चाहिए। दैनिक जीवन के केंद्र में स्मार्टफ़ोन के साथ, हम आसान, विश्वसनीय कानूनी सहायता के माध्यम से व्यक्तियों को यूके में जीवन को नेविगेट करने में मदद करने के लिए यहाँ हैं।",
+    "our_services_header": "हमारी सेवाएँ",
+    "our_services_desc": "हमारा मोबाइल एप्लिकेशन, विशेष रूप से विनियमित कानूनी फर्मों, लाइसेंस प्राप्त वकीलों और आव्रजन सलाहकारों की विशेषता है, जो आव्रजन कानून पर एक मजबूत फोकस के साथ विशेष कानूनी सेवाएँ प्रदान करता है। हम यूके में जीवन को नेविगेट करने में व्यक्तियों, परिवारों, छात्रों और पेशेवरों का समर्थन करते हैं। जैसे-जैसे हम बढ़ते हैं, उपयोगकर्ता रोजगार कानून, पारिवारिक कानून और सड़क यातायात अपराधों में विशेषज्ञता तक भी पहुँच पाएंगे, सभी को कुछ ही टैप में एक ही सहज, परेशानी मुक्त अनुभव के साथ वितरित किया जाएगा।",
+    "innovation_header": "अपने सर्वश्रेष्ठ पर नवाचार",
+    "innovation_desc": "LawNeeds में, नवाचार हमारे हर कार्य की प्रेरक शक्ति है। हम AI की शक्ति का उपयोग करके तुरंत, चौबीसों घंटे उपलब्ध, AI-जनित कानूनी मार्गदर्शन और प्रत्येक उपयोगकर्ता की स्थिति और स्थान के आधार पर व्यक्तिगत आव्रजन सिफारिशें प्रदान करते हैं।",
+    "community_header": "समुदाय और विकास",
+    "community_desc": "LawNeeds एक ऐप से कहीं अधिक है - यह एक समुदाय है। हम प्रवासियों को सशक्त बनाते हैं, और कानूनी पेशेवरों को हमारे अभिनव प्लेटफ़ॉर्म और सुविधाओं के माध्यम से अपने अभ्यास को बढ़ाने के लिए सुसज्जित करते हैं।",
+    "commitment_header": "उत्कृष्टता के लिए प्रतिबद्धता",
+    "commitment_desc": "LawNeeds AI तकनीक को मानवीय कानूनी निगरानी के साथ जोड़ता है। हमारा प्लेटफ़ॉर्म मालिकाना यूके कानूनी डेटासेट पर प्रशिक्षित है, हमारे सत्यापन प्रणाली के साथ-साथ इन-हाउस वकीलों द्वारा समीक्षा की जाती है, और नियामक परिवर्तनों और कानून के सत्यापित स्रोतों के साथ लगातार अपडेट किया जाता है, जिससे हर कदम पर विश्वसनीय, अनुपालन मार्गदर्शन सुनिश्चित होता है। रास्ता.",
+    "join_us_header": "हमसे जुड़ें",
+    "join_us_desc": "जैसे-जैसे हम आगे बढ़ रहे हैं, हम आपको हमारी यात्रा में शामिल होने के लिए आमंत्रित करते हैं, चाहे आप कानूनी सहायता की तलाश कर रहे हों या अपने कानूनी अभ्यास का विस्तार कर रहे हों। LawNeeds में, आपकी सफलता हमारा मिशन है।"
+  },
+  "support": {
+    "support_desc": "नीचे अपने विचार, मुद्दे या सुझाव साझा करके LawNeeds को बेहतर बनाने में हमारी सहायता करें",
+    "feedback_success": "प्रतिक्रिया सफलतापूर्वक सबमिट की गई",
+    "name": "नाम",
+    "comment": "टिप्पणी",
+    "address": "पंजीकृत कार्यालय: 71–75 शेल्टन स्ट्रीट, कोवेंट गार्डन, लंदन, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "प्रवासन कानून"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "रोजगार कानून"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "सड़क यातायात अपराध"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "परिवार कानून"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "कानूनी शोध"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "कानूनी लेखन"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "मामले का विश्लेषण"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "अनुबंध ड्राफ्टिंग"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "बातचीत"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "मुवक्किल परामर्श"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "अदालत में वकालत"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "मध्यस्थता"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "पंचायती निपटान"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "यथोचित परिश्रम"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "अनुपालन समीक्षा"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "जोखिम मूल्यांकन"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "कानूनी रणनीति"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "जिरह"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "ब्रीफ़ लेखन"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "गवाही"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "डिस्कवरी प्रक्रिया"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "समझौता वार्ता"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "नियामक विश्लेषण"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "अंतरराष्ट्रीय कानून"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "बौद्धिक संपदा"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "विलय और अधिग्रहण"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "कॉर्पोरेट गवर्नेंस"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "रोजगार संबंध"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "प्रवासन प्रक्रियाएं"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "प्रवासन कानून"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "परिवार कानून"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "रोजगार कानून"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "आपराधिक कानून"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "कॉर्पोरेट कानून"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "संपत्ति कानून"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "व्यक्तिगत चोट"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "बौद्धिक संपदा"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "कर कानून"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "अनुबंध कानून"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "मुकदमा"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "मध्यस्थता"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "पंचायती निपटान"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "कानूनी परामर्श"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "दस्तावेज़ समीक्षा"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "कानूनी शोध"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "अनुपालन"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "विलय और अधिग्रहण"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "बैंकिंग और वित्त"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "बीमा कानून"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "पर्यावरण कानून"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "मानवाधिकार कानून"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "अंतरराष्ट्रीय कानून"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "प्रशासनिक कानून"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "संविधानिक कानून"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "एकल परामर्श"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "निरंतर सहायता"
+    },
+    {
+      "key": "casework",
+      "label": "मामले से संबंधित कार्य"
+    },
+    {
+      "key": "not_sure",
+      "label": "अभी निश्चित नहीं"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "सामान्य (5-7 दिन)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "प्राथमिकता (2-3 दिन)"
+    },
+    {
+      "key": "urgent",
+      "label": "अत्यावश्यक (उसी दिन या अगले दिन)"
+    }
+  ],
+  "search": {
+    "professionals": "पेशेवर",
+    "city": "शहर",
+    "distance": "दूरी",
+    "top_rated": "शीर्ष रेटेड",
+    "more": "और",
+    "request": "अनुरोध",
+    "request_service": "सेवा का अनुरोध",
+    "service": "सेवा",
+    "select_service": "सेवा चुनें",
+    "urgency": "आपातकालीन स्थिति",
+    "select": "चुनें",
+    "additional_notes": "अतिरिक्त टिप्पणियाँ",
+    "service_request_success": "आपकी सेवा का अनुरोध सफलतापूर्वक भेजा गया है",
+    "issue_type": "समस्या का प्रकार",
+    "budget": "बजट",
+    "select_consultation": "परामर्श चुनें",
+    "consultation": "परामर्श",
+    "time_n_rate": "समय और दर"
+  },
+  "reset_password_info": "अपने खाते से जुड़ा ई‑मेल दर्ज करें और हम आपको एक ई‑मेल भेजेंगे जिसमें नया पासवर्ड सेट करने के निर्देश होंगे",
+  "tap_to_upload_image": "छवि अपलोड करने के लिए टैप करें",
+  "record": "रिकॉर्ड करें",
+  "media": "मीडिया",
+  "attach": "संलग्न करें",
+  "sort_by": "के आधार पर क्रमबद्ध करें",
+  "apply": "लागू करें",
+  "select_date": "तिथि चुनें",
+  "day": "दिन",
+  "month": "महीना",
+  "year": "साल",
+  "present": "वर्तमान",
+  "sector": "क्षेत्र",
+  "hr": "एचआर",
+  "legal": "कानूनी",
+  "both": "दोनों",
+  "identity_card": "पहचान पत्र",
+  "passport": "पासपोर्ट",
+  "drivers_license": "ड्राइवर का लाइसेंस",
+  "law_centre": "कानूनी केंद्र",
+  "legal_aid_organisation": "कानूनी सहायता संगठन",
+  "beta": "बीटा",
+  "logged_in": "लॉग इन किया गया",
+  "select_reason": "कारण चुनें",
+  "select_area_of_legal_expertise": "क़ानूनी विशेषज्ञता का क्षेत्र चुनें",
+  "confirm_password": "पासवर्ड पुष्टि करें",
+  "enter_new_password_below": "नया पासवर्ड नीचे दर्ज करें",
+  "select_a_country": "एक देश चुनें",
+  "open_email_app": "ईमेल ऐप खोलें",
+  "request_details": "अनुरोध विवरण",
+  "accept": "स्वीकार करें",
+  "reject": "अस्वीकार करें",
+  "request_reject_message": "सेवा अनुरोध सफलतापूर्वक अस्वीकृत हुआ",
+  "document_view": "दस्तावेज़ देखें",
+  "loading_document": "दस्तावेज़ लोड हो रहा है",
+  "service_issue_type": "सेवा समस्या प्रकार चुनें",
+  "select_consultation_type": "परामर्श प्रकार चुनें",
+  "urgency_level": "तत्कालता स्तर चुनें",
+  "budget_input": "बजट दर्ज करें",
+  "attachments": "संलग्नक",
+  "user_label": "आप",
+  "timestamp": "अभी",
+  "voice_note": "वॉइस नोट",
+  "comment_placeholder": "टिप्पणी लिखें...",
+  "messages": "संदेश",
+  "edit": "संपादित करें",
+  "copy": "कॉपी",
+  "select_consultation_time": "परामर्श समय चुनें",
+  "request_cancel_success": "सेवा अनुरोध सफलतापूर्वक रद्द किया गया",
+  "accept_request_message": "क्या आप वाकई इस अनुरोध को स्वीकार करना चाहते हैं?",
+  "reject_request_message": "क्या आप वाकई इस अनुरोध को अस्वीकार करना चाहते हैं?",
+  "delete_request_message": "क्या आप वाकई इस अनुरोध को हटाना चाहते हैं?",
+  "withdraw_request_message": "क्या आप वाकई इस अनुरोध को वापस लेना चाहते हैं?",
+  "yes": "हाँ",
+  "no": "नहीं",
+  "accepted": "स्वीकृत",
+  "cancelled": "रद्द किया गया",
+  "pending": "लंबित",
+  "consultation_time": "परामर्श समय",
+  "consultation_type": "परामर्श प्रकार",
+  "recommended_professionals": "सिफारिश किए गए पेशेवर:",
+  "continue": "जारी रखें",
+  "image": "छवि",
+  "delete_account": "खाता हटाएं",
+  "delete": "हटाएं",
+  "delete_confirmation_message": "क्या आप वाकई अपना खाता हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+  "delete_account_error_message": "आपका खाता हटाने में कुछ गलत हो गया।",
+  "place_holder_additional_notes": "अपने कानूनी मामले के बारे में अतिरिक्त विवरण लिखें...",
+  "upload_options": "अपलोड विकल्प:",
+  "select_option": "कृपया एक विकल्प चुनें:",
+  "skip": "छोड़ें",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "आव्रजन कानून"
+    },
+    {
+      "key": "employment",
+      "label": "श्रम कानून"
+    },
+    {
+      "key": "road_traffic",
+      "label": "सड़क यातायात अपराध"
+    },
+    {
+      "key": "family",
+      "label": "परिवार कानून"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "तत्काल"
+    },
+    {
+      "key": "within_week",
+      "label": "एक सप्ताह के भीतर"
+    },
+    {
+      "key": "within_month",
+      "label": "एक महीने के भीतर"
+    },
+    {
+      "key": "not_urgent",
+      "label": "तत्काल नहीं"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "समस्या का प्रकार चुनें"
+    },
+    {
+      "key": "urgency",
+      "name": "तत्कालता चुनें"
+    },
+    {
+      "key": "consultation",
+      "name": "परामर्श चुनें"
+    },
+    {
+      "key": "select_time",
+      "name": "समय और शुल्क चुनें"
+    },
+    {
+      "key": "select-budget",
+      "name": "बजट चुनें"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 मिनट (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 मिनट (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 मिनट (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 मिनट (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 घंटा (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 दिन (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 दिन (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "£700 से अधिक"
+    }
+  ],
+  "sample_questions": [
+    "कानूनी पेशेवर का अनुरोध करें",
+    "क्या मैं Skilled Worker वीज़ा के लिए योग्य हूँ?",
+    "मैं अपना छात्र वीज़ा कैसे बढ़ा सकता हूँ?",
+    "Indefinite Leave to Remain के नियम क्या हैं?",
+    "मैं यूके में शरण के लिए कैसे आवेदन करूं?",
+    "वीज़ा निर्णय में कितना समय लगता है?"
+  ],
+  "rate_of_hour": "प्रति घंटे की दर",
+  "search_country": "देश खोजें",
+  "review_error": "समीक्षा खाली नहीं हो सकती।",
+  "rating_validation": "कृपया 1 से 5 के बीच स्टार रेटिंग चुनें।",
+  "create_account_with": "इसके साथ खाता बनाएं",
+  "login_with": "इसके साथ लॉग इन करें",
+  "create_account_email_password": "ईमेल/पासवर्ड",
+  "sign_in_with_apple": "Apple के साथ साइन इन करें",
+  "sign_in_with_google": "Google के साथ साइन इन करें",
+  "no_cases_available": "कोई केस उपलब्ध नहीं है",
+  "no_active_cases_available": "कोई सक्रिय केस उपलब्ध नहीं है",
+  "no_pending_cases_available": "कोई लंबित केस उपलब्ध नहीं है",
+  "back": "वापस",
+  "submit_review": "समीक्षा सबमिट करें",
+  "delete_review": "समीक्षा हटाएं",
+  "member_since": "सदस्य since",
+  "work_experience": "कार्य अनुभव",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "विशेषज्ञता",
+  "professional_details": "पेशेवर विवरण",
+  "review_professional": "पेशेवर की समीक्षा करें",
+  "no_reviews": "अभी तक कोई समीक्षा नहीं। पहले बनें!",
+  "reviews": "समीक्षाएँ",
+  "thanks_feedback": "आपके फीडबैक के लिए धन्यवाद!",
+  "accept_case_notification_header": "वकील ने आपका अनुरोध स्वीकार कर लिया है! 🎉",
+  "accept_case_notification_message_part": " ने आपका केस स्वीकार कर लिया है और आपकी सहायता के लिए तैयार है।",
+  "reject_case_notification_header": "रेफरल अपडेट",
+  "reject_case_notification_message_part": " इस समय आपका केस नहीं ले सकता।",
+  "delete_case_notification_header": "अनुरोध हटाया गया",
+  "withdraw_case_notification_header": "अनुरोध वापस लिया गया",
+  "delete_case_notification_message_part": " ने अपना अनुरोध हटा दिया है।",
+  "withdraw_case_notification_message_part": " ने अपना अनुरोध वापस ले लिया है।",
+  "manuscript": "पांडुलिपि",
+  "share_dialog_title": "पांडुलिपि साझा करें या डाउनलोड करें",
+  "certifications": "प्रमाणपत्र",
+  "queries_left": "शेष AI प्रश्न",
+  "voice_notes_limit": "वॉयस",
+  "uploads_limit": "अपलोड",
+  "docgen_limit": "डॉकजेन",
+  "current_plan": "वर्तमान योजना",
+  "faqs": "अक्सर पूछे जाने वाले प्रश्न",
+  "wallet": "वॉलेट",
+  "subscription": {
+    "plans_pricing_title": "योजनाएँ और मूल्य निर्धारण",
+    "plans_pricing_subtitle": "अधिक मिनट्स और प्रीमियम सुविधाएँ अनलॉक करें",
+    "syncing_account": "अकाउंट सिंक हो रहा है...",
+    "processing_purchase": "खरीद प्रक्रिया जारी है...",
+    "plan_unavailable_title": "योजना उपलब्ध नहीं है",
+    "plan_unavailable_message": "हम स्टोर में इस योजना को नहीं ढूंढ पाए।",
+    "purchase_error_title": "खरीद त्रुटि",
+    "purchase_error_message": "एक अप्रत्याशित त्रुटि हुई है।",
+    "upgrade_plans": "योजनाएँ अपग्रेड करें",
+    "plan_unlimited": "असीमित",
+    "plan_premium": "प्रीमियम",
+    "plan_standard": "स्टैंडर्ड",
+    "plan_free_label": "हमेशा मुफ्त",
+    "billing_annually": "वार्षिक",
+    "feature_voice_notes": "वॉइस नोट्स",
+    "feature_uploads": "अपलोड्स",
+    "feature_shared_pool": "वॉइस, अपलोड्स और डॉक्स के लिए साझा पूल",
+    "feature_free_consultation": "मिनट मुफ्त परामर्श",
+    "feature_priority_support": "प्राथमिक मानव सहायता शामिल",
+    "feature_ai_queries": "AI टेक्स्ट क्वेरीज़",
+    "feature_limited": "सीमित",
+    "feature_standard_limits": "मानक सीमाएँ लागू होती हैं",
+    "feature_query_reset": "क्वेरी सीमा 12am पर रीसेट होती है",
+    "feature_rollover": "रोल-ओवर की अनुमति है",
+    "feature_images_max": "छवियाँ अधिकतम",
+    "feature_document_max": "डॉक्यूमेंट अधिकतम",
+    "feature_mb": "एमबी",
+    "feature_pages": "पृष्ठ",
+    "label_default_plan": "डिफ़ॉल्ट योजना",
+    "cta_subscribe_now": "अभी सब्सक्राइब करें",
+    "wallet_loading": "वॉलेट लोड हो रहा है...",
+    "wallet_title": "वॉलेट",
+    "wallet_balance": "उपलब्ध बैलेंस",
+    "unit_minute": "मिनट",
+    "wallet_top_up": "टॉप अप",
+    "wallet_transactions": "हाल के लेनदेन",
+    "transaction_plan_purchase": "योजना खरीद",
+    "transaction_legal_query": "कानूनी प्रश्न",
+    "transaction_document_process": "डॉक्यूमेंट प्रक्रिया",
+    "reference_label": "संदर्भ:",
+    "plan_free": "मुफ्त",
+    "unit_min": "मिनट"
+  },
+  "user_name": "उपयोगकर्ता नाम",
+  "email": "ईमेल",
+  "phone_number": "फोन नंबर",
+  "urgent": "तत्काल",
+  "contact_support": "सपोर्ट से संपर्क करें",
+  "minutes": "मिनट्स",
+  "freemium": {
+    "modal": {
+      "title": "क्वेरी सीमा पहुँच गई",
+      "timer_label": "फिर प्रयास करें",
+      "timer_format": "{{minutes}}मि {{seconds}}से",
+      "upgrade_cta": "योजना अपग्रेड करें",
+      "loading_text": "आपकी क्वेरीज़ अनलॉक हो रही हैं…",
+      "watch_ad_cta": "📺 विज्ञापन देखें (+{{count}} क्वेरीज़)",
+      "limit_note": "फ्रीमियम सीमा: {{count}} क्वेरीज़ / {{hours}} घंटे",
+      "description": "आपने पिछले {{hours}} घंटों में अपनी सभी {{count}} मुफ्त क्वेरीज़ उपयोग कर ली हैं।",
+      "buy_pass": "{{price}} आज असीमित क्वेरीज़"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} योजना",
+      "queries_left": "{{remaining}} / {{total}} क्वेरीज़ शेष",
+      "daily_pass_active": "✨ डेली पास सक्रिय",
+      "upgrade_cta": "अपग्रेड",
+      "usage_labels": {
+        "voice_notes": "वॉइस नोट्स",
+        "uploads": "अपलोड्स",
+        "docs": "डॉक्स"
+      },
+      "daily_pass": {
+        "title": "🚀 आज असीमित अनलॉक करें",
+        "description": "{{price}} डेली पास के साथ मध्यरात्रि तक असीमित AI क्वेरीज़ प्राप्त करें।",
+        "cta": "डेली पास प्राप्त करें – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "सीमा पहुँच गई",
+      "upgrade_cta": "जारी रखने के लिए अपना प्लान अपग्रेड करें",
+      "wait_info": "या प्रतीक्षा करें और फिर पुनः प्रयास करें: {{time}}",
+      "body_message": "आप अपनी मुफ़्त सीमा तक पहुँच गए हैं। जारी रखने के लिए अपग्रेड करें या प्रतीक्षा करें।"
+    }
+  },
+  "plan_card": {
+    "plan_label": "प्लान",
+    "billing": {
+      "per_period": "प्रति {{period}}",
+      "always_free": "हमेशा मुफ्त",
+      "discount_badge": "पहले महीने {{discount}}% छूट",
+      "per_mins": "{{minutes}} मिनट"
+    },
+    "toggle": {
+      "annual": "वार्षिक",
+      "monthly": "मासिक",
+      "weekly": "साप्ताहिक",
+      "daily": "दैनिक"
+    },
+    "features": {
+      "voice_notes": "वॉइस नोट्स",
+      "uploads": "अपलोड्स",
+      "docs": "AI डॉक्यूमेंट जनरेशन",
+      "minutes": "मिनट्स",
+      "ai_queries": "AI टेक्स्ट क्वेरीज़",
+      "rollover": "रोल-ओवर की अनुमति है",
+      "shared_pool": "• वॉइस, अपलोड्स और डॉक्स के लिए साझा पूल",
+      "free_consultation": "• {{minutes}} मिनट मुफ्त परामर्श शामिल",
+      "priority_support": "• प्राथमिक मानव सहायता शामिल",
+      "file_caps_title": "फाइल साइज और पेज सीमा",
+      "image_max": "छवियाँ अधिकतम",
+      "doc_max": "डॉक्यूमेंट अधिकतम"
+    },
+    "limits": {
+      "unlimited": "असीमित",
+      "limited": "सीमित",
+      "none": "कोई नहीं",
+      "yes": "हाँ"
+    },
+    "notes": {
+      "standard_limits": "मानक सीमाएँ लागू होती हैं",
+      "reset_time": "क्वेरी सीमा 12am पर रीसेट होती है"
+    },
+    "cta": {
+      "default_plan": "डिफ़ॉल्ट योजना",
+      "current_plan": "वर्तमान योजना",
+      "subscribe": "अभी सब्सक्राइब करें"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "मासिक सीमा पहुँच गई",
+      "title_paid": "आपके मिनट्स समाप्त हो गए हैं",
+      "description_freemium": "आपने वॉइस नोट्स, फाइल अपलोड्स और डॉक जनरेशन के लिए अपनी सभी 6 मुफ्त मासिक क्रेडिट्स उपयोग कर ली हैं।",
+      "description_paid": "इस क्रिया को पूरा करने के लिए आपके पास पर्याप्त मिनट्स नहीं हैं। अधिक के लिए टॉप अप करें या अपग्रेड करें।",
+      "upgrade_premium": "प्रीमियम में अपग्रेड करें",
+      "topup_cta": "मिनट्स टॉप अप करें",
+      "view_usage": "क्रेडिट उपयोग विवरण देखें"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "मिनट्स टॉप-अप",
+      "subtitle": "जारी रखने के लिए अतिरिक्त मिनट्स खरीदें।",
+      "alerts": {
+        "low_minutes": "आपने अपने मिनट्स का {{percentage}}% उपयोग कर लिया है। अभी टॉप अप करें!",
+        "limit_reached": "मासिक टॉप-अप सीमा पहुँच गई ({{used}}/{{limit}})",
+        "limit_popup_title": "टॉप-अप सीमा पहुँच गई",
+        "limit_popup_message": "आपने मासिक टॉप-अप सीमा पार कर ली है।"
+      },
+      "slider": {
+        "label": "खरीदने के लिए मिनट्स",
+        "minutes_value": "{{minutes}} मिनट्स",
+        "min": "{{min}} मिनट",
+        "max": "{{max}} मिनट"
+      }
+    }
+  },
+  "show_less": "कम दिखाएँ",
+  "show_more": "और दिखाएँ",
+  "updating_balance": "बैलेंस अपडेट हो रहा है...",
+  "usage_limits": "उपयोग सीमा",
+  "voice_notes": "वॉइस नोट्स",
+  "uploads": "अपलोड्स",
+  "usage_history": "उपयोग इतिहास",
+  "manage_plan": "प्लान मैनेज करें",
+  "cancel_subscription": "सब्सक्रिप्शन रद्द करें",
+  "explore_premium_plans": "प्रीमियम प्लान देखें",
+  "used": "उपयोग किया गया",
+  "total": "कुल",
+  "unlimited": "असीमित",
+  "manage_subscription_title": "सब्सक्रिप्शन मैनेज करें",
+  "manage_subscription_desc": "आपको सेटिंग्स मैनेज करने के लिए स्टोर पर भेजा जाएगा।",
+  "stay_with_us": "हमारे साथ रहें",
+  "open_store_error": "स्टोर लिंक नहीं खुल सका।",
+  "subscription_fetch_error": "सब्सक्रिप्शन जानकारी प्राप्त करने में विफल।",
+  "unit_min": "मिनट",
+  "no_transaction_yet": "अभी तक कोई लेन-देन नहीं हुआ!",
+  "feedback_hint_message": "अपने स्वयं के अनुभव का विवरण साझा करें",
+  "withdraw": "वापस लें",
+  "issue_summary": "समस्या का सारांश",
+  "disclaimer": "अस्वीकरण",
+  "disclaimer_message": "LawNeeds AI Support Assistant केवल जानकारी के लिए मार्गदर्शन प्रदान करता है।",
+  "disclaimer_button": "मैं स्वीकार करता हूँ",
+  "filter": {
+    "title": "फ़िल्टर",
+    "sortBy": "क्रमबद्ध करें",
+    "commonServices": "सामान्य सेवाएँ",
+    "practiceAreas": "प्रैक्टिस क्षेत्र",
+    "professionalTypes": "व्यावसायिक प्रकार",
+    "sortOptions": {
+      "alphabetical": "वर्णानुक्रम",
+      "relevance": "प्रासंगिकता",
+      "experience": "अनुभव"
+    }
+  },
+  "common": {
+    "upgrade_now": "अभी अपग्रेड करें",
+    "close": "बंद करें",
+    "maybe_later": "शायद बाद में",
+    "not_now": "अभी नहीं",
+    "pay": "भुगतान करें {{currency}}{{amount}}",
+    "total_cost": "कुल लागत:",
+    "usage_limit_reached": "उपयोग सीमा पूरी हो गई",
+    "apply": "लागू करें",
+    "cancel": "रद्द करें",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "processing": "प्रसंस्करण जारी है...",
+    "something_wrong": "कुछ गलत हो गया",
+    "no_data_available": "कोई डेटा उपलब्ध नहीं है"
+  },
+  "daily_pass_success": "प्लान सफलतापूर्वक खरीदा गया!",
+  "daily_pass_not_found": "डेली पास नहीं मिला।",
+  "purchase_failed": "खरीद विफल रही",
+  "expires": "समाप्ति: {{expiryDate}}",
+  "active": "सक्रिय",
+  "pricing": {
+    "confirm_price": "कस्टम मूल्य",
+    "propose_price": "मूल्य प्रस्तावित करें",
+    "enter_amount": "राशि दर्ज करें",
+    "invalid_amount": "मान्य राशि दर्ज करें",
+    "amount_range": "राशि ₹{{min}} - ₹{{max}} के बीच होनी चाहिए",
+    "range": "न्यूनतम: ₹{{min}} | अधिकतम: ₹{{max}}",
+    "price_confirmed": "मूल्य की पुष्टि हो गई",
+    "price_proposed": "मूल्य प्रस्तावित किया गया",
+    "confirm_price_btn": "पुष्टि करें",
+    "submit_price_btn": "जमा करें",
+    "load_failed": "मूल्य लोड करने में विफल",
+    "title": "मूल्य निर्धारण",
+    "not_proposed_message": "मूल्य अभी तय नहीं हुआ है। जारी रखने के लिए कृपया मूल्य निर्धारित करें।"
+  },
+  "payment": {
+    "header_title": "भुगतान",
+    "total_amount": "कुल राशि",
+    "platform_fee": "प्लेटफ़ॉर्म शुल्क",
+    "lawyer_receives": "वकील को प्राप्त होता है",
+    "pay_button": "भुगतान करें £ {{amount}}",
+    "preparing_payment": "सुरक्षित भुगतान तैयार किया जा रहा है...",
+    "alerts": {
+      "error_title": "त्रुटि",
+      "init_failed": "भुगतान प्रारंभ करना विफल रहा",
+      "unable_to_load": "भुगतान लोड नहीं हो सका",
+      "payment_failed_title": "भुगतान विफल",
+      "generic_error": "कुछ गलत हो गया",
+      "success_title": "सफलता",
+      "success_message": "भुगतान सफलतापूर्वक पूरा हुआ!"
+    },
+    "notification_title": "भुगतान प्राप्त हुआ",
+    "notification_message": "ने भुगतान पूरा कर लिया है। आप परामर्श शुरू कर सकते हैं।"
+  },
+  "consultation": {
+    "ended_title": "परामर्श समाप्त हुआ",
+    "ended_message": "समय समाप्त हो गया है",
+    "pending": "लंबित",
+    "active": "चल रहा है",
+    "completed": "पूर्ण"
+  },
+  "file": {
+    "uploading_image": "छवि अपलोड हो रही है...",
+    "uploading_video": "वीडियो अपलोड हो रहा है...",
+    "uploading_file": "फ़ाइल अपलोड हो रही है...",
+    "upload_failed": "अपलोड विफल",
+    "upload_failed_message": "फ़ाइल भेजी नहीं जा सकी।",
+    "open_pdf": "PDF खोलें",
+    "open_doc": "DOC खोलें",
+    "open_file": "फ़ाइल खोलें"
+  },
+  "notification": {
+    "lawyer_message": "वकील का संदेश",
+    "new_message": "नया संदेश"
+  },
+  "live": "लाइव",
+  "stripe_connected": "Stripe कनेक्टेड",
+  "connect_with_stripe": "Stripe से कनेक्ट करें",
+  "payments": "भुगतान",
+  "beta_instructions": "बीटा निर्देश",
+  "status": {
+    "title": "स्थिति",
+    "paid": "भुगतान किया गया",
+    "unpaid": "अवैतनिक"
+  },
+  "stripe_not_onboarded_title": "भुगतान सेटअप अधूरा है",
+  "stripe_not_onboarded_message": "परामर्श अनुरोध स्वीकार करने के लिए, कृपया Settings टैब से अपना Stripe भुगतान सेटअप पूरा करें।",
+  "case_folder": "केस फ़ोल्डर",
+  "case_helped": "सहायता किए गए मामले",
+  "satisfied": "संतुष्ट",
+  "rejected": "अस्वीकृत",
+  "withdrawn": "वापस लिया गया",
+  "deleted": "हटाया गया",
+  "consultation_history": "परामर्श इतिहास",
+  "pay": "भुगतान करें",
+  "start_consultation": "परामर्श शुरू करें",
+  "waiting_for_session": "सत्र की प्रतीक्षा में",
+  "waiting_for_payment": "भुगतान की प्रतीक्षा में",
+  "activity": "गतिविधि",
+  "one_minute_warning_title": "⏰ 1 मिनट शेष",
+  "one_minute_warning_body": "आपका परामर्श सत्र 1 मिनट में समाप्त हो जाएगा।",
+  "default_notification_title": "सूचना",
+  "no_notifications": "अभी तक कोई सूचनाएं नहीं हैं",
+  "i_agree": "मैं सहमत हूं",
+  "i_dont_agree": "मैं सहमत नहीं हूं",
+  "terms_and_conditions": "नियम और शर्तें",
+  "terms_condition_1": "1. इस ऐप का उपयोग करके, आप इन शर्तों से सहमत हैं और आपकी आयु कम से कम 18 वर्ष होनी चाहिए।",
+  "terms_condition_2": "2. LawNeeds कानूनी सहायता प्रदान करता है लेकिन पेशेवर कानूनी प्रतिनिधित्व को प्रतिस्थापित नहीं करता है।",
+  "terms_condition_3": "3. LawNeeds एआई सपोर्ट असिस्टेंट सूचनात्मक कानूनी मार्गदर्शन प्रदान करता है। यह कानूनी सलाह नहीं है.",
+  "terms_condition_4": "4. आप सटीक और सच्ची जानकारी प्रदान करने के लिए जिम्मेदार हैं।",
+  "terms_condition_5": "5. आपकी जानकारी निजी है, लेकिन आपको अपने खाते की जानकारी गुप्त रखनी होगी।",
+  "welcome_to_lawneeds": "LawNeeds में आपका स्वागत है!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "कुशल कामगार वीज़ा",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "छात्र वीज़ा",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "विज़िट वीज़ा",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "वंशावली वीज़ा",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "जीवनसाथी / पार्टनर वीज़ा",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "PBS आश्रित",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "पारिवारिक पुनर्मिलन",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (10-वर्षीय मार्ग)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "नैचुरलाइज़ेशन",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "EU सेटलमेंट योजना",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), मानवाधिकार आवेदन",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "शरण आवेदन (पूर्ण सहायता)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "पूर्ण केस प्रबंधन (आरंभ से अंत तक)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "एक्सप्रेस",
+  "basic": "बेसिक",
+  "verified": "दस्तावेज़ सत्यापित",
+  "verification_failed": "सत्यापन विफल",
+  "verification_cancelled": "सत्यापन रद्द किया गया",
+  "delete_review_confirm": "क्या आप वाकई इस समीक्षा को हटाना चाहते हैं?",
+  "casework_service": "केसवर्क सेवा",
+  "casework_price_range": "केसवर्क मूल्य सीमा",
+  "tour_previous_chat_title": "पिछली चैट",
+  "tour_previous_chat_desc": "अपनी पिछली बातचीत यहाँ देखें।",
+  "tour_new_chat_title": "नई चैट",
+  "tour_new_chat_desc": "नई कानूनी पूछताछ शुरू करने के लिए यहाँ टैप करें।",
+  "tour_notifications_title": "सूचनाएँ",
+  "tour_notifications_desc": "महत्वपूर्ण अपडेट और अलर्ट यहाँ देखें।",
+  "tour_inbox_title": "इनबॉक्स",
+  "tour_inbox_desc": "अपने संदेश और केस उत्तर यहाँ प्रबंधित करें।",
+  "tour_language_title": "भाषा",
+  "tour_language_desc": "यहाँ अपनी पसंदीदा ऐप भाषा चुनें।",
+  "tour_chat_history_title": "चैट इतिहास",
+  "tour_chat_history_desc": "अपनी पुरानी बातचीत देखें और जारी रखें।",
+  "tour_current_plan_title": "वर्तमान प्लान",
+  "tour_current_plan_desc": "यहाँ अपने मौजूदा सब्सक्रिप्शन का विवरण देखें।",
+  "tour_usage_history_title": "उपयोग इतिहास",
+  "tour_usage_history_desc": "आपने कितने मिनट और सुविधाएँ उपयोग कीं, इसका हिसाब रखें।",
+  "tour_request_legal_help_title": "कानूनी सहायता का अनुरोध",
+  "tour_request_legal_help_desc": "पेशेवरों से जुड़ने के लिए नई रिक्वेस्ट शुरू करें।",
+  "tour_wallet_title": "वॉलेट",
+  "tour_wallet_desc": "अपने वॉलेट बैलेंस और लेनदेन देखें।",
+  "tour_top_up_title": "टॉप-अप",
+  "tour_top_up_desc": "AI फीचर्स, अपलोड और परामर्श के लिए अधिक मिनट पाने हेतु फंड जोड़ें।",
+  "tour_search_desc": "किसी विशेष प्रोफेशनल को खोजने के लिए नाम लिखें।",
+  "tour_explore_subscribe_plans": "अपने प्लान को देखने और अपग्रेड करने के लिए यहाँ टैप करें।",
+  "tour_explore_upgrade_plans": "प्रीमियम फीचर्स खोलने के लिए अपना प्लान अपग्रेड करें।",
+  "tour_lawyer_stripe_connected": "आपका Stripe खाता जुड़ चुका है और भुगतान प्राप्त करने के लिए तैयार है।",
+  "tour_lawyer_stripe_not_connected": "ग्राहकों से भुगतान स्वीकार करना शुरू करने के लिए Stripe कनेक्ट करें।",
+  "profile_completion": {
+    "title": "अपनी प्रोफ़ाइल पूरी करें",
+    "description": "कृपया आगे बढ़ने से पहले अपनी जानकारी सत्यापित करें।",
+    "first_name": "पहला नाम *",
+    "last_name": "अंतिम नाम *",
+    "saving": "सहेजा जा रहा है...",
+    "save_continue": "सहेजें और जारी रखें",
+    "update_profile_failed": "प्रोफ़ाइल अपडेट नहीं हो सकी"
+  },
+  "auth": {
+    "session_expired": "आपका लॉगिन सत्र समाप्त हो गया है। कृपया फिर से प्रयास करें।",
+    "login_failed": "आपको साइन इन नहीं किया जा सका। कृपया फिर से प्रयास करें।",
+    "google_login_failed": "Google साइन इन सफल नहीं हुआ। कृपया फिर से प्रयास करें।",
+    "apple_login_failed": "Apple साइन इन सफल नहीं हुआ। कृपया फिर से प्रयास करें।",
+    "authorization_failed": "प्रमाणीकरण सेवा से कनेक्ट नहीं हो सका। कृपया बाद में फिर से प्रयास करें।",
+    "invalid_redirect": "साइन इन करते समय कुछ गलत हो गया। कृपया फिर से प्रयास करें।",
+    "cancelled_login": "साइन इन रद्द कर दिया गया।",
+    "invalid_response": "हम आपका साइन इन पूरा नहीं कर सके। कृपया फिर से प्रयास करें।"
+  },
+  "tour_service_request_title": "अनुरोध",
+  "tour_service_request_desc": "किसी कानूनी विशेषज्ञ को सीधे सेवा अनुरोध भेजें। फ़ॉर्म पूरा करें, ज़रूरत होने पर नोट्स या दस्तावेज़ जोड़ें, और विशेषज्ञ के उपलब्ध होने पर उन्हें सूचित किया जाएगा।",
+  "tour_request_form_title": "अनुरोध फ़ॉर्म",
+  "tour_request_form_desc": "अपने कानूनी मामले, परामर्श की आवश्यकताओं और तात्कालिकता के बारे में जानकारी दें। विशेषज्ञ को आपकी स्थिति समझने में मदद करने के लिए आप दस्तावेज़ अपलोड कर सकते हैं या वॉइस नोट जोड़ सकते हैं।",
+  "no_data": "कोई डेटा नहीं",
+  "duplicate_file_attached": "\"{{filename}}\" पहले ही संलग्न किया जा चुका है।",
+  "duplicate_file_attached_as": "\"{{filename}}\" पहले ही \"{{existingLabel}}\" के रूप में संलग्न किया जा चुका है।",
+  "consultation_consent_prefix": "पर क्लिक करके",
+  "consultation_consent_middle": ", आप स्वीकार करते हैं कि यदि आपकी परामर्श 14 दिनों के भीतर प्रदान की जाती है, तो उसे रद्द करने का आपका वैधानिक अधिकार लागू नहीं रहेगा। फिर भी आप हमारी",
+  "cancellation_policy": "रद्दीकरण नीति",
+  "home_actions": {
+    "ask_ai": "LawNeeds AI से पूछें",
+    "ask_ai_description": "LawNeeds AI चैटबॉट से मार्गदर्शन प्राप्त करें।",
+    "find_professional": "पेशेवर खोजें",
+    "find_professional_description": "ऐसे कानूनी पेशेवर को खोजें जो आपकी मदद कर सके।",
+    "book_consultation": "परामर्श बुक करें",
+    "book_consultation_description": "परामर्श की व्यवस्था के लिए रेफरल प्रक्रिया शुरू करें।"
+  }
+}

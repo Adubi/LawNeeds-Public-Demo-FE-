@@ -1,0 +1,1460 @@
+{
+  "submit": "Dërgo",
+  "cancel": "Anulo",
+  "done": "U krye",
+  "ok": "Ok",
+  "next": "Tjetër",
+  "save": "Ruaj",
+  "privacy_policy": "Politika e privatësisë",
+  "terms_n_conditions": "Termat dhe kushtet",
+  "per": {
+    "camera_roll": "Kërkohet leje për galerinë.",
+    "microphone_access": "Kërkohet leje për mikrofonin.",
+    "permission_denied": "Leja u refuzua",
+    "notification_permission_not_granted": "Leja për njoftimet nuk u dha"
+  },
+  "policy_text": {
+    "i_agree": "Jam dakord",
+    "i_dont_agree": "Nuk jam dakord",
+    "label_1": "1. Informacioni që mbledhim.",
+    "label_2": "2. Si e mbledhim.",
+    "label_3": "3. Si përdoret.",
+    "label_4": "4. Shpërndarja e informacionit.",
+    "label_5": "5. Siguria e të dhënave.",
+    "label_6": "6. Të drejtat tuaja.",
+    "label_7": "7. Kategori e veçantë: jap pëlqimin tim të shprehur për përpunimin e çdo të dhëne të kategorisë së veçantë që ofroj, duke përfshirë informacionin në lidhje me përkatësinë time etnike dhe të dhëna të tjera personale të ndjeshme, me qëllim përgjigjen ndaj kërkesës sime. Mund ta tërheq pëlqimin tim në çdo kohë duke dërguar një email në info@lawneeds.co.uk.",
+    "policy_details": "Kjo politikë shpjegon përdorimin e të dhënave.",
+    "review_message": "Ju lutem shqyrtoni",
+    "privacy_policy": "Politikën tonë të privatësisë"
+  },
+  "tab": {
+    "account": "Llogaria",
+    "chat": "Bisedë",
+    "home": "Kryefaqja",
+    "settings": "Opsione",
+    "inbox": "Hyrëse",
+    "search": "Kërko"
+  },
+  "profile": {
+    "firm_name": "Emri i firmës",
+    "practice_areas_label": "Fushat e praktikës",
+    "services": "Shërbime",
+    "first_name": "Emri",
+    "last_name": "Mbiemri",
+    "about": "Rreth",
+    "skills": "Aftësi",
+    "organisation_name": "Emri i organizatës",
+    "areas_of_legal_focus": "Fushat e fokusit ligjor",
+    "professional_employer": "Punëdhënësi",
+    "area_of_legal_expertise": "Fusha e ekspertizës ligjore",
+    "max_of_four": "Maksimumi katër",
+    "max_of_two": "Maksimumi dy",
+    "characters": "karaktere",
+    "please_select": "Ju lutemi zgjidhni",
+    "account_security": "Siguria e llogarisë",
+    "details": "Detaje",
+    "edit_details": "Ndrysho detajet",
+    "no_name": "Pa emër",
+    "profile_updated_success": "Profili u përditësua me sukses",
+    "company_name": "Emri i kompanisë",
+    "enter_your_company_name": "Vendosni emrin e kompanisë tuaj",
+    "achievements": "Arritje",
+    "enter_your_achievements": "Vendosni arritjet tuaja",
+    "timeline": "Kronologjia",
+    "start_date": "Data e fillimit",
+    "end_date": "Data e përfundimit",
+    "add_another_section": "Shto një seksion tjetër",
+    "add_section": "Shto seksion"
+  },
+  "success": {
+    "success": "Sukses",
+    "success_sent_code": "Kodi i verifikimit u dërgua me sukses."
+  },
+  "error": {
+    "title": "Gabim",
+    "error_msg": "Diçka shkoi keq. Ju lutemi provoni përsëri.",
+    "session_expired": "Sesioni ka skaduar",
+    "login_again": "Ju lutemi hyni përsëri për të vazhduar.",
+    "token_missing": "Tokeni i autentikimit mungon.",
+    "error_process_audio": "Ndodhi një gabim gjatë përpunimit të audios.",
+    "error_process_file": "Ndodhi një gabim gjatë ngarkimit të skedarit.",
+    "try_again": "Na vjen keq, ndodhi një gabim. Ju lutemi provoni përsëri.",
+    "no_use_session": "Nuk u gjet asnjë sesion përdoruesi. Ju lutemi hyni përsëri.",
+    "invalid_response_token_not_found": "Përgjigje e pavlefshme: Tokeni nuk u gjet",
+    "fill_all_fields": "Ju lutemi plotësoni të gjitha fushat",
+    "network_error": "Gabim rrjeti. Ju lutemi kontrolloni lidhjen tuaj të internetit.",
+    "session_expired_login": "Seanca juaj ka skaduar. Ju lutemi hyni sërish.",
+    "no_permission": "Nuk keni leje për të kryer këtë veprim.",
+    "resource_not_found": "Burimi i kërkuar nuk u gjet.",
+    "invalid_data": "Janë dhënë të dhëna të pavlefshme. Ju lutemi kontrolloni dhe provoni përsëri.",
+    "server_error": "Gabim serveri. Ju lutemi provoni sërish më vonë.",
+    "something_went_wrong": "Diçka shkoi keq. Ju lutemi provoni përsëri.",
+    "case_not_found": "Rasti nuk u gjet",
+    "failed_to_process_request": "Kërkesa për shërbim nuk u përpunua"
+  },
+  "change_email": {
+    "send_instruction": "Dërgo udhëzimet",
+    "go_back": "Kthehu",
+    "create_new_pass": "Krijo fjalëkalim të ri",
+    "current_email": "Email aktual",
+    "enter_current_email": "Vendosni emailin aktual dhe emailin e ri.",
+    "new_email": "Email i ri",
+    "check_your_mail": "Kontrolloni emailin tuaj",
+    "check_mail_for_verify_account": "Ne kemi dërguar një kod verifikimi në emailin tuaj. Vendoseni më poshtë.",
+    "check_mail_for_reset_pass": "Ne kemi dërguar një kod verifikimi në emailin tuaj. Vendoseni për të rivendosur fjalëkalimin.",
+    "enter_verification_code": "Vendosni kodin e verifikimit",
+    "go_back_login": "Kthehu te hyrja",
+    "not_recd_mail": "Nuk keni marrë email? Kontrolloni Spam ose",
+    "try_other_email": "Provoni një email tjetër",
+    "resend_code": "Ridërgo kodin",
+    "verify_mail": "Verifikoni emailin tuaj",
+    "click_link_to_verify_mail": "Klikoni lidhjen për të verifikuar emailin e ri",
+    "skip_confirm_later": "Kalo, do ta konfirmoj më vonë",
+    "email_updated": "Emaili u përditësua"
+  },
+  "landing": {
+    "welcome_to": "Mirë se vini në",
+    "immigration": "Mbështetje për emigracionin e thjeshtuar",
+    "create_account": "Krijo llogari",
+    "log_in": "Hyr",
+    "or": "ose",
+    "create_pro": "Krijo llogari Pro",
+    "select_pro": "Zgjidh llogarinë Pro",
+    "lawyer": "Avokat",
+    "law_firm": "Zyrë ligjore",
+    "hr_legal": "SME",
+    "a2j_partners": "Partnerët A2J",
+    "screen_not_exist": "Kjo faqe nuk ekziston.",
+    "go_to_home_screen": "Shko në faqen kryesore!"
+  },
+  "login": {
+    "password": "Fjalëkalimi",
+    "login": "Hyr",
+    "remember_me": "Më mbaj mend",
+    "forgot_password": "Keni harruar fjalëkalimin?",
+    "need_account": "Keni nevojë për një llogari?",
+    "signup": "Regjistrohu"
+  },
+  "reset_password": "Rivendos fjalëkalimin",
+  "create_new_password": "Krijo fjalëkalim të ri",
+  "create_account": {
+    "first_name": "Emri",
+    "last_name": "Mbiemri",
+    "date_of_birth": "Data e lindjes",
+    "country": "Shteti",
+    "select_country": "Zgjidh shtetin",
+    "next": "Tjetër",
+    "create_account": "Krijo llogari",
+    "date_of_incorporate": "Data e regjistrimit",
+    "create_pro_account": "Krijo llogari Pro",
+    "hr_legal_account": "Llogari",
+    "lawyer_account": "Llogari Avokati",
+    "law_firm_account": "Llogari Zyre ligjore",
+    "a2j_partners_account": "Llogari A2J",
+    "firm_name": "Emri i firmës",
+    "organisation_name": "Emri i organizatës",
+    "date_of_establishment": "Data e themelimit",
+    "areasOfLegalFocus": "Fushat ligjore",
+    "selectAreasOfLegalFocus": "Zgjidh fushat ligjore",
+    "contactPerson": "Person kontakti",
+    "registrationCharityNumber": "Numri i regjistrimit",
+    "searchAddress": "Kërko adresën",
+    "town": "Qyteti",
+    "postcode": "Kodi postar",
+    "address": "Adresa",
+    "please_select": "Ju lutemi zgjidhni:",
+    "legalAidOrganisation": "Organizatë ndihme ligjore",
+    "lawCentre": "Qendër ligjore",
+    "proBonoClinic": "Klinikë falas",
+    "profile_photo": "Foto profili",
+    "profile_photo_required": "Foto profili kërkohet për llogarinë Pro",
+    "upload": "Ngarko",
+    "please_agree_text": "Ju lutemi pranoni kushtet tona",
+    "signup_agreement_text": "Duke u regjistruar, ju pranoni",
+    "terms_of_service": "Kushtet e shërbimit",
+    "and_text": "dhe",
+    "agree_proceed_button": "Prano dhe vazhdo",
+    "select_practice_area": "Zgjidh fushën e praktikës",
+    "already_have_account": "Keni tashmë një llogari?",
+    "account_creat_success": "Llogaria u krijua me sukses!",
+    "access_detail_msg_legal_assistance": "Tani mund të përdorni ndihmë ligjore të personalizuar.",
+    "select_practice_areas": "Zgjidh fushat e praktikës",
+    "contact_person_partner": "Person kontakti/Partner",
+    "company_regi_number": "Numri i regjistrimit të kompanisë",
+    "enter_sra_number": "Vendosni numrin SRA",
+    "enter_bar_number": "Vendosni numrin BAR",
+    "enter_iaa_number": "Vendosni numrin IAA",
+    "verify_document": "Verifiko dokumentin e identitetit",
+    "reverify_document": "Riverifiko dokumentin"
+  },
+  "validation": {
+    "missing_info": "Mungojnë informacione",
+    "enter_your_name": "Ju lutemi vendosni emrin tuaj",
+    "enter_your_email": "Ju lutemi vendosni emailin tuaj",
+    "enter_your_phone": "Ju lutemi vendosni numrin tuaj të telefonit",
+    "enter_feedback": "Ju lutemi vendosni një koment",
+    "valid_first_name": "Emri duhet të ketë të paktën 2 karaktere.",
+    "valid_last_name": "Mbiemri duhet të ketë të paktën 2 karaktere.",
+    "select_dob": "Ju lutemi zgjidhni datën e lindjes.",
+    "select_country": "Ju lutemi zgjidhni shtetin.",
+    "enter_city": "Fusha e qytetit nuk mund të jetë bosh.",
+    "enter_postcode": "Kodi postar nuk mund të jetë bosh.",
+    "enter_address": "Adresa nuk mund të jetë bosh.",
+    "valid_user_name": "Emri i përdoruesit duhet të ketë të paktën 3 karaktere.",
+    "valid_email": "Ju lutemi vendosni një email të vlefshëm.",
+    "valid_password": "Fjalëkalimi duhet të ketë të paktën 8 karaktere dhe një numër.",
+    "valid_organisation": "Emri i organizatës duhet të ketë të paktën 2 karaktere.",
+    "valid_town": "Fusha e qytetit nuk mund të jetë bosh.",
+    "enter_date_of_incorporate": "Ju lutemi zgjidhni datën e regjistrimit.",
+    "enter_confirm_password": "Ju lutemi shkruani fjalëkalimin e konfirmimit",
+    "valid_confirm_password": "Fjalëkalimi i konfirmimit duhet të ketë të paktën 8 karaktere dhe të përmbajë të paktën një numër.",
+    "password_not_match": "Fjalëkalimet nuk përputhen.",
+    "enter_first_name": "Ju lutemi shkruani emrin tuaj",
+    "enter_last_name": "Ju lutemi shkruani mbiemrin tuaj",
+    "document_expired": "Dokumenti juaj ka skaduar. Ju lutemi ngarkoni një dokument të vlefshëm.",
+    "document_invalid": "Verifikimi i dokumentit dështoi. Ju lutemi provoni përsëri."
+  },
+  "account": {
+    "practice_areas": "Fushat e praktikës",
+    "services": "Shërbime",
+    "details": "Detaje",
+    "licence": "Licencë",
+    "org_type": "Lloji i organizatës",
+    "go_back_home": "Kthehu në faqen kryesore"
+  },
+  "chat": {
+    "get_started": "Fillo",
+    "new_chat": "Bisedë e re",
+    "previous_chat": "Bisedat e mëparshme",
+    "title": "Bisedë",
+    "waiting": "Duke pritur...",
+    "help": "Ndihmë",
+    "end_chat": "Përfundo bisedën",
+    "chat_place_holder": "Dërgo mesazh në LawNeeds",
+    "uploading_file": "Po ngarkohen {{count}} bashkëngjitje: {{names}}",
+    "files_uploaded_success": "{{count}} bashkëngjitje u ngarkuan me sukses.",
+    "uploading_voice_note": "Po ngarkohet shënimi zanor...",
+    "voice_note_uploaded_success": "Shënimi zanor u ngarkua me sukses",
+    "open_pdf": "Hap PDF",
+    "sample_questions_title": "Pyetje shembull",
+    "you_selected": "Zgjodhët: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "Përshëndetje "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "unë "
+      },
+      {
+        "type": "token",
+        "content": "jam "
+      },
+      {
+        "type": "token",
+        "content": "asistenti "
+      },
+      {
+        "type": "token",
+        "content": "i "
+      },
+      {
+        "type": "token",
+        "content": "mbështetjes "
+      },
+      {
+        "type": "token",
+        "content": "së "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "Unë "
+      },
+      {
+        "type": "token",
+        "content": "ofroj "
+      },
+      {
+        "type": "token",
+        "content": "vetëm "
+      },
+      {
+        "type": "token",
+        "content": "informacion"
+      },
+      {
+        "type": "token",
+        "content": ", "
+      },
+      {
+        "type": "token",
+        "content": "jo "
+      },
+      {
+        "type": "token",
+        "content": "këshillë "
+      },
+      {
+        "type": "token",
+        "content": "profesionale"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "Si "
+      },
+      {
+        "type": "token",
+        "content": "mund "
+      },
+      {
+        "type": "token",
+        "content": "t’ju "
+      },
+      {
+        "type": "token",
+        "content": "ndihmoj "
+      },
+      {
+        "type": "token",
+        "content": "sot"
+      },
+      {
+        "type": "token",
+        "content": "?"
+      }
+    ],
+    "failed_to_load_chat": "Ngarkimi i bisedës dështoi. Ju lutemi provoni përsëri.",
+    "voice_note_ready": "Shënimi zanor është gati",
+    "tap_to_record": "Prekni 🔴 për të filluar regjistrimin",
+    "preview_files": "Parapamje e skedarëve",
+    "file_selected": "Skedari u zgjodh",
+    "files_selected": "Skedarët u zgjodhën",
+    "upload_files": "Ngarko",
+    "tap_to_preview": "Prekni për të parë paraprakisht",
+    "add": "Shto",
+    "today": "Sot",
+    "last_week": "Java e kaluar",
+    "last_month": "Muaji i kaluar"
+  },
+  "setting": {
+    "select_language": "Zgjidh gjuhën",
+    "settings": "Cilësimet",
+    "app_language": "Gjuha e aplikacionit",
+    "choose_language": "Zgjidh gjuhën",
+    "notifications": "Njoftime",
+    "submit_feedback": "Ndihmë",
+    "about": "Rreth",
+    "our_philosophy": "Filozofia jonë",
+    "account_management": "Menaxhimi i llogarisë",
+    "logout": "Dil"
+  },
+  "our_philosophy": {
+    "our_vision_header": "Vizioni ynë",
+    "our_vision_desc": "Në LawNeeds, ne besojmë se ndihma ligjore e besueshme, veçanërisht për imigracionin, duhet të jetë e aksesueshme për të gjithë, në çdo kohë dhe kudo. Me telefonat inteligjentë në qendër të jetës së përditshme, ne jemi këtu për të ndihmuar individët të orientohen në jetën në Mbretërinë e Bashkuar përmes asistencës ligjore të thjeshtë dhe të besueshme.",
+    "our_services_header": "Shërbimet tona",
+    "our_services_desc": "Aplikacioni ynë mobil, që përfshin vetëm firma ligjore të rregulluara, avokatë të licencuar dhe këshilltarë për imigracionin, ofron shërbime ligjore të specializuara me fokus të fortë në ligjin e imigracionit. Ne mbështesim individë, familje, studentë dhe profesionistë për të naviguar jetën në Mbretërinë e Bashkuar. Me rritjen tonë, përdoruesit do të kenë gjithashtu akses në ekspertizë në ligjin e punës, ligjin familjar dhe shkeljet e trafikut rrugor, të gjitha të ofruara me një përvojë të thjeshtë dhe pa komplikime me vetëm disa klikime.",
+    "innovation_header": "Inovacion në maksimum",
+    "innovation_desc": "Në LawNeeds, inovacioni drejton gjithçka që bëjmë. Ne përdorim fuqinë e AI për të ofruar udhëzime ligjore të menjëhershme, 24/7, si dhe rekomandime të personalizuara për imigracionin bazuar në vendndodhjen dhe situatën e çdo përdoruesi.",
+    "community_header": "Komuniteti dhe rritja",
+    "community_desc": "LawNeeds është më shumë se një aplikacion — është një komunitet. Ne fuqizojmë migrantët dhe ndihmojmë profesionistët ligjorë të zhvillojnë praktikën e tyre përmes platformës dhe veçorive tona inovative.",
+    "commitment_header": "Angazhimi për përsosmëri",
+    "commitment_desc": "LawNeeds kombinon teknologjinë AI me mbikëqyrjen ligjore njerëzore. Platforma jonë është trajnuar mbi një dataset ligjor ekskluziv të MB-së, e rishikuar nga avokatë të brendshëm dhe e përditësuar vazhdimisht me ndryshimet rregullatore dhe burime të verifikuara ligjore, duke siguruar udhëzime të besueshme në çdo hap.",
+    "join_us_header": "Bashkohuni me ne",
+    "join_us_desc": "Ndërsa vazhdojmë të rritemi, ju ftojmë të bëheni pjesë e udhëtimit tonë, qoftë duke kërkuar ndihmë ligjore apo duke zgjeruar praktikën tuaj. Në LawNeeds, suksesi juaj është misioni ynë."
+  },
+  "support": {
+    "support_desc": "Na ndihmoni të përmirësojmë LawNeeds duke ndarë mendimet, problemet ose sugjerimet tuaja më poshtë",
+    "feedback_success": "Feedback-u u dërgua me sukses",
+    "name": "Emri",
+    "comment": "Koment",
+    "address": "Zyra e regjistruar: 71–75 Shelton Street, Covent Garden, Londër, WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "E drejta e emigracionit"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "E drejta e punës"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "Shkelje të trafikut rrugor"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "E drejta familjare"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "Kërkim juridik"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "Shkrim juridik"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "Analizë e çështjeve"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "Hartim kontratash"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "Negociim"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "Këshillim klienti"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "Përfaqësim në gjykatë"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "Ndërmjetësim"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "Arbitrazh"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "Due diligence"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "Rishikim i përputhshmërisë"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "Vlerësim i rrezikut"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "Strategji ligjore"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "Kryqëzim pyetjesh"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "Shkrim përmbledhjesh"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "Dëshmi"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "Zbulim"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "Negociim marrëveshjeje"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "Analizë rregullatore"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "E drejta ndërkombëtare"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "Pronësi intelektuale"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "Bashkime dhe blerje"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "Qeverisje korporative"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "Marrëdhënie pune"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "Procedura emigracioni"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "E drejta e emigracionit"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "E drejta familjare"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "E drejta e punës"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "E drejta penale"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "E drejta korporative"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "E drejta e pronës"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "Dëmtime personale"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "Pronësi intelektuale"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "E drejta tatimore"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "E drejta e kontratave"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "Gjykim"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "Ndërmjetësim"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "Arbitrazh"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "Konsultim ligjor"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "Rishikim dokumentesh"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "Kërkim juridik"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "Përputhshmëri"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "Bashkime dhe blerje"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "Banking dhe financë"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "E drejta e sigurimeve"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "E drejta mjedisore"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "Të drejtat e njeriut"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "E drejta ndërkombëtare"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "E drejta administrative"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "E drejta kushtetuese"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "Konsultim i vetëm"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "Mbështetje e vazhdueshme"
+    },
+    {
+      "key": "casework",
+      "label": "Punë rasti"
+    },
+    {
+      "key": "not_sure",
+      "label": "Ende nuk jam i sigurt"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "Rutinë (5-7 ditë)"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "Prioritet (2-3 ditë)"
+    },
+    {
+      "key": "urgent",
+      "label": "Urgjente (po atë ditë ose ditën tjetër)"
+    }
+  ],
+  "search": {
+    "professionals": "Profesionistë",
+    "city": "Qyteti",
+    "distance": "Distanca",
+    "top_rated": "Më të vlerësuar",
+    "more": "Më shumë",
+    "request": "Kërkesë",
+    "request_service": "Kërko shërbim",
+    "service": "Shërbim",
+    "select_service": "Zgjidh shërbimin",
+    "urgency": "Urgjencë",
+    "select": "Zgjidh",
+    "additional_notes": "Shënime shtesë",
+    "service_request_success": "Kërkesa juaj për shërbim u dërgua me sukses",
+    "issue_type": "Lloji i çështjes",
+    "budget": "Buxheti",
+    "select_consultation": "Zgjidh konsultimin",
+    "consultation": "Konsultim",
+    "time_n_rate": "Koha dhe tarifa"
+  },
+  "reset_password_info": "Vendosni email-in e lidhur me llogarinë tuaj dhe ne do t'ju dërgojmë një email me udhëzime për të vendosur një fjalëkalim të ri",
+  "tap_to_upload_image": "Prek për të ngarkuar imazh",
+  "record": "Regjistro",
+  "media": "Media",
+  "attach": "Bashkëngjit",
+  "sort_by": "Rendit sipas",
+  "apply": "Apliko",
+  "select_date": "Zgjidh datën",
+  "day": "Dita",
+  "month": "Muaji",
+  "year": "Viti",
+  "present": "Aktual",
+  "sector": "Sektori",
+  "hr": "HR",
+  "legal": "Ligjor",
+  "both": "Të dyja",
+  "identity_card": "Kartë identiteti",
+  "passport": "Pasaportë",
+  "drivers_license": "Leje drejtimi",
+  "law_centre": "Qendër ligjore",
+  "legal_aid_organisation": "Organizatë ndihme ligjore",
+  "beta": "Beta",
+  "logged_in": "I kyçur",
+  "select_reason": "Zgjidh arsyen",
+  "select_area_of_legal_expertise": "Zgjidh fushën e ekspertizës ligjore",
+  "confirm_password": "Konfirmo fjalëkalimin",
+  "enter_new_password_below": "Vendosni fjalëkalimin e ri më poshtë",
+  "select_a_country": "Zgjidh një shtet",
+  "open_email_app": "Hap aplikacionin e email-it",
+  "request_details": "Detajet e kërkesës",
+  "accept": "Prano",
+  "reject": "Refuzo",
+  "request_reject_message": "Kërkesa për shërbim u refuzua me sukses",
+  "document_view": "Pamja e dokumentit",
+  "loading_document": "Duke ngarkuar dokumentin",
+  "service_issue_type": "Zgjidh llojin e çështjes së shërbimit",
+  "select_consultation_type": "Zgjidh llojin e konsultimit",
+  "urgency_level": "Zgjidh nivelin e urgjencës",
+  "budget_input": "Vendos buxhetin",
+  "attachments": "Bashkëngjitje",
+  "user_label": "Ti",
+  "timestamp": "Sapo",
+  "voice_note": "Mesazh zanor",
+  "comment_placeholder": "Shkruaj një koment...",
+  "messages": "Mesazhe",
+  "edit": "Ndrysho",
+  "copy": "Kopjo",
+  "select_consultation_time": "Zgjidh kohën e konsultimit",
+  "request_cancel_success": "Kërkesa për shërbim u anulua me sukses",
+  "accept_request_message": "A jeni i sigurt që doni ta pranoni këtë kërkesë?",
+  "reject_request_message": "A jeni i sigurt që doni ta refuzoni këtë kërkesë?",
+  "delete_request_message": "A dëshironi vërtet ta fshini këtë kërkesë?",
+  "withdraw_request_message": "A dëshironi vërtet ta tërhiqni këtë kërkesë?",
+  "yes": "Po",
+  "no": "Jo",
+  "accepted": "Pranuar",
+  "cancelled": "Anuluar",
+  "pending": "Në pritje",
+  "consultation_time": "Koha e konsultimit",
+  "consultation_type": "Lloji i konsultimit",
+  "recommended_professionals": "Profesionistë të rekomanduar:",
+  "continue": "Vazhdo",
+  "image": "Imazh",
+  "delete_account": "Fshi llogarinë",
+  "delete": "Fshi",
+  "delete_confirmation_message": "A jeni i sigurt që doni ta fshini llogarinë tuaj? Ky veprim nuk mund të zhbëhet.",
+  "delete_account_error_message": "Diçka shkoi keq gjatë fshirjes së llogarisë tuaj.",
+  "place_holder_additional_notes": "Shkruani çdo detaj shtesë rreth çështjes suaj ligjore...",
+  "upload_options": "Opsionet e ngarkimit:",
+  "select_option": "Ju lutemi zgjidhni një opsion:",
+  "skip": "Kalo",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "E drejta e emigracionit"
+    },
+    {
+      "key": "employment",
+      "label": "E drejta e punës"
+    },
+    {
+      "key": "road_traffic",
+      "label": "Shkelje të trafikut rrugor"
+    },
+    {
+      "key": "family",
+      "label": "E drejta familjare"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "Urgjente"
+    },
+    {
+      "key": "within_week",
+      "label": "Brenda një jave"
+    },
+    {
+      "key": "within_month",
+      "label": "Brenda një muaji"
+    },
+    {
+      "key": "not_urgent",
+      "label": "Jo urgjente"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "Zgjidh llojin e çështjes"
+    },
+    {
+      "key": "urgency",
+      "name": "Zgjidh urgjencën"
+    },
+    {
+      "key": "consultation",
+      "name": "Zgjidh konsultimin"
+    },
+    {
+      "key": "select_time",
+      "name": "Zgjidh kohën dhe tarifën"
+    },
+    {
+      "key": "select-budget",
+      "name": "Zgjidh buxhetin"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "5 minuta (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "10 minuta (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "20 minuta (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "30 minuta (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "1 orë (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "3 ditë (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "5 ditë (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "Mbi £700"
+    }
+  ],
+  "sample_questions": [
+    "Kërko një profesionist ligjor",
+    "A jam i kualifikuar për vizën Skilled Worker?",
+    "Si mund ta zgjas vizën time studentore?",
+    "Cilat janë rregullat për Indefinite Leave to Remain?",
+    "Si mund të aplikoj për azil në Mbretërinë e Bashkuar?",
+    "Sa kohë zgjat vendimi për vizë?"
+  ],
+  "rate_of_hour": "Tarifa për orë",
+  "search_country": "Kërko shtet",
+  "review_error": "Vlerësimi nuk mund të jetë bosh.",
+  "rating_validation": "Ju lutemi zgjidhni një vlerësim nga 1 deri në 5 yje.",
+  "create_account_with": "Krijo llogari me",
+  "login_with": "Hyr me",
+  "create_account_email_password": "Email/Fjalëkalim",
+  "sign_in_with_apple": "Hyr me Apple",
+  "sign_in_with_google": "Hyr me Google",
+  "no_cases_available": "Nuk ka raste të disponueshme",
+  "no_active_cases_available": "Nuk ka raste aktive",
+  "no_pending_cases_available": "Nuk ka raste në pritje",
+  "back": "Kthehu",
+  "submit_review": "Dërgo vlerësimin",
+  "delete_review": "Fshi vlerësimin",
+  "member_since": "Anëtar që nga",
+  "work_experience": "Përvojë pune",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "Ekspertizë",
+  "professional_details": "Detaje profesionale",
+  "review_professional": "Vlerëso profesionistin",
+  "no_reviews": "Ende nuk ka vlerësime. Bëhu i pari!",
+  "reviews": "Vlerësime",
+  "thanks_feedback": "Faleminderit për mendimin tuaj!",
+  "accept_case_notification_header": "Avokati pranoi kërkesën tuaj! 🎉",
+  "accept_case_notification_message_part": " ka pranuar rastin tuaj dhe është gati t’ju ndihmojë.",
+  "reject_case_notification_header": "Përditësim referimi",
+  "reject_case_notification_message_part": " nuk mund të marrë rastin tuaj në këtë moment.",
+  "delete_case_notification_header": "Kërkesa u fshi",
+  "withdraw_case_notification_header": "Kërkesa u tërhoq",
+  "delete_case_notification_message_part": " ka fshirë kërkesën e tij.",
+  "withdraw_case_notification_message_part": " ka tërhequr kërkesën e tij.",
+  "manuscript": "Dorëshkrim",
+  "share_dialog_title": "Ndaj ose shkarko dorëshkrimin",
+  "certifications": "Certifikime",
+  "queries_left": "Pyetje AI të mbetura",
+  "voice_notes_limit": "Zë",
+  "uploads_limit": "Ngarkime",
+  "docgen_limit": "Gjenerimi i dokumenteve",
+  "current_plan": "Plani aktual",
+  "faqs": "Pyetje të shpeshta",
+  "wallet": "Portofol",
+  "subscription": {
+    "plans_pricing_title": "Planet dhe Çmimet",
+    "plans_pricing_subtitle": "Zhblloko më shumë minuta dhe veçori premium",
+    "syncing_account": "Po sinkronizohet llogaria...",
+    "processing_purchase": "Po përpunohet blerja...",
+    "plan_unavailable_title": "Plani nuk është i disponueshëm",
+    "plan_unavailable_message": "Nuk mundëm ta gjejmë këtë plan në dyqan.",
+    "purchase_error_title": "Gabim në blerje",
+    "purchase_error_message": "Ndodhi një gabim i papritur.",
+    "upgrade_plans": "Përmirëso planet",
+    "plan_unlimited": "Pa kufi",
+    "plan_premium": "Premium",
+    "plan_standard": "Standard",
+    "plan_free_label": "Gjithmonë falas",
+    "billing_annually": "Vjetor",
+    "feature_voice_notes": "Shënime zanore",
+    "feature_uploads": "Ngarkime",
+    "feature_shared_pool": "Fond i përbashkët për Zë, Ngarkime dhe Dokumente",
+    "feature_free_consultation": "min konsultim falas",
+    "feature_priority_support": "Mbështetje njerëzore prioritare e përfshirë",
+    "feature_ai_queries": "Pyetje tekstuale AI",
+    "feature_limited": "I kufizuar",
+    "feature_standard_limits": "Zbatohen kufizimet standarde",
+    "feature_query_reset": "Kufiri i pyetjeve rivendoset në 12am",
+    "feature_rollover": "Transferimi lejohet",
+    "feature_images_max": "Maks. imazhe",
+    "feature_document_max": "Maks. dokumente",
+    "feature_mb": "MB",
+    "feature_pages": "faqe",
+    "label_default_plan": "Plani i parazgjedhur",
+    "cta_subscribe_now": "Abonohu tani",
+    "wallet_loading": "Po ngarkohet portofoli...",
+    "wallet_title": "Portofoli",
+    "wallet_balance": "Balanca e disponueshme",
+    "unit_minute": "Minutë",
+    "wallet_top_up": "Shto kredi",
+    "wallet_transactions": "Transaksionet e fundit",
+    "transaction_plan_purchase": "Blerje plani",
+    "transaction_legal_query": "Pyetje ligjore",
+    "transaction_document_process": "Përpunimi i dokumentit",
+    "reference_label": "Ref:",
+    "plan_free": "Falas",
+    "unit_min": "min"
+  },
+  "user_name": "Emri i përdoruesit",
+  "email": "Email",
+  "phone_number": "Numri i telefonit",
+  "urgent": "Urgjent",
+  "contact_support": "Kontakto mbështetjen",
+  "minutes": "Minuta",
+  "freemium": {
+    "modal": {
+      "title": "Kufiri i pyetjeve u arrit",
+      "timer_label": "Provo përsëri pas",
+      "timer_format": "{{minutes}} min {{seconds}} sek",
+      "upgrade_cta": "Përmirëso planin",
+      "loading_text": "Po zhbllokohen pyetjet tuaja…",
+      "watch_ad_cta": "📺 Shiko reklamë (+{{count}} pyetje)",
+      "limit_note": "Kufiri freemium: {{count}} pyetje / {{hours}} orë",
+      "description": "Keni përdorur të gjitha {{count}} pyetjet falas në {{hours}} orët e fundit.",
+      "buy_pass": "{{price}} pyetje pa kufi sot"
+    },
+    "banner": {
+      "plan_label": "PLAN {{plan_name}}",
+      "queries_left": "{{remaining}} / {{total}} pyetje të mbetura",
+      "daily_pass_active": "✨ Leja ditore aktive",
+      "upgrade_cta": "Përmirëso",
+      "usage_labels": {
+        "voice_notes": "Shënime zanore",
+        "uploads": "Ngarkime",
+        "docs": "Dokumente"
+      },
+      "daily_pass": {
+        "title": "🚀 Zhblloko pa kufi sot",
+        "description": "Merr pyetje AI pa kufi deri në mesnatë me një leje ditore për {{price}}.",
+        "cta": "Merr leje ditore – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "Kufiri u arrit",
+      "upgrade_cta": "Përmirësoni planin tuaj për të vazhduar",
+      "wait_info": "Ose prisni dhe provoni sërish pas: {{time}}",
+      "body_message": "Keni arritur kufirin tuaj falas. Përmirësojeni planin ose prisni për të vazhduar."
+    }
+  },
+  "plan_card": {
+    "plan_label": "{{plan_name}}",
+    "billing": {
+      "per_period": "/{{period}}",
+      "always_free": "Gjithmonë falas",
+      "discount_badge": "{{discount}}% ULJE NË MUAJIN E PARË",
+      "per_mins": "{{minutes}} min"
+    },
+    "toggle": {
+      "annual": "Çdo vit",
+      "monthly": "Çdo muaj",
+      "weekly": "Çdo javë",
+      "daily": "Çdo ditë"
+    },
+    "features": {
+      "voice_notes": "Shënime zanore",
+      "uploads": "Ngarkime",
+      "docs": "Gjenerim dokumentesh me AI",
+      "minutes": "Minuta",
+      "ai_queries": "Pyetje tekstuale me AI",
+      "rollover": "Mbartja lejohet",
+      "shared_pool": "• Fond i përbashkët për Zë, Ngarkime dhe Dokumente",
+      "free_consultation": "• Përfshihet konsultë falas prej {{minutes}} min",
+      "priority_support": "• Përfshihet mbështetje njerëzore prioritare",
+      "file_caps_title": "Kufijtë e madhësisë së skedarit dhe faqeve",
+      "image_max": "Maksimumi i imazheve",
+      "doc_max": "Maksimumi i dokumenteve"
+    },
+    "limits": {
+      "unlimited": "Pa kufi",
+      "limited": "I kufizuar",
+      "none": "Asnjë",
+      "yes": "Po"
+    },
+    "notes": {
+      "standard_limits": "Zbatohen kufijtë standardë",
+      "reset_time": "Kufijtë e pyetjeve rivendosen në orën 12am"
+    },
+    "cta": {
+      "default_plan": "Plani i parazgjedhur",
+      "current_plan": "Plani aktual",
+      "subscribe": "Abonohu tani"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "Limiti mujor u arrit",
+      "title_paid": "Ju kanë mbaruar minutat",
+      "description_freemium": "Keni përdorur të gjitha 6 kreditë mujore falas për Shënime Zanore, Ngarkim Skedarësh dhe Gjenerim Dokumentesh.",
+      "description_paid": "Nuk keni mjaftueshëm minuta për të përfunduar këtë veprim. Mbushni ose përmirësoni planin për më shumë mundësi.",
+      "upgrade_premium": "Kalo në Premium",
+      "topup_cta": "Mbush minuta",
+      "view_usage": "Shiko ndarjen e përdorimit të kredive"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "Mbushje minutash",
+      "subtitle": "Blini minuta shtesë për të vazhduar.",
+      "alerts": {
+        "low_minutes": "Keni përdorur {{percentage}}% të minutave tuaja. Mbushni tani!",
+        "limit_reached": "U arrit kufiri mujor i mbushjes ({{used}}/{{limit}})",
+        "limit_popup_title": "U arrit kufiri i mbushjes",
+        "limit_popup_message": "Keni tejkaluar kufirin mujor të mbushjes."
+      },
+      "slider": {
+        "label": "Minutat për të blerë",
+        "minutes_value": "{{minutes}} minuta",
+        "min": "{{min}} min",
+        "max": "{{max}} min"
+      }
+    }
+  },
+  "show_less": "Shfaq më pak",
+  "show_more": "Shfaq më shumë",
+  "updating_balance": "Po përditësohet balanca...",
+  "usage_limits": "Kufijtë e përdorimit",
+  "voice_notes": "Shënime zanore",
+  "uploads": "Ngarkime",
+  "usage_history": "Historia e përdorimit",
+  "manage_plan": "Menaxho planin",
+  "cancel_subscription": "Anulo abonimin",
+  "explore_premium_plans": "Shiko planet premium",
+  "used": "Përdorur",
+  "total": "Totali",
+  "unlimited": "Pa kufi",
+  "manage_subscription_title": "Menaxho abonimin",
+  "manage_subscription_desc": "Do të ridrejtoheni në dyqan për të menaxhuar cilësimet tuaja. Na vjen keq që po largoheni!",
+  "stay_with_us": "Qëndro me ne",
+  "open_store_error": "Nuk u hap lidhja e dyqanit.",
+  "subscription_fetch_error": "Dështoi marrja e informacionit të abonimit.",
+  "unit_min": "min",
+  "no_transaction_yet": "Ende nuk ka transaksione!",
+  "feedback_hint_message": "Ndani detajet e përvojës tuaj",
+  "withdraw": "Tërhiq",
+  "issue_summary": "Përmbledhje e problemit",
+  "disclaimer": "Mohim përgjegjësie",
+  "disclaimer_message": "LawNeeds AI Support Assistant ofron udhëzim vetëm për qëllime informative.",
+  "disclaimer_button": "E pranoj",
+  "filter": {
+    "title": "Filtër",
+    "sortBy": "Rendit sipas",
+    "commonServices": "Shërbime të zakonshme",
+    "practiceAreas": "Fusha praktike",
+    "professionalTypes": "Llojet e profesionistëve",
+    "sortOptions": {
+      "alphabetical": "Alfabetik",
+      "relevance": "Rëndësi",
+      "experience": "Përvojë"
+    }
+  },
+  "common": {
+    "upgrade_now": "Përmirëso tani",
+    "close": "Mbyll",
+    "maybe_later": "Ndoshta më vonë",
+    "not_now": "Jo tani",
+    "pay": "Paguaj {{currency}}{{amount}}",
+    "total_cost": "Kosto totale:",
+    "usage_limit_reached": "Limiti i përdorimit u arrit",
+    "apply": "Apliko",
+    "cancel": "Anulo",
+    "error": "Gabim",
+    "success": "Sukses",
+    "processing": "Po përpunohet...",
+    "something_wrong": "Diçka shkoi keq",
+    "no_data_available": "Nuk ka të dhëna të disponueshme"
+  },
+  "daily_pass_success": "Plani u ble me sukses!",
+  "daily_pass_not_found": "Leja ditore nuk u gjet.",
+  "purchase_failed": "Blerja dështoi",
+  "expires": "Skadon më: {{expiryDate}}",
+  "active": "Aktiv",
+  "pricing": {
+    "confirm_price": "Çmim i personalizuar",
+    "propose_price": "Propozo çmim",
+    "enter_amount": "Vendos shumën",
+    "invalid_amount": "Vendos një shumë të vlefshme",
+    "amount_range": "Shuma duhet të jetë midis ₹{{min}} - ₹{{max}}",
+    "range": "Min: ₹{{min}} | Max: ₹{{max}}",
+    "price_confirmed": "Çmimi u konfirmua",
+    "price_proposed": "Çmimi u propozua",
+    "confirm_price_btn": "Konfirmo",
+    "submit_price_btn": "Dërgo",
+    "load_failed": "Ngarkimi i çmimeve dështoi",
+    "title": "Çmimet",
+    "not_proposed_message": "Çmimi nuk është caktuar ende. Ju lutemi caktoni çmimin për të vazhduar."
+  },
+  "payment": {
+    "header_title": "Pagesa",
+    "total_amount": "Shuma totale",
+    "platform_fee": "Tarifa e platformës",
+    "lawyer_receives": "Avokati merr",
+    "pay_button": "Paguaj £ {{amount}}",
+    "preparing_payment": "Po përgatitet pagesa e sigurt...",
+    "alerts": {
+      "error_title": "Gabim",
+      "init_failed": "Inicializimi i pagesës dështoi",
+      "unable_to_load": "Nuk mund të ngarkohet pagesa",
+      "payment_failed_title": "Pagesa dështoi",
+      "generic_error": "Diçka shkoi keq",
+      "success_title": "Sukses",
+      "success_message": "Pagesa u përfundua me sukses!"
+    },
+    "notification_title": "Pagesa u mor",
+    "notification_message": "{{name}} e përfundoi pagesën. Mund ta filloni konsultimin."
+  },
+  "consultation": {
+    "ended_title": "Konsultimi përfundoi",
+    "ended_message": "Koha mbaroi",
+    "pending": "Në pritje",
+    "active": "Në proces",
+    "completed": "Përfunduar"
+  },
+  "file": {
+    "uploading_image": "Po ngarkohet imazhi...",
+    "uploading_video": "Po ngarkohet videoja...",
+    "uploading_file": "Po ngarkohet skedari...",
+    "upload_failed": "Ngarkimi dështoi",
+    "upload_failed_message": "Skedari nuk mund të dërgohej.",
+    "open_pdf": "Hap PDF",
+    "open_doc": "Hap DOC",
+    "open_file": "Hap skedarin"
+  },
+  "notification": {
+    "lawyer_message": "Mesazh nga avokati",
+    "new_message": "Mesazh i ri"
+  },
+  "live": "Drejtpërdrejt",
+  "stripe_connected": "Stripe i lidhur",
+  "connect_with_stripe": "Lidhu me Stripe",
+  "payments": "Pagesat",
+  "beta_instructions": "Udhëzimet beta",
+  "status": {
+    "title": "Statusi",
+    "paid": "I paguar",
+    "unpaid": "I papaguar"
+  },
+  "stripe_not_onboarded_title": "Konfigurimi i pagesës nuk është përfunduar",
+  "stripe_not_onboarded_message": "Për të pranuar kërkesat e konsultimit, ju lutemi përfundoni konfigurimin e pagesës Stripe nga skeda Cilësimet.",
+  "case_folder": "Dosja e rastit",
+  "case_helped": "Raste të ndihmuara",
+  "satisfied": "I kënaqur",
+  "rejected": "Refuzuar",
+  "withdrawn": "Tërhequr",
+  "deleted": "Fshirë",
+  "consultation_history": "Historiku i konsultimeve",
+  "pay": "Paguaj",
+  "start_consultation": "Fillo konsultimin",
+  "waiting_for_session": "Në pritje të seancës",
+  "waiting_for_payment": "Në pritje të pagesës",
+  "activity": "Aktiviteti",
+  "one_minute_warning_title": "⏰ Ka mbetur 1 minutë",
+  "one_minute_warning_body": "Seanca juaj e konsultimit do të përfundojë pas 1 minute.",
+  "default_notification_title": "Njoftim",
+  "no_notifications": "Nuk ka ende njoftime",
+  "i_agree": "jam dakord",
+  "i_dont_agree": "Unë nuk jam dakord",
+  "terms_and_conditions": "Termat dhe Kushtet",
+  "terms_condition_2": "2. LawNeeds ofron ndihmë juridike, por nuk zëvendëson përfaqësimin ligjor profesional.",
+  "terms_condition_1": "1. Duke përdorur këtë aplikacion, ju pranoni këto kushte dhe duhet të jeni të paktën 18 vjeç.",
+  "terms_condition_4": "4. Ju jeni përgjegjës për sigurimin e informacionit të saktë dhe të vërtetë.",
+  "terms_condition_3": "3. Asistenti mbështetës i AI në LawNeeds ofron udhëzime ligjore informative. Kjo nuk përbën këshillë ligjore.",
+  "terms_condition_5": "5. Informacioni juaj është privat, por ju duhet t'i mbani sekret kredencialet e llogarisë suaj.",
+  "welcome_to_lawneeds": "Mirë se vini në LawNeeds!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "Vizë për punëtor të kualifikuar",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "Vizë studenti",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "Vizë vizite",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "Vizë prejardhjeje",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "Vizë bashkëshorti / partneri",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "Persona në ngarkim PBS",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "Ribashkim familjar",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (rruga 10-vjeçare)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "Natyralizim",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "Skema e Vendosjes në BE",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP), aplikime për të drejtat e njeriut",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "Aplikime për azil (mbështetje e plotë)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "Menaxhim i plotë i çështjes (nga fillimi në fund)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "Ekspres",
+  "basic": "Bazë",
+  "verified": "Dokumenti u verifikua",
+  "verification_failed": "Verifikimi dështoi",
+  "verification_cancelled": "Verifikimi u anulua",
+  "delete_review_confirm": "A je i sigurt që dëshiron ta fshish këtë vlerësim?",
+  "casework_service": "Casework Service",
+  "casework_price_range": "Casework Price Range",
+  "tour_previous_chat_title": "Biseda e mëparshme",
+  "tour_previous_chat_desc": "Shihni këtu bisedat tuaja të mëparshme.",
+  "tour_new_chat_title": "Bisedë e re",
+  "tour_new_chat_desc": "Prekni këtu për të nisur një kërkesë të re ligjore.",
+  "tour_notifications_title": "Njoftime",
+  "tour_notifications_desc": "Kontrolloni këtu përditësimet dhe njoftimet e rëndësishme.",
+  "tour_inbox_title": "Kutia hyrëse",
+  "tour_inbox_desc": "Menaxhoni këtu mesazhet dhe përgjigjet e çështjeve tuaja.",
+  "tour_language_title": "Gjuha",
+  "tour_language_desc": "Zgjidhni këtu gjuhën e preferuar të aplikacionit.",
+  "tour_chat_history_title": "Historiku i bisedave",
+  "tour_chat_history_desc": "Shqyrtoni dhe vazhdoni bisedat tuaja të mëparshme.",
+  "tour_current_plan_title": "Plani aktual",
+  "tour_current_plan_desc": "Shihni këtu detajet e abonimit tuaj aktual.",
+  "tour_usage_history_title": "Historiku i përdorimit",
+  "tour_usage_history_desc": "Ndiqni sa minuta dhe veçori keni përdorur.",
+  "tour_request_legal_help_title": "Kërkoni ndihmë ligjore",
+  "tour_request_legal_help_desc": "Nisni një kërkesë të re për t’u lidhur me profesionistë.",
+  "tour_wallet_title": "Portofoli",
+  "tour_wallet_desc": "Shihni bilancin e portofolit dhe transaksionet tuaja.",
+  "tour_top_up_title": "Mbushje",
+  "tour_top_up_desc": "Shtoni fonde për të marrë më shumë minuta për veçoritë AI, ngarkimet dhe konsultimet.",
+  "tour_search_desc": "Shkruani një emër për të kërkuar një profesionist specifik.",
+  "tour_explore_subscribe_plans": "Prekni këtu për të parë dhe përmirësuar planin tuaj.",
+  "tour_explore_upgrade_plans": "Përmirësoni planin tuaj për të zhbllokuar veçoritë premium.",
+  "tour_lawyer_stripe_connected": "Llogaria juaj Stripe është lidhur dhe është gati të marrë pagesa.",
+  "tour_lawyer_stripe_not_connected": "Lidhni Stripe për të filluar pranimin e pagesave nga klientët.",
+  "profile_completion": {
+    "title": "Përfundoni profilin tuaj",
+    "description": "Ju lutem verifikoni të dhënat tuaja përpara se të vazhdoni.",
+    "first_name": "Emri *",
+    "last_name": "Mbiemri *",
+    "saving": "Duke ruajtur...",
+    "save_continue": "Ruaj dhe vazhdo",
+    "update_profile_failed": "Profili nuk u përditësua dot"
+  },
+  "auth": {
+    "session_expired": "Sesioni juaj i hyrjes ka skaduar. Ju lutem provoni sërish.",
+    "login_failed": "Nuk mundëm t’ju fusnim në llogari. Ju lutem provoni sërish.",
+    "google_login_failed": "Hyrja me Google nuk pati sukses. Ju lutem provoni sërish.",
+    "apple_login_failed": "Hyrja me Apple nuk pati sukses. Ju lutem provoni sërish.",
+    "authorization_failed": "Nuk mundëm të lidhemi me shërbimin e autentifikimit. Ju lutem provoni më vonë.",
+    "invalid_redirect": "Diçka shkoi keq gjatë hyrjes. Ju lutem provoni sërish.",
+    "cancelled_login": "Hyrja u anulua.",
+    "invalid_response": "Nuk mundëm të përfundojmë hyrjen tuaj. Ju lutem provoni sërish."
+  },
+  "tour_service_request_title": "Kërkesë",
+  "tour_service_request_desc": "Dërgoni një kërkesë shërbimi direkt te një profesionist ligjor. Plotësoni formularin, shtoni shënime ose dokumente nëse nevojitet, dhe profesionisti do të njoftohet kur të jetë i disponueshëm.",
+  "tour_request_form_title": "Formular kërkese",
+  "tour_request_form_desc": "Jepni informacion për çështjen tuaj ligjore, kërkesat e konsultimit dhe urgjencën. Mund të ngarkoni edhe dokumente ose të shtoni shënime zanore për ta ndihmuar profesionistin të kuptojë situatën tuaj.",
+  "no_data": "Nuk ka të dhëna",
+  "duplicate_file_attached": "\"{{filename}}\" është bashkangjitur tashmë.",
+  "duplicate_file_attached_as": "\"{{filename}}\" është bashkangjitur tashmë si \"{{existingLabel}}\".",
+  "consultation_consent_prefix": "Duke klikuar",
+  "consultation_consent_middle": ", ju pranoni që nëse konsultimi juaj ofrohet brenda 14 ditësh, e drejta juaj ligjore për anulim nuk do të vlejë më. Mund ta anuloni ose ta riplanifikoni konsultimin sipas",
+  "cancellation_policy": "Politika e anulimit",
+  "home_actions": {
+    "ask_ai": "Pyet LawNeeds AI",
+    "ask_ai_description": "Merrni udhëzime nga chatboti LawNeeds AI.",
+    "find_professional": "Gjeni një profesionist",
+    "find_professional_description": "Kërkoni një profesionist ligjor që mund t'ju ndihmojë.",
+    "book_consultation": "Rezervoni një konsultë",
+    "book_consultation_description": "Nisni procesin e referimit për të organizuar një konsultë."
+  }
+}

@@ -1,0 +1,41 @@
+# Dependencies and generated files
+node_modules/
+.expo/
+dist/
+web-build/
+coverage/
+expo-env.d.ts
+*.tsbuildinfo
+
+# Native dependencies and build output
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/.xcode.env.local
+android/.gradle/
+android/build/
+android/app/build/
+local.properties
+*.aab
+*.apk
+*.ipa
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.keystore
+*.mobileprovision
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Editor state and logs
+.DS_Store
+.idea/
+.vscode/
+*.log

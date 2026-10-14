@@ -1,0 +1,1472 @@
+{
+  "submit": "سپارل",
+  "cancel": "لغوه کول",
+  "done": "ختم",
+  "ok": "سمه ده",
+  "next": "بل",
+  "save": "ثبت کړئ",
+  "privacy_policy": "د محرمیت تګلاره",
+  "terms_n_conditions": "شرایط او مقررات",
+  "per": {
+    "camera_roll": "د کیمرې رول ته د لاسرسي اجازه اړینه ده! مهرباني وکړئ دا د خپل وسیله په تنظیماتو کې فعال کړئ.",
+    "microphone_access": "د مایکروفون ته لاسرسی اړین دی.",
+    "permission_denied": "اجازه رد شوه",
+    "notification_permission_not_granted": "د اعلاناتو اجازه ورنکړل شوه"
+  },
+  "policy_text": {
+    "i_agree": "زه موافق یم",
+    "i_dont_agree": "زه موافق نه یم",
+    "label_1": "۱. هغه معلومات چې موږ یې راټولوو: موږ ممکن د شخصي پیژندنې معلومات (نوم، برېښنالیک، تلیفون، پته)، تخنیکي معلومات (IP، براوزر ډول، عملیاتي سیستم)، د کارونې معلومات، او د بازارموندنې غوره توبونه راټول کړو.",
+    "label_2": "۲. موږ ستاسو معلومات څنګه راټولوو: د مستقیم تعامل، اتومات ټیکنالوژیو، او دریمو خواوو له لارې.",
+    "label_3": "۳. د معلوماتو کارول: زموږ د خدمت د برابرولو او ساتلو، ستاسو د حساب مدیریت، د قانوني مکلفیتونو پوره کولو، او زموږ د خدمتونو ښه کولو لپاره.",
+    "label_4": "۴. د معلوماتو افشا کول: خدمت چمتو کوونکو، قانوني او دولتي چارواکو، او د سوداګریزو انتقالاتو په اړه.",
+    "label_5": "۵. د معلوماتو امنیت او ساتنه: موږ د امنیت تدابیر پلي کوو او ستاسو معلومات یواځې د اړتیا تر حده ساتو.",
+    "label_6": "۶. ستاسو قانوني حقوق: تاسو حق لرئ چې خپلو معلوماتو ته لاسرسی، اصلاح، پاکول، محدودول، لیږدول، او د کارونې لپاره اجازه بیرته واخلئ.",
+    "label_7": "7. ځانګړې کټګوري: زه په څرګند ډول د هر هغه ځانګړي کټګورۍ معلوماتو د پروسس کولو سره موافقه کوم چې زه یې وړاندې کوم، په شمول زما د قومي اصل اړوند معلومات او نور حساس شخصي معلومات، ترڅو زما پوښتنې ته ځواب ورکړل شي. زه کولی شم هر وخت د info@lawneeds.co.uk ته په برېښنالیک لېږلو سره خپله رضا بېرته واخلم.",
+    "policy_details": "دا د محرمیت تګلاره تشریح کوي چې څنګه موږ ستاسو معلومات راټولوو، کاروو، افشا کوو او خوندي کوو کله چې تاسو زموږ ګرځنده اپلیکیشن کاروئ. زموږ د خدمت له کارولو سره، تاسو د دې محرمیت تګلارې شرایطو سره موافق یاست.",
+    "review_message": "مهرباني وکړئ زموږ",
+    "privacy_policy": "د محرمیت تګلاره وګورئ"
+  },
+  "tab": {
+    "account": "حساب",
+    "chat": "چټ",
+    "home": "کور",
+    "settings": "تنظیمات",
+    "inbox": "ان باکس",
+    "search": "د لټون"
+  },
+  "profile": {
+    "firm_name": "د شرکت نوم",
+    "practice_areas_label": "د تمرین برخې",
+    "services": "خدمتونه",
+    "first_name": "اول نوم",
+    "last_name": "وروستی نوم",
+    "about": "په اړه",
+    "skills": "مهارتونه",
+    "organisation_name": "د سازمان نوم",
+    "areas_of_legal_focus": "د قانوني تمرکز برخې",
+    "professional_employer": "مسلکي کار ورکوونکی",
+    "area_of_legal_expertise": "د قانوني تخصص ساحه",
+    "max_of_four": "تر څلورو پورې",
+    "max_of_two": "تر دوو پورې",
+    "characters": "حروف",
+    "please_select": "مهرباني وکړئ انتخاب کړئ",
+    "account_security": "د حساب امنیت",
+    "details": "جزیات",
+    "edit_details": "جزیات اصلاح کړئ",
+    "no_name": "نوم نشته",
+    "profile_updated_success": "پروفایل په بریالیتوب سره تازه شو",
+    "company_name": "د شرکت نوم",
+    "enter_your_company_name": "خپل د شرکت نوم ولیکئ",
+    "achievements": "لاسته راوړنې",
+    "enter_your_achievements": "خپلې لاسته راوړنې ولیکئ",
+    "timeline": "وخت لیکه",
+    "start_date": "د پیل نیټه",
+    "end_date": "د پای نیټه",
+    "add_another_section": "بله برخه اضافه کړئ",
+    "add_section": "برخه اضافه کړئ"
+  },
+  "success": {
+    "success": "بریا",
+    "success_sent_code": "د تایید کوډ په بریالیتوب سره واستول شو."
+  },
+  "error": {
+    "title": "خطا",
+    "error_msg": "یو څه غلط شو. مهرباني وکړئ بیا هڅه وکړئ.",
+    "session_expired": "ناسته پای ته رسیدلې",
+    "login_again": "مهرباني وکړئ بیا ننوتل وکړئ تر څو دوام ورکړئ.",
+    "token_missing": "د تصدیق نښه نشته.",
+    "error_process_audio": "د آډیو پروسس کولو پر مهال یوه تېروتنه وشوه.",
+    "error_process_file": "د فایل د پورته کولو پر مهال تېروتنه رامنځته شوه.",
+    "try_again": "بخښنه غواړو، یوه تېروتنه وشوه. مهرباني وکړئ بیا هڅه وکړئ.",
+    "no_use_session": "د کارونکي ناسته ونه موندل شوه. مهرباني وکړئ بیا ننوتل وکړئ.",
+    "invalid_response_token_not_found": "ناسمه ځواب: ټوکن ونه موندل شو",
+    "fill_all_fields": "مهرباني وکړئ ټولې خوندي ساحې ډکې کړئ",
+    "network_error": "د شبکې تېروتنه. مهرباني وکړئ خپل انټرنېټ اتصال وګورئ.",
+    "session_expired_login": "ستاسې ناسته پای ته رسېدلې ده. مهرباني وکړئ بیا ننوتنه وکړئ.",
+    "no_permission": "تاسو د دې کړنې د ترسره کولو اجازه نه لرئ.",
+    "resource_not_found": "غوښتل شوې سرچینه ونه موندل شوه.",
+    "invalid_data": "ناسم معلومات ورکړل شوي دي. مهرباني وکړئ وګورئ او بیا هڅه وکړئ.",
+    "server_error": "د سرور تېروتنه. مهرباني وکړئ وروسته بیا هڅه وکړئ.",
+    "something_went_wrong": "یو څه سم نه شول. مهرباني وکړئ بیا هڅه وکړئ.",
+    "case_not_found": "قضیه ونه موندل شوه",
+    "failed_to_process_request": "د خدمت غوښتنه پروسس نه شوه"
+  },
+  "change_email": {
+    "send_instruction": "لارښوونې واستوئ",
+    "go_back": "بیرته لاړ شئ",
+    "create_new_pass": "نوی پټنوم جوړ کړئ",
+    "current_email": "اوسنی برېښنالیک",
+    "enter_current_email": "خپل اوسنی او نوی برېښنالیک ولیکئ چې تاسو غواړئ بدل یې کړئ.",
+    "new_email": "نوی برېښنالیک",
+    "check_your_mail": "خپل برېښنالیک وګورئ",
+    "check_mail_for_verify_account": "موږ یو تاییدي کوډ ستاسو برېښنالیک ته لیږلی دی. لاندې یې دننه کړئ تر څو خپل حساب تایید کړئ.",
+    "check_mail_for_reset_pass": "موږ یو تاییدي کوډ ستاسو برېښنالیک ته لیږلی دی. لاندې یې دننه کړئ تر څو خپل پټنوم بیا تنظیم کړئ.",
+    "enter_verification_code": "د تایید کوډ دننه کړئ",
+    "go_back_login": "بیرته ننوتلو ته لاړ شئ",
+    "not_recd_mail": "برېښنالیک مو نه دی ترلاسه کړی؟ سپام چیک کړئ یا",
+    "try_other_email": "بل برېښنالیک هڅه وکړئ",
+    "resend_code": "کوډ بیا واستوئ",
+    "verify_mail": "برېښنالیک تایید کړئ",
+    "click_link_to_verify_mail": "د تایید لپاره لینک باندې کلیک وکړئ",
+    "skip_confirm_later": "پریږده، وروسته به تایید کړم",
+    "email_updated": "برېښنالیک تازه شو"
+  },
+  "landing": {
+    "welcome_to": "ښه راغلاست",
+    "immigration": "د مهاجرت ملاتړ آسانه شوی",
+    "create_account": "حساب جوړ کړئ",
+    "log_in": "ننوتل",
+    "or": "یا",
+    "create_pro": "پرو حساب جوړ کړئ",
+    "select_pro": "پرو حساب وټاکئ",
+    "lawyer": "وکیل",
+    "law_firm": "د وکیلانو شرکت",
+    "hr_legal": "HR/قانوني (SME)",
+    "a2j_partners": "A2J شریکان",
+    "screen_not_exist": "دا سکرین نشته.",
+    "go_to_home_screen": "اصلي سکرین ته لاړ شئ!"
+  },
+  "login": {
+    "password": "پټنوم",
+    "login": "ننوتل",
+    "remember_me": "ما په یاد ولره",
+    "forgot_password": "پټنوم هیر شوی",
+    "need_account": "حساب ته اړتیا لرئ؟",
+    "signup": "نوی حساب جوړ کړئ"
+  },
+  "reset_password": "د بیرته پټنوم",
+  "create_new_password": "نوی پټنوم جوړ کړئ",
+  "create_account": {
+    "first_name": "لومړی نوم",
+    "last_name": "وروستی نوم",
+    "date_of_birth": "د زیږون نېټه",
+    "country": "هیواد",
+    "select_country": "هیواد وټاکئ",
+    "next": "بل",
+    "create_account": "حساب جوړ کړئ",
+    "date_of_incorporate": "د ثبت نېټه",
+    "create_pro_account": "پرو حساب جوړ کړئ",
+    "hr_legal_account": "HR/قانوني حساب",
+    "lawyer_account": "د وکیل حساب",
+    "law_firm_account": "د وکیلانو شرکت حساب",
+    "a2j_partners_account": "د A2J شریکانو حساب",
+    "firm_name": "د شرکت نوم",
+    "organisation_name": "د سازمان نوم",
+    "date_of_establishment": "د تاسیس نېټه",
+    "areasOfLegalFocus": "د قانون تمرکز ساحې",
+    "selectAreasOfLegalFocus": "د قانون تمرکز ساحې وټاکئ",
+    "contactPerson": "اړیکه نیوونکی",
+    "registrationCharityNumber": "د ثبت/خیریه نمبر",
+    "searchAddress": "پته ولټوئ",
+    "town": "ښار",
+    "postcode": "پوستي کوډ",
+    "address": "پته",
+    "please_select": "مهرباني وکړئ انتخاب کړئ:",
+    "legalAidOrganisation": "د قانوني مرستې اداره",
+    "lawCentre": "قانوني مرکز",
+    "proBonoClinic": "د وړیا قانوني خدمتونو کلینیک",
+    "profile_photo": "د پروفایل عکس",
+    "profile_photo_required": "پرو حساب لپاره د پروفایل عکس اړین دی",
+    "upload": "اپلوډ کړئ",
+    "please_agree_text": "مهرباني وکړئ زموږ له شرایطو سره موافق شئ",
+    "signup_agreement_text": "په حساب جوړولو سره، تاسو زموږ سره موافق یاست",
+    "terms_of_service": "د خدمت شرایط",
+    "and_text": "او",
+    "agree_proceed_button": "موافق یم او دوام ورکوم",
+    "select_practice_area": "د تمرین ساحه وټاکئ",
+    "already_have_account": "دمخه حساب لرئ؟",
+    "account_creat_success": "حساب په بریالیتوب سره جوړ شو!",
+    "access_detail_msg_legal_assistance": "تاسو اوس کولی شئ شخصي قانوني مرسته ترلاسه کړئ او خپلې اړتیاوې مدیریت کړئ.",
+    "select_practice_areas": "د تمرین ساحې وټاکئ",
+    "contact_person_partner": "اړیکه نیوونکی/مدیر شریک",
+    "company_regi_number": "د شرکت ثبت شمېره",
+    "enter_sra_number": "د SRA شمېره ولیکئ",
+    "enter_bar_number": "د BAR شمېره ولیکئ",
+    "enter_iaa_number": "د IAA شمېره ولیکئ",
+    "verify_document": "د هویت سند تایید کړئ",
+    "reverify_document": "سند بیا تایید کړئ"
+  },
+  "validation": {
+    "missing_info": "ناقص معلومات",
+    "enter_your_name": "مهرباني وکړئ خپل نوم دننه کړئ",
+    "enter_your_email": "مهرباني وکړئ خپل برېښنالیک ولیکئ",
+    "enter_your_phone": "مهرباني وکړئ خپل د تلیفون شمېره ولیکئ",
+    "enter_feedback": "مهرباني وکړئ خپل نظر ولیکئ",
+    "valid_first_name": "لومړی نوم باید لږترلږه ۲ حروف ولري.",
+    "valid_last_name": "وروستی نوم باید لږترلږه ۲ حروف ولري.",
+    "select_dob": "مهرباني وکړئ د زیږون نېټه وټاکئ.",
+    "select_country": "مهرباني وکړئ هیواد وټاکئ.",
+    "enter_city": "د ښار ساحه باید خالي نه وي.",
+    "enter_postcode": "د پوستي کوډ ساحه باید خالي نه وي.",
+    "enter_address": "د پتې ساحه باید خالي نه وي.",
+    "valid_user_name": "کارن نوم باید لږترلږه ۳ حروف ولري.",
+    "valid_email": "مهرباني وکړئ یو معتبر برېښنالیک دننه کړئ.",
+    "valid_password": "پټنوم باید لږترلږه ۸ حروف ولري او یو عدد ولري.",
+    "valid_organisation": "د سازمان نوم باید لږ تر لږه ۲ توري ولري.",
+    "valid_town": "د ښار برخه باید تشه نه وي.",
+    "enter_date_of_incorporate": "مهرباني وکړئ د ثبت نېټه وټاکئ.",
+    "enter_confirm_password": "مهرباني وکړئ د تایید پټنوم داخل کړئ",
+    "valid_confirm_password": "د تایید پټنوم باید لږ تر لږه ۸ توري ولري او لږ تر لږه یوه شمېره پکې وي.",
+    "password_not_match": "پټنومونه سره نه سمون خوري.",
+    "enter_first_name": "مهرباني وکړئ خپل لومړی نوم داخل کړئ",
+    "enter_last_name": "مهرباني وکړئ خپل وروستی نوم داخل کړئ",
+    "document_expired": "ستاسو سند پای ته رسېدلی دی. مهرباني وکړئ یو معتبر سند پورته کړئ.",
+    "document_invalid": "د سند تایید ناکام شو. مهرباني وکړئ بیا هڅه وکړئ."
+  },
+  "account": {
+    "practice_areas": "د تمرین ساحې",
+    "services": "خدمتونه",
+    "details": "جزیات",
+    "licence": "جواز",
+    "org_type": "د سازمان ډول",
+    "go_back_home": "اصلي پاڼې ته لاړ شئ"
+  },
+  "chat": {
+    "get_started": "پیل کړئ",
+    "new_chat": "نوی چټ",
+    "previous_chat": "پخوانی چټ",
+    "title": "چټ",
+    "waiting": "په تمه...",
+    "help": "مرسته",
+    "end_chat": "چټ پای ته ورسوه",
+    "chat_place_holder": "LawNeeds ته پیغام ولیکئ",
+    "uploading_file": "{{count}} ضمیمې پورته کېږي: {{names}}",
+    "files_uploaded_success": "{{count}} ضمیمې په بریالیتوب سره پورته شوې.",
+    "uploading_voice_note": "غږیز یادښت پورته کېږي...",
+    "voice_note_uploaded_success": "غږیز یادښت په بریالیتوب سره پورته شو",
+    "open_pdf": "PDF پرانیزئ",
+    "sample_questions_title": "نمونه پوښتنې",
+    "you_selected": "تاسو وټاکل: {{name}}",
+    "support_msg_1": [
+      {
+        "type": "token",
+        "content": "سلام "
+      },
+      {
+        "type": "token",
+        "content": "👋"
+      },
+      {
+        "type": "token",
+        "content": "، "
+      },
+      {
+        "type": "token",
+        "content": "زه "
+      },
+      {
+        "type": "token",
+        "content": "د "
+      },
+      {
+        "type": "token",
+        "content": "LawNeeds "
+      },
+      {
+        "type": "token",
+        "content": "د "
+      },
+      {
+        "type": "token",
+        "content": "ملاتړ "
+      },
+      {
+        "type": "token",
+        "content": "مرستیال "
+      },
+      {
+        "type": "token",
+        "content": "یم"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_2": [
+      {
+        "type": "token",
+        "content": "زه "
+      },
+      {
+        "type": "token",
+        "content": "یوازې "
+      },
+      {
+        "type": "token",
+        "content": "معلومات "
+      },
+      {
+        "type": "token",
+        "content": "ورکوم"
+      },
+      {
+        "type": "token",
+        "content": "، "
+      },
+      {
+        "type": "token",
+        "content": "مسلکي "
+      },
+      {
+        "type": "token",
+        "content": "مشوره "
+      },
+      {
+        "type": "token",
+        "content": "نه"
+      },
+      {
+        "type": "token",
+        "content": ". "
+      }
+    ],
+    "support_msg_3": [
+      {
+        "type": "token",
+        "content": "نن "
+      },
+      {
+        "type": "token",
+        "content": "زه "
+      },
+      {
+        "type": "token",
+        "content": "تاسو "
+      },
+      {
+        "type": "token",
+        "content": "سره "
+      },
+      {
+        "type": "token",
+        "content": "څنګه "
+      },
+      {
+        "type": "token",
+        "content": "مرسته "
+      },
+      {
+        "type": "token",
+        "content": "کولی "
+      },
+      {
+        "type": "token",
+        "content": "شم"
+      },
+      {
+        "type": "token",
+        "content": "؟"
+      }
+    ],
+    "failed_to_load_chat": "چټ نه شو باریدلی. مهرباني وکړئ بیا هڅه وکړئ.",
+    "voice_note_ready": "غږیز یادښت چمتو دی",
+    "tap_to_record": "د ثبت پیل لپاره 🔴 ټېپ کړئ",
+    "preview_files": "د فایلونو مخکتنه",
+    "file_selected": "فایل وټاکل شو",
+    "files_selected": "فایلونه وټاکل شول",
+    "upload_files": "پورته کول",
+    "tap_to_preview": "د مخکتنې لپاره ټېپ کړئ",
+    "add": "زیاتول",
+    "today": "نن",
+    "last_week": "تېر اوونۍ",
+    "last_month": "تېرې میاشتې"
+  },
+  "setting": {
+    "select_language": "ژبه وټاکئ",
+    "settings": "تنظیمات",
+    "app_language": "د اپلیکیشن ژبه",
+    "choose_language": "ژبه غوره کړئ",
+    "notifications": "خبرتیاوې",
+    "submit_feedback": "مرسته",
+    "about": "په اړه",
+    "our_philosophy": "زموږ فلسفه",
+    "account_management": "د حساب مدیریت",
+    "logout": "وتل"
+  },
+  "our_philosophy": {
+    "our_vision_header": "زموږ لید",
+    "our_vision_desc": "په LawNeeds کې، موږ باور لرو چې باوري قانوني مرسته، په ځانګړي ډول د مهاجرت ملاتړ، باید هر چا ته، هر وخت او هر ځای د لاسرسي وړ وي. د سمارټ فونونو له لارې چې د ورځني ژوند یوه مهمه برخه ده، موږ دلته یو ترڅو د قانوني اسانه او باوري مرستو له لارې خلکو سره په انګلستان کې د ژوند په درک کې مرسته وکړو.",
+    "our_services_header": "زموږ خدمتونه",
+    "our_services_desc": "زموږ ګرځنده اپلیکیشن، چې یوازې تنظیم شوي قانوني شرکتونه، جواز لرونکي وکیلان او د مهاجرت مشاورین پکې شامل دي، تخصصي قانوني خدمتونه وړاندې کوي چې د مهاجرت قانون باندې تمرکز لري. موږ د انګلستان د ژوند په مسیر کې اشخاص، کورنۍ، محصلین او مسلکي کسان ملاتړ کوو. لکه څنګه چې موږ وده کوو، کاروونکي به د کار قانون، د کورنۍ قانون، او د سړک د ترافیکي جرمونو په برخو کې هم تخصصي مرسته ترلاسه کړي، دا ټول د څو کلیکونو له لارې، پرته له خنډه.",
+    "innovation_header": "نوښت په غوره بڼه",
+    "innovation_desc": "په LawNeeds کې، نوښت زموږ د هر کار محرک دی. موږ د مصنوعي ځیرکتیا (AI) ځواک کاروو ترڅو سمدستي، ۲۴ ساعته، د AI له خوا جوړ شوي حقوقي لارښوونې او د هر کاروونکي د موقعیت او حالت پر بنسټ شخصي کډوالۍ سپارښتنې وړاندې کړو.",
+    "community_header": "ټولنه او وده",
+    "community_desc": "LawNeeds یوازې یو اپ نه دی — دا یوه ټولنه ده. موږ مهاجرینو ته ځواک ورکوو، او قانوني مسلکي کسان له نوښتګر پلیټ فارم او فیچرونو سره خپلو مسلکونو ته وده ورکوي.",
+    "commitment_header": "د غوره والي ژمنه",
+    "commitment_desc": "LawNeeds د مصنوعي هوښیارۍ ټیکنالوژي له انساني قانوني څار سره یوځای کوي. زموږ پلیټ فارم د انګلستان پر خپل حقوقي ډیټا سیټ روزل شوی، چې زموږ د کورني وکیلانو لخوا بیاکتنه کېږي، د تایید سیستم سره، او د حقوقي مقرراتو د بدلونونو او باوري منابعو سره په دوامداره توګه تازه کېږي، ترڅو هر قدم کې باوري، قانوني مشوره ورکړي.",
+    "join_us_header": "زموږ سره یوځای شئ",
+    "join_us_desc": "لکه څنګه چې موږ مخ په وده یو، موږ تاسو ته بلنه درکوو چې زموږ سفر سره یوځای شئ، که چیرې تاسو قانوني مرستې ته اړتیا لرئ یا خپل قانوني مسلک پراخوی. په LawNeeds کې، ستاسو بریا زموږ ماموریت دی."
+  },
+  "support": {
+    "support_desc": "زمونږ سره خپل نظریات، ستونزې یا وړاندیزونه شریک کړئ تر څو موږ LawNeeds لا ښه کړو.",
+    "feedback_success": "نظر په بریالیتوب سره واستول شو",
+    "name": "نوم",
+    "comment": "تبصره",
+    "address": "ثبت شوی دفتر: 71–75 Shelton Street، Covent Garden، لندن، WC2H 9JQ"
+  },
+  "expertiseOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "د مهاجرت قانون"
+    },
+    {
+      "id": 2,
+      "key": "employment_law",
+      "label": "د کار قانون"
+    },
+    {
+      "id": 3,
+      "key": "road_traffic_offences",
+      "label": "د سړک ترافیکي جرمونه"
+    },
+    {
+      "id": 4,
+      "key": "family_law",
+      "label": "د کورنۍ قانون"
+    }
+  ],
+  "skillsOptions": [
+    {
+      "id": 2000,
+      "key": "legal_research",
+      "label": "حقوقي څیړنه"
+    },
+    {
+      "id": 2001,
+      "key": "legal_writing",
+      "label": "حقوقي لیکنه"
+    },
+    {
+      "id": 2002,
+      "key": "case_analysis",
+      "label": "د قضیې تحلیل"
+    },
+    {
+      "id": 2003,
+      "key": "contract_drafting",
+      "label": "د قرارداد مسوده لیکنه"
+    },
+    {
+      "id": 2004,
+      "key": "negotiation",
+      "label": "مذاکره"
+    },
+    {
+      "id": 2005,
+      "key": "client_counseling",
+      "label": "د مراجعینو سلا مشوره"
+    },
+    {
+      "id": 2006,
+      "key": "court_advocacy",
+      "label": "عدالتي وکالت"
+    },
+    {
+      "id": 2007,
+      "key": "mediation",
+      "label": "مینځګړیتوب"
+    },
+    {
+      "id": 2008,
+      "key": "arbitration",
+      "label": "مستقل حل (آر‌بېټرېشن)"
+    },
+    {
+      "id": 2009,
+      "key": "due_diligence",
+      "label": "حقوقي ارزونه"
+    },
+    {
+      "id": 2010,
+      "key": "compliance_review",
+      "label": "د مطابقت بیاکتنه"
+    },
+    {
+      "id": 2011,
+      "key": "risk_assessment",
+      "label": "د خطر ارزونه"
+    },
+    {
+      "id": 2012,
+      "key": "legal_strategy",
+      "label": "حقوقي ستراتیژي"
+    },
+    {
+      "id": 2013,
+      "key": "cross_examination",
+      "label": "تقابلي پوښتنه"
+    },
+    {
+      "id": 2014,
+      "key": "brief_writing",
+      "label": "د قضیې لنډیز لیکل"
+    },
+    {
+      "id": 2015,
+      "key": "deposition",
+      "label": "شهادت ثبتول"
+    },
+    {
+      "id": 2016,
+      "key": "discovery",
+      "label": "معلوماتو افشا"
+    },
+    {
+      "id": 2017,
+      "key": "settlement_negotiation",
+      "label": "د حل مذاکرات"
+    },
+    {
+      "id": 2018,
+      "key": "regulatory_analysis",
+      "label": "تنظیمي تحلیل"
+    },
+    {
+      "id": 2019,
+      "key": "international_law",
+      "label": "نړیوال قانون"
+    },
+    {
+      "id": 2020,
+      "key": "intellectual_property",
+      "label": "فکري ملکیت"
+    },
+    {
+      "id": 2021,
+      "key": "mergers_acquisitions",
+      "label": "ادغامونه او تملکونه"
+    },
+    {
+      "id": 2022,
+      "key": "corporate_governance",
+      "label": "شرکتي حکومتولي"
+    },
+    {
+      "id": 2023,
+      "key": "employment_relations",
+      "label": "د کار اړیکې"
+    },
+    {
+      "id": 2024,
+      "key": "immigration_procedures",
+      "label": "د مهاجرت پروسیجرونه"
+    }
+  ],
+  "servicesOptions": [
+    {
+      "id": 1,
+      "key": "immigration_law",
+      "label": "د مهاجرت قانون"
+    },
+    {
+      "id": 2,
+      "key": "family_law",
+      "label": "د کورنۍ قانون"
+    },
+    {
+      "id": 3,
+      "key": "employment_law",
+      "label": "د کار قانون"
+    },
+    {
+      "id": 4,
+      "key": "criminal_law",
+      "label": "جزايي قانون"
+    },
+    {
+      "id": 5,
+      "key": "corporate_law",
+      "label": "شرکتي قانون"
+    },
+    {
+      "id": 6,
+      "key": "property_law",
+      "label": "د ملکیت قانون"
+    },
+    {
+      "id": 7,
+      "key": "personal_injury",
+      "label": "شخصي ټپونه"
+    },
+    {
+      "id": 8,
+      "key": "intellectual_property",
+      "label": "فکري ملکیت"
+    },
+    {
+      "id": 9,
+      "key": "tax_law",
+      "label": "د مالیې قانون"
+    },
+    {
+      "id": 10,
+      "key": "contract_law",
+      "label": "د قرارداد قانون"
+    },
+    {
+      "id": 11,
+      "key": "litigation",
+      "label": "عدالتي دعوه"
+    },
+    {
+      "id": 12,
+      "key": "mediation",
+      "label": "مینځګړیتوب"
+    },
+    {
+      "id": 13,
+      "key": "arbitration",
+      "label": "آر‌بېټرېشن"
+    },
+    {
+      "id": 14,
+      "key": "legal_consultation",
+      "label": "حقوقي مشوره"
+    },
+    {
+      "id": 15,
+      "key": "document_review",
+      "label": "د اسنادو بیاکتنه"
+    },
+    {
+      "id": 16,
+      "key": "legal_research",
+      "label": "حقوقي څیړنه"
+    },
+    {
+      "id": 17,
+      "key": "compliance",
+      "label": "مطابقت"
+    },
+    {
+      "id": 18,
+      "key": "mergers_acquisitions",
+      "label": "ادغام او تملک"
+    },
+    {
+      "id": 19,
+      "key": "banking_finance",
+      "label": "بانکداري او مالي خدمات"
+    },
+    {
+      "id": 20,
+      "key": "insurance_law",
+      "label": "د بیمې قانون"
+    },
+    {
+      "id": 21,
+      "key": "environmental_law",
+      "label": "د چاپېریال قانون"
+    },
+    {
+      "id": 22,
+      "key": "human_rights_law",
+      "label": "د بشري حقونو قانون"
+    },
+    {
+      "id": 23,
+      "key": "international_law",
+      "label": "نړیوال قانون"
+    },
+    {
+      "id": 24,
+      "key": "administrative_law",
+      "label": "اداري قانون"
+    },
+    {
+      "id": 25,
+      "key": "constitutional_law",
+      "label": "اساسي قانون"
+    }
+  ],
+  "consultationItems": [
+    {
+      "key": "single_consultation",
+      "label": "یوه مشوره"
+    },
+    {
+      "key": "ongoing_support",
+      "label": "دوامداره ملاتړ"
+    },
+    {
+      "key": "casework",
+      "label": "قضیې کار"
+    },
+    {
+      "key": "not_sure",
+      "label": "تر اوسه ډاډه نه یم"
+    }
+  ],
+  "levelItems": [
+    {
+      "key": "routine_5_7_days",
+      "label": "معمولي (۵-۷) ورځې"
+    },
+    {
+      "key": "priority_2_3_days",
+      "label": "لومړيتوب (۲-۳) ورځې"
+    },
+    {
+      "key": "urgent",
+      "label": "بیړنی (هماغه ورځ یا بله ورځ)"
+    }
+  ],
+  "search": {
+    "professionals": "مسلکي کسان",
+    "city": "ښار",
+    "distance": "فاصله",
+    "top_rated": "لوړ ارزول شوی",
+    "more": "نور",
+    "request": "درخواست",
+    "request_service": "د خدمت غوښتنه",
+    "service": "خدمت",
+    "select_service": "خدمت وټاکئ",
+    "urgency": "بیړنيتوب",
+    "select": "وټاکئ",
+    "additional_notes": "اضافي یادښتونه",
+    "service_request_success": "ستاسو د خدمت غوښتنه په بریالیتوب سره واستول شوه",
+    "issue_type": "د ستونزې ډول",
+    "budget": "بودیجه",
+    "select_consultation": "مشوره وټاکئ",
+    "consultation": "مشوره",
+    "time_n_rate": "وخت او بیه"
+  },
+  "reset_password_info": "هغه برېښنالیک دننه کړئ چې ستاسو د حساب سره تړلی وي، موږ به تاسو ته د پټنوم بدلولو لارښوونې په برېښنالیک درواستو",
+  "tap_to_upload_image": "د عکس پورته کولو لپاره ټپ کړئ",
+  "record": "ریکارډ",
+  "media": "میډیا",
+  "attach": "نښتول",
+  "sort_by": "په … ترتیب کړئ",
+  "apply": "وکاروئ",
+  "select_date": "نېټه ټاکئ",
+  "day": "ورځ",
+  "month": "میاشت",
+  "year": "کال",
+  "present": "اوس",
+  "sector": "څانګه",
+  "hr": "اداري",
+  "legal": "قانوني",
+  "both": "دواړه",
+  "identity_card": "د پېژندنې کارت",
+  "passport": "پاسپورټ",
+  "drivers_license": "د موټر چلولو جواز",
+  "law_centre": "قانوني مرکز",
+  "legal_aid_organisation": "د قانوني مرستې سازمان",
+  "beta": "بیټا",
+  "logged_in": "ننوتی",
+  "select_reason": "لامل وټاکئ",
+  "select_area_of_legal_expertise": "د قانون د تخصص ساحه وټاکئ",
+  "confirm_password": "پټنوم تأیید کړئ",
+  "enter_new_password_below": "خپل نوی پټنوم لاندې ولیکئ",
+  "select_a_country": "یو هېواد وټاکئ",
+  "open_email_app": "د ایمیل اپلیکیشن خلاص کړئ",
+  "request_details": "د غوښتنې توضیحات",
+  "accept": "قبول",
+  "reject": "رد کړئ",
+  "request_reject_message": "د خدمت غوښتنه په بریالیتوب سره رد شوه",
+  "document_view": "د سند لید",
+  "loading_document": "سند په لوډ کې دی",
+  "service_issue_type": "د خدمت د ستونزې ډول وټاکئ",
+  "select_consultation_type": "د مشورې ډول وټاکئ",
+  "urgency_level": "د بیړنۍ کچه وټاکئ",
+  "budget_input": "بودیجه داخل کړئ",
+  "attachments": "ضمیمې",
+  "user_label": "تاسو",
+  "timestamp": "اوس",
+  "voice_note": "د غږ یادداشت",
+  "comment_placeholder": "یو نظر ولیکئ...",
+  "messages": "پیغامونه",
+  "edit": "سمونه",
+  "copy": "کاپي",
+  "select_consultation_time": "د مشورې وخت وټاکئ",
+  "request_cancel_success": "د خدمت غوښتنه په بریالیتوب سره لغوه شوه",
+  "accept_request_message": "ایا تاسې ډاډه یاست چې غواړئ دا غوښتنه ومنئ؟",
+  "reject_request_message": "ایا تاسې ډاډه یاست چې غواړئ دا غوښتنه رد کړئ؟",
+  "delete_request_message": "ایا تاسو رښتیا هم غواړئ دا غوښتنه حذف کړئ؟",
+  "withdraw_request_message": "ایا تاسو رښتیا هم غواړئ دا غوښتنه بېرته واخلئ؟",
+  "yes": "هو",
+  "no": "نه",
+  "accepted": "منل شوی",
+  "cancelled": "لغوه شوی",
+  "pending": "په تمه",
+  "consultation_time": "د مشورې وخت",
+  "consultation_type": "د مشورې ډول",
+  "recommended_professionals": "سپارښتل شوي مسلکيان:",
+  "continue": "ادامه ورکړئ",
+  "image": "انځور",
+  "delete_account": "اکاونټ ړنګ کړئ",
+  "delete": "ړنګول",
+  "delete_confirmation_message": "ایا تاسې ډاډه یاست چې غواړئ خپل اکاونټ ړنګ کړئ؟ دا عمل بیرته نشي راګرځول کېدی.",
+  "delete_account_error_message": "ستاسو د اکاونټ په ړنګولو کې ستونزه پېښه شوه.",
+  "place_holder_additional_notes": "د خپل قانوني موضوع په اړه اضافي توضیحات ولیکئ...",
+  "upload_options": "د اپلوډ انتخابونه:",
+  "select_option": "مهرباني وکړئ یو انتخاب وټاکئ:",
+  "skip": "تېر شئ",
+  "request_expertise_options": [
+    {
+      "key": "immigration",
+      "label": "د کډوالۍ قانون"
+    },
+    {
+      "key": "employment",
+      "label": "د کار قانون"
+    },
+    {
+      "key": "road_traffic",
+      "label": "د سړک ترافیکي سرغړونې"
+    },
+    {
+      "key": "family",
+      "label": "د کورنۍ قانون"
+    }
+  ],
+  "request_urgency_levels": [
+    {
+      "key": "urgent",
+      "label": "بیړنی"
+    },
+    {
+      "key": "within_week",
+      "label": "د یوې اونۍ دننه"
+    },
+    {
+      "key": "within_month",
+      "label": "د یوې میاشتې دننه"
+    },
+    {
+      "key": "not_urgent",
+      "label": "بیړنی نه دی"
+    }
+  ],
+  "dialog_types": [
+    {
+      "key": "issue_type",
+      "name": "د ستونزې ډول وټاکئ"
+    },
+    {
+      "key": "urgency",
+      "name": "بیړنۍ کچه وټاکئ"
+    },
+    {
+      "key": "consultation",
+      "name": "مشوره وټاکئ"
+    },
+    {
+      "key": "select_time",
+      "name": "وخت او بیه وټاکئ"
+    },
+    {
+      "key": "select-budget",
+      "name": "بجټ وټاکئ"
+    }
+  ],
+  "consultation_times": [
+    {
+      "key": "single_5_min",
+      "label": "۵ دقیقې (£20)"
+    },
+    {
+      "key": "single_10_min",
+      "label": "۱۰ دقیقې (£50)"
+    },
+    {
+      "key": "single_20_min",
+      "label": "۲۰ دقیقې (£70)"
+    },
+    {
+      "key": "single_30_min",
+      "label": "۳۰ دقیقې (£100)"
+    },
+    {
+      "key": "single_1_hour",
+      "label": "۱ ساعت (£150)"
+    }
+  ],
+  "ongoing_support_times": [
+    {
+      "key": "ongoing_3_day",
+      "label": "۳ ورځې (£300-£499)"
+    },
+    {
+      "key": "ongoing_5_day",
+      "label": "۵ ورځې (£500-£699)"
+    }
+  ],
+  "budget_3_day_options": [
+    {
+      "key": "300",
+      "label": "£300"
+    },
+    {
+      "key": "350",
+      "label": "£350"
+    },
+    {
+      "key": "400",
+      "label": "£400"
+    },
+    {
+      "key": "450",
+      "label": "£450"
+    },
+    {
+      "key": "499",
+      "label": "£499"
+    }
+  ],
+  "budget_5_day_options": [
+    {
+      "key": "500",
+      "label": "£500"
+    },
+    {
+      "key": "550",
+      "label": "£550"
+    },
+    {
+      "key": "600",
+      "label": "£600"
+    },
+    {
+      "key": "650",
+      "label": "£650"
+    },
+    {
+      "key": "699",
+      "label": "£699"
+    }
+  ],
+  "budget_casework_options": [
+    {
+      "key": "above_700",
+      "label": "له £700 څخه زیات"
+    }
+  ],
+  "sample_questions": [
+    "د حقوقي متخصص غوښتنه وکړئ",
+    "ایا زه د Skilled Worker ویزې لپاره وړ یم؟",
+    "زه څنګه کولی شم خپله د زده کونکي ویزه وغځوم؟",
+    "د دایمي استوګنې اصول څه دي؟",
+    "زه څنګه په انګلستان کې د پناه غوښتنه وکړم؟",
+    "د ویزې پرېکړه څومره وخت نیسي؟"
+  ],
+  "rate_of_hour": "د ساعت نرخ",
+  "search_country": "هېواد وپلټئ",
+  "review_error": "بیاکتنه تشه نشي کېدای.",
+  "rating_validation": "مهرباني وکړئ له ۱ تر ۵ ستورو پورې درجه وټاکئ.",
+  "create_account_with": "اکاونټ جوړ کړئ له لارې",
+  "login_with": "ننوتل له لارې",
+  "create_account_email_password": "ایمیل/پاسورډ",
+  "sign_in_with_apple": "د Apple له لارې ننوتل",
+  "sign_in_with_google": "د Google له لارې ننوتل",
+  "no_cases_available": "هیڅ قضیه شتون نلري",
+  "no_active_cases_available": "هیڅ فعاله قضیه شتون نلري",
+  "no_pending_cases_available": "هیڅ منتظره قضیه شتون نلري",
+  "back": "شاته",
+  "submit_review": "بیاکتنه واستوئ",
+  "delete_review": "بیاکتنه ړنګه کړئ",
+  "member_since": "غړی له",
+  "work_experience": "د کار تجربه",
+  "sra_bsb": "SRA / BSB",
+  "expertise": "تخصص",
+  "professional_details": "مسلکي جزییات",
+  "review_professional": "مسلکي ته بیاکتنه ورکړئ",
+  "no_reviews": "لا تر اوسه بیاکتنې نشته. لومړی اوسئ!",
+  "reviews": "بیاکتنې",
+  "thanks_feedback": "ستاسو د نظر لپاره مننه!",
+  "accept_case_notification_header": "وکیل ستاسو غوښتنه ومنله! 🎉",
+  "accept_case_notification_message_part": " ستاسو قضیه ومنله او ستاسو د مرستې لپاره چمتو دی.",
+  "reject_case_notification_header": "د راجع کولو تازه معلومات",
+  "reject_case_notification_message_part": " اوس مهال نشي کولی ستاسو قضیه واخلي.",
+  "delete_case_notification_header": "غوښتنه حذف شوه",
+  "withdraw_case_notification_header": "غوښتنه بیرته واخیستل شوه",
+  "delete_case_notification_message_part": " خپله غوښتنه حذف کړه.",
+  "withdraw_case_notification_message_part": " خپله غوښتنه بیرته واخیسته.",
+  "manuscript": "مسوده",
+  "share_dialog_title": "مسوده شریک کړئ یا ډاونلوډ کړئ",
+  "certifications": "سندونه",
+  "queries_left": "پاتې AI پوښتنې",
+  "voice_notes_limit": "غږ",
+  "uploads_limit": "اپلوډ",
+  "docgen_limit": "د سند تولید",
+  "current_plan": "اوسنی پلان",
+  "faqs": "پوښتنې او ځوابونه",
+  "wallet": "بټوه",
+  "subscription": {
+    "plans_pricing_title": "پلانونه او بیې",
+    "plans_pricing_subtitle": "نورې دقیقې او پریمیم ځانګړتیاوې خلاصې کړئ",
+    "syncing_account": "اکاونټ همغږي کېږي...",
+    "processing_purchase": "پېرود پروسس کېږي...",
+    "plan_unavailable_title": "پلان شتون نلري",
+    "plan_unavailable_message": "موږ ونه توانېدو چې دا پلان په سټور کې پیدا کړو.",
+    "purchase_error_title": "د پېرود تېروتنه",
+    "purchase_error_message": "یوه ناڅاپي تېروتنه رامنځته شوه.",
+    "upgrade_plans": "پلانونه لوړ کړئ",
+    "plan_unlimited": "نامحدود",
+    "plan_premium": "پریمیم",
+    "plan_standard": "معیاري",
+    "plan_free_label": "تل وړیا",
+    "billing_annually": "کلنی",
+    "feature_voice_notes": "غږیز یادښتونه",
+    "feature_uploads": "اپلوډونه",
+    "feature_shared_pool": "د غږ، اپلوډ او اسنادو لپاره ګډ پول",
+    "feature_free_consultation": "دقیقې وړیا مشوره",
+    "feature_priority_support": "د انسان لومړیتوب ملاتړ شامل دی",
+    "feature_ai_queries": "د AI متني پوښتنې",
+    "feature_limited": "محدود",
+    "feature_standard_limits": "معیاري محدودیتونه پلي کېږي",
+    "feature_query_reset": "د پوښتنو حد په 12am بیا تنظیمېږي",
+    "feature_rollover": "لېږد اجازه لري",
+    "feature_images_max": "اعظمي انځورونه",
+    "feature_document_max": "اعظمي اسناد",
+    "feature_mb": "MB",
+    "feature_pages": "پاڼې",
+    "label_default_plan": "ډیفالټ پلان",
+    "cta_subscribe_now": "اوس ګډون وکړئ",
+    "wallet_loading": "والېټ لوډ کېږي...",
+    "wallet_title": "والېټ",
+    "wallet_balance": "موجود بیلانس",
+    "unit_minute": "دقیقه",
+    "wallet_top_up": "بیلانس زیاتول",
+    "wallet_transactions": "وروستي راکړې ورکړې",
+    "transaction_plan_purchase": "د پلان پېرود",
+    "transaction_legal_query": "حقوقي پوښتنه",
+    "transaction_document_process": "د سند پروسس",
+    "reference_label": "حواله:",
+    "plan_free": "وړیا",
+    "unit_min": "دقیقه"
+  },
+  "user_name": "د کاروونکي نوم",
+  "email": "ایمیل",
+  "phone_number": "د تلیفون شمېره",
+  "urgent": "بیړنی",
+  "contact_support": "له ملاتړ سره اړیکه ونیسئ",
+  "minutes": "دقیقې",
+  "freemium": {
+    "modal": {
+      "title": "د پوښتنو حد ته رسېدلی",
+      "timer_label": "بیا هڅه وکړئ وروسته له",
+      "timer_format": "{{minutes}} دقیقې {{seconds}} ثانیې",
+      "upgrade_cta": "پلان لوړ کړئ",
+      "loading_text": "ستاسو پوښتنې خلاصیږي…",
+      "watch_ad_cta": "📺 اعلان وګورئ (+{{count}} پوښتنې)",
+      "limit_note": "د فریمیوم حد: {{count}} پوښتنې / {{hours}} ساعتونه",
+      "description": "تاسو په تېرو {{hours}} ساعتونو کې خپلې ټولې {{count}} وړیا پوښتنې کارولي دي.",
+      "buy_pass": "{{price}} نن نامحدود پوښتنې"
+    },
+    "banner": {
+      "plan_label": "{{plan_name}} پلان",
+      "queries_left": "{{remaining}} / {{total}} پاتې پوښتنې",
+      "daily_pass_active": "✨ ورځنی پاس فعال دی",
+      "upgrade_cta": "لوړ کړئ",
+      "usage_labels": {
+        "voice_notes": "غږیز یادښتونه",
+        "uploads": "اپلوډونه",
+        "docs": "اسناد"
+      },
+      "daily_pass": {
+        "title": "🚀 نن نامحدود خلاص کړئ",
+        "description": "د {{price}} ورځني پاس سره تر نیمې شپې پورې نامحدود AI پوښتنې ترلاسه کړئ.",
+        "cta": "ورځنی پاس واخلئ – {{price}}"
+      }
+    },
+    "limit_modal": {
+      "title": "حد ته رسېدلی",
+      "upgrade_cta": "د دوام لپاره خپل پلان لوړ کړئ",
+      "wait_info": "یا انتظار وکړئ او بیا هڅه وکړئ په: {{time}}",
+      "body_message": "تاسو خپل وړیا حد ته رسېدلي یاست. د دوام لپاره لوړ کړئ یا انتظار وکړئ."
+    }
+  },
+  "plan_card": {
+    "plan_label": "{{plan_name}}",
+    "billing": {
+      "per_period": "/{{period}}",
+      "always_free": "تل وړیا",
+      "discount_badge": "{{discount}}% تخفیف د لومړۍ میاشت لپاره",
+      "per_mins": "{{minutes}} دقیقې"
+    },
+    "toggle": {
+      "annual": "کلنی",
+      "monthly": "میاشتنی",
+      "weekly": "اوونیز",
+      "daily": "ورځنی"
+    },
+    "features": {
+      "voice_notes": "غږیز یادښتونه",
+      "uploads": "اپلوډونه",
+      "docs": "د AI اسنادو جوړول",
+      "minutes": "دقیقې",
+      "ai_queries": "د AI متني پوښتنې",
+      "rollover": "لېږد اجازه لري",
+      "shared_pool": "• د غږ، اپلوډ او اسنادو لپاره ګډ پول",
+      "free_consultation": "• {{minutes}} دقیقې وړیا مشوره شامله ده",
+      "priority_support": "• د انسان لومړیتوب ملاتړ شامل دی",
+      "file_caps_title": "د فایل اندازه او پاڼو محدودیت",
+      "image_max": "اعظمي انځورونه",
+      "doc_max": "اعظمي اسناد"
+    },
+    "limits": {
+      "unlimited": "نامحدود",
+      "limited": "محدود",
+      "none": "هیڅ نه",
+      "yes": "هو"
+    },
+    "notes": {
+      "standard_limits": "معیاري محدودیتونه پلي کېږي",
+      "reset_time": "د پوښتنو حد په 12am بیا تنظیمېږي"
+    },
+    "cta": {
+      "default_plan": "ډیفالټ پلان",
+      "current_plan": "اوسنی پلان",
+      "subscribe": "اوس ګډون وکړئ"
+    }
+  },
+  "premium": {
+    "minutes_modal": {
+      "title_freemium": "میاشتنی حد ته رسېدلی",
+      "title_paid": "ستاسو دقیقې پای ته رسېدلي دي",
+      "description_freemium": "تاسو خپلې ټولې 6 وړیا میاشتني کریډیټونه د غږیز یادښتونو، فایل اپلوډ او اسنادو جوړولو لپاره کارولي دي.",
+      "description_paid": "تاسو د دې عمل بشپړولو لپاره کافي دقیقې نه لرئ. زیات کړئ یا لوړ کړئ.",
+      "upgrade_premium": "پریمیم ته لوړ کړئ",
+      "topup_cta": "دقیقې زیات کړئ",
+      "view_usage": "د کریډیټ کارولو جزیات وګورئ"
+    }
+  },
+  "topup": {
+    "modal": {
+      "title": "دقیقې زیات کړئ",
+      "subtitle": "د دوام لپاره اضافي دقیقې واخلئ.",
+      "alerts": {
+        "low_minutes": "تاسو خپلې {{percentage}}% دقیقې کارولې دي. اوس زیات کړئ!",
+        "limit_reached": "د میاشتني زیاتولو حد ته رسېدلی ({{used}}/{{limit}})",
+        "limit_popup_title": "د زیاتولو حد ته رسېدلی",
+        "limit_popup_message": "تاسو د میاشتني زیاتولو حد څخه اوښتي یاست."
+      },
+      "slider": {
+        "label": "د اخیستلو لپاره دقیقې",
+        "minutes_value": "{{minutes}} دقیقې",
+        "min": "{{min}} دقیقه",
+        "max": "{{max}} دقیقه"
+      }
+    }
+  },
+  "show_less": "کم وښایئ",
+  "show_more": "نور وښایئ",
+  "updating_balance": "بیلانس تازه کېږي...",
+  "usage_limits": "د کارولو محدودیتونه",
+  "voice_notes": "غږیز یادښتونه",
+  "uploads": "اپلوډونه",
+  "usage_history": "د کارولو تاریخ",
+  "manage_plan": "پلان مدیریت کړئ",
+  "cancel_subscription": "اشتراک لغوه کړئ",
+  "explore_premium_plans": "پریمیم پلانونه وګورئ",
+  "used": "کارول شوي",
+  "total": "ټول",
+  "unlimited": "نامحدود",
+  "manage_subscription_title": "د اشتراک مدیریت",
+  "manage_subscription_desc": "تاسو به د خپلو تنظیماتو د مدیریت لپاره سټور ته واستول شئ. موږ بخښنه غواړو چې تاسو ځئ!",
+  "stay_with_us": "زموږ سره پاتې شئ",
+  "open_store_error": "د سټور لینک پرانیستل نشو.",
+  "subscription_fetch_error": "د اشتراک معلومات ترلاسه کول ناکام شول.",
+  "unit_min": "دقیقه",
+  "no_transaction_yet": "تر اوسه هېڅ راکړه ورکړه نشته!",
+  "feedback_hint_message": "د خپلې تجربې جزییات شریک کړئ",
+  "withdraw": "بېرته واخلئ",
+  "issue_summary": "د ستونزې لنډیز",
+  "disclaimer": "خبرتیا",
+  "disclaimer_message": "LawNeeds AI Support Assistant یوازې د معلوماتو لپاره لارښوونه برابروي.",
+  "disclaimer_button": "زه منم",
+  "filter": {
+    "title": "فلټر",
+    "sortBy": "ترتیب له مخې",
+    "commonServices": "عام خدمات",
+    "practiceAreas": "د تمرین ساحې",
+    "professionalTypes": "مسلکي ډولونه",
+    "sortOptions": {
+      "alphabetical": "الفبايي",
+      "relevance": "اړوند",
+      "experience": "تجربه"
+    }
+  },
+  "common": {
+    "upgrade_now": "اوس لوړ کړئ",
+    "close": "بند کړئ",
+    "maybe_later": "شاید وروسته",
+    "not_now": "اوس نه",
+    "pay": "تادیه وکړئ {{currency}}{{amount}}",
+    "total_cost": "ټول لګښت:",
+    "usage_limit_reached": "د کارولو حد ته رسیدلی",
+    "apply": "پلي کړئ",
+    "cancel": "لغوه کړئ",
+    "error": "تېروتنه",
+    "success": "بریا",
+    "processing": "پروسس روان دی...",
+    "something_wrong": "یو څه ناسم شول",
+    "no_data_available": "هیڅ معلومات شتون نلري"
+  },
+  "daily_pass_success": "پلان په بریالیتوب سره واخیستل شو!",
+  "daily_pass_not_found": "ورځنی پاس ونه موندل شو.",
+  "purchase_failed": "پیرود ناکام شو",
+  "expires": "پای ته رسېږي: {{expiryDate}}",
+  "active": "فعال",
+  "pricing": {
+    "confirm_price": "ځانګړې بیه",
+    "propose_price": "بیه وړاندیز کړئ",
+    "enter_amount": "مقدار دننه کړئ",
+    "invalid_amount": "سم مقدار دننه کړئ",
+    "amount_range": "مقدار باید د ₹{{min}} - ₹{{max}} ترمنځ وي",
+    "range": "لږ تر لږه: ₹{{min}} | ډېر تر ډېره: ₹{{max}}",
+    "price_confirmed": "بیه تایید شوه",
+    "price_proposed": "بیه وړاندیز شوه",
+    "confirm_price_btn": "تایید",
+    "submit_price_btn": "سپارل",
+    "load_failed": "د بیې پورته کول ناکام شول",
+    "title": "بیه ټاکنه",
+    "not_proposed_message": "بیه لا نه ده ټاکل شوې. د دوام لپاره مهرباني وکړئ بیه وټاکئ."
+  },
+  "payment": {
+    "header_title": "تادیه",
+    "total_amount": "ټوله اندازه",
+    "platform_fee": "د پلاتفورم فیس",
+    "lawyer_receives": "وکیل ترلاسه کوي",
+    "pay_button": "ورکړه £ {{amount}}",
+    "preparing_payment": "خوندي تادیه چمتو کېږي...",
+    "alerts": {
+      "error_title": "تېروتنه",
+      "init_failed": "د تادیې پیل ناکام شو",
+      "unable_to_load": "تادیه پورته کېدای نشي",
+      "payment_failed_title": "تادیه ناکامه شوه",
+      "generic_error": "یو څه ناسم شول",
+      "success_title": "بریا",
+      "success_message": "تادیه په بریالیتوب بشپړه شوه!"
+    },
+    "notification_title": "تادیه ترلاسه شوه",
+    "notification_message": "{{name}} تادیه بشپړه کړه. تاسو کولی شئ مشوره پیل کړئ."
+  },
+  "consultation": {
+    "ended_title": "مشوره پای ته ورسېده",
+    "ended_message": "وخت پای ته ورسېد",
+    "pending": "په تمه",
+    "active": "روان",
+    "completed": "بشپړ"
+  },
+  "file": {
+    "uploading_image": "انځور پورته کېږي...",
+    "uploading_video": "ویډیو پورته کېږي...",
+    "uploading_file": "فایل پورته کېږي...",
+    "upload_failed": "پورته کول ناکام شول",
+    "upload_failed_message": "فایل ونه لېږل شو.",
+    "open_pdf": "PDF پرانیزئ",
+    "open_doc": "DOC پرانیزئ",
+    "open_file": "فایل پرانیزئ"
+  },
+  "notification": {
+    "lawyer_message": "د وکیل پیغام",
+    "new_message": "نوی پیغام"
+  },
+  "live": "ژوندی",
+  "stripe_connected": "Stripe وصل شو",
+  "connect_with_stripe": "د Stripe سره وصل شئ",
+  "payments": "تادیات",
+  "beta_instructions": "د بیټا لارښوونې",
+  "status": {
+    "title": "حالت",
+    "paid": "ورکړل شوی",
+    "unpaid": "نه دی ورکړل شوی"
+  },
+  "stripe_not_onboarded_title": "د تادیې تنظیم بشپړ نه دی",
+  "stripe_not_onboarded_message": "د مشورې غوښتنې د منلو لپاره، مهرباني وکړئ د Settings ټب څخه خپل Stripe تادیاتي تنظیم بشپړ کړئ.",
+  "case_folder": "د قضیې فولډر",
+  "case_helped": "مرسته شوي قضیې",
+  "satisfied": "خوښ",
+  "rejected": "رد شوی",
+  "withdrawn": "بېرته اخېستل شوی",
+  "deleted": "حذف شوی",
+  "consultation_history": "د مشورو تاریخچه",
+  "pay": "تادیه",
+  "start_consultation": "مشوره پیل کړئ",
+  "waiting_for_session": "د ناستې په تمه",
+  "waiting_for_payment": "د تادیې په تمه",
+  "activity": "فعالیت",
+  "one_minute_warning_title": "⏰ ۱ دقیقه پاتې ده",
+  "one_minute_warning_body": "ستاسو د مشورې ناسته به په ۱ دقیقه کې پای ته ورسېږي.",
+  "default_notification_title": "خبرتیا",
+  "no_notifications": "لا تر اوسه هېڅ خبرتیا نشته",
+  "i_agree": "زه همغږی یم",
+  "terms_condition_1": "1. د دې اپلیکیشن په کارولو سره، تاسو د دې شرایطو سره موافق یاست او باید لږترلږه 18 کلن وي.",
+  "terms_condition_4": "4. تاسو د کره او ریښتیني معلوماتو چمتو کولو مسؤل یاست.",
+  "terms_condition_5": "5. ستاسو معلومات شخصي دي، مګر تاسو باید د خپل حساب اسناد پټ وساتئ.",
+  "terms_condition_2": "2. LawNeeds حقوقي مرستې چمتو کوي مګر د مسلکي قانوني استازیتوب ځای نه نیسي.",
+  "terms_and_conditions": "شرایط او شرایط",
+  "i_dont_agree": "زه موافق نه یم",
+  "terms_condition_3": "3. LawNeeds AI ملاتړ معاون معلوماتي حقوقي لارښود چمتو کوي. دا قانوني مشوره نه جوړوي.",
+  "welcome_to_lawneeds": "LawNeeds ته ښه راغلاست!",
+  "casework_service_options": [
+    {
+      "key": "skilled_worker_visa",
+      "label": "د ماهر کارګر ویزه",
+      "price_range": "£1,600 – £2,300",
+      "min_budget_gbp": 1600,
+      "max_budget_gbp": 2300
+    },
+    {
+      "key": "student_visa",
+      "label": "د زده کوونکي ویزه",
+      "price_range": "£1,000 – £1,500",
+      "min_budget_gbp": 1000,
+      "max_budget_gbp": 1500
+    },
+    {
+      "key": "visit_visa",
+      "label": "د لیدنې ویزه",
+      "price_range": "£850 – £1,300",
+      "min_budget_gbp": 850,
+      "max_budget_gbp": 1300
+    },
+    {
+      "key": "ancestry_visa",
+      "label": "د نسب ویزه",
+      "price_range": "£1,800 – £2,400",
+      "min_budget_gbp": 1800,
+      "max_budget_gbp": 2400
+    },
+    {
+      "key": "spouse_partner_visa",
+      "label": "د مېړه / شریک ویزه",
+      "price_range": "£2,200 – £4,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 4500
+    },
+    {
+      "key": "pbs_dependants",
+      "label": "د PBS پورې تړلي کسان",
+      "price_range": "£1,300 – £2,000",
+      "min_budget_gbp": 1300,
+      "max_budget_gbp": 2000
+    },
+    {
+      "key": "family_reunion",
+      "label": "د کورنۍ یوځای کېدل",
+      "price_range": "£2,200 – £3,500",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3500
+    },
+    {
+      "key": "ilr_10_year",
+      "label": "ILR (د ۱۰ کلنې لارې)",
+      "price_range": "£2,200 – £5,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 5000
+    },
+    {
+      "key": "naturalisation",
+      "label": "تابعیت اخیستنه",
+      "price_range": "£2,200 – £3,000",
+      "min_budget_gbp": 2200,
+      "max_budget_gbp": 3000
+    },
+    {
+      "key": "eu_settlement_scheme",
+      "label": "د اروپایي اتحادیې د مېشتېدو سکیم",
+      "price_range": "£1,200 – £2,200",
+      "min_budget_gbp": 1200,
+      "max_budget_gbp": 2200
+    },
+    {
+      "key": "flr_fp_human_rights",
+      "label": "FLR(FP)، د بشري حقونو غوښتنلیکونه",
+      "price_range": "£2,500 – £5,500+",
+      "min_budget_gbp": 2500,
+      "max_budget_gbp": 5500
+    },
+    {
+      "key": "asylum_full_support",
+      "label": "د پناه غوښتنې غوښتنلیکونه (بشپړ ملاتړ)",
+      "price_range": "£3,000 – £6,500+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 6500
+    },
+    {
+      "key": "full_case_management",
+      "label": "د قضیې بشپړ مدیریت (له پیل څخه تر پایه)",
+      "price_range": "£3,000 – £8,000+",
+      "min_budget_gbp": 3000,
+      "max_budget_gbp": 8000
+    }
+  ],
+  "express": "چټک",
+  "basic": "بنسټیز",
+  "verified": "سند تایید شو",
+  "verification_failed": "تایید ناکام شو",
+  "verification_cancelled": "تایید لغوه شو",
+  "delete_review_confirm": "ایا تاسو ډاډه یاست چې غواړئ دا بیاکتنه حذف کړئ؟",
+  "casework_service": "Casework Service",
+  "casework_price_range": "Casework Price Range",
+  "tour_previous_chat_title": "مخکینی چټ",
+  "tour_previous_chat_desc": "خپلې پخوانۍ خبرې اترې دلته وګورئ.",
+  "tour_new_chat_title": "نوی چټ",
+  "tour_new_chat_desc": "دلته ټېپ وکړئ ترڅو نوې حقوقي پوښتنه پیل کړئ.",
+  "tour_notifications_title": "خبرتیاوې",
+  "tour_notifications_desc": "مهم تازه معلومات او خبرتیاوې دلته وګورئ.",
+  "tour_inbox_title": "ان باکس",
+  "tour_inbox_desc": "خپل پیغامونه او د قضیو ځوابونه دلته اداره کړئ.",
+  "tour_language_title": "ژبه",
+  "tour_language_desc": "دلته د اپ خوښه ژبه وټاکئ.",
+  "tour_chat_history_title": "د چټ تاریخچه",
+  "tour_chat_history_desc": "خپلې پخوانۍ خبرې وګورئ او دوام ورکړئ.",
+  "tour_current_plan_title": "اوسنی پلان",
+  "tour_current_plan_desc": "دلته د خپلې اوسنۍ ګډون جزییات وګورئ.",
+  "tour_usage_history_title": "د کارونې تاریخچه",
+  "tour_usage_history_desc": "وګورئ چې څو دقیقې او ځانګړنې مو کارولي دي.",
+  "tour_request_legal_help_title": "حقوقي مرسته وغواړئ",
+  "tour_request_legal_help_desc": "له مسلکي کسانو سره د اړیکې لپاره نوې غوښتنه پیل کړئ.",
+  "tour_wallet_title": "والټ",
+  "tour_wallet_desc": "د خپل والټ بیلانس او راکړې ورکړې وګورئ.",
+  "tour_top_up_title": "ټاپ اپ",
+  "tour_top_up_desc": "د AI ځانګړنو، اپلوډونو او مشورو لپاره د زیاتو دقیقو ترلاسه کولو لپاره پیسې زیاتې کړئ.",
+  "tour_search_desc": "د ځانګړي مسلکي کس د لټون لپاره نوم ولیکئ.",
+  "tour_explore_subscribe_plans": "دلته ټېپ وکړئ ترڅو خپل پلان وڅېړئ او لوړ یې کړئ.",
+  "tour_explore_upgrade_plans": "د پریمیم ځانګړنو د خلاصولو لپاره خپل پلان لوړ کړئ.",
+  "tour_lawyer_stripe_connected": "ستاسو Stripe حساب وصل شوی او د پیسو ترلاسه کولو لپاره چمتو دی.",
+  "tour_lawyer_stripe_not_connected": "له مراجعینو څخه د پیسو منلو د پیل لپاره Stripe وصل کړئ.",
+  "profile_completion": {
+    "title": "خپل پروفایل بشپړ کړئ",
+    "description": "مهرباني وکړئ د دوام مخکې خپل معلومات تایید کړئ.",
+    "first_name": "لومړی نوم *",
+    "last_name": "وروستی نوم *",
+    "saving": "خوندي کېږي...",
+    "save_continue": "خوندي کړئ او دوام ورکړئ",
+    "update_profile_failed": "پروفایل تازه نه شو"
+  },
+  "auth": {
+    "session_expired": "ستاسو د ننوتلو ناسته پای ته رسېدلې ده. مهرباني وکړئ بیا هڅه وکړئ.",
+    "login_failed": "تاسو ساین ان نه شو. مهرباني وکړئ بیا هڅه وکړئ.",
+    "google_login_failed": "د Google ساین ان بریالی نه و. مهرباني وکړئ بیا هڅه وکړئ.",
+    "apple_login_failed": "د Apple ساین ان بریالی نه و. مهرباني وکړئ بیا هڅه وکړئ.",
+    "authorization_failed": "د تصدیق خدمت سره نښلول ممکن نه وو. مهرباني وکړئ وروسته بیا هڅه وکړئ.",
+    "invalid_redirect": "د ساین ان پر مهال ستونزه رامنځته شوه. مهرباني وکړئ بیا هڅه وکړئ.",
+    "cancelled_login": "ساین ان لغوه شو.",
+    "invalid_response": "موږ ونه شو کولی ستاسو ساین ان بشپړ کړو. مهرباني وکړئ بیا هڅه وکړئ。"
+  },
+  "tour_service_request_title": "غوښتنه",
+  "tour_service_request_desc": "د خدمت غوښتنه په مستقیم ډول قانوني متخصص ته واستوئ. فورمه ډکه کړئ، که اړتیا وي یادښتونه یا اسناد اضافه کړئ، او کله چې متخصص شتون ولري خبر به شي.",
+  "tour_request_form_title": "د غوښتنې فورمه",
+  "tour_request_form_desc": "د خپل قانوني موضوع، د مشورې اړتیاوو او بیړني توب په اړه معلومات ورکړئ. تاسو کولی شئ اسناد اپلوډ کړئ یا غږیز یادښتونه اضافه کړئ تر څو متخصص ستاسو وضعیت ښه درک کړي.",
+  "no_data": "هیڅ معلومات نشته",
+  "duplicate_file_attached": "\"{{filename}}\" لا دمخه ضمیمه شوی دی.",
+  "duplicate_file_attached_as": "\"{{filename}}\" لا دمخه د \"{{existingLabel}}\" په توګه ضمیمه شوی دی.",
+  "consultation_consent_prefix": "په کلیک کولو سره",
+  "consultation_consent_middle": ", تاسو منئ چې که ستاسو مشوره په 14 ورځو کې وړاندې شي، د لغوه کولو قانوني حق به نور پلي نه شي. تاسو لا هم کولی شئ مشوره زموږ د",
+  "cancellation_policy": "د لغوه کولو تګلاره",
+  "home_actions": {
+    "ask_ai": "له LawNeeds AI څخه پوښتنه وکړئ",
+    "ask_ai_description": "د LawNeeds AI چټ‌بوټ څخه لارښوونه ترلاسه کړئ.",
+    "find_professional": "مسلکي کس ومومئ",
+    "find_professional_description": "یو حقوقي مسلکي کس ومومئ چې مرسته درسره وکړي.",
+    "book_consultation": "مشوره بک کړئ",
+    "book_consultation_description": "د مشورې د تنظیم لپاره د راجع کولو بهیر پیل کړئ."
+  }
+}
